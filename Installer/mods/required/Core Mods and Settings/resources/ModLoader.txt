@@ -1,0 +1,434 @@
+Sep 5, 2011 12:10:40 AM ModLoader init
+FINE: ModLoader Beta 1.7.3 Initializing...
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\armor
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Directory found.
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\buildcraft-client-A-core-2.1.1.zip
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Zip found.
+Sep 5, 2011 12:10:40 AM ModLoader addMod
+FINE: Mod Loaded: "mod_BuildCraftCore 2.1.1" from mod_BuildCraftCore.class
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\buildcraft-client-B-builders-2.1.1.zip
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Zip found.
+Sep 5, 2011 12:10:40 AM ModLoader addMod
+FINE: Mod Loaded: "mod_BuildCraftBuilders 2.1.1" from mod_BuildCraftBuilders.class
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\buildcraft-client-B-energy-2.1.1.zip
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Zip found.
+Sep 5, 2011 12:10:40 AM ModLoader addMod
+FINE: Mod Loaded: "mod_BuildCraftEnergy 2.1.1" from mod_BuildCraftEnergy.class
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\buildcraft-client-B-factory-2.1.1.zip
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Zip found.
+Sep 5, 2011 12:10:40 AM ModLoader addMod
+FINE: Mod Loaded: "mod_BuildCraftFactory 2.1.1" from mod_BuildCraftFactory.class
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\buildcraft-client-B-transport-2.1.1.zip
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Zip found.
+Sep 5, 2011 12:10:40 AM ModLoader addMod
+FINE: Mod Loaded: "mod_BuildCraftTransport 2.1.1" from mod_BuildCraftTransport.class
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\Flax
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Directory found.
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\millenaire1.2.6.zip
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Zip found.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_denier.png,38). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_denier_argent.png,61). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_denier_or.png,46). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_cider apple.png,62). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_cider.png,91). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_calva.png,101). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_tripes.png,102). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_boudin_noir.png,133). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_norman_pickaxe.png,105). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_norman_axe.png,106). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_norman_shovel.png,107). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_norman_hoe.png,108). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_village_wand.png,109). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_norman_broadsword.png,117). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_norman_helmet.png,118). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_norman_chest.png,119). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_norman_legs.png,120). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_norman_boots.png,121). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_parchment_villagers.png,122). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_parchment_building.png,123). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_parchment_items.png,124). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_parchment_complete.png,125). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_tapestry.png,134). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_skoll_hati_amulet.png,140). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_parchment_villageScroll.png,141). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_rice.png,144). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_turmeric.png,145). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_vegcurry.png,146). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_chickenmeat.png,147). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_chickencurry.png,148). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_brick_mould.png,149). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_rasgulla.png,150). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/gui/ML_IndianStatue.png,152). 94 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,/blocks/ML_colombages_plain.png,30). 74 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,/blocks/ML_colombages_cross.png,54). 74 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,/blocks/ML_mudbrick.png,78). 74 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,/blocks/ML_wetbrick.png,76). 74 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,/blocks/ML_whitewashedbricks.png,77). 74 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,/blocks/ML_Rice0.png,85). 74 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,/blocks/ML_Rice1.png,100). 74 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,/blocks/ML_Turmeric0.png,101). 74 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,/blocks/ML_Turmeric1.png,111). 74 left.
+Sep 5, 2011 12:10:40 AM ModLoader addMod
+FINE: Mod Loaded: "mod_Millenaire Millénaire 1.2.6" from mod_Millenaire.class
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\mocreatures
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Directory found.
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\MoCreatures.zip
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Zip found.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/mob/horsesaddle.png,153). 93 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/mob/haystack.png,154). 92 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/mob/sugarlump.png,155). 91 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/mob/sharkteeth.png,156). 90 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/mob/sharkegg.png,157). 89 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/mob/fishyegg.png,160). 88 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/mob/bigcatclaw.png,161). 87 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/mob/whip.png,162). 86 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/mob/medallion.png,163). 85 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/mob/bedkitty.png,164). 84 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/mob/boxlitter.png,165). 83 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/mob/woolball.png,166). 82 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/mob/rope.png,168). 81 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/mob/petfood.png,169). 80 left.
+Sep 5, 2011 12:10:40 AM ModLoader addMod
+FINE: Mod Loaded: "mod_mocreatures v2.12.1 (MC 1.7_3)" from mod_mocreatures.class
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\ModEqEx3.52forge.zip
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Zip found.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,eqex/interdictiontorch.png,125). 73 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,/eqex/novaside.png,126). 72 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/eqex/darkmatterarmor.png,170). 79 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/eqex/darkmatterhelmet.png,171). 78 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/eqex/darkmattergreaves.png,172). 77 left.
+Sep 5, 2011 12:10:40 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/eqex/darkmatterboots.png,173). 76 left.
+Sep 5, 2011 12:10:40 AM ModLoader addMod
+FINE: Mod Loaded: "mod_EE 1.7.3" from mod_EE.class
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\pam
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Directory found.
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\RedPowerArray-1.7.1.zip
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Zip found.
+Sep 5, 2011 12:10:40 AM ModLoader setupProperties
+FINER: ArrayID set to 125
+Sep 5, 2011 12:10:40 AM ModLoader addMod
+FINE: Mod Loaded: "mod_RedPowerArray 1.7.1" from mod_RedPowerArray.class
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\RedPowerCore-1.7.1.zip
+Sep 5, 2011 12:10:40 AM ModLoader readFromModFolder
+FINER: Zip found.
+Sep 5, 2011 12:10:40 AM ModLoader addMod
+FINE: Mod Loaded: "mod_RedPowerCore 1.7.1" from mod_RedPowerCore.class
+Sep 5, 2011 12:10:41 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\RedPowerLighting-1.7.1.zip
+Sep 5, 2011 12:10:41 AM ModLoader readFromModFolder
+FINER: Zip found.
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: LampOnID set to 120
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: LampOffID set to 121
+Sep 5, 2011 12:10:41 AM ModLoader addMod
+FINE: Mod Loaded: "mod_RedPowerLighting 1.7.1" from mod_RedPowerLighting.class
+Sep 5, 2011 12:10:41 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\RedPowerLogic-1.7.1.zip
+Sep 5, 2011 12:10:41 AM ModLoader readFromModFolder
+FINER: Zip found.
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: LogicID set to 116
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: IRPartsID set to 1004
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: ScrewdriverID set to 1006
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: EnableSounds set to true
+Sep 5, 2011 12:10:41 AM ModLoader addMod
+FINE: Mod Loaded: "mod_RedPowerLogic 1.7.1" from mod_RedPowerLogic.class
+Sep 5, 2011 12:10:41 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\RedPowerWiring-1.7.1.zip
+Sep 5, 2011 12:10:41 AM ModLoader readFromModFolder
+FINER: Zip found.
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: WiringID set to 117
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: RPPartsID set to 1005
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: IronHandsawID set to 1013
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: DiamondHandsawID set to 1014
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: AlternateRecipe set to false
+Sep 5, 2011 12:10:41 AM ModLoader addMod
+FINE: Mod Loaded: "mod_RedPowerWiring 1.7.1" from mod_RedPowerWiring.class
+Sep 5, 2011 12:10:41 AM ModLoader readFromModFolder
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\mods\rei_minimap
+Sep 5, 2011 12:10:41 AM ModLoader readFromModFolder
+FINER: Directory found.
+Sep 5, 2011 12:10:41 AM ModLoader readFromClassPath
+FINER: Adding mods from C:\Users\Atlas\Desktop\Minecraft Tools\Minecraft Profile Manager\profiles\Absolute\.minecraft\bin\minecraft.jar
+Sep 5, 2011 12:10:41 AM ModLoader readFromClassPath
+FINER: Zip found.
+Sep 5, 2011 12:10:41 AM ModLoader addMod
+FINE: Mod Loaded: "mod_MAtmosphere 1.7.2r4" from mod_MAtmosphere.class
+Sep 5, 2011 12:10:41 AM ModLoader addMod
+FINE: Mod Loaded: "mod_IC2 v0.90" from mod_IC2.class
+Sep 5, 2011 12:10:41 AM ModLoader addMod
+FINE: Mod Loaded: "mod_FCBetterThanWolves 2.93" from mod_FCBetterThanWolves.class
+Sep 5, 2011 12:10:41 AM ModLoader addMod
+FINE: Mod Loaded: "mod_SdkFlasher 1.7.3v1" from mod_SdkFlasher.class
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemBulletCasing.png,176). 75 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemBullet9mm.png,177). 74 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemBullet357.png,178). 73 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemBulletShell.png,179). 72 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGunAk47.png,180). 71 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGunMp5.png,181). 70 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGunShotgun.png,182). 69 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGunDeagle.png,183). 68 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGrenade.png,184). 67 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemMetalParts.png,185). 66 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemBulletRocket.png,186). 65 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGunRocketLauncher.png,187). 64 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemBulletRocketLaser.png,188). 63 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGunRocketLauncherLaser.png,189). 62 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemBullet50Cal.png,192). 61 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGunSniper.png,193). 60 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGrenadeStun.png,194). 59 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGrenadeSmoke.png,195). 58 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemBulletCasingShell.png,196). 57 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemOil.png,197). 56 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGunFlamethrower.png,198). 55 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGrenadeSticky.png,199). 54 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGunSg552.png,200). 53 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGunMinigun.png,201). 52 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGunLaser.png,202). 51 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGunM4.png,203). 50 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGrenadeIncendiary.png,204). 49 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGrenadeIncendiaryLit.png,205). 48 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemBarrelLong.png,206). 47 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemBarrelShort.png,207). 46 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemBarrelFat.png,208). 45 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemBarrelShotgun.png,209). 44 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemBarrelMinigun.png,210). 43 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGripWood.png,211). 42 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGripMetal.png,212). 41 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemHandleMinigun.png,213). 40 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemStockWood.png,214). 39 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemStockMetal.png,215). 38 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemReceiverMetal.png,216). 37 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemReceiverDiamond.png,217). 36 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemMagazine.png,218). 35 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemScope.png,219). 34 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemAtv.png,220). 33 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemAtvBody.png,221). 32 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemWrench.png,222). 31 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/blockSentry.png,223). 30 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemOilDrop.png,224). 29 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemJetPack.png,225). 28 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,/sdk/blockNuke.png,127). 71 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,/sdk/blockLighterTop.png,136). 70 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,/sdk/blockLighterSide.png,137). 69 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,/sdk/blockOilJunction.png,138). 68 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,/sdk/blockOilLine.png,139). 67 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,/sdk/blockCannon.png,141). 66 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemAtvWheel.png,226). 27 left.
+Sep 5, 2011 12:10:41 AM ModLoaderMp Log
+FINE: ModLoaderMP Beta 1.7.3 unofficial Initialized
+Sep 5, 2011 12:10:41 AM ModLoader addMod
+FINE: Mod Loaded: "mod_SdkGuns 1.7.3v1" from mod_SdkGuns.class
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemGoldCoin.png,227). 26 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemNightvisionGoggles.png,229). 24 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemScubaTank.png,230). 23 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemParachute.png,231). 22 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/gui/items.png,/sdk/itemTelescope.png,232). 21 left.
+Sep 5, 2011 12:10:41 AM ModLoader addOverride
+FINER: addOverride(/terrain.png,/sdk/blockGrinder.png,142). 65 left.
+Sep 5, 2011 12:10:41 AM ModLoader addMod
+FINE: Mod Loaded: "mod_SdkUtility 1.7.3v1" from mod_SdkUtility.class
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: heal.easy set to 0.5
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: heal.normal set to 0.25
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: heal.hard set to 0.0
+Sep 5, 2011 12:10:41 AM ModLoader addMod
+FINE: Mod Loaded: "mod_Somnia v12 [1.7.3]" from mod_Somnia.class
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: idsFalling set to 271, 275, 258, 286, 279
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: idsBreaking set to 271, 275, 258, 286, 279
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: hardnessMult set to 2.0
+Sep 5, 2011 12:10:41 AM ModLoader addMod
+FINE: Mod Loaded: "mod_treecapitator 1.7.3-DaftPVF" from mod_treecapitator.class
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: cottoncropID set to 175
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: cottonwildID set to 176
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: cottonitemID set to 5500
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: cottonseedID set to 5501
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: cottonhelmID set to 5510
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: cottonchestID set to 5511
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: cottonlegsID set to 5512
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: cottonbootsID set to 5513
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: carpetID set to 177
+Sep 5, 2011 12:10:41 AM ModLoader addMod
+FINE: Mod Loaded: "mod_Pamclothcraft 1.7.3" from mod_Pamclothcraft.class
+Sep 5, 2011 12:10:41 AM ModLoader setupProperties
+FINER: RecipeBookID set to 397
+Sep 5, 2011 12:10:41 AM ModLoader addMod
+FINE: Mod Loaded: "mod_RecipeBook Beta 1.7.3" from mod_RecipeBook.class
+Sep 5, 2011 12:10:41 AM ModLoader addMod
+FINE: Mod Loaded: "mod_ReiMinimap v1.8 [Beta 1.7.3]" from mod_ReiMinimap.class
+Sep 5, 2011 12:10:41 AM ModLoader addMod
+FINE: Mod Loaded: "mod_TwilightForest 0.01p3" from mod_TwilightForest.class
+Sep 5, 2011 12:10:41 AM ModLoader AddAllRenderers
+FINE: Initialized

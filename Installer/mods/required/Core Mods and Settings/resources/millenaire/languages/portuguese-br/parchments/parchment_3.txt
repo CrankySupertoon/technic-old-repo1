@@ -1,0 +1,45 @@
+﻿Itens de Millénaire
+
+Denier: Moeda medieval usada pelos aldeaos. Vem em tres valores: normal, argent (prata) valendo 64 moedas normais, e or(ouro) valendo 64 moedas de prata.
+
+Maça de Cidra: Essa maça nao comestivel é coletada por lenhadores e usada para fazer cidra ou calva.
+
+Cidra: Feita pelos aldeaos a partir de maças de cidra, essa bebida refrescante recupera 2 coraçoes e pode ser bebida por até três vezes.
+
+Calva: Mais conhecida como calvados, essa bebida de maça da Normandia recupera 2 coraçoes e pode ser usada até 10 vezes. É feita a partir da cidra nas tabernas, e fora de Millenáire o consumo é recomendado em pequenas doses: tem de 40% a 45% de álcool.
+
+Tripas: Este famoso prato Normandiano é algo para se ter depois de passado muito tempo trabalhando, no frio, ou depois de uma queda de Minecraft desagradável. Ele cura cinco corações e pode ser usado até três vezes. Nao-normandianos tendem a apreciá-lo mais antes de ser dito do que é feito... Você está avisado.
+
+Boudin noir: Quase tao bom quanto tripas, boudin noir cura três coraçoes e pode ser usado até três vezes. Tal como seu primo, o pudim inglês negro, ele tende a ser apreciado mais por pessoas que nao sabem como ele é feito.
+
+Pá Normandiana: Esta pá de grande qualidade é tao duravel quanto a de ferro, mas é rápida como a de ouro. A ferramenta de escolha dos escavadores sérios, disponivel nas forjas mais próximas a você.
+
+Picareta Normandiana: Tao rapida como a de ouro e tao duravel como a de ferro. Perfeita para grandes expedicoes de mineraçao! Cuidado, nao pode minerar obsidian.
+
+Machado Normandiano: Esse machado é tao rapido como o de ouro e tao duravel como o de ferro, provem um golpe muito forte. Especialmente nas maos de um lenhador irritado.
+
+Enxada Normandiana: Basicamente, equivale a uma de diamante, mas, muito mais bonita.
+
+Armadura Normandiana: A Armadura Nomandiana completa provem 50% a mais de proteçao do que a de diamante, e faz você parecer perigos ao invés de parcer vestido para uma festa a fantasia.
+
+Espada Longa Normandiana: Cara, muito cara, e vale cada denier quando se enfrenta um inimigo forte.
+
+Bloco de Madeira: Esse material de construçao é composto por vigas de madeira escura em torno de um núcleo de terra ou de tijolos crus. Feita pelo carpinteiro para utilizaçao em edificios da aldeia ou para negociaçao com o jogador.
+
+Tapeçaria Normandiana: Feita pelas maos da dama do Forte, Essas tapeçarias decoraram os mais luxuosos palácios. Seus desenhos sao inspirados na Tapeçaria de Bayeux, sendo a maior uma grande representação em 15x3 de Willian, o Conquistador navegando com sua frota para a Inglaterra.
+
+Amuleto de Yggrasil: Feito de Yggrasil, a Árvore do Mundo da mitologia nórdica, cujas raízes atingem o fim do mundo e cujos ramos tocam a ponta do céu, este amuleto vai garantir que você sempre sabe o quão alto ou profundo você está.
+
+Amuleto do Corvo: Os sacerdotes Normandianos podem ser leais a Igreja e ao Papa na distante Roma, mas eles nao esqueceram as antigas tradiçies Viking... Este amuleto dedicado a Odin irá avisá-lo do perigo, tornando-se vermelho sangue caso uma criatura nao natural esteja proxima. Útil para evitá-los, ou procurá-los.
+
+Amuleto dos Anoes: Trazidas para as praias normandianas pelos Vikings e trabalhada em forma do martelo de Thor, o Amuleto dos Anoes irá guiá-lo para as riquezas da Terra.
+
+Amuleto de Sköll e Rati: Seu poder se origina de Sköll and Ratim, os grandes lobos que perseguiram o Sol e a Lua. Este amuleto dá a seu criador o poder de converter dia em noite e noite em dia. Mas cuidado, seu poder não é infinito.
+
+Aldeoes Normandianos: Um pergaminho descrevendo os vários tipos de aldeões que te matarão caso incomode um deles.
+
+Edificios Normandianos: Um pergaminho com a descriçao dos diferentes tipos de construcoes que os aldeaos podem construir
+
+Itens Normandianos: Você deveria saber do que se trata...
+
+Pergaminho completo: O conteúdo dos três anteriores, em um único pergaminho fácil de transportar.

@@ -1,0 +1,217 @@
+<<
+SndBirds				0.1		0.4		0.9		1.1		32	"newsound/atmos_hl/wildlife/chicka1.wav" "newsound/atmos_hl/wildlife/chirp1.wav" "newsound/atmos_hl/wildlife/chicka2.wav" "newsound/atmos_hl/wildlife/chirp2.wav""newsound/atmos_hl/wildlife/chicka3.wav" "newsound/atmos_hl/wildlife/chirp3.wav" "newsound/atmos_hl/wildlife/flit1.wav" "newsound/atmos_hl/wildlife/squeek1.wav" "newsound/atmos_hl/wildlife/squeek2.wav" "newsound/atmos_hl/wildlife/squeek3.wav"
+SndWind					0.2		0.4		0.9		1.1		0	"newsound/atmos_hl/wind/treewind1.wav" "newsound/atmos_hl/wind/treewind2.wav" "newsound/atmos_hl/wind/treewind3.wav""newsound/atmos_hl/wind/treewind4.wav"
+SndVeryVariableWind		0.4		0.8		0.8		1.7		0	"newsound/atmos_hl/wind/windmill_wind_loop1.wav"
+SndStrongWind			0.3		0.6		0.8		1.1		0	"newsound/atmos_hl/wind/wind_hit1.wav" "newsound/atmos_hl/wind/wind_hit2.wav" "newsound/atmos_hl/wind/wind_hit3.wav"
+SndCaveRumble			0.4		0.7		0.9		1.1		0	"newsound/atmos_hl/cave/rumble1.wav" "newsound/atmos_hl/cave/rumble2.wav" "newsound/atmos_hl/cave/rumble3.wav"
+SndFrighteningCave		0.5		0.7		0.7		1.1		32	"newsound/atmos_hl/atmosphere/cave_hit1.wav" "newsound/atmos_hl/atmosphere/cave_hit2.wav" "newsound/atmos_hl/atmosphere/cave_hit3.wav" "newsound/atmos_hl/atmosphere/cave_hit4.wav" "newsound/atmos_hl/atmosphere/cave_hit5.wav" "newsound/atmos_hl/atmosphere/cave_hit6.wav"#
+SndThunderstormFar		0.3		0.9		0.7		1.2		32	"newsound/atmos_hl/Weather/thunder1.wav" "newsound/atmos_hl/Weather/thunder2.wav" "newsound/atmos_hl/Weather/thunder3.wav" "newsound/atmos_hl/Weather/thunder4.wav"
+SndSeagulls				0.2		0.4		0.9		1.1		32	"newsound/atmos_hl/wildlife/seagulls_ambient1.wav" "newsound/atmos_hl/wildlife/seagulls_ambient2.wav" "newsound/atmos_hl/wildlife/seagulls_ambient3.wav" "newsound/atmos_hl/wildlife/seagulls_ambient4.wav" "newsound/atmos_hl/wildlife/seagulls_ambient5.wav"
+SndCoastbirds			0.1		0.4		0.9		1.1		32	"newsound/atmos_hl/wildlife/coastbird1.wav" "newsound/atmos_hl/wildlife/coastbird2.wav" "newsound/atmos_hl/wildlife/coastbird3.wav" "newsound/atmos_hl/wildlife/coastbird4.wav" "newsound/atmos_hl/wildlife/coastbird5.wav" "newsound/atmos_hl/wildlife/coastbird6.wav" "newsound/atmos_hl/wildlife/coastbird7.wav"
+SndBeachWaves			0.4		0.8		0.7		1.1		0	"newsound/atmos_hl/water/wave1.wav" "newsound/atmos_hl/water/wave2.wav" "newsound/atmos_hl/water/wave3.wav" "newsound/atmos_hl/water/wave4.wav" "newsound/atmos_hl/water/wave5.wav" "newsound/atmos_hl/water/wave6.wav"
+SndLavaSimulator		0.6		0.7		1.4		2.4		0	"newsound/atmos_hl/cave/rumble1.wav" "newsound/atmos_hl/cave/rumble2.wav" "newsound/atmos_hl/cave/rumble3.wav"
+SndRainWindow			0.6		0.7		0.9		1.1		0	"newsound/atmos_hl/weather/rainonwindow1.wav" "newsound/atmos_hl/weather/rainonwindow2.wav" "newsound/atmos_hl/weather/rainonwindow3.wav" "newsound/atmos_hl/weather/rainonwindow4.wav" "newsound/atmos_hl/weather/rainonwindow5.wav" "newsound/atmos_hl/weather/rainonwindow6.wav"
+SndNightWildlife		0.05		0.4		0.9		1.1		0	"newsound/atmos_hl/wildlife/critter1.wav" "newsound/atmos_hl/wildlife/critter2.wav" "newsound/atmos_hl/wildlife/critter3.wav" "newsound/atmos_hl/wildlife/critter4.wav" "newsound/atmos_hl/wildlife/critter5.wav" "newsound/atmos_hl/wildlife/critter6.wav" "newsound/atmos_hl/wildlife/critter7.wav" "newsound/atmos_hl/wildlife/critter8.wav"
+SndLake					0.2		0.4		0.9		1.1		0	"newsound/atmos_hl/water/lake1.wav" "newsound/atmos_hl/water/lake2.wav" "newsound/atmos_hl/water/lake3.wav"
+SndTownWind				0.2		0.4		0.95		1.05		0	"newsound/atmos_hl/atmosphere/plaza_amb.wav"
+SndDrip					0.1		0.6		0.7		1.3		0	"newsound/atmos_hl/water/rain_drip1.wav" "newsound/atmos_hl/water/rain_drip2.wav" "newsound/atmos_hl/water/rain_drip3.wav"
+SndFireHighFrequency				0.1		0.2		0.7		0.9		0	"newsound/atmos_hl/atmosphere/flame_thrower_fire_hit.wav"
+SndFireLowFrequency					0.1		0.2		0.3		0.5	0	"newsound/atmos_hl/atmosphere/flame_thrower_fire_hit.wav"
+SndBadWind						0.7		0.9		0.1		0.7		0	"newsound/atmos_hl/wind/wind_moan1.wav" "newsound/atmos_hl/wind/wind_moan2.wav" "newsound/atmos_hl/wind/wind_moan3.wav"
+SndFrighteningCaveBass			0.5		0.7		0.4		0.9		32	"newsound/atmos_hl/atmosphere/cave_hit1.wav" "newsound/atmos_hl/atmosphere/cave_hit2.wav" "newsound/atmos_hl/atmosphere/cave_hit3.wav" "newsound/atmos_hl/atmosphere/cave_hit4.wav" "newsound/atmos_hl/atmosphere/cave_hit5.wav" "newsound/atmos_hl/atmosphere/cave_hit6.wav"
+SndBadEvents				0.5		0.7		0.5		0.7		32	"newsound/atmos_hl/atmosphere/CitadelOutsideFX1.wav" "newsound/atmos_hl/atmosphere/CitadelOutsideFX2.wav" "newsound/atmos_hl/atmosphere/CitadelOutsideFX3.wav" "newsound/atmos_hl/atmosphere/CitadelOutsideFX4.wav" "newsound/atmos_hl/atmosphere/CitadelOutsideFX5.wav" "newsound/atmos_hl/atmosphere/CitadelOutsideFX6.wav" "newsound/atmos_hl/atmosphere/CitadelOutsideFX7.wav" "newsound/atmos_hl/atmosphere/CitadelOutsideFX8.wav" "newsound/atmos_hl/atmosphere/CitadelOutsideFX9.wav"
+@
+DIceLand			scan	SNOW ICE
+DRocksAR			small	STONE COBBLESTONE MOSSSTONE NETHERRACK
+DLavaAR				small	LAVA LAVA_STATIC
+DWaterAR			small	WATER WATER_STATIC
+DManmadeTownCommon	small	COBBLESTONE WOODENPLANK WOOL GOLDBLOCK IRONBLOCK DOUBLESLABS SLABS BRICKBLOCK BOOKSHELF WOODENSTAIRS DIAMONDBLOCK COBBLESTONESTAIRS SANDSTONE
+@
+CBurningFurnace		small		BURNINGFURNACE > 0
+CHighlands			instant		ALTITUDE > 96
+CMidlands			instant		ALTITUDE > 82
+CMidlandsCap		instant		ALTITUDE <= 96
+CDeep				instant		ALTITUDE < 32
+CDeepCap			instant		ALTITUDE >= 16
+CVeryDeep			instant		ALTITUDE < 16
+CWorld				instant		DIMENSION == 0
+CWorld1				instant		DIMENSION == 1#unknown meaning
+CNotInWater			instant		IS_INWATER == 0
+CInWater			instant		IS_INWATER == 1
+CNoRain				instant		IS_RAINY == 0
+CRain				instant		IS_RAINY == 1
+CNoThunder			instant		IS_THUNDER == 0
+CThunder			instant		IS_THUNDER == 1
+CSkyNotExposed		instant		IS_SEESKY == 0
+CSkyExposed			instant		IS_SEESKY == 1
+CNotNether			instant		IS_NETHER == 0
+CIsNether			instant		IS_NETHER == 1
+CLogicDaytime		instant		SKYLIGHTSUBTRACTED < 4
+CLogicMobtime		instant		SKYLIGHTSUBTRACTED >= 4
+CNotMultiplayer		instant		IS_MULTIPLAYER == 0
+CMultiplayer		instant		IS_MULTIPLAYER == 1
+CStoredSunlightNotZero		instant		SUNLIGHTLEVEL > 0
+CStoredSunlightZero			instant		SUNLIGHTLEVEL == 0
+CStoredSunlightOverTen		instant		SUNLIGHTLEVEL > 10
+CStoredSunlightUnderTen		instant		SUNLIGHTLEVEL <= 10
+CStoredSunlightOverFour		instant		SUNLIGHTLEVEL > 4
+CStoredSunlightUnderFour	instant		SUNLIGHTLEVEL <= 4
+CLightUnderSeven			instant		LIGHTLEVEL < 7
+CTimeEarlyToMidday			instant		TIME < 6000
+CTimeMiddayToLateA			instant		TIME > 6000
+CTimeMiddayToLateB			instant		TIME < 12000
+CTimeDuskA					instant		TIME > 12000
+CTimeDuskB					instant		TIME < 14000
+CTimeNightA					instant		TIME > 14000
+CTimeNightB					instant		TIME < 22000
+CTimeSunset					instant		TIME > 22000
+CGenTimeMiddayA				instant		TIME > 5000
+CGenTimeMiddayB				instant		TIME < 7000
+CGenTimeDaytimeToHalfDusk	instant		TIME < 13000
+CGenTimeDuskToNightEndA		instant		TIME > 12000
+CGenTimeDuskToNightEndB		instant		TIME < 22000
+CAir					scan		AIR >= 30
+CFewAir					scan		AIR < 30
+CPlains					scan		GRASS >= 2
+CTrees					scan		LEAVES > 0
+CStone					scan		STONE > 35
+CSandBeach				scan		SAND > 5
+CNotSandBeach			scan		SAND <= 5
+CWaterBeachAtLeast		scan		WATER_STATIC > 1
+CWaterSea				scan		WATER_STATIC > 10
+CWaterClose				dynamic		DWaterAR > 4
+CWaterMinimal			dynamic		DWaterAR > 0
+CIceLand				dynamic		DIceLand > 2
+CNotIceLand				dynamic		DIceLand <= 2
+CRocksAR				dynamic		DRocksAR > 10
+CNotTooMuchOfACave		instant		ALTITUDE >= 32
+CLavaAR					dynamic		DLavaAR > 1
+CGlassAR				small		GLASS > 0
+CManmadeTown			dynamic		DManmadeTownCommon > 12
+CNotManmadeTown			dynamic		DManmadeTownCommon <= 12
+CFireClose				smalltotal	FIRE > 0
+CFireCloseMany			smalltotal	FIRE > 6
+CFireBig				scantotal	FIRE > 30
+CAirTight				small		AIR < 35
+CAirNotTight			small		AIR >= 35
+CDiceRollAHundred		instant		DICEROLL_A == 100
+@
+STimeEarlyToMidday			CTimeEarlyToMidday
+STimeMiddayToLate			CTimeMiddayToLateA CTimeMiddayToLateB
+STimeDusk					CTimeDuskA CTimeDuskB
+STimeNight					CTimeNightA CTimeNightB
+STimeSunset					CTimeSunset
+SGenTimeMidday				CGenTimeMiddayA CGenTimeMiddayB
+SPlains						CAir CPlains CStoredSunlightOverTen CNotManmadeTown
+SForestVisibleLively		CAir CTrees CStoredSunlightNotZero CNoRain
+SForestVisibleLivelyIndoor	CAir CTrees CStoredSunlightNotZero CNoRain CStoredSunlightUnderTen
+SForestVisibleLivelyOutdoor	CAir CTrees CNoRain CStoredSunlightOverTen
+SForestVisibleAndWater		CAir CTrees CStoredSunlightNotZero CWaterBeachAtLeast CNotSandBeach
+SForestVisibleDaytimeA		CAir CTrees CStoredSunlightNotZero CNoRain CGenTimeDaytimeToHalfDusk
+SForestVisibleDaytimeB		CAir CTrees CStoredSunlightNotZero CNoRain CTimeSunset
+SForestVisibleNighttime		CAir CTrees CStoredSunlightNotZero CNoRain CGenTimeDuskToNightEndA CGenTimeDuskToNightEndB
+SIceLandLively				CAir CIceLand CStoredSunlightNotZero CNoRain
+SHighlandsVisible			CAir CHighlands CStoredSunlightOverFour CNotManmadeTown
+SMidlandsVisible			CAir CMidlands CStoredSunlightOverFour CMidlandsCap CNotManmadeTown
+SHighlandsVisibleManmade		CAir CHighlands CStoredSunlightOverFour CManmadeTown
+SDeepLevelsInside			CDeep CStoredSunlightZero CDeepCap
+SBedrockLevelsInside		CVeryDeep CStoredSunlightZero
+SInCave						CStone CFewAir CStoredSunlightZero
+SInMountain					CStone CAir CStoredSunlightNotZero
+SThuderOutdoor				CAir CThunder CStoredSunlightOverFour
+SThuderIndoor				CAir CThunder CStoredSunlightUnderFour CStoredSunlightNotZero
+SRainOutdoor				CAir CRain CSkyExposed
+SRainIndoor					CAir CRain CSkyNotExposed CStoredSunlightNotZero
+SBeachLivelyIndoor			CAir CSandBeach CWaterBeachAtLeast CStoredSunlightUnderTen CStoredSunlightNotZero CNoRain CNotIceLand
+SBeachLivelyOutdoor			CAir CSandBeach CWaterBeachAtLeast CStoredSunlightOverTen CNoRain CNotIceLand
+SRockShelter				CRocksAR CSkyNotExposed CNotTooMuchOfACave
+SWetCavern					CStoredSunlightZero CRocksAR CWaterMinimal
+SLavaAR						CLavaAR
+SRainingOnWindowsIndoor		CGlassAR CRain CStoredSunlightNotZero CSkyNotExposed
+SWaterClose					CWaterClose
+SWaterAbundant				CWaterSea
+SVillage					CManmadeTown CNoRain
+SFireBig					CFireBig CNotNether
+SFireClose					CFireClose CNotNether
+SFireCloseMany				CFireCloseMany CNotNether
+SNetherFireBig				CFireBig CIsNether CAirNotTight
+SNetherFireClose			CFireClose CIsNether
+SNetherFireCloseMany		CFireCloseMany CIsNether CAirNotTight
+SNetherDiggingSafe			CIsNether CAirTight
+SNetherDiggingUnsafe		CIsNether CAirNotTight
+SNetherRocks				CIsNether CRocksAR
+SNetherLava					CIsNether CLavaAR
+@
+EForestDuringDayCalm	SForestVisibleDaytimeA SForestVisibleDaytimeB
+EForestDuringNightCalm	SForestVisibleNighttime
+EForestCalmOutdoor		SForestVisibleLivelyOutdoor
+EForestCalmIndoor		SForestVisibleLivelyIndoor
+EForestAndLake			SForestVisibleAndWater
+EBeachDuringDayCalmIn	SBeachLivelyIndoor
+EBeachDuringDayCalmOut	SBeachLivelyOutdoor
+EIceLand				SIceLandLively
+EHighlandsWind			SHighlandsVisible
+EMidlandsWind			SMidlandsVisible SPlains SHighlandsVisibleManmade
+EDeepGrowl				SDeepLevelsInside
+EBedrockGrowl			SBedrockLevelsInside
+ECaveSounds				SInCave SDeepLevelsInside SBedrockLevelsInside
+EThunderOutdoor			SThuderOutdoor
+EThunderIndoor			SThuderIndoor
+ERainOutdoor			SRainOutdoor
+ERainIndoor				SRainIndoor
+EPlains					SPlains
+ERockShelter			SRockShelter SNetherRocks
+ELavaAround				SLavaAR
+ERainHitWindow			SRainingOnWindowsIndoor
+EWaterConstant			SWaterClose SWaterAbundant
+ETownWind				SVillage
+EDrippingSounds			SWetCavern
+EBigFire				SFireBig SFireCloseMany SNetherFireBig SNetherFireCloseMany
+ESmallFire				SFireClose SNetherFireClose
+ENetherDiggingSafe		SNetherDiggingSafe SNetherRocks
+ENetherDiggingUnsafe	SNetherDiggingUnsafe
+ENetherLava				SNetherLava
+@
+EForestDuringDayCalm			SndBirds				0.7		2		9
+EForestDuringNightCalm			SndNightWildlife		0.5		0.5		6
+EForestCalmIndoor				SndWind					0.05	6		22
+EForestCalmOutdoor				SndWind					0.7		2		9
+EBeachDuringDayCalmOut			SndSeagulls				0.2		2		9
+EBeachDuringDayCalmOut			SndCoastbirds			0.7		2		9
+EBeachDuringDayCalmOut			SndWind					0.8		2		7
+EBeachDuringDayCalmOut			SndBeachWaves			0.8		2		7
+EBeachDuringDayCalmIn			SndSeagulls				0.1		2		9
+EBeachDuringDayCalmIn			SndCoastbirds			0.4		2		9
+EBeachDuringDayCalmIn			SndWind					0.05	5		18
+EBeachDuringDayCalmIn			SndBeachWaves			0.2		2		7
+EForestAndLake					SndBeachWaves			0.2		4		22
+EIceLand						SndStrongWind			0.3		2		7
+EHighlandsWind					SndWind					0.5		2		9
+EHighlandsWind					SndStrongWind			0.7		1		1
+EMidlandsWind					SndWind					0.5		2		9
+EMidlandsWind					SndStrongWind			0.3		1		1
+EDeepGrowl						SndCaveRumble			0.1		1		1
+EBedrockGrowl					SndCaveRumble			0.2		1		1
+ECaveSounds						SndCaveRumble			0.1		1		2
+ECaveSounds						SndFrighteningCave		0.4		12		72
+EThunderOutdoor					SndThunderstormFar		0.7		7		32
+EThunderIndoor					SndThunderstormFar		0.3		7		32
+ERainOutdoor					SndStrongWind			1.0		1		1
+ERainOutdoor					SndVeryVariableWind		0.8		4		4
+ERainIndoor						SndStrongWind			0.3		1		1
+ERainIndoor						SndVeryVariableWind		0.2		4		15
+EPlains							SndVeryVariableWind		0.25	7		72
+ERockShelter					SndCaveRumble			0.05		1		1
+ELavaAround						SndLavaSimulator		0.3		6		6
+ERainHitWindow					SndRainWindow			0.8		6		6
+EWaterConstant					SndLake					0.5		6		6
+ETownWind						SndTownWind				0.4		7		7
+EDrippingSounds					SndDrip					0.6		0.3		2.7
+EBigFire						SndFireLowFrequency		0.3		0.9		1.2
+ESmallFire						SndFireHighFrequency	0.05		0.9		1.2
+ENetherDiggingSafe				SndFrighteningCaveBass	0.5		4		6
+ENetherDiggingUnsafe			SndBadEvents			0.7		20		50
+ENetherDiggingUnsafe			SndBadWind				0.4		4		8
+ENetherLava						SndLavaSimulator		1		5		5
+@
+>>

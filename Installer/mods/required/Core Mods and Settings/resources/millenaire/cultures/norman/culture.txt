@@ -1,0 +1,7 @@
+weight=10
+qualifierSeparator=-
+biome=seasonal forest
+biome=forest
+biome=shrubland
+biome=plains
+biome=tundra
