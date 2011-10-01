@@ -1,0 +1,5 @@
+weight=10
+qualifierSeparator= 
+biome=rainforest
+biome=savanna
+biome=desert

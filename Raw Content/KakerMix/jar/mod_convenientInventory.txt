@@ -1,0 +1,20 @@
+# Configure key/mouse combinations for actions:
+# Seperate multiple combinations with ,
+# each combination must consist of a mouse button and an arbitrary
+# amount of keyboard keys. The mouse button is defined by "M#" with #
+# being the number 0 (left button), 1 (right button), 2 (middle button), aso.
+# This http://www.lwjgl.org/javadoc/constant-values.html#org.lwjgl.input.Keyboard.KEY_1 is
+# a list of all possible keyboard keys you can use for your combinations.
+ 
+MOVE_ONE_AND_STACK = 29 M0, 157 M0
+MOVE_ONE = 29 M1, 157 M1
+MOVE_STACK_AND_STACK = 42 M0,  54 M0
+MOVE_STACK = 42 M1,  54 M1
+MOVE_ALL_AND_STACK = 56 M0, 184 M0
+MOVE_ALL = 56 M1, 184 M1
+SORT = M2
+DROP_ONE = 16 M0
+DROP_STACK = 16 M1
+DROP_ALL = 42 16 M0, 54 16 M0
+NORMAL_LEFT_CLICK = M0
+NORMAL_RIGHT_CLICK = M1
