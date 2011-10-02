@@ -1,6 +1,13 @@
+1.7.3 v3.1
+----
+- Removed BTW again
+- Added Xie's Farming mod, which was converted to Minecraft Forge by DeathRat
+- Various installer tweaks and edits
+- Updated Credits
+
 1.7.3 mini v3
 ----
-
+- A bunch of stuff
 
 1.7.3 v2
 ----
