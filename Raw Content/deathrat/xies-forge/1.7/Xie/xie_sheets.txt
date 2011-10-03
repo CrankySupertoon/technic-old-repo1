@@ -1,0 +1,100 @@
+xie_terrain.png
+0. Apple Leaves
+1. Orange Leaves
+2. Lemon Leaves
+3. Avocado Leaves
+4. Some random leaves
+5. Apple Sapling
+6. Orange Sapling
+7. Lemon Sapling
+8. Avocado Sapling
+9. Watermelon-side
+10. Watermelon-top
+11. PumpkinVine1
+12. PumpkinVine2
+13. PumpkinVine3
+14. PumpkinVine4
+15. MelonVine1
+16. MelonVine2
+17. MelonVine3
+18. MelonVine4
+19. YellowFlower1
+20. YellowFlower2
+21. YellowFlower3
+22. YellowFlower4
+23. RedFlower1
+24. RedFlower2
+25. RedFlower3
+26. Tomato1
+27. Tomato2
+28. Tomato3
+29. Tomato4
+30. Tomato5
+31. Cotton1
+32. Cotton2
+33. Cotton3
+34. Cotton4
+35. Lettuce1
+36. Lettuce2
+37. Lettuce3
+38. Wheat1
+39. Wheat2
+40. Wheat3
+41. Wheat4
+42. Wheat5
+43. Wheat6
+44. Wheat7
+45. HybridWheat
+46. Campfire
+47. Bonfire
+48. Corn1
+49. Corn2
+50. Corn3
+51. Corn4
+52. Corn5
+
+xie_items
+0. Hybrid Seeds
+1. WatermelonPiece
+2. Watermelon Seeds
+3. Pumpkin Seeds
+4. Pumpkin Piece
+5. Roasted Pumpkin
+6. Red Flower Seeds
+7. Yellow Flower Seeds
+8. Tomato Seeds
+9. Corn Seeds
+10. Cotton Seeds
+11. Lettuce Seeds
+12. Corn Kernels
+13. Popcorn
+14. Corn Cob
+15. Corn Cob Cooked
+16. Tomato
+17. Lettuce
+18. Cotton
+19. Orange
+20. Lemon
+21. Avocado
+22. Orange Juice
+23. Lemonade
+24. Guacamole
+25. Oil
+26. Fried Egg
+27. Cheese
+28. Mayonnaise
+29. Failed Soup
+30. Soup
+31. Stew
+32. Failed Fry
+33. Fry
+34. Stirfry
+35. Sandwich
+36. Tasty Sandwich
+37. Pancake Batter
+38. Pancakes
+39. Salt
+40. Jerky
+41. Fruitsalad
+42. Salad
+43. Xie's Brains(some random debug item)
