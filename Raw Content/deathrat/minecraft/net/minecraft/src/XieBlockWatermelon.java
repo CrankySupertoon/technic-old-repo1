@@ -57,7 +57,7 @@ public class XieBlockWatermelon extends Block implements ITextureProvider
     
     public String getTextureFile()
     {
-    	return "Xie/img/terrain/xie_terrain.png";
+    	return "/Xie/img/terrain/xie_terrain.png";
     }
     
 }

@@ -129,7 +129,7 @@ public class mod_XieCooking extends BaseMod {
 	// TODO Tidy this up, there are more elegant ways
 	public void loadItems () {
 //		XieMod.debugFood = (ItemSoup) (new ItemSoup(XieMod.Cooking.ItemID.debugFood, 20)).setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/debug.png")).setItemName("xie_debugFood");
-		XieMod.debugFood = (XieItemSoup) (new XieItemSoup(XieMod.Cooking.ItemID.debugFood, 42)).setIconIndex(43).setItemName("xie_debugFood");
+		XieMod.debugFood = (XieItemSoup) (new XieItemSoup(XieMod.Cooking.ItemID.debugFood, 42)).setIconIndex(42).setItemName("xie_debugFood");
 		ModLoader.AddName(XieMod.debugFood, XieMod.getName("Xie's Brains"));
 		
 		//XieMod.oil = XieMod.newItem(XieMod.Cooking.ItemID.oil,ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/oil.png"),"xie_bowlOil");

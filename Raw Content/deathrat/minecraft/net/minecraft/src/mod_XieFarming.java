@@ -184,7 +184,7 @@ public class mod_XieFarming extends BaseMod {
 		ModLoader.RegisterBlock(XieMod.redSeedling);
 		ModLoader.AddName(XieMod.redSeedling, "Red Flower Seedling");
 		
-		int tomatoIndex = 25;
+		int tomatoIndex = 24;
 		XieMod.tomatoTex = new int[5];
 //		for (int i=0; i<5; i++) XieMod.tomatoTex[i]=ModLoader.addOverride("/terrain.png", "/Xie/img/terrain/tomato"+i+".png");
 		for (int i=0; i<5; i++) XieMod.tomatoTex[i]=i + tomatoIndex;
@@ -203,7 +203,7 @@ public class mod_XieFarming extends BaseMod {
 		ModLoader.RegisterBlock(XieMod.cornPlant);
 		ModLoader.AddName(XieMod.cornPlant, "Corn Crop");
 
-		int cottonIndex = 31;
+		int cottonIndex = 30;
 		XieMod.cottonTex = new int[5];
 //		for (int i=0; i<5; i++) XieMod.cottonTex[i]=ModLoader.addOverride("/terrain.png", "/Xie/img/terrain/cotton"+i+".png");
 		for (int i=0; i<5; i++) XieMod.cottonTex[i]=i + cottonIndex;
@@ -293,14 +293,14 @@ public class mod_XieFarming extends BaseMod {
 //		XieMod.yellowSeeds = (ItemSeeds) (new ItemSeeds(XieMod.Farming.ItemID.yellowSeeds, XieMod.yellowSeedling.blockID))
 //			.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/seeds/yellowseeds.png")).setItemName("xie_yellowSeeds");
 		XieMod.yellowSeeds = (XieItemSeeds) (new XieItemSeeds(XieMod.Farming.ItemID.yellowSeeds, XieMod.yellowSeedling.blockID))
-		.setIconIndex(6).setItemName("xie_yellowSeeds");
+		.setIconIndex(7).setItemName("xie_yellowSeeds");
 		ModLoader.AddName(XieMod.yellowSeeds, XieMod.getName("Yellow Flower Seeds"));
 		XieMod.yellowSeedling.setSeeds(XieMod.yellowSeeds.shiftedIndex);
 		
 //		XieMod.redSeeds = (ItemSeeds) (new ItemSeeds(XieMod.Farming.ItemID.redSeeds, XieMod.redSeedling.blockID))
 //		.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/seeds/redseeds.png")).setItemName("xie_redSeeds");
 		XieMod.redSeeds = (XieItemSeeds) (new XieItemSeeds(XieMod.Farming.ItemID.redSeeds, XieMod.redSeedling.blockID))
-		.setIconIndex(7).setItemName("xie_redSeeds");
+		.setIconIndex(6).setItemName("xie_redSeeds");
 		ModLoader.AddName(XieMod.redSeeds, XieMod.getName("Red Flower Seeds"));
 		XieMod.redSeedling.setSeeds(XieMod.redSeeds.shiftedIndex);
 		
@@ -447,6 +447,9 @@ public class mod_XieFarming extends BaseMod {
 					"#", Character.valueOf('#'), XieMod.pumpkinPiece
 				});
 		}
+		
+
+
 		
 		XieMod.addRecipe(new ItemStack(XieMod.watermelonPiece, 4), new Object[] {
 			"#", Character.valueOf('#'), XieMod.watermelon
