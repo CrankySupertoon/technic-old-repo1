@@ -1,0 +1,35 @@
+All graphics are optional! Delete any or all for the textures from your texture pack listed below to replace them.
+
+Place a .png texture in this folder with exactly the name given below to change what that door type looks like in-game. To use the default one listed on the right, delete that texture.
+
+If you want to use textures for specific texture packs only, add a folder to its .zip called "doors", following this naming template.
+
+The textures with _alt at the end of the name are optional alternates. Delete the other and remove _alt to enable them.
+
+Graphic file key:
+―――――――――――――――――
+
+door type	file name		default texture
+
+Wooden door:
+bottom		muDoor.png		wooden door bottom
+top		muDoorTop.png		wooden door top
+half door	muHalfDoor.png		wooden door bottom
+gate		muGate.png		planks
+shutter		muShutter.png		planks
+half window	muHalfWindow.png	wooden door top
+gate window	muGateWindow.png	wooden door top
+window		muWindow.png		wooden door top
+
+Iron door:
+bottom		muIronDoor.png		iron door bottom
+top		muIronDoorTop.png	iron door top
+half door	muIronHalfDoor.png	iron door bottom
+gate		muIronGate.png		iron block
+shutter		muIronShutter.png	iron block
+half window	muIronHalfWindow.png	mob spawner
+gate window	muIronGateWindow.png	mob spawner
+window		muIronWindow.png	mob spawner
+
+Trapdoor:
+trapdoor	muTrapdoor.png		trapdoor

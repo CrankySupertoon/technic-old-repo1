@@ -1,0 +1,35 @@
+﻿Habitantes de Millénaire
+
+Cavaleiro. Vive no forte, de onde ele sai para patrulhas suas terras e visitar a taberna. Tenha cuidado de encontrar ele em batalha! É o chefe dos poderes militares da vila.
+
+Dama. Vive no forte com o seu marido, Onde faz tapeçarias para decorar o forte e para vender para o jogador.
+
+Monge. Vidas na abadia, na qual ele cuidadosamente copias livros antigos em pergaminhos novos. Uma arte, segundo ele. Chefe de aldeias e vilas eclesiásticas.
+
+Senescal. Supervisiona a produção agrícola de sua aldeia a partir de sua mansão. Chefe de aldeias e vilas agrícolas.
+
+Mestre da Guilda. Supervisiona a produção dos artesãos a partir da Casa da Guild. Chefe de aldeias e vilas artesanais. 
+
+Aldea. Quase todas as mulheres adultas são deste tipo. Seus papéis incluem traze recursos recolhidos por seus maridos para a Prefeitura, obras de construção de novos edifícios e melhoras noss antigos, compra e venda de mercadorias ao jogador em vários locais.
+
+Fazendeiro. Vive em uma fazenda, onde cultiva e colhe mantimentos.
+
+Lenhador. Vive na cabana do lenhador. Recolhe madeira e maças de cidra das árvores ao redor da vila e planta mudas para produzir novas árvores.
+
+Guarda. Vive na Casa de Guarda. Nao faz nada além de beber cidra e ocasionalmente rezar, ao menos que algum aldeao seja atacado. Nao é uma boa ideia te-lo com inimigo, especialmente se ele estiver armado com uma terrível Espada Longa Normandiana.
+
+Sacerdote. Vive sozinho em um presbitério. Quando não está rezando na igreja, ele dorme. Especula-se que oculta os conhecimentos dos antigos rituais Viking por tras de uma fachada de devoção católica.
+
+Ferreiro. Vive em uma forja ou arsenal.  Se tiver ferro disponível, pode fazer ferramentas em uma forja ou armaduras e espadas em um arsenal.
+
+Criador / Criadora. Vive em uma fazenda de gado, uma granja de porcos, ou em granjas de galinha. Coleta vários bens provenientes de animais da fazenda e fazem deliciosas tripas Normandianas e saborosos boudin noir.
+
+Mineiro. Vive e trabalha em uma pedreira, incacnsavelmente mineirando pedra e areia. Quando a pedreira é melhorada para fornos, funde a pedra e a a reia em pedra lisa e vidro.
+
+Carpinteiro. Vive e trabalha na casa de carpinteiro, onde faz blocos de madeira para uso na construçao.
+
+Mercador. Vai de pousada em pousada, comerciando mercadorias de uma aldeia para outra. Seu destino é vagar para o bem de todos os aldeoes.
+
+Mercador Estrangeiro. Mercadores provenientes de lugares muito distantes visitarao os mercados para vender seus produtos exóticos, antes de sairem com seus tao suados deniers.
+
+Garoto / Garota. Vive com seus pais, crescendo durante a noite, até que cresçam o suficiente para mudaren-se para uma casa vazia e tornarem-se adultos.
