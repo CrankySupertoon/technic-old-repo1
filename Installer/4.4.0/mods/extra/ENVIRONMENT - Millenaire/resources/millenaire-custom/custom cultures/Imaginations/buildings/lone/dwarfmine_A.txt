@@ -1,0 +1,1 @@
+priority:5;english:Dwarven Mine;around:7;startLevel:-6;orientation:2;width:20;length:20;shop:dwarfminers;male:dwarfw;male:dwarfw;male:dwarfg;male:dwarfg;showtownhallsigns:false

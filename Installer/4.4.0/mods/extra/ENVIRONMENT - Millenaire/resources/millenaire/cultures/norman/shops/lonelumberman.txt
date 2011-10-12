@@ -1,0 +1,3 @@
+sells=wood,wood_pine,wood_birch,cider
+
+buys=normanAxe

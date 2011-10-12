@@ -1,0 +1,14 @@
+native_name=Dame
+gender=female
+familyNameList=noble_family_names
+firstNameList=women_names
+baseheight=0.9
+
+texture=/mob/ML_Lady0.png
+texture=/mob/ML_Lady1.png
+
+goal=gorest
+goal=gopray
+goal=makeTapestry
+
+baseAttackStrength=2

@@ -1,0 +1,17 @@
+native_name=Sword
+gender=male
+baseHeight=1.6
+familyNameList=surnamess
+firstNameList=firstnamess
+tag=hostile
+health=15
+
+texture=/mob/imaginations/ssword.png
+
+goal=patrol
+goal=huntmonster
+
+baseAttackStrength=7
+tag=helpInAttacks
+defaultweapon=diamondsword
+experiencegiven=10

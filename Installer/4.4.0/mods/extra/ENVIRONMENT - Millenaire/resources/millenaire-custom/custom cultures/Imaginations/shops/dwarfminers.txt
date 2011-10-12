@@ -1,0 +1,2 @@
+sells=dwarvesamulet,woodshovel,woodpickaxe,stonepickaxe,stoneshovel,gold,iron,calva,stone,cobblestone,sand,sandstone,glass
+buys=wood,wood_birch,wood_pine,stone,cobblestone,gold,iron,sand,sandstone,glass

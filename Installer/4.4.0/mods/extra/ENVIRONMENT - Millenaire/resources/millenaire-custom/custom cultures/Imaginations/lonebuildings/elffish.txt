@@ -1,0 +1,12 @@
+name:Elven Fishing Post
+weight:10
+radius:20
+biome:forest
+biome:swampland
+biome:taiga
+biome:river
+biome:extreme hills
+spawnBlock:109
+
+//starting buildings:
+centre:elffish

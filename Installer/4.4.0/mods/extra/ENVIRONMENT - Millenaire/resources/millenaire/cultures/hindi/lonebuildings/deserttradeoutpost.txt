@@ -1,0 +1,7 @@
+name:Saray
+weight:10
+radius:10
+biome:desert
+
+//starting buildings:
+centre:deserttradeoutpost
