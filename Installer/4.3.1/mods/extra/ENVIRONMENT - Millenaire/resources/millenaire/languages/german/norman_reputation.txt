@@ -1,9 +1,0 @@
-0;Fremder;Wir sind hier gegenüber Fremden etwas achtsam, neuling. Doch Handle fair mit uns und du wirst gastfreundlich behandelt.
-4*64;Bekanntes Gesicht;Wir haben dich hier schon öfters gesehen und kein Huhn scheint uns zu fehlen. Mache weiter so und wir verstehen uns.
-16*64;Regelmäßiger Besucher;Wilkommen, $name! Es ist gut dich wieder zu sehen.
-64*64;Lieblingshändler;Ah, $name! Das ganze Dorf hat auf deine rückkehr gewartet.
-2*64*64;Freund des Dorfes;Wir Normannen sind nicht dafür bekannt Leuten zu trauen, doch du mein guter Freund $name, du hast uns gezeigt das wir dir trauen können!
-8*64*64;Einer von uns;Es ist immer angenehm dich zu sehen $name. Du mögest zwar von weit entfernten Lande kommen, aber du bist jetzt wirklich einer von uns.
--64;Störenfried;Wir beobachten dich, $name. Sei achtsam.
--4*64;Außenseiter;Du hast uns gezeigt das du eine Belästigung hier bist. Sei froh das wir dich noch nicht hinausgeworfen haben.
--16*64;Feind;Dein Aufenthalt wird hier kaum toleriert. Eine falsche Bewegung und das wars.
