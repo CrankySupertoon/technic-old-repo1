@@ -13,14 +13,14 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Properties;
 
-import net.minecraft.client.Minecraft;
+import net.minecraft.server.MinecraftServer;
 
 public abstract class XieMod {
 	// Global Settings
 	public static boolean DEBUG = false;
 	public static boolean CHEATS = false;
 	
-	static final String settingsPath = "/config/Xie/";
+	static final String settingsPath = "config/Xie/";
 	
 	public static boolean xieModInit = false;
 	public static Properties lang;
@@ -256,8 +256,9 @@ public abstract class XieMod {
 		// load language file, if it exists
 		lang = loadProperties("lang.ini");
 		
-		File dir = ModLoader.getMinecraftInstance().getMinecraftDir();
-		langFile = new File(dir.getPath()+settingsPath+"lang.ini");
+//		File dir = ModLoader.getMinecraftInstance().getMinecraftDir();
+		String dir = "";
+		langFile = new File(dir+settingsPath+"lang.ini");
 		
 		xieModInit=true;
 	}
@@ -289,8 +290,9 @@ public abstract class XieMod {
 	}
 	
 	public static Properties loadProperties (String settingsFile, String defaults) {
-		File dir = ModLoader.getMinecraftInstance().getMinecraftDir();
-		File file = new File(dir.getPath()+settingsPath+settingsFile);
+//		File dir = ModLoader.getMinecraftInstance().getMinecraftDir();
+		String dir = "";
+		File file = new File(dir+settingsPath+settingsFile);
 		Properties props = new Properties();
 		try {
 			props.load(new FileReader(file));
@@ -298,7 +300,7 @@ public abstract class XieMod {
 			try {
 				// check for path existence
 				if (defaults!=null && defaults!="") { 
-					File path = new File(dir.getPath()+settingsPath);
+					File path = new File(dir+settingsPath);
 					if (!path.exists()) path.mkdirs();
 				
 					file.createNewFile();
@@ -320,7 +322,7 @@ public abstract class XieMod {
 	public static Item newItem(int id, int tex, String name) {
 //		Item it = new Item(id).setIconIndex(tex).setItemName(name);
 		Item it = new XieItem(id).setIconIndex(tex).setItemName(name);
-		ModLoader.AddName(it,getName(name));
+//		ModLoader.AddName(it,getName(name));
 		return it;
 	}
 	
@@ -439,7 +441,7 @@ public abstract class XieMod {
 //		it.setIconIndex(ModLoader.addOverride("/gui/items.png","/Xie/img/items/food/"+name.toLowerCase()+".png"));
 		it.setIconIndex(index);
 		it.setItemName(name);
-		ModLoader.AddName(it, getName(name));
+//		ModLoader.AddName(it, getName(name));
 		
 		return it;
 	}
@@ -449,7 +451,7 @@ public abstract class XieMod {
 //		it.setIconIndex(ModLoader.addOverride("/gui/items.png","/Xie/img/items/food/"+name.toLowerCase()+".png"));
 		it.setIconIndex(index);
 		it.setItemName(name);
-		ModLoader.AddName(it, getName(name));
+//		ModLoader.AddName(it, getName(name));
 		
 		return it;
 	}
@@ -460,7 +462,7 @@ public abstract class XieMod {
 		it.setIconIndex(index);
 		
 		it.setItemName(name);
-		ModLoader.AddName(it, getName(name));
+//		ModLoader.AddName(it, getName(name));
 		
 		return it;
 	}
@@ -471,7 +473,7 @@ public abstract class XieMod {
 		it.setIconIndex(index);
 		
 		it.setItemName(name);
-		ModLoader.AddName(it, getName(name));
+//		ModLoader.AddName(it, getName(name));
 		
 		return it;
 	}

@@ -16,9 +16,14 @@ public class XieItemFood extends ItemFood implements ITextureProvider
 	}
 	
 	
-    public ItemStack onFoodEaten(ItemStack itemstack, World world, EntityPlayer entityplayer)
-    {
-    	if (world.multiplayerWorld) {return super.onFoodEaten(itemstack, world, entityplayer);} 
+//    public ItemStack onFoodEaten(ItemStack itemstack, World world, EntityPlayer entityplayer)
+//    {
+//    	return super.func_35405_b(itemstack, world, entityplayer);
+//    }
+    
+	public ItemStack func_35405_b(ItemStack itemstack, World world, EntityPlayer entityplayer)
+	{
+		if(world.singleplayerWorld) {return super.func_35405_b(itemstack, world, entityplayer);}
     	if (itemstack.itemID == XieMod.jayCake.shiftedIndex)
     	{
     		if(world.rand.nextInt(100) <= XieMod.Cooking.Settings.surpriseChance)
@@ -35,12 +40,13 @@ public class XieItemFood extends ItemFood implements ITextureProvider
     			lolsilverfish.spawnExplosionParticle();
     		}
     	}
-    	return super.onFoodEaten(itemstack, world, entityplayer);
-    }
-    
-    public ItemFood setPotionEffect(int i, int j, int k, float f)
+    	return super.func_35405_b(itemstack, world, entityplayer);
+	}
+	
+	
+    public ItemFood func_35422_a(int i, int j, int k, float f)
     {
-    	return super.setPotionEffect(i, j, k, f);
+    	return super.func_35422_a(i, j, k, f);
     }
 	
     public EnumAction getItemUseAction(ItemStack itemstack)

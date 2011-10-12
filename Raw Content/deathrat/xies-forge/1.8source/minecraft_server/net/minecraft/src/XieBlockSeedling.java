@@ -59,7 +59,7 @@ public class XieBlockSeedling extends BlockFlower implements ITextureProvider {
     {
         super.onBlockDestroyedByPlayer(world, i, j, k, l);
        
-        if(!world.multiplayerWorld)
+        if(world.singleplayerWorld)
         {
             for(int i1 = 0; i1 < 3; i1++)
             {
@@ -76,7 +76,6 @@ public class XieBlockSeedling extends BlockFlower implements ITextureProvider {
             }
 
         }
-        if(world.multiplayerWorld) {return;}
     }
     
     public String getTextureFile()

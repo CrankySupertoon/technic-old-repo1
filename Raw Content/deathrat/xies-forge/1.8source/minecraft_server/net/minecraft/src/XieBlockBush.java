@@ -16,7 +16,7 @@ public class XieBlockBush extends XieBlockCrop implements ITextureProvider {
 
     public void onBlockDestroyedByPlayer(World world, int i, int j, int k, int l)
     {
-    	if(!world.multiplayerWorld)
+    	if(!world.singleplayerWorld)
         {
     		if (l<texArray.length-1) {
 	            for(int i1 = 0; i1 < 3; i1++)
@@ -31,7 +31,6 @@ public class XieBlockBush extends XieBlockCrop implements ITextureProvider {
 	        	world.setBlockAndMetadataWithNotify(i, j, k, this.blockID, texArray.length-3);
 	        }
         }
-    	if(world.multiplayerWorld) {return;}
     }
     
     public String getTextureFile()

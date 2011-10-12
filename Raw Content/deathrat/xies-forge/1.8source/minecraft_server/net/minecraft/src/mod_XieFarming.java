@@ -6,7 +6,7 @@ import java.io.StringWriter;
 import java.util.Properties;
 import java.util.Random;
 
-import net.minecraft.src.forge.MinecraftForgeClient;
+import net.minecraft.src.forge.MinecraftForge;
 
 public class mod_XieFarming extends BaseModMp {
 
@@ -19,7 +19,6 @@ public class mod_XieFarming extends BaseModMp {
 	
 	public mod_XieFarming() {
 		props = XieMod.loadProperties(settingsFile, defaultProperties());	
-		
 		
 		try {
 			XieMod.readBooleanProperties(props, XieMod.Farming.Enable.class.getDeclaredFields());
@@ -39,9 +38,9 @@ public class mod_XieFarming extends BaseModMp {
 		loadItems();
 		loadTrees();
 		
-		MinecraftForgeClient.preloadTexture("/Xie/img/terrain/xie_terrain.png");
-		MinecraftForgeClient.preloadTexture("/Xie/img/terrain/saltdeposit.png");
-		MinecraftForgeClient.preloadTexture("/Xie/img/items/xie_items.png");
+//		MinecraftForgeClient.preloadTexture("/Xie/img/terrain/xie_terrain.png");
+//		MinecraftForgeClient.preloadTexture("/Xie/img/terrain/saltdeposit.png");
+//		MinecraftForgeClient.preloadTexture("/Xie/img/items/xie_items.png");
 
 		
 		XieMod.xieFarming=true;
@@ -87,12 +86,12 @@ public class mod_XieFarming extends BaseModMp {
     private void loadTrees() {
     	XieMod.log = (XieBlockLog) new XieBlockLog(XieMod.Farming.BlockID.xieLog).setBlockName("xieLog");
     	ModLoader.RegisterBlock(XieMod.log);
-    	ModLoader.AddName(XieMod.log, "Log");
+//    	ModLoader.AddName(XieMod.log, "Log");
     	XieItemAxe.effective.add(XieMod.log);
     	
     	XieMod.leaves = (XieBlockLeaves) new XieBlockLeaves(XieMod.Farming.BlockID.xieLeaves).setBlockName("xieLeaves");
     	ModLoader.RegisterBlock(XieMod.leaves);
-    	ModLoader.AddName(XieMod.leaves, "Leaves");
+//    	ModLoader.AddName(XieMod.leaves, "Leaves");
     	
     	XieMod.treeManager = new XieTreeManager();
     	
@@ -174,7 +173,7 @@ public class mod_XieFarming extends BaseModMp {
 		XieMod.yellowSeedling = (XieBlockSeedling) (new XieBlockSeedling(XieMod.Farming.BlockID.yellowSeedling, 
 				XieMod.yellowSeedlingTex, Block.plantYellow.blockID, XieMod.Farming.Settings.flowerGrowthChance)).setBlockName("yellowSeedling");
 		ModLoader.RegisterBlock(XieMod.yellowSeedling);
-		ModLoader.AddName(XieMod.yellowSeedling, "Yellow Flower Seedling");
+//		ModLoader.AddName(XieMod.yellowSeedling, "Yellow Flower Seedling");
 		
 		int redSeedIndex = 22;
 		XieMod.redSeedlingTex = new int[3];
@@ -183,7 +182,7 @@ public class mod_XieFarming extends BaseModMp {
 		XieMod.redSeedling = (XieBlockSeedling) (new XieBlockSeedling(XieMod.Farming.BlockID.redSeedling, 
 				XieMod.redSeedlingTex, Block.plantRed.blockID, XieMod.Farming.Settings.flowerGrowthChance)).setBlockName("yellowSeedling");
 		ModLoader.RegisterBlock(XieMod.redSeedling);
-		ModLoader.AddName(XieMod.redSeedling, "Red Flower Seedling");
+//		ModLoader.AddName(XieMod.redSeedling, "Red Flower Seedling");
 		
 		int tomatoIndex = 25;
 		XieMod.tomatoTex = new int[5];
@@ -193,7 +192,7 @@ public class mod_XieFarming extends BaseModMp {
 				XieMod.tomatoTex, XieMod.Farming.Settings.tomatoGrowthChance)).setBlockName("tomatoPlant");
 		XieMod.tomatoPlant.setAsBillboard(true);
 		ModLoader.RegisterBlock(XieMod.tomatoPlant);
-		ModLoader.AddName(XieMod.tomatoPlant, "Tomato Plant");
+//		ModLoader.AddName(XieMod.tomatoPlant, "Tomato Plant");
 		
 		int cocoaIndex = 54;
 		XieMod.cocoaTex = new int[5];
@@ -203,7 +202,7 @@ public class mod_XieFarming extends BaseModMp {
 				XieMod.cocoaTex, XieMod.Farming.Settings.cocoaGrowthChance)).setBlockName("cocoaPlant");
 		XieMod.cocoaPlant.setAsBillboard(true);
 		ModLoader.RegisterBlock(XieMod.cocoaPlant);
-		ModLoader.AddName(XieMod.cocoaPlant, "Cocoa Plant");
+//		ModLoader.AddName(XieMod.cocoaPlant, "Cocoa Plant");
 
 		int cornIndex = 49;
 		XieMod.cornTex = new int[5];
@@ -212,7 +211,7 @@ public class mod_XieFarming extends BaseModMp {
 		XieMod.cornPlant = (XieBlockCrop) (new XieBlockCrop(XieMod.Farming.BlockID.cornPlant, 
 				XieMod.cornTex, XieMod.Farming.Settings.cornGrowthChance, 3)).setBlockName("cornPlant");
 		ModLoader.RegisterBlock(XieMod.cornPlant);
-		ModLoader.AddName(XieMod.cornPlant, "Corn Crop");
+//		ModLoader.AddName(XieMod.cornPlant, "Corn Crop");
 
 		int cottonIndex = 30;
 		XieMod.cottonTex = new int[5];
@@ -222,7 +221,7 @@ public class mod_XieFarming extends BaseModMp {
 				XieMod.cottonTex, XieMod.Farming.Settings.cottonGrowthChance)).setBlockName("cottonPlant");
 		XieMod.cottonPlant.setAsBillboard(true);
 		ModLoader.RegisterBlock(XieMod.cottonPlant);
-		ModLoader.AddName(XieMod.cottonPlant, "Cotton Plant");
+//		ModLoader.AddName(XieMod.cottonPlant, "Cotton Plant");
 
 		int lettuceIndex = 35;
 		XieMod.lettuceTex = new int[3];
@@ -232,7 +231,7 @@ public class mod_XieFarming extends BaseModMp {
 				XieMod.lettuceTex, XieMod.Farming.Settings.lettuceGrowthChance)).setBlockName("lettucePlant");
 		XieMod.lettucePlant.setAsBillboard(true);
 		ModLoader.RegisterBlock(XieMod.lettucePlant);
-		ModLoader.AddName(XieMod.lettucePlant, "Lettuce Plant");
+//		ModLoader.AddName(XieMod.lettucePlant, "Lettuce Plant");
 
 		int wheatIndex = 38;
 		int wheatTex[] = new int[8];
@@ -240,7 +239,7 @@ public class mod_XieFarming extends BaseModMp {
 		for (int i=0; i<8; i++) {wheatTex[i]=i + wheatIndex;}
 		XieMod.wheat = (XieBlockCrop) (new XieBlockCrop(XieMod.Farming.BlockID.wheatOverride, wheatTex, XieMod.Farming.Settings.wheatGrowthChance)).setBlockName("wheat");
 		ModLoader.RegisterBlock(XieMod.wheat);
-		ModLoader.AddName(XieMod.wheat, "Wheat Crop");
+//		ModLoader.AddName(XieMod.wheat, "Wheat Crop");
 		XieMod.wheat.setDrop(Item.wheat.shiftedIndex);
 		
 		int hybridIndex = 46;
@@ -251,7 +250,7 @@ public class mod_XieFarming extends BaseModMp {
 		hybridTex[7]=hybridIndex;
 		XieMod.hybridWheat = (XieBlockCrop) (new XieBlockCrop(XieMod.Farming.BlockID.hybridWheat, hybridTex, XieMod.Farming.Settings.wheatGrowthChance, 3)).setBlockName("hWheat");
 		ModLoader.RegisterBlock(XieMod.wheat);
-		ModLoader.AddName(XieMod.wheat, XieMod.getName("Hybrid Wheat"));
+//		ModLoader.AddName(XieMod.wheat, XieMod.getName("Hybrid Wheat"));
 		XieMod.hybridWheat.setDrop(Item.wheat.shiftedIndex);
     }
     
@@ -261,7 +260,7 @@ public class mod_XieFarming extends BaseModMp {
 //		.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/seeds/hybridseeds.png")).setItemName("hybridSeed");
     	XieMod.hybridSeeds = (XieItemSeeds) (new XieItemSeeds(XieMod.Farming.ItemID.hybridSeeds, XieMod.hybridWheat.blockID))
     	.setIconIndex(0).setItemName("hybridSeed");
-    	ModLoader.AddName(XieMod.hybridSeeds, XieMod.getName("Hybrid Seeds"));
+//    	ModLoader.AddName(XieMod.hybridSeeds, XieMod.getName("Hybrid Seeds"));
     	XieMod.wheat.hybridSeed = XieMod.hybridSeeds.shiftedIndex;
     	XieMod.hybridWheat.setSeeds(XieMod.hybridSeeds.shiftedIndex);
 	
@@ -273,7 +272,7 @@ public class mod_XieFarming extends BaseModMp {
 //		.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/watermelonpiece.png")).setItemName("xie_watermelonPiece");
 		XieMod.watermelonPiece = (XieWatermelonPiece) (new XieWatermelonPiece(XieMod.Farming.ItemID.watermelonPiece, XieMod.Farming.FoodYield.watermelonPiece, 2.2F))
 		.setIconIndex(1).setItemName("xie_watermelonPiece");
-		ModLoader.AddName(XieMod.watermelonPiece, XieMod.getName("Watermelon Piece"));
+//		ModLoader.AddName(XieMod.watermelonPiece, XieMod.getName("Watermelon Piece"));
 //	
 ////		XieMod.melonSeeds = (ItemSeeds) (new ItemSeeds(XieMod.Farming.ItemID.melonSeeds, XieMod.watermelonVine.blockID))
 ////			.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/seeds/watermelonseeds.png")).setItemName("xie_watermelonSeed");
@@ -293,80 +292,80 @@ public class mod_XieFarming extends BaseModMp {
 		XieMod.pumpkinPiece = (XieItemFood) (new XieItemFood(XieMod.Farming.ItemID.pumpkinPiece, XieMod.Farming.FoodYield.pumpkinPiece, false, 2.2F))
 		.setIconIndex(4).setItemName("xie_pumpkinPiece");
 //		XieMod.pumpkinPiece = XieMod.newItem(XieMod.Farming.ItemID.pumpkinPiece, 4, "xie_pumpkinPiece");
-		ModLoader.AddName(XieMod.pumpkinPiece, XieMod.getName("Pumpkin Piece"));
+//		ModLoader.AddName(XieMod.pumpkinPiece, XieMod.getName("Pumpkin Piece"));
 		
 //		XieMod.roastPumpkin = (ItemFood) (new ItemFood(XieMod.Farming.ItemID.roastPumpkin,XieMod.Farming.FoodYield.roastPumpkin, false))
 //			.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/roastpumpkin.png")).setItemName("xie_roastPumpkin");
 		XieMod.roastPumpkin = (XieItemFood) (new XieItemFood(XieMod.Farming.ItemID.roastPumpkin,XieMod.Farming.FoodYield.roastPumpkin, false, 4.2F))
 		.setIconIndex(5).setItemName("xie_roastPumpkin");
-		ModLoader.AddName(XieMod.roastPumpkin, XieMod.getName("Roast Pumpkin"));
+//		ModLoader.AddName(XieMod.roastPumpkin, XieMod.getName("Roast Pumpkin"));
 		
 //		XieMod.yellowSeeds = (ItemSeeds) (new ItemSeeds(XieMod.Farming.ItemID.yellowSeeds, XieMod.yellowSeedling.blockID))
 //			.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/seeds/yellowseeds.png")).setItemName("xie_yellowSeeds");
 		XieMod.yellowSeeds = (XieItemSeeds) (new XieItemSeeds(XieMod.Farming.ItemID.yellowSeeds, XieMod.yellowSeedling.blockID))
 		.setIconIndex(7).setItemName("xie_yellowSeeds");
-		ModLoader.AddName(XieMod.yellowSeeds, XieMod.getName("Yellow Flower Seeds"));
+//		ModLoader.AddName(XieMod.yellowSeeds, XieMod.getName("Yellow Flower Seeds"));
 		XieMod.yellowSeedling.setSeeds(XieMod.yellowSeeds.shiftedIndex);
 		
 //		XieMod.redSeeds = (ItemSeeds) (new ItemSeeds(XieMod.Farming.ItemID.redSeeds, XieMod.redSeedling.blockID))
 //		.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/seeds/redseeds.png")).setItemName("xie_redSeeds");
 		XieMod.redSeeds = (XieItemSeeds) (new XieItemSeeds(XieMod.Farming.ItemID.redSeeds, XieMod.redSeedling.blockID))
 		.setIconIndex(6).setItemName("xie_redSeeds");
-		ModLoader.AddName(XieMod.redSeeds, XieMod.getName("Red Flower Seeds"));
+//		ModLoader.AddName(XieMod.redSeeds, XieMod.getName("Red Flower Seeds"));
 		XieMod.redSeedling.setSeeds(XieMod.redSeeds.shiftedIndex);
 		
 //		XieMod.tomatoSeeds = (ItemSeeds) (new ItemSeeds(XieMod.Farming.ItemID.tomatoSeeds, XieMod.tomatoPlant.blockID))
 //		.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/seeds/tomatoseeds.png")).setItemName("tomatoSeeds");
 		XieMod.tomatoSeeds = (XieItemSeeds) (new XieItemSeeds(XieMod.Farming.ItemID.tomatoSeeds, XieMod.tomatoPlant.blockID))
 		.setIconIndex(8).setItemName("tomatoSeeds");
-		ModLoader.AddName(XieMod.tomatoSeeds, XieMod.getName("Tomato Seeds"));
+//		ModLoader.AddName(XieMod.tomatoSeeds, XieMod.getName("Tomato Seeds"));
 		XieMod.tomatoPlant.setSeeds(XieMod.tomatoSeeds.shiftedIndex);
 		
 //		XieMod.cornSeeds = (ItemSeeds) (new ItemSeeds(XieMod.Farming.ItemID.cornSeeds, XieMod.cornPlant.blockID))
 //		.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/seeds/cornseeds.png")).setItemName("cornSeeds");
 		XieMod.cornSeeds = (XieItemSeeds) (new XieItemSeeds(XieMod.Farming.ItemID.cornSeeds, XieMod.cornPlant.blockID))
 		.setIconIndex(9).setItemName("cornSeeds");
-		ModLoader.AddName(XieMod.cornSeeds, XieMod.getName("Corn Seeds"));
+//		ModLoader.AddName(XieMod.cornSeeds, XieMod.getName("Corn Seeds"));
 		
 //		XieMod.cottonSeeds = (ItemSeeds) (new ItemSeeds(XieMod.Farming.ItemID.cottonSeeds, XieMod.cottonPlant.blockID))
 //		.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/seeds/cottonseeds.png")).setItemName("cottonSeeds");
 		XieMod.cottonSeeds = (XieItemSeeds) (new XieItemSeeds(XieMod.Farming.ItemID.cottonSeeds, XieMod.cottonPlant.blockID))
 		.setIconIndex(10).setItemName("cottonSeeds");
-		ModLoader.AddName(XieMod.cottonSeeds, XieMod.getName("Cotton Seeds"));
+//		ModLoader.AddName(XieMod.cottonSeeds, XieMod.getName("Cotton Seeds"));
 		XieMod.cottonPlant.setSeeds(XieMod.cottonSeeds.shiftedIndex);
 		
 //		XieMod.lettuceSeeds = (ItemSeeds) (new ItemSeeds(XieMod.Farming.ItemID.lettuceSeeds, XieMod.lettucePlant.blockID))
 //		.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/seeds/lettuceseeds.png")).setItemName("lettuceSeeds");
 		XieMod.lettuceSeeds = (XieItemSeeds) (new XieItemSeeds(XieMod.Farming.ItemID.lettuceSeeds, XieMod.lettucePlant.blockID))
 		.setIconIndex(11).setItemName("lettuceSeeds");
-		ModLoader.AddName(XieMod.lettuceSeeds, XieMod.getName("Lettuce Seeds"));
+//		ModLoader.AddName(XieMod.lettuceSeeds, XieMod.getName("Lettuce Seeds"));
 		XieMod.lettucePlant.setSeeds(XieMod.lettuceSeeds.shiftedIndex);
 		
 //		XieMod.cornKernels = (ItemSeeds) (new ItemSeeds(XieMod.Farming.ItemID.cornKernels, XieMod.cornPlant.blockID))
 //		.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/seeds/cornkernels.png")).setItemName("cornKernels");
 		XieMod.cornKernels = (XieItemSeeds) (new XieItemSeeds(XieMod.Farming.ItemID.cornKernels, XieMod.cornPlant.blockID))
 		.setIconIndex(12).setItemName("cornKernels");
-		ModLoader.AddName(XieMod.cornKernels, XieMod.getName("Corn Kernels"));
+//		ModLoader.AddName(XieMod.cornKernels, XieMod.getName("Corn Kernels"));
 		XieMod.cornPlant.setSeeds(XieMod.cornKernels.shiftedIndex);
 		
 //		XieMod.popcorn = (ItemFood) (new ItemFood(XieMod.Farming.ItemID.popcorn,XieMod.Farming.FoodYield.popcorn, false))
 //			.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/popcorn.png")).setItemName("popcorn");
 		XieMod.popcorn = (XieItemFood) (new XieItemFood(XieMod.Farming.ItemID.popcorn,XieMod.Farming.FoodYield.popcorn, false, 2.2F))
 		.setIconIndex(13).setItemName("popcorn");
-		ModLoader.AddName(XieMod.popcorn, XieMod.getName("Popcorn"));
+//		ModLoader.AddName(XieMod.popcorn, XieMod.getName("Popcorn"));
 		
 //		XieMod.cornCob = (ItemFood) (new ItemFood(XieMod.Farming.ItemID.cornCob,XieMod.Farming.FoodYield.cornCob, false))
 //			.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/corncob.png")).setItemName("cornCob");
 		XieMod.cornCob = (XieItemFood) (new XieItemFood(XieMod.Farming.ItemID.cornCob,XieMod.Farming.FoodYield.cornCob, false, 3.6F))
 		.setIconIndex(14).setItemName("cornCob");
-		ModLoader.AddName(XieMod.cornCob, XieMod.getName("Corn cob"));
+//		ModLoader.AddName(XieMod.cornCob, XieMod.getName("Corn cob"));
 		XieMod.cornPlant.setDrop(XieMod.cornCob.shiftedIndex);
 		
 //		XieMod.cornCobCooked = (ItemFood) (new ItemFood(XieMod.Farming.ItemID.cornCobCooked,XieMod.Farming.FoodYield.cornCobCooked, false))
 //			.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/corncobcooked.png")).setItemName("cornCobCooked");
 		XieMod.cornCobCooked = (XieItemFood) (new XieItemFood(XieMod.Farming.ItemID.cornCobCooked,XieMod.Farming.FoodYield.cornCobCooked, false, 7.2F))
 		.setIconIndex(15).setItemName("cornCobCooked");
-		ModLoader.AddName(XieMod.cornCobCooked, XieMod.getName("Corn on the cob"));
+//		ModLoader.AddName(XieMod.cornCobCooked, XieMod.getName("Corn on the cob"));
 		
 		//XieMod.tomato = (ItemFood) (new ItemFood(XieMod.Farming.ItemID.tomato,XieMod.Farming.FoodYield.tomato, false))
 		//	.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/tomato.png")).setItemName("tomato");
@@ -379,7 +378,7 @@ public class mod_XieFarming extends BaseModMp {
 		
 		XieMod.cocoaSeeds = (XieItemSeeds) (new XieItemSeeds(XieMod.Farming.ItemID.cocoaSeeds, XieMod.cocoaPlant.blockID))
 		.setIconIndex(46).setItemName("cocoaSeeds");
-		ModLoader.AddName(XieMod.cocoaSeeds, XieMod.getName("Cocoa Seeds"));
+//		ModLoader.AddName(XieMod.cocoaSeeds, XieMod.getName("Cocoa Seeds"));
 		XieMod.cocoaPlant.setSeeds(XieMod.cocoaSeeds.shiftedIndex);
 		
 		XieMod.lettuce = XieMod.addNewFood("Lettuce", XieMod.Farming.ItemID.lettuce, XieMod.Farming.FoodYield.lettuce, 17, 2.4F);
@@ -387,7 +386,7 @@ public class mod_XieFarming extends BaseModMp {
 		
 //		XieMod.cotton = XieMod.newItem(XieMod.Farming.ItemID.cotton, ModLoader.addOverride("/gui/items.png", "/Xie/img/items/cotton.png"), "cotton");
 		XieMod.cotton = XieMod.newItem(XieMod.Farming.ItemID.cotton, 18, "cotton");
-		ModLoader.AddName(XieMod.cotton, XieMod.getName("Cotton"));
+//		ModLoader.AddName(XieMod.cotton, XieMod.getName("Cotton"));
 		XieMod.cottonPlant.setDrop(XieMod.cotton.shiftedIndex);
 		
 		XieMod.orange = XieMod.addNewFood("Orange", XieMod.Farming.ItemID.orange, XieMod.Farming.FoodYield.orange, 19, 2.4F);

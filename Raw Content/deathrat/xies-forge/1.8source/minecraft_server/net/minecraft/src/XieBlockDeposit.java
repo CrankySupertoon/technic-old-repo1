@@ -43,7 +43,6 @@ public class XieBlockDeposit extends BlockSand
     
     public void onBlockDestroyedByPlayer(World world, int i, int j, int k, int l)
     {
-    	if(world.multiplayerWorld) {return;}
     	int i1 = drop;
         float f = 0.7F;
         double d = (double)(world.rand.nextFloat() * f) + (double)(1.0F - f) * 0.5D;

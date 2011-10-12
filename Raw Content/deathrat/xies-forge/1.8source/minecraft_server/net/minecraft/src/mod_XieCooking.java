@@ -6,24 +6,18 @@ import java.util.List;
 import java.util.Properties;
 import java.util.Random;
 
-import net.minecraft.client.Minecraft;
+import net.minecraft.server.MinecraftServer;
 
 public class mod_XieCooking extends BaseModMp {
 
 	final static String modName = "Xie Cooking";
-	final static String version = "1.8";
+	final static String version = "1.7c";
 	final static String settingsFile = "cooking.ini";
 
 	Properties props;
-	
-
 
 	public mod_XieCooking() {
 		props = XieMod.loadProperties(settingsFile, defaultProperties());
-		
-		ModLoaderMp.RegisterGUI(this, 80);
-		ModLoaderMp.RegisterGUI(this, 81);
-
 		
 		try {
 			XieMod.readIntegerProperties(props, XieMod.Cooking.Settings.class.getDeclaredFields());
@@ -48,22 +42,6 @@ public class mod_XieCooking extends BaseModMp {
 		if (XieMod.Cooking.Settings.saltDepositInGameSpawnChance<1) XieMod.Cooking.Settings.saltDepositInGameSpawnChance=1;
 		
 		XieMod.xieCooking = true;
-	}
-	
-	public GuiScreen HandleGUI(int inventoryType)
-	{
-		if (inventoryType == 80 || inventoryType == 81)
-		{
-			if(inventoryType == 80)
-			{
-				return new XieGUICampfire(ModLoader.getMinecraftInstance().thePlayer.inventory, new XieTileEntityCampfire());
-			}
-			if(inventoryType == 81)
-			{
-				return new XieGUIStove(ModLoader.getMinecraftInstance().thePlayer.inventory, new XieTileEntityStove());
-			}
-		}
-		return null;
 	}
 
 	private String defaultProperties() {
@@ -102,45 +80,45 @@ public class mod_XieCooking extends BaseModMp {
     }
 	
 	// called each tick
-	public boolean OnTickInGame(Minecraft game) {
-		if (game.theWorld.rand.nextInt(XieMod.Cooking.Settings.saltDepositInGameSpawnChance)==0) {
-			Random rand = game.theWorld.rand;
-			
-			int dx = rand.nextInt(256) - 128;
-			int dz = rand.nextInt(256) - 128;
-			int x = (int) game.thePlayer.posX + dx;
-			int z = (int) game.thePlayer.posZ + dz;
-			
-			generateSaltDeposit(game.theWorld, rand, x, z);
-		}
-		return true;
-	}
+//	public boolean OnTickInGame(Minecraft game) {
+//		if (game.theWorld.rand.nextInt(XieMod.Cooking.Settings.saltDepositInGameSpawnChance)==0) {
+//			Random rand = game.theWorld.rand;
+//			
+//			int dx = rand.nextInt(256) - 128;
+//			int dz = rand.nextInt(256) - 128;
+//			int x = (int) game.thePlayer.posX + dx;
+//			int z = (int) game.thePlayer.posZ + dz;
+//			
+//			generateSaltDeposit(game.theWorld, rand, x, z);
+//		}
+//		return true;
+//	}
 
 	// TODO Tidy this up, there are more elegant ways
 	public void loadBlocks () {		
 //		XieMod.campfire = (XieBlockCampfire) (new XieBlockCampfire(XieMod.Cooking.BlockID.campfire, ModLoader.addOverride("/terrain.png", "/Xie/img/terrain/campfire.png"), 3)).setBlockName("campfire");
-		XieMod.campfire = (XieBlockCampfire) (new XieBlockCampfire(XieMod.Cooking.BlockID.campfire, 47 , 3)).setBlockName("campfire");
+		XieMod.campfire = (XieBlockCampfire) (new XieBlockCampfire(XieMod.Cooking.BlockID.campfire, 48 , 3)).setBlockName("campfire");
 		XieMod.setBlockLightValue(XieMod.campfire,0.75F);
 		ModLoader.RegisterBlock(XieMod.campfire);
 		ModLoader.RegisterTileEntity(XieTileEntityCampfire.class,"Campfire");
-		ModLoader.AddName(XieMod.campfire, XieMod.getName("Campfire"));
+//		ModLoader.AddName(XieMod.campfire, XieMod.getName("Campfire"));
 
 //		XieMod.bonfire = (XieBlockCampfire) (new XieBlockCampfire(XieMod.Cooking.BlockID.bonfire, ModLoader.addOverride("/terrain.png", "/Xie/img/terrain/bonfire.png"), 6)).setBlockName("bonfire");;
-		XieMod.bonfire = (XieBlockCampfire) (new XieBlockCampfire(XieMod.Cooking.BlockID.bonfire, 48, 6)).setBlockName("bonfire");;
+		XieMod.bonfire = (XieBlockCampfire) (new XieBlockCampfire(XieMod.Cooking.BlockID.bonfire, 49, 6)).setBlockName("bonfire");;
 		XieMod.setBlockLightValue(XieMod.bonfire,1);
 		ModLoader.RegisterBlock(XieMod.bonfire);
-		ModLoader.AddName(XieMod.bonfire, XieMod.getName("Bonfire"));
+//		ModLoader.AddName(XieMod.bonfire, XieMod.getName("Bonfire"));
 
 		XieMod.stoveIdle = (XieBlockStove) (new XieBlockStove(XieMod.Cooking.BlockID.stoveIdle, 45, false)).setBlockName("stove");;
 		XieMod.setBlockLightValue(XieMod.stoveIdle,0F);
 		ModLoader.RegisterBlock(XieMod.stoveIdle);
-		ModLoader.AddName(XieMod.stoveIdle, XieMod.getName("Stove"));
+//		ModLoader.AddName(XieMod.stoveIdle, XieMod.getName("Stove"));
 
 		XieMod.stoveActive = (XieBlockStove) (new XieBlockStove(XieMod.Cooking.BlockID.stoveActive, 45, true)).setBlockName("stove");
 		XieMod.setBlockLightValue(XieMod.stoveActive,0.65F);
 		ModLoader.RegisterBlock(XieMod.stoveActive);
 		ModLoader.RegisterTileEntity(XieTileEntityStove.class,"Stove");
-		ModLoader.AddName(XieMod.stoveActive, XieMod.getName("Stove"));
+//		ModLoader.AddName(XieMod.stoveActive, XieMod.getName("Stove"));
 		
 		XieMod.saltDeposit = (XieBlockDeposit) (new XieBlockDeposit(XieMod.Cooking.BlockID.saltDeposit, ModLoader.addOverride("/terrain.png", "/Xie/img/terrain/saltdeposit.png"), Material.snow)).setBlockName("saltDeposit");
 //		XieMod.saltDeposit = (XieBlockDeposit) (new XieBlockDeposit(XieMod.Cooking.BlockID.saltDeposit, 50, Material.snow)).setBlockName("saltDeposit");
@@ -152,118 +130,118 @@ public class mod_XieCooking extends BaseModMp {
 	public void loadItems () {
 //		XieMod.debugFood = (ItemSoup) (new ItemSoup(XieMod.Cooking.ItemID.debugFood, 20)).setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/debug.png")).setItemName("xie_debugFood");
 		XieMod.debugFood = (XieItemSoup) (new XieItemSoup(XieMod.Cooking.ItemID.debugFood, 42)).setIconIndex(42).setItemName("xie_debugFood");
-		ModLoader.AddName(XieMod.debugFood, XieMod.getName("Xie's Brains"));
+//		ModLoader.AddName(XieMod.debugFood, XieMod.getName("Xie's Brains"));
 		
 		//XieMod.oil = XieMod.newItem(XieMod.Cooking.ItemID.oil,ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/oil.png"),"xie_bowlOil");
 //		XieMod.oil = new Item(XieMod.Cooking.ItemID.oil).setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/oil.png")).setItemName("Oil");
 		XieMod.oil = new XieItem(XieMod.Cooking.ItemID.oil).setIconIndex(25).setItemName("Oil");
-		ModLoader.AddName(XieMod.oil, XieMod.getName("Oil"));
+//		ModLoader.AddName(XieMod.oil, XieMod.getName("Oil"));
 
 //		XieMod.friedEgg = (ItemFood) (new ItemFood(XieMod.Cooking.ItemID.friedEgg,XieMod.Cooking.FoodYield.friedEgg, false))
 //			.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/friedegg.png")).setItemName("xie_friedEgg");
 		XieMod.friedEgg = (XieItemFood) (new XieItemFood(XieMod.Cooking.ItemID.friedEgg,XieMod.Cooking.FoodYield.friedEgg, false, 9.6F))
 		.setIconIndex(26).setItemName("xie_friedEgg");
-		ModLoader.AddName(XieMod.friedEgg, XieMod.getName("Fried Egg"));
+//		ModLoader.AddName(XieMod.friedEgg, XieMod.getName("Fried Egg"));
 
 //		XieMod.cheese = (ItemFood) (new ItemFood(XieMod.Cooking.ItemID.cheese, XieMod.Cooking.FoodYield.cheese, false))
 //			.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/cheese.png")).setItemName("xie_cheese");
 		XieMod.cheese = (XieItemFood) (new XieItemFood(XieMod.Cooking.ItemID.cheese, XieMod.Cooking.FoodYield.cheese, false, 9.6F))
 		.setIconIndex(27).setItemName("xie_cheese");
-		ModLoader.AddName(XieMod.cheese, XieMod.getName("Cheese"));
+//		ModLoader.AddName(XieMod.cheese, XieMod.getName("Cheese"));
 
 		//XieMod.mayo = XieMod.addNewContainedFood("Mayonnaise", XieMod.Cooking.ItemID.mayo, XieMod.Cooking.FoodYield.mayo, Item.bowlEmpty.shiftedIndex);
 //		XieMod.mayo = new Item(XieMod.Cooking.ItemID.mayo).setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/mayonnaise.png")).setItemName("mayo");
 		XieMod.mayo = new XieItem(XieMod.Cooking.ItemID.mayo).setIconIndex(28).setItemName("mayo");
-		ModLoader.AddName(XieMod.mayo, XieMod.getName("Mayonnaise"));
+//		ModLoader.AddName(XieMod.mayo, XieMod.getName("Mayonnaise"));
 		
 //		XieMod.failSoup = (ItemSoup) (new ItemSoup(XieMod.Cooking.ItemID.failSoup, XieMod.Cooking.FoodYield.failSoup))
 //			.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/failsoup.png")).setItemName("xie_failSoup");
 		XieMod.failSoup = (XieItemSoup) (new XieItemSoup(XieMod.Cooking.ItemID.failSoup, XieMod.Cooking.FoodYield.failSoup))
-		.setPotionEffect(Potion.potionHunger.id, 30, 0, 0.8F)
+		.func_35422_a(Potion.hungerPotion.potionId, 30, 0, 0.8F)
 		.setIconIndex(29).setItemName("xie_failSoup");
-		ModLoader.AddName(XieMod.failSoup, XieMod.getName("Weak Soup"));
+//		ModLoader.AddName(XieMod.failSoup, XieMod.getName("Weak Soup"));
 		
 //		XieMod.soup = (ItemSoup) (new ItemSoup(XieMod.Cooking.ItemID.soup, XieMod.Cooking.FoodYield.failSoup))
 //			.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/soup.png")).setItemName("xie_soup");
 		XieMod.soup = (XieItemSoup) (new XieItemSoup(XieMod.Cooking.ItemID.soup, XieMod.Cooking.FoodYield.failSoup))
-		.setPotionEffect(Potion.potionHunger.id, 30, 0, 0.8F)
+		.func_35422_a(Potion.hungerPotion.potionId, 30, 0, 0.8F)
 		.setIconIndex(30).setItemName("xie_soup");
-		ModLoader.AddName(XieMod.soup, XieMod.getName("Soup"));
+//		ModLoader.AddName(XieMod.soup, XieMod.getName("Soup"));
 
 //		XieMod.stew = (ItemSoup) (new ItemSoup(XieMod.Cooking.ItemID.stew, XieMod.Cooking.FoodYield.stew))
 //		.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/stew.png")).setItemName("xie_stew");
 		XieMod.stew = (XieItemSoup) (new XieItemSoup(XieMod.Cooking.ItemID.stew, XieMod.Cooking.FoodYield.stew))
 		.setIconIndex(31).setItemName("xie_stew");
-		ModLoader.AddName(XieMod.stew, XieMod.getName("Stew"));
+//		ModLoader.AddName(XieMod.stew, XieMod.getName("Stew"));
 
 //		XieMod.failFry = (ItemSoup) (new ItemSoup(XieMod.Cooking.ItemID.failFry, XieMod.Cooking.FoodYield.failFry))
 //		.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/failfry.png")).setItemName("xie_failFry");
 		XieMod.failFry = (XieItemSoup) (new XieItemSoup(XieMod.Cooking.ItemID.failFry, XieMod.Cooking.FoodYield.failFry))
-			.setPotionEffect(Potion.potionHunger.id, 30, 0, 0.8F)
+		.func_35422_a(Potion.hungerPotion.potionId, 30, 0, 0.8F)
 		.setIconIndex(32).setItemName("xie_failFry");
-		ModLoader.AddName(XieMod.failFry, XieMod.getName("Fried Mess"));
+//		ModLoader.AddName(XieMod.failFry, XieMod.getName("Fried Mess"));
 		
 //		XieMod.fry = (ItemSoup) (new ItemSoup(XieMod.Cooking.ItemID.fry, XieMod.Cooking.FoodYield.fry))
 //		.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/fry.png")).setItemName("xie_fry");
 		XieMod.fry = (XieItemSoup) (new XieItemSoup(XieMod.Cooking.ItemID.fry, XieMod.Cooking.FoodYield.fry))
 		.setIconIndex(33).setItemName("xie_fry");
-		ModLoader.AddName(XieMod.fry, XieMod.getName("Fried Meal"));
+//		ModLoader.AddName(XieMod.fry, XieMod.getName("Fried Meal"));
 		
 //		XieMod.stirfry = (ItemSoup) (new ItemSoup(XieMod.Cooking.ItemID.stirfry, XieMod.Cooking.FoodYield.stirfry))
 //			.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/stirfry.png")).setItemName("xie_stirFry");
 		XieMod.stirfry = (XieItemSoup) (new XieItemSoup(XieMod.Cooking.ItemID.stirfry, XieMod.Cooking.FoodYield.stirfry))
 		.setIconIndex(34).setItemName("xie_stirFry");
-		ModLoader.AddName(XieMod.stirfry, XieMod.getName("Stirfry"));
+//		ModLoader.AddName(XieMod.stirfry, XieMod.getName("Stirfry"));
 
 //		XieMod.sammich = (ItemFood) (new ItemFood(XieMod.Cooking.ItemID.sammich, XieMod.Cooking.FoodYield.sammich, false))
 //			.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/sammich.png")).setItemName("xie_sammich");
 		XieMod.sammich = (XieItemFood) (new XieItemFood(XieMod.Cooking.ItemID.sammich, XieMod.Cooking.FoodYield.sammich, false, 9.5F))
 		.setIconIndex(35).setItemName("xie_sammich");
-		ModLoader.AddName(XieMod.sammich, XieMod.getName("Sammich"));
+//		ModLoader.AddName(XieMod.sammich, XieMod.getName("Sammich"));
 //		XieMod.tastySammich = (ItemFood) (new ItemFood(XieMod.Cooking.ItemID.tastySammich, XieMod.Cooking.FoodYield.tastySammich, false))
 //			.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/tastysammich.png")).setItemName("xie_tastySammich");
 		XieMod.tastySammich = (XieItemFood) (new XieItemFood(XieMod.Cooking.ItemID.tastySammich, XieMod.Cooking.FoodYield.tastySammich, false, 12.8F))
 		.setIconIndex(36).setItemName("xie_tastySammich");
-		ModLoader.AddName(XieMod.tastySammich, XieMod.getName("Tasty Sammich"));
+//		ModLoader.AddName(XieMod.tastySammich, XieMod.getName("Tasty Sammich"));
 		
 //		XieMod.pancakeBatter = (new ItemBucket(XieMod.Cooking.ItemID.pancakeBatter, -1)).setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/pancakebatter.png")).setItemName("xie_bucketPancake");
 		XieMod.pancakeBatter = (new XieItemBucket(XieMod.Cooking.ItemID.pancakeBatter, -1)).setIconIndex(37).setItemName("xie_bucketPancake");
-		ModLoader.AddName(XieMod.pancakeBatter, XieMod.getName("Pancake Batter"));
+//		ModLoader.AddName(XieMod.pancakeBatter, XieMod.getName("Pancake Batter"));
 		XieMod.pancakeBatter.setMaxDamage(64);
 //		XieMod.pancake = (ItemFood) (new ItemFood(XieMod.Cooking.ItemID.pancake, XieMod.Cooking.FoodYield.pancake, false))
 //			.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/pancake.png")).setItemName("xie_pancake");
 		XieMod.pancake = (XieItemFood) (new XieItemFood(XieMod.Cooking.ItemID.pancake, XieMod.Cooking.FoodYield.pancake, false, 12.8F))
 		.setIconIndex(38).setItemName("xie_pancake");
-		ModLoader.AddName(XieMod.pancake, XieMod.getName("Pancakes"));
+//		ModLoader.AddName(XieMod.pancake, XieMod.getName("Pancakes"));
 
 		//XieMod.salt = XieMod.newItem(XieMod.Cooking.ItemID.salt,ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/salt.png"),"salt");
 //		XieMod.salt = new Item(XieMod.Cooking.ItemID.salt).setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/salt.png")).setItemName("salt");
 		XieMod.salt = new XieItem(XieMod.Cooking.ItemID.salt).setIconIndex(39).setItemName("salt");
-		ModLoader.AddName(XieMod.salt, XieMod.getName("Salt"));
+//		ModLoader.AddName(XieMod.salt, XieMod.getName("Salt"));
 		XieMod.saltDeposit.setDrop(XieMod.salt.shiftedIndex);
 		
 //		XieMod.jerky = (ItemFood) (new ItemFood(XieMod.Cooking.ItemID.jerky, XieMod.Cooking.FoodYield.jerky, true))
 //			.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/jerky.png")).setItemName("xie_jerky");
 		XieMod.jerky = (XieItemFood) (new XieItemFood(XieMod.Cooking.ItemID.jerky, XieMod.Cooking.FoodYield.jerky, true, 8.5F))
 		.setIconIndex(40).setItemName("xie_jerky");
-		ModLoader.AddName(XieMod.jerky, XieMod.getName("Beef Jerky"));
+//		ModLoader.AddName(XieMod.jerky, XieMod.getName("Beef Jerky"));
 
 //		XieMod.fruitSalad = (ItemFood) (new ItemSoup(XieMod.Cooking.ItemID.fruitSalad, XieMod.Cooking.FoodYield.fruitSalad))
 //		.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/fruitsalad.png")).setItemName("xie_fruitSalad");
 		XieMod.fruitSalad = (ItemFood) (new XieItemSoup(XieMod.Cooking.ItemID.fruitSalad, XieMod.Cooking.FoodYield.fruitSalad))
 		.setIconIndex(41).setItemName("xie_fruitSalad");
-		ModLoader.AddName(XieMod.fruitSalad, XieMod.getName("Fruit Salad"));
+//		ModLoader.AddName(XieMod.fruitSalad, XieMod.getName("Fruit Salad"));
 		
 		//XieMod.salad = XieMod.addNewContainedFood("Salad", XieMod.Cooking.ItemID.salad, XieMod.Cooking.FoodYield.salad, Item.bowlEmpty.shiftedIndex);
 //		XieMod.salad = (ItemFood) (new ItemSoup(XieMod.Cooking.ItemID.salad, XieMod.Cooking.FoodYield.salad))
 //		.setIconIndex(ModLoader.addOverride("/gui/items.png", "/Xie/img/items/food/salad.png")).setItemName("salad");
 		XieMod.salad = (ItemFood) (new XieItemSoup(XieMod.Cooking.ItemID.salad, XieMod.Cooking.FoodYield.salad))
 		.setIconIndex(42).setItemName("salad");
-		ModLoader.AddName(XieMod.salad, XieMod.getName("Salad"));
+//		ModLoader.AddName(XieMod.salad, XieMod.getName("Salad"));
 		
 		XieMod.jayCake = (XieItemFood) (new XieItemFood(XieMod.Cooking.ItemID.jaffaCake, XieMod.Cooking.FoodYield.jaffaCake, true, 9.6F))
 		.setIconIndex(44).setItemName("xie_jaffaCake");
-		ModLoader.AddName(XieMod.jayCake, "Jaffa Cake");
+//		ModLoader.AddName(XieMod.jayCake, "Jaffa Cake");
 		
 		
 		

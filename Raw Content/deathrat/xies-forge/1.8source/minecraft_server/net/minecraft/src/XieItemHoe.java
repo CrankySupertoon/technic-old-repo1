@@ -14,7 +14,6 @@ public class XieItemHoe extends ItemHoe {
         if (super.onItemUse(itemstack, entityplayer, world, i, j, k, l)) {
         	if(XieMod.xieFarming)
             {
-        		if(world.multiplayerWorld) { return true; }
         		Item seedz = getSeedDrop(world, i, j, k);
         		
         		if (seedz!=null) {
@@ -36,8 +35,8 @@ public class XieItemHoe extends ItemHoe {
 
             if (i1 == Block.sand.blockID) {
         		Block block = Block.sand;
-	        	world.playSoundEffect((float)i + 0.5F, (float)j + 0.5F, (float)k + 0.5F, block.stepSound.stepSoundDir2(), (block.stepSound.getVolume() + 1.0F) / 2.0F, block.stepSound.getPitch() * 0.8F);
-	            if(world.multiplayerWorld)
+	        	world.playSoundEffect((float)i + 0.5F, (float)j + 0.5F, (float)k + 0.5F, block.stepSound.stepSoundDir(), (block.stepSound.getVolume() + 1.0F) / 2.0F, block.stepSound.getPitch() * 0.8F);
+	            if(world.singleplayerWorld)
 	            {
 	                return true;
 	            }
