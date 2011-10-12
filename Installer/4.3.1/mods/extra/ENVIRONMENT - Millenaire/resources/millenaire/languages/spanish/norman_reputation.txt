@@ -1,0 +1,9 @@
+0;Extraño;No nos confiamos de los extraños por aquí. Pero trátanos bien y seremos hospitalarios contigo.
+4*64;Conocido;No ha desaparecido ningún pollo desde que llegaste. Sigue así y nos llevaremos bien.
+16*64;Visitante frecuente;¡Buen día, $name! Es bueno verte de nuevo.
+64*64;Marcader preferido;¡Ah, $name! La aldea está feliz de que hayas regresado.
+2*64*64;Amigo de la aldea;Es difícil ganarse la confianza de nosotros los normandos, mas mi buen amigo $name, ¡eres digno de confianza!
+8*64*64;Uno de nosotros;Es un placer verte, $name. Vienes de tierras lejanas, pero igual te consideramos uno de los nuestros.
+-64;Molestia;Te estamos vigilando, $name. Estás advertido.
+-4*64;Forastero indeseable;Has demostrado ser una enorme molestia. No queremos gente de tu clase por aquí.
+-16*64;Enemigo público;Tienes suerte de que no te hayamos echado todavía, un paso en falso y se acabó.

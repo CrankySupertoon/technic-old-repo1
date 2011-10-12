@@ -1,0 +1,12 @@
+name:Unfinished Statue
+weight:10
+radius:30
+biome:forest
+biome:swampland
+biome:plains
+biome:desert
+biome:taiga
+spawnBlock:44
+
+//starting buildings:
+centre:statue

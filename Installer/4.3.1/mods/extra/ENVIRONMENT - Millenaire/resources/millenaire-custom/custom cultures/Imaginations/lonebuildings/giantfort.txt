@@ -1,0 +1,11 @@
+name:Giant Fort
+weight:10
+radius:60
+biome:forest
+biome:swampland
+biome:plains
+biome:desert
+spawnBlock:15
+
+//starting buildings:
+centre:giantfort

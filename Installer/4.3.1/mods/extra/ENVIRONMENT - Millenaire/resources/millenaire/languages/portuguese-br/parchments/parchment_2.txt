@@ -1,0 +1,49 @@
+﻿Millénaire Buildings
+
+Forte: Nas vilas militares, este pequeno forte de madeira substitui a Prefeitura. Um cavaleiro e sua esposa vivem lá. Com acesso suficiente para a pedra, os aldeões irao transformá-la em uma poderosa fortaleza.
+
+Abadia. Aldeias eclesiástica estão centradas sobre este lugar de aprendizado e devoção, onde um monge incansavelmente produz manuscritos, guardados em bonitas estantes. É lá depois de tudo o que os agricultores locais vão pagar seus dízimos - em forma de bens ou de trabalho livre para a Santa Igreja. Tudo vai ser pago de volta no outro mundo.
+
+Mansao. No centro de vilas agricultoras, essas mansoes hospedam um senescal, encarregado de assegurar que os camponeses pagam seus impostos para o rei, e para ele.
+
+Casa da Guilda. A prova da habilidade dos trabalhadores que a construíram, esta casa de guilda serve como sede para os artesaos locais, sob a mao de aço do Mestre da Guilda.
+
+Arquivos Municipais. Exibe um arquivo para cada habitante, que fornece informações sobre o que estao fazendo e seu histórico familiar.
+
+Arsenal. Quando esta habitada por um ferreiro, serve como centro de produçao para espadas e armaduras.
+
+Padaria. Usado pelas aldeas para fazer pao a partir do trigo coletado pelos fazendeiros. Construçao muito importante, visto que a disponibilidade de pao aumenta a velocidade com que as crianças crescem.
+
+Fazenda de Gado. O gado é criado aqui, para coletar couro e fazer tripas normandianas.
+
+Granja de Porcos. Aqui os porcos sao transformados em grandes pilhas de costeletas de porco e magnificos boudin noir.
+
+Fazenda de Ovelhas. Aqui as ovelhas sao criadas para proverem la. Uma pequena área cercada abriga galinhas, cujos ovos e penas sao colhidos.
+
+Capela / Igreja. A capela, depois melhorada para igreja, é visitada pelos aldeaos que precisam rezar.
+
+Fazenda. Uma fazenda de trigo, onde os fazendeiros produzem trigo para as padarias.
+
+Forja. Quando habitado por um ferreiro, serve de centro de producao para ferramentas normandianas, usadas pelos aldeaos e compradas pelo jogador.
+
+Casa de Guarda. Habitada por um guarda e sua esposa.
+
+Cabana do Lenhador. Habitada pelo lenhador e sua esposa.
+
+Presbitério. Habitada por um sacerdote.
+
+Pedreira. Habitada por um mineiro e sua esposa, 
+
+Casa do Carpinteiro. Habitada por um carpinteiro e sua esposa.
+
+Taberna. Aldeas vem aqui para produzir cidra, e depois, quando instalado um alambique, calva. Os aldeaos também vem aqui para beber algo.
+
+Pousada. Mercadores visitantes irao ocupa-la durante a colheita de produtos da aldeia. Se estiver vazia, um jovem homem pode se tornar um mercador aqui.
+
+Casa de Hospedes. Menor que uma pousada, esse lugar pode hospedar um comerciante de visita, mas nenhum jovem irá vir para ca.
+
+Mercado. Qualquer vila decente eventualmente desejará ter um lugar onde os mercadores estrangeiros possam vir vender seus bens exóticos!
+
+Torre de Vigia. Um posto de vigia usado pelos guardas para pratrulhar.
+
+Founte / Grande Fonte : Edificios puramente decorativos.

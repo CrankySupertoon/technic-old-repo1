@@ -1,0 +1,35 @@
+Millénaire Einwohner
+
+Chevalier: Ritter. Lebt in der Festung, von der er raus geht um sein Land zu schützen und besucht die Kneipe. Vermeide es ihm im Kampf zu treffen! Militärs- und gros bourg Dörferchef
+
+Dame: Dame. Lebt in der Festung mit ihrem Ehemann, von der aus sie Wandteppiche aus Wolle macht um ihre Festung damit zu beschmücken und dem Spieler zu verkaufen.
+
+Moine: Mönch. Lebt im Kloster, und kopiert sorgfältig antike Bücher auf neuen Pergamenten. Eine Kunst, seiner Meinung nach. Oberhaupt der heiligen Dörfer.
+
+Sénéchal : Seneschall. Überwacht die landwirtschaftlichen Produktionen in seinem Dorf von seinem Herrensitz aus.  Haupt der agrarischen Dörfer.
+
+Maître de la Guilde : Gildenmeister. Beaufsichtigt die Produktion der Handwerker eines Gildenhauses. Haupt der handwerklichen Dörfer
+
+Villageoise: Dorfbewohnerin. Die meisten erwachsenen Frauen sind so. Ihre Rolle beinhaltet die Ressourcen die von ihren Männern gesammelt wurden ins Rathaus zu bringen, Bauarbeiten an neuen Gebäuden und alte Gebäude zu erweitern, und dem Spieler Waren an verschiedenen Orten zu verkaufen.
+
+Fermier: Bauer. Lebt auf einem Bauernhof, in dem er Samen sät und erntet.
+
+Bûcheron: Holzfäller. Lebt in einer Holzfällerhütte. Er sammelt Holz und Apfelmost von den Bäumen um das Dorf ein und pflanzt Bäumlinge.
+
+Garde: Wache. Lebt in einem Wachhaus. Er tut nichts außer Apfelwein zu drinken und bei gelegenheit geht er beten, es sei denn ein Dorfmitglied wird angegriffen. Es wäre leichtsinnig sich ihn als Feind zu machen, vor allem wenn er mit einem schrecklichen Normannischen Breitschwert ausgerüstet ist.
+
+Prêtre: Priester. Lebt alleine in einem Pfarrhaus. Wenn er in der Kirche nicht betet, schläft er. Gerüchten zu folge versteckt er die Weißheit der antiken Ritualen der Wikinger hinter einer Fassade der katholischen Hingabe.
+
+Forgeron: Schmied. Lebt in einer Schmiede oder im Waffenlager. Falls Eisen verfügbar ist, wird er Werkzeuge herstellen wenn es eine Schmiede ist oder Rüstungen und Schwerter wenn in einem Waffenlager.
+
+Eleveur / Viehzüchter : Männliche und Weibliche Viehzüchter. Leben in einer Rinder-,Schweine- oder Hühnerfarm. Sie sammeln verschiedene Waren von Tierfarmen und stellen dampfigen Normannischen Mist und leckere Blutwurst her.
+
+Mineur : Bergarbeiter. Lebt und arbeitet in einem Steinbruch, und baut unermüdlich Steine und Sand ab. Wenn sein Steinbruch mit Öfen erweitert wird, schmilzt er sie zudem zu weichem Stein und Sand.
+
+Charpentier : Schreiner. Lebt und arbeitet in einer Schreinerei, in der er Holzrahmen für Gebäude herstellt.
+
+Marchant : Händler. Geht von Gasthaus zu Gasthaus, handelt Waren von einem Dorf zum anderem. Es ist sein Schicksal für das wohl der Dorfbewohner herumzuwandern.
+
+Marchant étranger : Ausländischer Händler. Händler der von weit weg kommt besucht die Märkte um seine exotischen Waren zu verkaufen.
+
+Garçon / fille : Junge und Mädchen. Leben mit ihren Eltern und wachsen in der Nacht bis sie Erwachsen genug sind in einem freien Haus einzuziehen und selber zu Erwachsenen werden.

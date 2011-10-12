@@ -1,0 +1,10 @@
+Stone
+Rock
+Granite
+Diorite
+Shale
+Pumis
+Lime
+Quartz
+Hematite
+Hardened

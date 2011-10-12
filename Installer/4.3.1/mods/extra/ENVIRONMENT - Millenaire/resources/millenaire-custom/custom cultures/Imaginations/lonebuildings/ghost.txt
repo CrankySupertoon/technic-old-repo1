@@ -1,0 +1,14 @@
+name:Haunted Land
+weight:10
+radius:5
+biome:forest
+biome:swampland
+biome:plains
+biome:desert
+biome:taiga
+biome:extreme hills
+biome:river
+biome:ocean
+
+//starting buildings:
+centre:ghost

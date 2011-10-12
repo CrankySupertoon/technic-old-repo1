@@ -1,0 +1,30 @@
+culture.norman=Норманны
+
+//Norman:
+villager.carpenter=Плотник
+villager.cattleFarmerMale=Скотовод
+villager.cattleFarmerFemale=Скотовод
+villager.boy=Мальчик
+villager.girl=Девочка
+villager.teenagerMale=Подросток
+villager.teenagerFemale=Подросток
+villager.farmer=Фермер
+villager.viking_merchant=Торговец Викингов
+villager.weapon_merchant=Торговец оружием
+villager.plant_merchant=Торговец травами
+villager.oriental_merchant=Местный торговец
+villager.art_merchant=Торговец искусством
+villager.wool_merchant=Торговец шерстью
+villager.food_merchant=Торговец едой
+villager.guard=Охранник
+villager.guildmaster=Мастер гильдии
+villager.knight=Рыцарь
+villager.lady=Леди
+villager.lumberman=Дровосек
+villager.merchant=Торговец
+villager.miner=Шахтер
+villager.monk=Монах
+villager.priest=Священник
+villager.seneschal=Сенешаль
+villager.smith=Кузнец
+villager.wife=Жена крестьянина

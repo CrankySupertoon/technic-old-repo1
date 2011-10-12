@@ -1,0 +1,1 @@
+max:1;priority:50;french:Abrevoir;english:Water Through;around:1;startLevel:-1;orientation:1;width:5;length:3;
