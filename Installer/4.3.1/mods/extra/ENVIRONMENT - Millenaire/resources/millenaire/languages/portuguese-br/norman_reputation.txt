@@ -1,0 +1,9 @@
+0;Estranho;Somos cuidadosos com estranhos por aqui, forasteiro. Mas, trate-nos bem e seremos hospitaleiros com você.
+4*64;Conhecido;Nos temos visto você pelas redondezas ultimamente, e ate agora nenhuma galinha parece ter desaparecido... continue assim e nos daremos bem.
+16*64;Visitante Regular;Bem Vindo, $name! E bom ver você novamente.
+64*64;Comerciante;Ah, $name! Toda a vila estava esperando por seu retorno.
+2*64*64;Amigo da Vila;Nos Normandos nao somos de confiar nas pessoas, mas você tem se provado ser uma pessoa de confiança.
+8*64*64;Um de Nós;E um prazer velo aqui $name. você pode ter vindo de terras distantes, mas consideramos você como um de nós.
+-64;Incomodo;Estamos de olho em você, $name. Esta avisado.
+-4*64;Forasteiro Indesejavel;Você tem demonstrado ser um grande incomodo, nao queremos gente da tua laia por aqui.
+-16*64;Inimigo Publico;Tem sorte de ainda nao ter sido expulso daqui. Um passo em falso e esta fora!

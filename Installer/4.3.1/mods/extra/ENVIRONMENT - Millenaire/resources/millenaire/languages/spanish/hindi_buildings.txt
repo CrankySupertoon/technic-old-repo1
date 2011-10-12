@@ -1,0 +1,31 @@
+﻿brickkiln_A0=Fuerte de ladrillos
+chiefhouse_A0=Casa del jefe
+fort_A0=Fuerte
+grove_A0=Arboleda
+lumbermanhouse_A0=Casa de leñador
+paddy_A0=Arrozal
+pandithouse_A0=Casa de sacerdote
+peasanthouse_A0=Casa de campesino
+peasanthouse_B0=Casa campesina
+peasanthouse_C0=Casa campesina
+playerhugefield_A0=Terreno muy grande
+playerlargefield_A0=Terreno grande
+playersmallfield_A0=Terreno pequeño
+playersmallhouse_A0=Casa pequeña
+quarry_A0=Cantera
+soldierhouse_A0=Caso de soldado 
+sugarplantation_A0=Plantación de azúcar
+villagetemple_A0=Templo de la aldea
+armyforge_A0=Herrería del ejército
+forge_A0=Herrería
+playerestate_A0=Mansión
+quarry_B0=Cantera
+spicegarden_A0=Jardín de especias
+brickkiln_A0=Fuerte de ladrillos
+scultorhouse_A0=Casa de escultor
+archives_A0=Archivos municipales
+
+
+
+
+

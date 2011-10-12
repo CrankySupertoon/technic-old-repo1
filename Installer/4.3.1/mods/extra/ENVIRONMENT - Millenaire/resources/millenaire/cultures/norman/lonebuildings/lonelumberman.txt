@@ -1,0 +1,7 @@
+name:Bûcheron solitaire
+weight:10
+radius:10
+biome:forest
+
+//starting buildings:
+centre:lonelumbermanhut

@@ -1,0 +1,21 @@
+native_name=K'as Aj
+gender=female
+familyNameList=low_caste_family_names
+firstNameList=low_caste_women_names
+tag=hostile
+baseHeight=0.8
+health=20
+model=femaleasymmetrical
+
+texture=/mob/mayan/mayanfemalebandit0.png
+texture=/mob/mayan/mayanfemalebandit1.png
+
+goal=gorest
+goal=goDrink
+goal=patrol
+goal=huntmonster
+
+baseAttackStrength=6
+tag=helpInAttacks
+defaultweapon=woodsword
+experiencegiven=10
