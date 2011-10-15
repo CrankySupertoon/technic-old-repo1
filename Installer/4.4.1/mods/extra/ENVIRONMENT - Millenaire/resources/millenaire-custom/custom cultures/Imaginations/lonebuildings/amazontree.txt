@@ -1,0 +1,10 @@
+name:Amazon Tree Fort
+weight:10
+radius:20
+biome:forest
+biome:taiga
+biome:extreme hills
+spawnBlock:6
+
+//starting buildings:
+centre:amazontree

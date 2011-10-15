@@ -1,0 +1,10 @@
+name:Amazon Tribe
+weight:10
+radius:20
+biome:forest
+biome:taiga
+biome:extreme hills
+spawnBlock:82
+
+//starting buildings:
+centre:amazon

@@ -1,0 +1,6 @@
+version 1.9.1<br>
+originally by Evenprime<br>
+maintained by SmartyGeek<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/504091-v173-convenient-inventory-19/">HERE</a>.<br><br>
+
+Makes inventory management a snap. Holding SHIFT, CTRL or ALT and clicking on an item in an inventory screen will move groups of items to and from different windows. Items out of order? Hit the middle mouse button to sort everything! Makes life easier!

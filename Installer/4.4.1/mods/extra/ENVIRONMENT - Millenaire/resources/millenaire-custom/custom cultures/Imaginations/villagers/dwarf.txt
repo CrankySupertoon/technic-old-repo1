@@ -1,0 +1,22 @@
+native_name=Dwarf Rogue
+gender=male
+baseHeight=0.6
+familyNameList=surnamed
+firstNameList=firstnamed
+tag=hostile
+
+texture=/mob/imaginations/dwarf0.png
+texture=/mob/imaginations/dwarf1.png
+texture=/mob/imaginations/dwarf2.png
+texture=/mob/imaginations/dwarf3.png
+texture=/mob/imaginations/dwarf4.png
+
+goal=gorest
+goal=goDrink
+goal=patrol
+goal=huntmonster
+
+baseAttackStrength=5
+tag=helpInAttacks
+defaultweapon=steelsword
+experiencegiven=5

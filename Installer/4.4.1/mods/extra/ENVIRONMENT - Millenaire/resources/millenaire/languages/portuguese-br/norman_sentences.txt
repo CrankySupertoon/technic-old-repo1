@@ -1,0 +1,92 @@
+﻿villager.greeting=Bonjour, $name! / Bom dia, $name!
+villager.greeting=Belle journée, n'est pas? / Belo dia, nao acha?
+villager.greeting=Il va pleuvoir, je le sens / Vai chover, posso sentir isso.
+villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / Nao me lembro muito bem como era a Normandia.
+guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / você nao parece muito bem, $name. Eu vou te proteger caso entre em apuros.
+priest.greeting=Soyez béni, mon fils. / Bençaos sobre você, meu filho.
+monk.greeting=Dieu soit avec toi, mon frère. / Deus esta com você, irmao.
+boy.greeting=Quand je serai grand, je veux être comme papa. / Quando eu crescer, quero ser igual meu pai!
+knight.greeting=Je n'obéi qu'au Roi Guillaume, Duc de Normandie, et à Dieu. Dans cet ordre. / Eu obedeço apenas o Rei William, Duque da Normandia, e Deus. Nessa ordem.
+knight.greeting=$name, saviez-vous que j'ai combattu à Hastings? / $name, você sabia que eu lutei em Hastings?
+knight.greeting=Je prend possession de cette terre au nom du Duc de Normandie! / Reclamo essas terras em nome do Duque da Normandia!
+lady.greeting=Ma sœur a épousé un duc. Je vis ici. / Minha irma se casou com um duque, e eu, eu moro aqui...
+lady.greeting=Vous auriez dû voir le château de mon père. Ca c'était une vrai forteresse. / Você deve ter visto o castelo de meu pai, é uma grande fortaleza.
+viking_merchant.greeting=Cette terre appartient aux vikings. L'Angleterre aussi. La Sicile aussi. Vive nous! / Essas terras sao terras viking. A Inglaterra é terra viking. A Sicilia é terra Viking. Viva os Vikings!!!
+viking_merchant.greeting=Aujourd'hui je vient commercer. Demain... / Hoje eu estou comerciando. Amanha...
+weapon_merchant.greeting=Vous voulez vraiment savoir comment j'ai survécu toutes ces années voyageant seul avec des marchandises précieuses? / Você quer saber como eu sobrevivi todos esses anos viajando sozinho com cargas valiosas?
+plant_merchant.greeting= / Some people say I'm a dreamer, but I'm not the only one...
+oriental_merchant.greeting=Ce pays est riche, mais fallait il vraiment qu'il soit si froid? / Esse país é rico, mas precisa fazer tanto frio?
+oriental_merchant.greeting=Etes vous allez à Cordoue? Ca, c'est une ville civilisée. / Você ja esteve em Cordoba? Agora é um lugar civilizado...
+art_merchant.greeting=Les gens ici sont des barbares. / Todos aqui sao bárbaros.
+art_merchant.greeting=Aucune ville dans le monde n'est comparable à Constantinople. / Nenhuma cidade nesse mundo se compara a Constantinopla.
+art_merchant.greeting=Nous les byzantins sont les derniers vrais romans. Admirez notre civilisation! / Nós, os Bizantinos, somos os ultimos romanos verdadeiros. Admire a gloria de nossa civilizacao.
+wool_merchant.greeting=Les textiles hollandais sont les meilleurs à l'ouest de Cathay. / Os texteis olandeses sao os melhores do oeste do Catay.
+seneschal.greeting=Je gère ces terres pour mon roi. / Eu controlo essas terrar para meu rei.
+seneschal.greeting=J'ai hâte de retourner à la cours du roi. / Estou impaciente para voltar para a corte real.
+guildmaster.greeting=Les artisans ne valent rien sans quelqu'un pour les superviser. / Artesao nao sao bons sem alguem para gerencia-los.
+
+knight.patrol=Je reigne sur ces terres. / Eu comando nessas terras.
+knight.patrol=La force fait le droit, et je suis fort. / O forte e sempre o certo, e eu sou forte.
+
+lady.MakeTapestry=Personne ici n'apprécie l'art. / Ninguem aqui aprecia arte.
+lady.MakeTapestry=Peut-être que ces pièces seront moins glauques avec ces tapisseries. Peut-être. / Talvez esse lugar pareca menos sujo com isso na parede... Talvez...
+
+villager.gorest=Un peu de repos me ferait du bien... / Um pouco de descanso me faria bem...
+villager.gorest=La vie ici est un peu morne. / A vida aqui e um pouco maçante.
+villager.gorest=Rien d'intéressant n'arrive jamais ici. / Nunca acontece nada interessante por aqui...
+villager.gorest=Je suis fatigué. / Estou cansado.
+villager.godrink=C'est à boire qu'il nous faut! / Preciso de uma bebida!
+villager.godrink=Un cidre n'a jamais fait de mal à personne. / Um pouco de cidra nao mata ninguem.
+villager.gopray=Je parle à Dieu, pas vous, $name. / Estou falando com Deus, nao com você, $name.
+
+farmer.BringBackResourcesHome=Récoltons ce blé doré. / Vamos colher esse trigo dourado.
+farmer.CollectCrop=On dirait que le blé est mûr. / Parece que o trigo esta maduro.
+farmer.PlantSeeds=Je plante, et je récolterai. / Eu planto, eu colho.
+
+lumberman.BringBackResourcesHome=Même ma femme devra admettre que c’est beaucoup de bois. / Ate minha mulher tera que admitir que aqui tem muita madeira.
+lumberman.ChopTrees=Regardez-moi couper cet arbre ! / Veja como eu corto essa árvore!
+lumberman.GatherGoods=Bel arbrisseau là-bas. / Que bela muda.
+lumberman.PlantSaplings=Bientôt ce sera un arbre magnifique ! Et je le couperai. / Logo esta sera uma grande árvore, majestosa! E eu irei corta-la.
+
+wife.GetHouseTHResources=On dirai que mon mari a travaillé pour une fois. / Parece que o preguicoso do meu marido finalmente produziu algo...
+wife.GetResourcesForBuild=Je part chercher une tonne ou deux de matérieaux. Je suis plus forte que j’en ai l’air ! / Estou indo pegar uma ou duas toneladas de materiais de construcao. Que foi? Sou mais forte do que pareco.
+//villager.DeliverResourcesShop=
+wife.MakeBread=Mon pain est le meilleure du village. / Meu pao e o melhor dessa cidade.
+//villager.BeSeller=Coming, coming!
+wife.MakeCider=Préparer le cidre n’est pas le pire travail par ici. / Preparar cidra nao e o pior trabalho por aqui.
+wife.Construction=Je construit, je construit, comme seule une femme le peu ! / Construir, construir, como so uma mulher pode fazer!
+wife.Construction=Les hommes n’ont pas la finesse nécessaire au travail de précision. / Os homens nao tem a clareza necessaria para um trabalho de precisao.
+wife.Construction=Ca va être un bâtiment superbe. / Esse vai ser um edificio fantastico.
+wife.GetGoodsHousehold=Pourquoi est ce toujours moi qui doit tout aller chercher ? / Por que sempre sou eu que tenho que fazer tudo?
+wife.DeliverGoodsHousehold="Vas chercher ça, vas chercher ça", ils me disent. Un jour je refuserais ! /  "Pegue isso, pegue aquilo", ele diz. Um dia eu nao vou! EU NAO VOU!
+
+villager.GoPlay=Je vais aller jouer dehors. / Acho que vou brincar la fora.
+villager.BecomeAdult=Il est l’heure de devenir quelqu’un ! / E hora de se tornar alguem na vida!
+
+villager.MakeBoudin=Vous ne le mangeriez pas si vous saviez comment c’est fait. / você nao comeria isso se soubesse do que e feito...
+
+smith.MakeTools=Les outils normands sont les meilleurs du monde. / Ferramentas normandianas sao as melhores do mundo.
+
+miner.Mining=Miner est un art, vous savez. / Minerar e uma arte, você sabe.
+miner.Mining=Personne d’autre dans le village n’a la force et l’endurance nécessaire à ce travail. Et vous pensez qu’ils sont reconnaissants ? / Ninguem no vilarejo tem forca e resistencia pra fazer esse trabalho... E que recompensa eu recebo?
+miner.Cooking=Ca c’est de la vrai cuisson. / Isso que e cozinhar de verdade.
+
+villager.gopray.chosen=Ca fait longtemps que je n’ai pas prié… / Ja faz tempo desde a ultima vez que rezei...
+priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / Rezar e mais dificil do que parece..
+
+villager.calltoarms=Aux armes ! Aux armes ! / A LUTA! A LUTA!
+villager.calltoarms=Montjoi Saint-Denis!
+villager.calltoarms=Tous pour un ! / Todos por um!
+villager.calltoarms=Aux armes, citoyens!
+
+monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / Se a vaidade nao fosse um pecado, eu diria que meus manuscritos sao os melhores da terra.
+
+priest.makeamulets=Ceci ne devrait pas être vu par un étranger… / Isso nao deveria ser visto por um forasteiro...
+
+viking_merchant.KeepStall=La magie viking est puissance. / A magia viking e poderosa.
+viking_merchant.KeepStall=Venez et achetez. Je ne vous parlerai pas des sacrifices nécessaires pour rendre ces amulettes puissantes. / Venha e compre. Eu nao vou te dizer quantos sacrificios foram necessarios para tornar esses amuletos fortes.
+weapon_merchant.KeepStall=Vous ne voulez pas savoir ce qui est arrivé à l’homme qui m’a fait cette cicatrice. Mais vous pouvez acheter la lame que j’ai utilisée. / Você nao quer saber o que aconteceu com o homem que me deu essa cicatriz, mas voc� pode comprar a lamina que eu usei.
+plant_merchant.KeepStall=Je vend toutes les herbes dont vous aurez jamais besoin. / Eu tenho todas as ervas de que você precisa.
+oriental_merchant.KeepStall=Venez voir des produits de luxes tels que les gens d’ici ne voient jamais ! / Venha e veja telas que as pessoas daqui podem apenas sonhar!
+art_merchant.KeepStall=Des perles pour des cochons, comme ils disent ici. / Perolas aos porcos, como dizem aqui.
+wool_merchant.KeepStall=Toute la laine rose qu’il vous faut ! / A la rosa que você procura esta aqui!

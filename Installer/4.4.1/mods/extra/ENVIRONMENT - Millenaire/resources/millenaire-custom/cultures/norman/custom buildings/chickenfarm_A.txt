@@ -1,0 +1,1 @@
+max:1;priority:10;french:Elevage de poulets;english:Chicken Farm;around:2;startLevel:-1;orientation:2;male:ml_CattleFarmer;female:ml_Wife;width:9;length:9;shop:sheepchickenfarm;tag:sheeps;

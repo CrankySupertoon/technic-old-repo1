@@ -1,0 +1,13 @@
+name:Tooks Territory
+weight:10
+radius:5
+biome:forest
+biome:swampland
+biome:plains
+biome:desert
+biome:taiga
+biome:extreme hills
+biome:river
+
+//starting buildings:
+centre:kingtook

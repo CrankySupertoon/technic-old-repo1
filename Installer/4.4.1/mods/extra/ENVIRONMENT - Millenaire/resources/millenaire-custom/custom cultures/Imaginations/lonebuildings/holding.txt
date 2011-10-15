@@ -1,0 +1,11 @@
+name:The Holding Grounds
+weight:10
+radius:25
+biome:forest
+biome:swampland
+biome:plains
+biome:desert
+spawnBlock:50
+
+//starting buildings:
+centre:holding

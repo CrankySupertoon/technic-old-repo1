@@ -1,0 +1,10 @@
+version 2.2_01<br>
+by ReiFNSK<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/482147-173-aug14-reis-minimap-v16-01/">HERE</a>.<br><br>
+
+Adds a realtime minimap with features such as waypoints, cave maps and entity locations.<br><br>
+
+<b>Key Commands</b><br>
+[M] - Bring up configuration menu<br>
+[X] - Set waypoint at current location<br>
+[TAB] - Display overview map<br>
