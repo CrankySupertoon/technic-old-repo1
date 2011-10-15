@@ -48,6 +48,12 @@ ui.buyscroll=Acheter le parchemin du village.
 ui.cost=Coût
 ui.scrollbought=Nous vous confions le parchemin du village!
 ui.housebought=la construction de votre <0> va commencer!
+ui.inhabitantof=Habitant de <0>
+ui.refusequest=Refuser
+ui.finishquest=Accepter
+ui.obtained=Obtenu
+ui.lackingcondition=Il vous manque:
+ui.lackinghiddengoods=Vous n'avez pas les objets nécessaires à cette tâche.
 ui.inconstruction=En Construction
 ui.nospace=Pas assez d'espace
 ui.reservedforvillager1=Réservé pour
@@ -86,6 +92,11 @@ ui.buildingsextra=Bâtiments additionnels
 ui.worldnotgenerated=Le terrain aux alentours n'est pas complètement généré. Marchez et revenez.
 ui.lackingresources=Resources insuffisantes
 ui.lockedchestwarning=ATTENTION: détruire un coffre verrouillé empêche les villages de fonctionner correctement. Ne faites ça que si vous voulez détruire le village.
+ui.lessthananhourleft=il reste moins d'une heure!
+ui.timeremaining=Temps restant
+ui.hours=heure(s)
+ui.noquestsvisible=Pas de quêtes à lister
+ui.questlist=Quêtes en cours
 
 //Item names
 item.building=Bâtiments
@@ -258,3 +269,8 @@ other.west_short=O
 other.east_short=E
 other.north_short=N
 other.south_short=S
+
+other.metre=metres
+other.kilometre=kilometres
+other.andhalf=et demi
+

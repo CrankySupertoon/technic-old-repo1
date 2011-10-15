@@ -15,7 +15,7 @@ goal=keepStall
 
 startingInv=bread,16
 startingInv=porkchops,8
-startingInv=cookedfish,8
+startingInv=fishcooked,8
 startingInv=cider,4
 startingInv=boudin,4
 startingInv=cake,1

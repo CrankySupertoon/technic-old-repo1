@@ -108,5 +108,5 @@ dye_red,0,0,0,0,4
 dye_black,0,0,0,0,8
 
 //for food seller
-cookedfish,0,0,0,0,16
+fishcooked,0,0,0,0,16
 cake,0,0,0,0,128

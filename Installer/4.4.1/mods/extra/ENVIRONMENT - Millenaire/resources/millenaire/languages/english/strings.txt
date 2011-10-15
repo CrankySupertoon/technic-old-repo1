@@ -49,6 +49,12 @@ ui.buyscroll=Buy the village scroll.
 ui.cost=Cost
 ui.scrollbought=You are now entrusted with our village's parchment!
 ui.housebought=the construction of your <0> will start shortly!
+ui.inhabitantof=Inhabitant of <0>
+ui.refusequest=Refuse
+ui.finishquest=Accept
+ui.obtained=Obtained
+ui.lackingcondition=You are lacking:
+ui.lackinghiddengoods=You do not have the goods needed for this task.
 ui.inconstruction=In Construction
 ui.nospace=Not enough space
 ui.reservedforvillager1=Reserved
@@ -87,6 +93,11 @@ ui.buildingsextra=Extra buildings
 ui.worldnotgenerated=The area around is not fully generated. Walk around and come back.
 ui.lackingresources=Lacking resources
 ui.lockedchestwarning=WARNING: destroying locked chests will prevent villages from working properly. Only do it if you want to destroy the village.
+ui.lessthananhourleft=Less than an hour left!
+ui.timeremaining=Time remaining
+ui.hours=hour(s)
+ui.noquestsvisible=No listable quests in process
+ui.questlist=Quests in progress
 
 //Item names
 item.building=Building
@@ -260,3 +271,6 @@ other.east_short=E
 other.north_short=N
 other.south_short=S
 
+other.metre=metres
+other.kilometre=kilometres
+other.andhalf=and a half

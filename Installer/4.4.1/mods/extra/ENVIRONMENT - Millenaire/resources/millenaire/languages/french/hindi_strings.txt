@@ -21,3 +21,4 @@ villager.indian_raja=
 villager.indian_rani=
 villager.indian_merchant=Marchant
 villager.indian_lonetrader=Marchant isolé
+villager.indian_adivasipeasant=Paysan adivasi
