@@ -1,0 +1,16 @@
+version 1.8<br>
+by Zeldo<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/653775-181bc222-buildcraft-teleport-pipes-now-called-additionalpipes-18-bug-fixes/">HERE</a>.<br>
+<i>Like this mod? Then <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HZRJZ38PAR6HJ">DONATE</a> to show your support to the author!<br><br></i>
+
+1. Item, Liquid, Power Teleport Pipes<br>
+These pipes do as the names imply and teleport items/liquids/power to there respective receiving pipes
+<br><br>
+2. Distribution Pipe<br>
+This pipe will evenly distribute the items sent to it to every possible output
+<br><br>
+3. Advanced Wooden Pipe<br>
+Using the GUI for this pipe you can set it to only take out certain items, or to leave only certain items in the inventory it is pulling from.
+<br><br>
+4. Advanced Insertion Pipe<br>
+When this pipe is connected to a chest it (and the chest can accept items) the item will be shot into the chest faster then light. It does this to prevent items from popping out when 2 items try to fill a chests 1 open slot.

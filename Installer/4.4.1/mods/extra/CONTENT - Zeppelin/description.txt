@@ -1,0 +1,35 @@
+version 0.161<br>
+by blakmajik<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/488434-181-zeppelin-016-wip/">HERE</a>.<br>
+<i>Like this mod? Then <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=MJMTL7NFBJ6W8&lc=CA&item_name=Zeppelin%20Mod&currency_code=CAD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted">DONATE</a> to show your support to the author!<br><br></i>
+
+Zeppelin is a mod you can use to fly ships around in the Minecraft world. It is not limited to the world grid, but can move freely in space. <br><br>
+
+<span style="font-size: 21px;">Usage</span><br>
+Create a craft controller block<br>
+<img src="http://img220.imageshack.us/img220/8387/craftcontrolrecipies015.png" alt="Posted Image" class="bbc_img"><br>
+<br>
+Airship moves forward/back, up/down, and can turn.  Ship moves forward/back and can turn.  Elevator only goes up/down.  Turntable only rotates.<br>
+<br>
+
+Place this block on your 'ship'.  The direction you place the block will determine the forward direction for the craft.  Right click the block.  The craft will be determined.  If it is too large, you will get an error.  Default max size is 1024 blocks.<br>
+<br>
+Blocks that will not be accepted as part of a ship by default (you can change this - see configuration section):<br>
+<ul class="bbc"><li>Air<br></li><li>Stone<br></li><li>Grass<br></li><li>Dirt<br></li><li>Bedrock<br></li><li>Water<br></li><li>Lava<br></li><li>Sand<br></li><li>Gravel<br></li><li>Snow<br></li><li>Ice<br></li><li>A few more random things like flowers and mushrooms</li></ul><br>
+
+All other blocks are allowed, but they may not all work!  Containers other than chests will show up on the craft, but are not usable.  Their contents will be dropped when the craft is created.<br>
+<br>
+The following blocks will be included, but will not chain to other blocks when detecting a ship (you can change this - see configuration section):<br>
+<ul class="bbc"><li>Beds<br></li><li>Ladders<br></li><li>Plants<br></li><li>Minecart Rails<br></li><li>Signs<br></li><li>Redstone Wire<br></li><li>Torches<br></li><li>Buttons/Levels/Plates<br></li><li>Redstone Repeaters<br></li><li>Trapdoors<br></li><li>Melon/Pumpkin Stem<br></li><li>Lilly Pad<br></li><li>Nether Wart<br></li><li>*See config for exact list</li></ul><br>
+
+<br>
+Controls for the ship are on the number pad by default.<br>
+8 Increase speed<br>
+2 Decrease speed<br>
+4 Rotate left<br>
+6 Rotate right<br>
+5 Stop<br>
++ Ascend<br>
+- Descend<br>
+
+* Align to grid

@@ -1,0 +1,5 @@
+version 1.8<br>
+by Risugami<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/75440-v181-risugamis-mods-everything-updated/">HERE</a>.<br>
+
+This item when used opens up a GUI of every recipe that can be done. The items can not be touched, but you can read tool tip. Left click moves to next recipe. Right click moves to previous recipe. The recipe for recipe book is 1 book, 1 ink sac. It's a shapeless recipe. Requires ModLoader Beta 1.8.<br><br>

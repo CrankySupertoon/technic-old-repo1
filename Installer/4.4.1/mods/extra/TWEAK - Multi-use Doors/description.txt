@@ -1,0 +1,53 @@
+version 1.1<br>
+by Evandela<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/338754-181v11-multi-use-doors/">HERE</a>.<br>
+<br><br>
+
+This aims to make doors as useful and versatile as possible without adding any new blocks or items. That way your world should be usable without item loss when used without this mod. (Just be careful about where you place the windows. Default Minecraft will delete the block directly underneath when one gets disturbed.)
+<br><br>
+
+Solid panels:<br>
+<img src="http://dl.dropbox.com/u/28091680/CraftSolid.png" alt="Posted Image" class="bbc_img"><br>
+Window panels:<br>
+<img src="http://dl.dropbox.com/u/28091680/CraftWindow.png" alt="Posted Image" class="bbc_img"><br>
+Reconstructing the original door:<br>
+<img src="http://dl.dropbox.com/u/28091680/CraftDoor.png" alt="Posted Image" class="bbc_img"><br>
+- This recipe can also be done outside of the crafting table, by placing a solid panel with a window one on top.<br><br>
+
+- Liquid will spread downward through an open trapdoor. For now it will only start spreading to other blocks if it's given a second block to fall.<br>
+- Aligned trapdoors open together, allowing longer doors or double trapdoors to work as one<br>
+- The hinge may now be supported by a half block or a cubic block underneath on the hinge side, allowing flatter placement without blocks that you have to hop over getting in your way.<br>
+<img src="http://dl.dropbox.com/u/28091680/TrapdoorFlat.png" alt="Posted Image" class="bbc_img">
+<br><br>
+- Clicking double wooden doors by hand will open two, if you face the direction you will walk through and can reach both handles.<br>
+- Redstone opens up to 4 matching doors in a 2x2 area.<br>
+- Preexisting door circuits will continue to work unless they depended on door-changing mods like BetterBlocks.<br>
+- Works for all of this mod's door types, including diagonal ones<br>
+- No redstone necessary:<br>
+<img src="http://dl.dropbox.com/u/28091680/2011-05-24_20.13.56.png" alt="Posted Image" class="bbc_img">
+<br><br>
+- Opened and closed via the block in the doorway.<br>
+- Works for all door types<br>
+<img src="http://dl.dropbox.com/u/28091680/DiagonalDouble.png" alt="Posted Image" class="bbc_img">
+<br><br>
+- A door panel that isn't a gate or a shutter<br>
+<img src="http://dl.dropbox.com/u/28091680/HalfDoors.png" alt="Posted Image" class="bbc_img">
+<br><br>
+- Half doors next to fences become gates.<br>
+- They automatically line up with fences and are the same height.<br>
+<img src="http://dl.dropbox.com/u/28091680/GateWood.png" alt="Posted Image" class="bbc_img"><br>
+<img src="http://dl.dropbox.com/u/28091680/GateIron.png" alt="Posted Image" class="bbc_img"><br>
+<img src="http://dl.dropbox.com/u/28091680/FenceWindowWood.png" alt="Posted Image" class="bbc_img"><br>
+<img src="http://dl.dropbox.com/u/28091680/FenceWindowIron.png" alt="Posted Image" class="bbc_img">
+<br><br>
+- Door panels with a supporting block or door both below and above become shutters<br>
+<img src="http://dl.dropbox.com/u/28091680/ShutterWoodSolid.png" alt="Posted Image" class="bbc_img"><br>
+<img src="http://dl.dropbox.com/u/28091680/WindowWood.png" alt="Posted Image" class="bbc_img"><br>
+<img src="http://dl.dropbox.com/u/28091680/WindowIron.png" alt="Posted Image" class="bbc_img"><br>
+<br>
+- Some cabinets:<br>
+<img src="http://dl.dropbox.com/u/28091680/ShutterWoodSolid2.png" alt="Posted Image" class="bbc_img"><br>
+<img src="http://dl.dropbox.com/u/28091680/ShutterIronSolid.png" alt="Posted Image" class="bbc_img">
+<br><br>
+Freely place doors on transparent blocks like leaves, glass, and ice. Beware that they will break if used without this mod.
+Posted Image
