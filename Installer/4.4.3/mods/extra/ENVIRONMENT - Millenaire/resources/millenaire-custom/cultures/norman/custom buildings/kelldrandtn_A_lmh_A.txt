@@ -1,0 +1,1 @@
+type:subbuilding;priority:2000;native:Tour de garde;around:1;startLevel:-4;orientation:2;length:60;width:48;male:ml_Lumberman;female:ml_Wife

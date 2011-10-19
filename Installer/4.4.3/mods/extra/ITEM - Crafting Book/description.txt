@@ -1,0 +1,9 @@
+version R3<br>
+by Shockah / IceWolf<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/78064-181-shockahs-mods-updating-in-progress/">HERE</a>.<br>
+
+Not to be mistaken with Risugami's Recipe Book.<br>
+This mod adds a new book, that shows recipes using item that you put in it. Like - put stick in it - see all the recipes using sticks and recipes making sticks.<br>
+The crafting recipe is shapeless.<br>
+<br>
+<a href="http://imgur.com/P2p5P" class="bbc_url" title="" rel="nofollow"><img src="http://i.imgur.com/P2p5Ps.jpg" alt="Posted Image" class="bbc_img"></a> <a href="http://imgur.com/Ea1tH" class="bbc_url" title="" rel="nofollow"><img src="http://i.imgur.com/Ea1tHs.jpg" alt="Posted Image" class="bbc_img"></a>

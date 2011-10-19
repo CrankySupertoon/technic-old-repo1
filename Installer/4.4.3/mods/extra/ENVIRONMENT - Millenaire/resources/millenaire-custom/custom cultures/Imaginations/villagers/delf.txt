@@ -1,0 +1,21 @@
+native_name=Dark Elf
+gender=male
+baseHeight=0.9
+familyNameList=surnamede
+firstNameList=firstnamede
+tag=hostile
+tag=noleafclearing
+
+texture=/mob/imaginations/delf0.png
+texture=/mob/imaginations/delf1.png
+texture=/mob/imaginations/delf2.png
+
+goal=gorest
+goal=goDrink
+goal=patrol
+goal=huntmonster
+
+baseAttackStrength=7
+tag=helpInAttacks
+defaultweapon=steelsword
+experiencegiven=7

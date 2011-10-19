@@ -1,0 +1,22 @@
+villager.greeting=Hello, there $name!
+villager.greeting=How fair thee traveler?
+villager.greeting=Ahh, well met $name.
+
+villager.gorest=Hrmm must sleep now.
+villager.gorest=I must need sleep soon.
+villager.gorest=Yaaawn, bed time for me.
+
+villager.godrink=So, thirsty.
+villager.godrink=Wheres my ale?
+
+villager.BringBackResourcesHome=Give a hand would ya.
+
+villager.calltoarms=You better have a weapon if you want to fight me.
+villager.calltoarms=The intruder must die.
+villager.calltoarms=Attack!
+
+miner.Mining=Hi ho, hi ho.
+miner.Mining=Argh, broke another dang pick.
+miner.Mining=Jackpot!
+
+villager.makebooks=Binding books is no simple task.

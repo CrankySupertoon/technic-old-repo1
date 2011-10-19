@@ -1,0 +1,23 @@
+native_name=Amazon Queen
+gender=female
+familyNameList=surnamea
+firstNameList=firstnamea
+tag=hostile
+tag=noleafclearing
+baseHeight=1.1
+model=femaleasymmetrical
+health=50
+
+texture=/mob/imaginations/amazonq0.png
+texture=/mob/imaginations/amazonq0.png
+
+goal=gorest
+goal=goDrink
+goal=patrol
+goal=huntmonster
+
+
+baseAttackStrength=13
+tag=helpInAttacks
+defaultweapon=diamondsword
+experiencegiven=15

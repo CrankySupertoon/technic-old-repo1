@@ -1,0 +1,56 @@
+version 0.8.5<br>
+by Pfaeff<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/200272-v181-pfaeffs-mod-ssp-v085-allocator-jump-pad-and-more/">HERE</a>.<br>
+
+<span style="font-size: 26px;">The Allocator</span></strong></span><br>
+<span class="bbc_center">Default ItemID: 114 (104 before the 1.8 update)</span><br>
+<br>
+<span class="bbc_center"><img src="http://img715.imageshack.us/img715/1193/allocator3d.png" alt="Posted Image" class="bbc_img"></span><br>
+		<br>
+<span class="bbc_center"><em class="bbc">Description:</em></span><br>
+The Allocator sucks in items at the input and throws them out at the output.<br>
+If a chest or a dispenser is connected to it, it will be used as input/output.<br>
+
+As this was originally a suggestion for a new official Minecraft block type, there is this <a href="http://www.minecraftforum.net/viewtopic.php?f=1&amp;t=216208&amp;p=3133573#p3133573" class="bbc_url" title="">suggestion topic</a>, which contains more specific information (and videos).<br>
+<br>
+<span class="bbc_center"><em class="bbc">User interface:</em></span><br>
+<span class="bbc_center"><a href="http://img577.imageshack.us/i/20110427211335.png/" class="bbc_url" title="" rel="nofollow"><img src="http://img577.imageshack.us/img577/766/20110427211335.th.png" alt="Posted Image" class="bbc_img"></a></span><br>
+<br>
+<span class="bbc_center"><em class="bbc">Crafting Recipe (for 1 Allocator):</em></span><br>
+<span class="bbc_center"><img src="http://img163.imageshack.us/img163/4198/recipeallocator.png" alt="Posted Image" class="bbc_img"></span><br>
+<br>
+<span class="bbc_center"><strong class="bbc"><span style="font-size: 26px;">The Jump Pad</span></strong></span><br>
+<span class="bbc_center">Default ItemID: 110 (105 before the 1.8 update)</span><br>
+
+<br>
+<span class="bbc_center"><img src="http://img146.imageshack.us/img146/7910/jumppad3d.png" alt="Posted Image" class="bbc_img"></span><br>
+		<br>
+<span class="bbc_center"><em class="bbc">Description:</em></span><br>
+Items and players on it will be thrown in the air.<br>
+<br>
+<span class="bbc_center"><em class="bbc">Crafting Recipe (for 4 Jump Pads):</em></span><br>
+<span class="bbc_center"><img src="http://img703.imageshack.us/img703/3765/recipejumppad.png" alt="Posted Image" class="bbc_img"></span><br>
+<br>
+<span class="bbc_center"><strong class="bbc"><span style="font-size: 26px;">The Chest Trap</span></strong></span><br>
+<span class="bbc_center">Default ItemID: 113 (103 before the 1.8 update)</span><br>
+
+		<br>
+<span class="bbc_center"><em class="bbc">Description:</em></span><br>
+Like a normal chest, but it will trigger adjecent blocks/redstone and make a click noise when opened.<br>
+<br>
+<span class="bbc_center"><em class="bbc">Crafting Recipe (for 1 Chest Trap):</em></span><br>
+<span class="bbc_center"><img src="http://img191.imageshack.us/img191/9463/recipetrapchest.png" alt="Posted Image" class="bbc_img"></span><br>
+<span style="font-size: 9px;"><a href="http://www.minecraftforum.net/user/759823-ercinee/" class="bbc_url" title="">Ercinee</a> also made a nice chest trap (called <em class="bbc">Indicator chest</em>), which emits redstone when it is empty. You should <a href="http://www.minecraftforum.net/topic/664490-181-indicator-chest/" class="bbc_url" title="">check it out</a>.</span><br>
+
+<br>
+<span class="bbc_center"><strong class="bbc"><span style="font-size: 26px;">The Fan</span></strong></span><br>
+<span class="bbc_center">Default ItemID: 111/112 (106/107 before the 1.8 update)</span><br>
+<br>
+<span class="bbc_center"><img src="http://img854.imageshack.us/img854/1908/fan3d.png" alt="Posted Image" class="bbc_img"></span><br>
+		<br>
+<span class="bbc_center"><em class="bbc">Description:</em></span><br>
+The Fan continuously pushes items when powered by redstone.<br>
+<br>
+<span class="bbc_center"><em class="bbc">Crafting Recipe (for 1 Fan):</em></span><br>
+<span class="bbc_center"><img src="http://img713.imageshack.us/img713/7489/recipefan.png" alt="Posted Image" class="bbc_img"></span><br>
+

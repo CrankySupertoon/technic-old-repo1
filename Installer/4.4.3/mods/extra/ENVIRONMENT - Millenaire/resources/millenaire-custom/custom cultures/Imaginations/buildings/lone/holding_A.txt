@@ -1,0 +1,1 @@
+priority:5;english:The Holding Grounds;around:2;startLevel:-1;orientation:3;length:22;width:42;male:shroud;male:shroudsp;male:shroudsp;male:ssword;startingsubbuilding:holding_A_1;startingsubbuilding:holding_A_2;startingsubbuilding:holding_A_3;startingsubbuilding:holding_A_4;startingsubbuilding:holding_A_5

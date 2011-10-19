@@ -1,0 +1,13 @@
+<html><center>
+PLEASE READ ME BEFORE INSTALLING!!!<br>
+YOU MUST INSTALL OVER AN UNTOUCHED MINECRAFT.JAR<br>
+AND CLEAR OUT ANY EXISTING MODS DIRECTORIES<br>
+IN YOUR MINECRAFT FOLDER PRIOR TO INSTALLING!<br><br>
+We are not responsible for any damage this causes including<br>
+but not limited to: Your PC, Minecraft installation and/or saved games.<br>
+Please read the documentation thoroughly before installing!<br><br>
+Select <b>NEXT</b> to install Technic automatically into your default Minecraft<br>
+location. Or select <b>Set Target Minecraft Folder...</b> to manually<br>
+select your Minecraft directory.
+
+</center></html>

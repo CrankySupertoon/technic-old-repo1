@@ -1,0 +1,55 @@
+version 1.1_03<br>
+by SanAndreasP<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/562836-181-turret-mod-v-11-03/">HERE</a>.<br>
+<br><br>
+You can craft the turret book with one book, one dispenser and one ink sack. The recipe is shapeless.<br>
+<img src="http://i.imgur.com/qaBus.png" alt="Posted Image" class="bbc_img"><br>
+<br>
+To open the book, just right click while holding it. Now it appears a GUI, where you can navigate through the sites. The book contains all neccessary informations of all turret types. One is a secret turret. You can only read it's page, when you craft one of these turret type.<br>
+<strong class="bbc">NEW: The book has now a secret! Find it out!</strong><br>
+<br>
+Turret Tech 1:<br>
+
+The weakest and cheapest turret of all. It shoots arrows and has 10 hearts of life.<br>
+<br>
+Turret Tech 2:<br>
+More expensive and more power! This turret shoots bullets and has ca. twice as much range than the T1 turret. It has 20 hearts of life.<br>
+<br>
+Turret Tech 3:<br>
+The most expensive and most reliable turret of all! It can shoot 2 different projectiles, laser and plasma and has 40 hearts of life! Build one and you love it!<br>
+<br>
+<a href="http://i.imgur.com/a0bJF.png" class="bbc_url" title="" rel="nofollow"><img src="http://i.imgur.com/a0bJFs.jpg" alt="Posted Image" class="bbc_img"></a><br>
+<em class="bbc">from left to right: Tech 2, Tech 3 and Tech 1</em><br>
+<br>
+
+How to give them ammunition? Just feed them with the right item, that are written in the turret book.<br>
+<strong class="bbc">NEW: The T2 turret needs now crafted bullets! You can craft these bullets with gunpowder and iron ingots (shapeless!):</strong><br>
+<img src="http://i.imgur.com/k90qp.png" alt="Posted Image" class="bbc_img"><br>
+<br>
+How to heal them? Same as ammunition. Feed them with the right item / block.<br>
+How to feed them? Hold the neccessary item in your hands and right click on the turret.<br>
+<strong class="bbc">NEW: increased healing rates!</strong><br>
+<br>
+How can I get the amount of ammunition / health? Right click the turret with your blank hands or with any thing, that is not a healing / ammunition item / block. A chat message like text will appear with details of the right clicked turret.<br>
+<a href="http://i.imgur.com/0YVc5.png" class="bbc_url" title="" rel="nofollow"><img src="http://i.imgur.com/0YVc5s.jpg" alt="Posted Image" class="bbc_img"></a><br>
+Also you see 2 "antennas" on the feets: one red, for health, and one blue, for ammo. If these are pointing upwards, the turret are full of health / ammo, if these are pointing sidewards, the turret has low health / ammo.<br>
+
+<br>
+<strong class="bbc">NEW: With the turret control unit, you can turn on hovering bars that shows you the amount of health (red) and ammo (blue)</strong><br>
+<br>
+<a href="http://i.imgur.com/RowpM.jpg" class="bbc_url" title="" rel="nofollow"><img src="http://i.imgur.com/RowpMs.jpg" alt="Posted Image" class="bbc_img"></a><br>
+<br>
+How can I set the target of the turret? You can craft a "Turret control unit" like that:<br>
+<img src="http://i.imgur.com/TWw1R.png" alt="Posted Image" class="bbc_img"><br>
+<br>
+Right click while holding it and it appears a GUI, where you can change the targets of the turrets (tamed wolves won't seen as targets anymore!)<br>
+<a href="http://i.imgur.com/7qunN.png" class="bbc_url" title="" rel="nofollow"><img src="http://i.imgur.com/7qunNs.jpg" alt="Posted Image" class="bbc_img"></a><br>
+The target settings to the turrets will be saved in the world data, so that the settings will not be lost, if you reload the world. Also that means, each world has it's own settings!<br>
+<br>
+<strong class="bbc">New record! You can craft the record with a dispenser and a music disk (green or gold) (shapeless):</strong><br>
+
+<img src="http://i.imgur.com/VPt6Y.png" alt="Posted Image" class="bbc_img"><br>
+<br>
+<strong class="bbc">Also you can upgrade the turrets (except the secret turret) with one chest and / or one saddle.<br>
+NOTE 1: If you want to ride an saddle-upgraded turret, you have to hold the turret conrol unit (TCU) in your hands. If you switch to an other slot without a TCU, you will be fall down from the turret. You can control the turret with W A S D (Forward, Left, Backward, Right) and let them shoot with SPACEBAR (Jump)<br>
+NOTE 2: After the chest upgrade, your turret has 1728 slots of ammo.</strong>

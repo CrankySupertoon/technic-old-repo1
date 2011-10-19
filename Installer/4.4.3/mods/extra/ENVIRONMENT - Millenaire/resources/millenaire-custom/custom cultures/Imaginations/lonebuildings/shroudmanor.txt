@@ -1,0 +1,12 @@
+name:Shroud Manor
+weight:10
+radius:30
+biome:forest
+biome:swampland
+biome:plains
+biome:desert
+biome:taiga
+spawnBlock:72
+
+//starting buildings:
+centre:shroudmanor

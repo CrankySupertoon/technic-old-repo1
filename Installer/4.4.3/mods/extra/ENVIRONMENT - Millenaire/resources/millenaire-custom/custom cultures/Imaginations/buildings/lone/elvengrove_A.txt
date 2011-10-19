@@ -1,0 +1,1 @@
+priority:5;english:Grove of the Chosen;around:4;startLevel:-4;orientation:2;length:32;width:32;showtownhallsigns:false;male:elf;male:elf;male:elf;female:felf;female:felf;shop:elves;tag:cattle

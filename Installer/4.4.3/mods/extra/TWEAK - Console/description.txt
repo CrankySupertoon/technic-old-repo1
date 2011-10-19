@@ -1,0 +1,7 @@
+version 1.0<br>
+by simo_415<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/680231-181-minecraft-console-v10/">HERE</a>.<br>
+<br><br>
+
+<span style="font-size: 21px;">Feature List</span><br>
+<ul class="bbc"><li> Scrollable chat window<br></li><li> Copy+Paste<br></li><li> Input history<br></li><li> Very customisable<br></li><li> Works in all Single and Multi player game modes<br></li><li> Dynamic window resizing<br></li><li> No text overflow<br></li><li> Keeps history of whole Minecraft session, not just per world

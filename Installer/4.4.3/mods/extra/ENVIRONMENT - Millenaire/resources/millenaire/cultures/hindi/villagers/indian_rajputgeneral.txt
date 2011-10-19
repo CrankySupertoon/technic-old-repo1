@@ -1,0 +1,21 @@
+native_name=Rajput Senapati
+gender=male
+familyNameList=high_caste_family_names
+firstNameList=men_names
+tag=chief
+baseHeight=1.1
+
+texture=/mob/indian/ML_rajput_leader0.png
+texture=/mob/indian/ML_rajput_leader1.png
+
+goal=gorest
+goal=gopray
+goal=patrol
+goal=huntmonster
+
+toolNeeded=steelSword
+
+baseAttackStrength=15
+tag=helpInAttacks
+defaultweapon=woodsword
+experiencegiven=20

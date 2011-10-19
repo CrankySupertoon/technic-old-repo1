@@ -1,0 +1,13 @@
+name:Forsaken Cemetery
+weight:10
+radius:15
+biome:forest
+biome:taiga
+biome:extreme hills
+biome:plains
+biome:desert
+biome:swamp
+spawnBlock:101
+
+//starting buildings:
+centre:grave

@@ -1,0 +1,14 @@
+version 1.4<br>
+by ali4z<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/328725-181wireless-redstone-v14/">HERE</a>.<br>
+
+<br>
+Wireless Redstone is a Minecraft modification that allows you to transmit and receive redstone signals without wires. <br>
+The mod has been in beta for 4 weeks prior to final release, this was done to guarantee as much quality as possible for the final product and to make sure the base mod has room for iteration and expantion.<br>
+<br>
+What it does is send redstone states on selected frequencies over something called the "redstone ether".<br>
+<br>
+The ether functions as a binding mechanism between the transmitters and receivers (called ether nodes). They are stored in different frequency "containers" where they can interact with eachother.<br>
+
+Several transmitters and receivers can sit on the same frequency, but the frequency broadcast state can only be 0 or 1, off or on (boolean), so if any of the transmitters sends 1, the frequency state will be 1. For it to be 0, all transmitters must be idle.<br>
+Basically; a transmitter on a frequency can send a state over it, which the receivers on said frequency can catch and act on.

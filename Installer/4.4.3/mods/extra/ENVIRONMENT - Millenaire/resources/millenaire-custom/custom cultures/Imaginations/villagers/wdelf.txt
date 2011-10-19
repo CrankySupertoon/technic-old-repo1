@@ -1,0 +1,20 @@
+native_name=Wandering Dark Elf
+gender=male
+baseHeight=0.9
+familyNameList=surnamede
+firstNameList=firstnamede
+tag=hostile
+tag=noleafclearing
+health=60
+
+texture=/mob/imaginations/wdelf0.png
+
+goal=gorest
+goal=goDrink
+goal=patrol
+goal=huntmonster
+
+baseAttackStrength=15
+tag=helpInAttacks
+defaultweapon=normanbroadsword
+experiencegiven=20

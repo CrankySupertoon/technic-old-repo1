@@ -1,0 +1,8 @@
+name:Abbaye isolée
+weight:10
+radius:15
+biome:forest
+namelist:loneabbeys
+
+//starting buildings:
+centre:loneabbey

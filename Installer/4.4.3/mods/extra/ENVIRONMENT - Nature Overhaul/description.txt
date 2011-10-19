@@ -1,0 +1,31 @@
+version 1.3<br>
+by Clintonxa<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/191599-v181-nature-overhaul-v13/">HERE</a>.<br>
+
+<strong class="bbc">Description:</strong></span> <br>
+
+<br>
+Ever thought Minecrafts tree and forest system was rather unrealistic? Boring? Uneventful? Then this mod is for you.<br>
+<br>
+In a Nature Overhauled world, forests will grow, flourish, then die, they will expand, then contract. They will try to spread over deserts and fail! Saplings will grow from trees, fly on the wind, then spawn a new tree where they fall. Though, they can die in this process if the world is unfavourable! A desert will kill a new born sapling.<br>
+<br>
+The plants, mushrooms, cactii, reeds and pumpkins of your world will also reproduce and spread their kin far and wide. They too will form intricate ecosystems. Based on biome their growth, death and spread rates change! <br>
+<br>
+<span style="font-size: 15px;"><strong class="bbc">Features</strong></span><br>
+<br>
+- Plants and trees grow, spread and die based on biome<br>
+- Lumberjack means axes will cut down the entire tree at once.<br>
+
+- Apples drop from trees in temperate biomes<br>
+- Cocoa falls from trees in forests<br>
+- Bonemeal will make all types of plants and fauna grow<br>
+- Biome based growth rates<br>
+- Moss and grass spread<br>
+- An option to return old, infinite, fire behaviour (Misc Options)<br>
+- A fix to water physics preventing strange currents in the sea<br>
+- Mushrooms now grow naturally into mushroom trees given room.<br>
+- Sheep regrow their wool if left on tall grass<br>
+
+- Animals mate if they are near each other and have their own gender<br><br>
+
+(NOTE: May cause performance issues on low-end systems!)

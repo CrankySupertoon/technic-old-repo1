@@ -1,0 +1,32 @@
+culture.norman=normande
+
+//Name of the villager types
+//Left empty when no translation is needed
+//Norman:
+villager.carpenter=Carpintero
+villager.cattleFarmerMale=Criador
+villager.cattleFarmerFemale=Criadora
+villager.boy=Niño
+villager.girl=Niña
+villager.teenagerMale=Joven
+villager.teenagerFemale=Joven
+villager.farmer=Granjero
+villager.viking_merchant=Mercader vikingo
+villager.weapon_merchant=Mercader de armas
+villager.plant_merchant=Mercader de hierbas
+villager.oriental_merchant=Mercader oriental
+villager.art_merchant=Mercader de arte
+villager.wool_merchant=Mercader de lana
+villager.food_merchant=Mercader de comida
+villager.guard=Guardia
+villager.guildmaster=Maestro gremial
+villager.knight=Caballero
+villager.lady=Dama
+villager.lumberman=Leñador
+villager.merchant=Mercader
+villager.miner=Minero
+villager.monk=Monje
+villager.priest=Sacerdote
+villager.seneschal=Senescal
+villager.smith=Herrero
+villager.wife=Esposa
