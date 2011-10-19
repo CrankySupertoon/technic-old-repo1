@@ -1,0 +1,17 @@
+native_name=Ajaw
+gender=male
+familyNameList=high_caste_family_names
+firstNameList=men_names
+tag=chief
+
+texture=/mob/mayan/mayan_King0.png
+texture=/mob/mayan/mayan_King1.png
+
+goal=gorest
+goal=gopray
+
+toolNeeded=steelSword
+
+baseAttackStrength=5
+tag=helpInAttacks
+defaultweapon=woodsword

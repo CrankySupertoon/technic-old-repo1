@@ -1,0 +1,60 @@
+
+
+villager.greeting=Namaste, $name-ji! / Grüß Gott, $name-ji!
+villager.greeting=Aaj bahut garmi hai. / Es ist sehr heiß heute.
+villager.greeting=Kya haal hai? / Wie geht's?
+villager.greeting=Kya khabar hai? / Was gibt es Neues?
+villager.greeting=Ghar par sa theek hain? / Geht es jedem gut?
+villager.greeting=Yeh barish kyun nahin ho rahi? / Warum regnet es nicht?
+villager.greeting=Kya tum se kale pani se pare ho? / Kommst du außerhalb des Ozean?
+indian_pandit.greeting=Jeetey raho. / Lebe lang.
+
+male.gorest=Ab jaakey aaram karta hoon. / Ich werde mich nun schlafen legen.
+male.gorest=Subah sey kaam kar raha hoon. / Ich arbeite seit heute Morgen.
+male.gorest=Main thak gaya hoon. / Ich bin erschöpft.
+
+female.gorest=Ab jaakey aaram karti hoon. / Ich werde mich nun schlafen legen.
+female.gorest=Subah sey kaam kar rahi hoon. / Ich arbeite seit heute Morgen.
+female.gorest=Main thak gayi hoon. / Ich bin erschöpft.
+
+villager.gopray=Hey Bhagwan, is baar phasal achhi ho. / Lieber Gott, lass die Ernte dieses mal gut ausfallen.
+villager.gopray=Bhagwan, bas aap hi ka sahara hai. / Gott, du bist unsere einzige Hoffnung.
+
+indian_lumberman.BringBackResourcesHome=Itna saara lakri ghar ley jaaney mein mushkil hooga. / Es wird schwierig werden so viel Holz nach Hause zu tragen.
+indian_lumberman.ChopTrees=Yeh lakri kaat-tey kaat-tey meri zindagi beet jayegi. / Scheint so das ich mein Leben damit verbringen werde diese Bäume zu fällen.
+indian_lumberman.GatherGoods=Ab saari lakriyan ikaththa karta hoon. / Ich werde jetzt das ganze Holz aufsammeln.
+indian_lumberman.PlantSaplings=Jitna zyaada ped lagaoonga, utna hi aagey jaakey aaram raheyga. / Je mehr Bäume ich einpflanze umso leichter wird das Leben später.
+
+indian_peasant.DryBrick=Ghar bananey key liye kitney inth chahiyey? / Wie viel Ziegel benötigst du um ein Haus zu bauen?
+indian_peasant.GatherBrick=Aaj suraj teez hai, inth jaldi sookh rahaien hain. / Die Sonne ist stark, sie trocknen heute sehr schnell aus.
+indian_peasant.CookBrick= Dekho, aag mein kaisi badhiyan pakti hai yeh intein. / Sieh zu wie gut diese Ziegel im Feuer kochen.
+villager.PlantRice=Is saal barish achchi hui toh phasal accha hoga. / Falls es stark regnet wird die Ernte dieses Jahr gut.
+villager.HarvestRice=Is baar barish acchi honey sey phasal bhi acchi hui hai. / Weil es dieses mal so gut geregnet hat war die Ernte auch gut.
+villager.PlantTurmeric=Haldi toh sabhi ko chahiyein. / Im Grunde genommen braucht doch jeder Gelbwurz.
+villager.HarvestTurmeric=Haldi ki kheti kartey kartey merey haath peeley ho gayein hain. / Vom ernten von Gelbwurz werden meine Hände so gelb.
+indian_peasant.SlaughterChicken=Bahut kha liya ghas-phoos. / Ich hatte genug Vegetarischen Curry!
+
+indian_peasantwife.GetHouseTHResources=Sab kuch toh thakur ko dey dena padta hai. / Alles kommt immer im Grundherres Haus.
+indian_peasantwife.GetGoodsHousehold=Inkey liye chahey jitna bhi khana lao, kam padta hai. / Egal wie viel du für diese Familie einbringst es ist nie genug!
+indian_peasantwife.DeliverGoodsHousehold=Uffh, itna sara khana akeley kaisey leh jaoongi. / Wie soll ich die ganzen Lebensmitteln alleine tragen?
+indian_peasantwife.makeRasgulla= Bacchon koh rasgulla bahut pasand hai. / Die Kinder lieben rasgullas. 
+
+
+indian_peasant.GetResourcesForBuild=Hmmm, ek tan ka inth  chahiye, dau tan paththar .. / Mal schauen, eine tonne Ziegel, zwei tonnen Steine...
+indian_peasant.Construction=Hindu vastu-kala desh videsh mein mashoor hai. / Die Indische Architektur ist auf der ganzen Welt bekannt.
+indian_peasant.Construction=Iskey baad, main lal kila banaoonga. / Wenn ich damit fertig bin werde ich eine rote Festung bauen.
+
+villager.GoPlay=Mujjhey mitti sey khelna accha lagta hai. / Ich liebe es im Dreck zu spielen. villager.BecomeAdult= Khel kud bahut ho gaya, ab kaam par chalo. / Genug gespielt, zeit zu arbeiten.
+male.BecomeAdult=Main badey hokar yodhdha ban-na chahta tha. / Ich wollte ein großer Krieger werden als ich noch Jünger war...
+female.BecomeAdult=Mainey socha tha kisi rajkumar sey shaadi hogi... / Ich habe davon geträumt einen Prinzen zu heiraten...
+
+villager.gopray.chosen=Mandir jaaney ka samay ho gaya. / Es wird mal wieder Zeit den Tempel zu besuchen.
+indian_pandit.gopray.chosen=Main mandir ki dekh bhaal nahin karoonga toh kaun karega? / Wer kümmert sich um den Tempel falls ich es nicht tuhe?
+
+villager.calltoarms=Jeet hamari hoogi. / Der Sieg gehört uns.
+villager.calltoarms=Dushmano ki haar. / Besiegt den Feind!
+villager.calltoarms=Sab apney apney hathiyar utha lo! / Jeder an seine Waffen!
+
+indian_smith.maketools= / Tout le monde utilise mes outils, et tout le monde me méprise.
+indian_armysmith.MakeWeapons= / Forger des armes, c'est tellement plus prestigieu que de fabriquer des outils!
+indian_sculptor.Scult= / La sculture est l'art du trou et de la bosse.
