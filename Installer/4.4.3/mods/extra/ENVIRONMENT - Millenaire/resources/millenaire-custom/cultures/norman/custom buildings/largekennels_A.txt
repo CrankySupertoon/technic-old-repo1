@@ -1,1 +1,0 @@
-max:1;priority:100;french:Grand Chenil;english:Big Kennels;around:2;startLevel:-1;orientation:1;width:13;length:15;

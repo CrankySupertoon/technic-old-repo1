@@ -1,2 +1,0 @@
-sells=woodPickaxe,woodaxe,woodShovel,woodhoe,stonepickaxe,stonehoe,stoneaxe,stoneshovel,steelAxe,steelShovel,steelHoe,normanshovel,normanhoe,normanpickaxe,normanaxe
-buys=wood,wood_birch,wood_pine,bread,seeds,feather,chickenmeat,gold,iron,arrow,bow,egg,cookedfish,cake,leather,stone,cobblestone,sand,sandstone

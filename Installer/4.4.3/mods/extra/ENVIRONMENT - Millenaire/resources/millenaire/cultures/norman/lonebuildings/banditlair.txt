@@ -1,8 +1,0 @@
-name:Repère de bandits
-weight:10
-radius:10
-biome:forest
-biome:taiga
-
-//starting buildings:
-centre:banditlair

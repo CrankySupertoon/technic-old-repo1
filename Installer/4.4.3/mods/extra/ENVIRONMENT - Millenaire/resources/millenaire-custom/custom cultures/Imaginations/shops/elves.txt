@@ -1,2 +1,0 @@
-sells=ravenAmulet,bread,ciderapple,seeds,feather,chickenmeat,calva,gold,iron,arrow,bow,egg,maize,cookedfish,cake,wah,bookshelves
-buys=ravenAmulet,wood,wood_birch,wood_pine,bread,ciderapple,seeds,feather,chickenmeat,calva,steelSword,gold,iron,arrow,bow,egg,maize,cookedfish,cake,wah,leather

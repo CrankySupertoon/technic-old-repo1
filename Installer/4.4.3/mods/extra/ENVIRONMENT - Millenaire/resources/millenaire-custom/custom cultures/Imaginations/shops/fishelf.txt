@@ -1,2 +1,0 @@
-sells=ciderapple,arrow,bow,cookedfish
-buys=wood,wood_birch,wood_pine,ciderapple,gold,iron,cookedfish,stone,cobblestone,sand,sandstone,glass

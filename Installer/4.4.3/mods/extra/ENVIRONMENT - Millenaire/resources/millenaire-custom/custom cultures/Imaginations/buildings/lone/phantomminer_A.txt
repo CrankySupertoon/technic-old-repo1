@@ -1,1 +1,0 @@
-priority:5;english:Phantom Grounds;around:1;startLevel:-2;orientation:2;length:3;width:3;male:phantomminer;shop:phantom

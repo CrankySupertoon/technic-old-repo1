@@ -1,2 +1,0 @@
-max:2;priority:5;french:Maison du guarde;english:Guardhouse;around:2;startLevel:-1;orientation:2;male:ml_Guard;female:ml_Wife;length:16;width:18
-priority:10

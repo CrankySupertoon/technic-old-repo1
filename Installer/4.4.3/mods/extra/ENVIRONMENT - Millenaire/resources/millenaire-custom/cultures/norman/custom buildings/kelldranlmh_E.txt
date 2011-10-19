@@ -1,2 +1,0 @@
-max:2;priority:5;french:Hutte de Bûcheron;english:Lumberman's Hut;around:2;startLevel:-11;orientation:3;male:ml_Lumberman;female:ml_Wife;length:17;width:15
-priority:10

@@ -1,1 +1,0 @@
-max:1;priority:500;french:Tir à l'arc Range;english:Archery Range;around:2;startLevel:-1;orientation:2;width:13;length:16;

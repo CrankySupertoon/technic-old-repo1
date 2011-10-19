@@ -1,1 +1,0 @@
-max:1;priority:20;french:Cimetière;english:Graveyard;around:2;startLevel:-1;orientation:1;width:16;length:16

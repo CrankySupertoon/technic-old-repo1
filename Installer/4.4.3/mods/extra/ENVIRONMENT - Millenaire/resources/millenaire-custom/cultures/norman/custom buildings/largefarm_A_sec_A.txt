@@ -1,1 +1,0 @@
-type:subbuilding;priority:5000;french:Grande Ferme;english:Large Farm;around:2;startLevel:-1;orientation:0;width:28;length:17;male:ml_Farmer;female:ml_Wife;

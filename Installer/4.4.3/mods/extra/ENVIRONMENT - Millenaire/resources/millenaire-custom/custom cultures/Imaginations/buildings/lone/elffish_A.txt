@@ -1,1 +1,0 @@
-priority:5;english:Elven Fishing Post;around:3;startLevel:-5;orientation:2;width:23;length:24;tag:fishingspot;male:fishelf;male:fishelf;female:fisffelf;shop:fishelf
