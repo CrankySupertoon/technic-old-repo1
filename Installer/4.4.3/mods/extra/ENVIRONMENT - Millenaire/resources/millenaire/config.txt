@@ -11,17 +11,17 @@ fallback_language=french
 //Config
 //Keys to use for the village and quest listings
 village_list_key=V
-quest_list_key=M
+quest_list_key=N
 
 //Whether to display the Millénaire start message:
 displayStart=true
-block_building_id=126
-block_panel_id=125
-block_wood_id=124
-block_earth_id=123
-block_stone_id=122
-block_crops_id=121
-item_range_start=1515
+block_building_id=209
+block_panel_id=208
+block_wood_id=207
+block_earth_id=206
+block_stone_id=205
+block_crops_id=204
+item_range_start=8251
 //comma-separated list of block IDs villagers will avoid building upon
 //on top of "regular" ones like lava or ice
 forbidden_blocks=
