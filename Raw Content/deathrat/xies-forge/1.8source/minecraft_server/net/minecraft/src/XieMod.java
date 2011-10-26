@@ -174,6 +174,7 @@ public abstract class XieMod {
 			public static int saltDepositInGameSpawnChance = 16;
 			public static int saltTillChance = 0;
 			public static int surpriseChance = 8;
+			public static int drinkHealAmount = 4;
 		}
 		
 		public static class Enable {

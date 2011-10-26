@@ -3,6 +3,9 @@ package net.minecraft.src;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
+import net.minecraft.*;
+
+//import net.minecraft.src.powercrystals.minefactoryreloaded.MineFactoryReloadedCore;
 
 
 
@@ -135,7 +138,7 @@ public class XieTileEntityStove extends TileEntity
             burnTime--;
         }
         
-        if(worldObj.singleplayerWorld)
+        if(!worldObj.singleplayerWorld)
         {
             // Refuel[0] if needed
         	if(burnTime == 0 && potState != EMPTY)
@@ -179,8 +182,17 @@ public class XieTileEntityStove extends TileEntity
             {
                 XieBlockStove.updateBlockState(burnTime > 0, worldObj, xCoord, yCoord, zCoord);
             }
+            
+//            int[] dataInt = new int[2];
+//            dataInt[0] = burnTime;
+//            dataInt[1] = getState();
+//            Packet230ModLoader packet = new Packet230ModLoader();
+//            packet.packetType = 0;
+//            packet.dataInt = dataInt;
+//            mod_XieCooking.sendPacketToAll(packet);
         }
     }
+   
     
     private int getCookingResult(int i)
     {

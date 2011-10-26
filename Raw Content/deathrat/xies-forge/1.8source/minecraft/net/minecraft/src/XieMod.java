@@ -29,6 +29,12 @@ public abstract class XieMod {
 	public static boolean xieFarming = false;
 	public static boolean xieFoodStacking = false;
 	
+//	@MLProp
+//	public static String treeCutterIDs = "271, 275, 258, 286, 279";
+	
+	public static float logHardness = 4F;
+	public static boolean dropLeaves = false;
+	
 	// Stax settings
 	public static int foodStackSize = 16;
 
@@ -71,6 +77,7 @@ public abstract class XieMod {
 			public static int wheatGrowthChance = 100;
 			public static int hybridSeedChance = 10;
 		}
+		
 		
 		public static class FoodYield {
 			public static int roastPumpkin = 7;
@@ -363,6 +370,7 @@ public abstract class XieMod {
 		}
 	}
 	
+	
 	public static void readIntegerProperties(Properties props, Field f[]) throws IllegalArgumentException, IllegalAccessException {
 		for (int i=0; i<f.length; i++) {
 			String propKey = f[i].getDeclaringClass().getSimpleName()+"."+f[i].getName();
@@ -465,6 +473,7 @@ public abstract class XieMod {
 		return it;
 	}
 	
+	
 	public static XieItemContainedFood addNewContainedFood (String name, int id, int yield, int container, int index, float f) {
 		XieItemContainedFood it = (new XieItemContainedFood(id, yield, container, f));
 //		it.setIconIndex(ModLoader.addOverride("/gui/items.png","/Xie/img/items/food/"+name.toLowerCase()+".png"));
@@ -475,6 +484,7 @@ public abstract class XieMod {
 		
 		return it;
 	}
+	
 	
 //	public static XieItemContainedFood addNewContainedFood (String name, int id, int yield, int container) {
 //		XieItemContainedFood it = (new XieItemContainedFood(id, yield, container));
@@ -604,6 +614,7 @@ public abstract class XieMod {
 	public static XieItemContainedFood orangeJuice;
 	public static XieItemContainedFood lemonade;
 	public static ItemSeeds hybridSeeds;
+//	static Block tree;
 	
 	// cheat start inventory
 	public static ItemStack itemz [] = new ItemStack[] {

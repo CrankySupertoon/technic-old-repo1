@@ -35,6 +35,10 @@ public class XieItemContainedFood extends ItemFood implements ITextureProvider
     {
         if (itemstack.stackSize>1) return itemstack;
         super.onItemRightClick(itemstack, world, entityplayer);
+        if(itemstack.itemID == XieMod.lemonade.shiftedIndex || itemstack.itemID == XieMod.orangeJuice.shiftedIndex)
+        {
+        	entityplayer.heal(XieMod.Cooking.Settings.drinkHealAmount);
+        }
         return new ItemStack(container,1,0);
     }
 }

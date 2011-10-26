@@ -567,6 +567,42 @@ public class mod_XieCooking extends BaseModMp {
 	        });
     }
     
+//    public void HandlePacket(Packet230ModLoader packet)
+//    {
+//    	switch(packet.packetType)
+//    	{
+//    		case 0:
+//    		{
+//    			
+//    		}
+//    		case 1:
+//    		{
+//    			
+//    		}
+//    		case 2:
+//    		{
+//    			
+//    		}
+//    	}
+//    }
+    
+//	@Override
+//    public void HandleTileEntityPacket(int i, int j, int k, int l, int ai[], float af[], String as[])
+//    {
+////		World w = APIProxy.getWorld();
+////		TileEntity te = w.getBlockTileEntity(i, j, k);
+////		if(te != null && te instanceof TileEntityFactory)
+////		{
+////			((TileEntityFactory)te).rotateDirectlyTo(ai[0]);
+//		 TileEntity te = ModLoader.getMinecraftInstance().theWorld.getBlockTileEntity(i, j, k);
+//		 if(te != null && te instanceof XieTileEntityStove)
+//		 {
+//			 ((XieTileEntityStove)te).burnTime = ai[0];
+//			 ((XieTileEntityStove)te).setState(ai[1]);
+//		 }
+////    	}
+//    }
+    
 	public String Version() {
 		return version;
 	}

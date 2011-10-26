@@ -1,7 +1,6 @@
 package net.minecraft.src;
 
 public class XieBlockLog extends BlockLog {
-
 	public XieBlockLog(int i) {
 		super(i);
 		blockIndexInTexture = Block.wood.blockIndexInTexture;

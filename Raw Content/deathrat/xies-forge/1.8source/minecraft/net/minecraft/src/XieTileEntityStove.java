@@ -155,6 +155,8 @@ public class XieTileEntityStove extends TileEntity
                 }
             }
         	
+        	
+        	
         	// 
             if(isBurning() && potState!=EMPTY)
             {
@@ -180,6 +182,56 @@ public class XieTileEntityStove extends TileEntity
                 XieBlockStove.updateBlockState(burnTime > 0, worldObj, xCoord, yCoord, zCoord);
             }
         }
+        
+        if(worldObj.multiplayerWorld)
+        {
+            // Refuel[0] if needed
+        	if(burnTime == 0 && potState != EMPTY)
+            {
+                currentBurnTime = burnTime = getItemBurnTime(itemStacks[0]);
+                if(burnTime > 0)
+                {
+                    if(itemStacks[0] != null)
+                    {
+                        itemStacks[0].stackSize--;
+                        onInventoryChanged();
+                        if(itemStacks[0].stackSize == 0)
+                        {
+                            itemStacks[0] = null;
+                        }
+                    }
+                }
+            }
+        	
+        	
+        	
+        	// 
+            if(isBurning() && potState!=EMPTY)
+            {
+                cookBurnTime++;
+                
+                if (cookBurnTime>=maxCookTime) {
+                	cookBurnTime=0;	
+                	switch (potState) {
+                	case BOILING: setState(BOILED); break;
+                	case HEATING: setState(HOT); break;
+                	case COOKING:
+                		if (cookingBase==NONE) lastItem = getCookingResult(lastItem);
+                		setState(COOKED); break;
+                	case MILK_HEATING: setState(MILK_HOT); break;
+                	}
+                }
+            } else {
+                cookBurnTime = 0;
+            }
+            
+            if(flag != (burnTime > 0))
+            {
+                XieBlockStove.updateBlockState(burnTime > 0, worldObj, xCoord, yCoord, zCoord);
+            }
+        }
+        
+        
     }
     
     private int getCookingResult(int i)

@@ -153,7 +153,7 @@ public class XieTileEntityCampfire extends TileEntity
             burnTime--;
         }
         
-        if(worldObj.singleplayerWorld)
+        if(!worldObj.singleplayerWorld)
         {
             // check for fresh fuel
         	if(burnTime == 0) // && canCook()) // check for more fuel regardless of cooking, campfires don't go out

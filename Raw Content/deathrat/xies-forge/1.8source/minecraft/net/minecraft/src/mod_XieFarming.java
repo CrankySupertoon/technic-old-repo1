@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.StringWriter;
 import java.util.Properties;
 import java.util.Random;
+import net.minecraft.client.Minecraft;
 
 import net.minecraft.src.forge.MinecraftForgeClient;
 
@@ -14,6 +15,8 @@ public class mod_XieFarming extends BaseModMp {
 	final static String modName = "Xie Farming";
 	final static String version = "1.8";
 	final static String settingsFile = "farming.ini";
+	@MLProp
+	public static String treeCutterIDs = "271, 275, 258, 286, 279";
 	
 	Properties props;
 	
@@ -42,12 +45,29 @@ public class mod_XieFarming extends BaseModMp {
 		MinecraftForgeClient.preloadTexture("/Xie/img/terrain/xie_terrain.png");
 		MinecraftForgeClient.preloadTexture("/Xie/img/terrain/saltdeposit.png");
 		MinecraftForgeClient.preloadTexture("/Xie/img/items/xie_items.png");
-
+		
+		ModLoader.SetInGameHook(this, true, true);
 		
 		XieMod.xieFarming=true;
 		
 		AddRecipes();
+		
 	}
+	
+	public boolean OnTickInGame(Minecraft minecraft)
+	{
+        ItemStack itemstack = minecraft.thePlayer.getCurrentEquippedItem();
+        if(itemstack != null)
+        {
+            float f = itemstack.getStrVsBlock(Block.wood);
+            XieMod.log.setHardness(XieMod.logHardness / f);
+        } else
+        {
+            XieMod.log.setHardness(XieMod.logHardness);
+        }
+        return true;
+	}
+	
 	
 	private String defaultProperties() {
 		StringWriter sw = new StringWriter();
@@ -137,6 +157,28 @@ public class mod_XieFarming extends BaseModMp {
 			e.printStackTrace();
 		}
     }
+    
+	public static boolean isIdInList(int i, String s)
+	{
+		String as[] = s.split(",");
+        for(int j = 0; j < as.length; j++)
+        {
+            try
+            {
+                int k = Integer.parseInt(as[j].trim());
+                if(k == i)
+                {
+                    return true;
+                }
+            }
+            catch(NumberFormatException numberformatexception)
+            {
+                System.err.println((new StringBuilder()).append("Cannot parse Integer in String: \"").append(as[j]).append("\"").toString());
+            }
+        }
+
+        return false;
+	}
     
     // TODO This is a lot messier than it needs to be
     public void loadBlocks () {

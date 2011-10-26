@@ -9,6 +9,8 @@ import java.util.Random;
 import net.minecraft.server.MinecraftServer;
 
 public class mod_XieCooking extends BaseModMp {
+	
+	private static mod_XieCooking instance;
 
 	final static String modName = "Xie Cooking";
 	final static String version = "1.7c";
@@ -17,6 +19,7 @@ public class mod_XieCooking extends BaseModMp {
 	Properties props;
 
 	public mod_XieCooking() {
+		instance = this;
 		props = XieMod.loadProperties(settingsFile, defaultProperties());
 		
 		try {
@@ -545,6 +548,23 @@ public class mod_XieCooking extends BaseModMp {
 	        });
     }
     
+//	@Override
+//	public Packet getTileEntityPacket(TileEntity te, int[] dataInt, float[] dataFloat, String[] dataString)
+//	{
+//		return ModLoaderMp.GetTileEntityPacket(instance, te.xCoord, te.yCoord, te.zCoord, 0, dataInt, dataFloat, dataString);
+//	}
+//	
+//	@Override
+//	public void sendPacketToAll(Packet230ModLoader p)
+//	{
+//		ModLoaderMp.SendPacketToAll(instance, p);
+//	}
+    
+    public static void sendPacketToAll(Packet230ModLoader packet)
+    {
+    	ModLoaderMp.SendPacketToAll(instance, packet);
+    }
+	
 	public String Version() {
 		return version;
 	}

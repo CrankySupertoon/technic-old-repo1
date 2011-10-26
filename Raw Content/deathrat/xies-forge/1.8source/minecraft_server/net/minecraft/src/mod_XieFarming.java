@@ -509,6 +509,7 @@ public class mod_XieFarming extends BaseModMp {
 		
 		// spliced tree seeds
 		if (XieMod.Farming.Enable.appleTrees) {
+
 			XieMod.addShapelessRecipe(new ItemStack(XieMod.treeManager.get(XieMod.APPLE).sapling), new Object[] {XieMod.redSeeds, Block.sapling, XieMod.hybridSeeds});
 		}
 		
@@ -698,6 +699,8 @@ public class mod_XieFarming extends BaseModMp {
         return true;
     }
     
+    
+    
     // checks to make sure there's some water nearby
     private boolean isNearWater(World world, int x, int y, int z) {
     	int d = 3;
@@ -717,4 +720,6 @@ public class mod_XieFarming extends BaseModMp {
     	
     	return foundWater;
     }
+    
+    
 }
