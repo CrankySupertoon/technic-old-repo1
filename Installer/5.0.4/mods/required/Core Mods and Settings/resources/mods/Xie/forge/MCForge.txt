@@ -1,0 +1,2 @@
+MCForge is not my own creation, but the creation of others. A part of it has been included in this release for compatibility. Please find MCForge at its forum thread:
+http://www.minecraftforum.net/topic/514000-api-minecraft-forge/

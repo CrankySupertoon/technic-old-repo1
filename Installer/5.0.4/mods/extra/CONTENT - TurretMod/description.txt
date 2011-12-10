@@ -1,0 +1,82 @@
+version 1.3_02<br>
+by SanAndreasP<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/562836-181-turret-mod-v-11-03/">HERE</a>.<br>
+<br><br>
+<img src="http://i.imgur.com/2kn9V.png" alt="Posted Image" class="bbc_img"> <strong class="bbc">The Turret Book:</strong><br>
+
+This book contains all neccessary informations about all turret types and about the Turret Control Unit (TCU).<br>
+You can craft the Turret Book with one book, one dispenser and one ink sack. The recipe is shapeless.<br>
+<img src="http://i.imgur.com/TsZhh.png" alt="Posted Image" class="bbc_img"><br>
+<br>
+To open the book, just right click while holding it. Now it will appear a GUI, where you can navigate through the sites.<br>
+It has a table of contents where you can directly open a page!<br>
+<br>
+<img src="http://i.imgur.com/CFVTZ.png" alt="Posted Image" class="bbc_img"> <strong class="bbc">The Turret Item Book:</strong><br>
+It's like the Turret Book but it contains all neccessary informations about nearly all items in this mod.<br>
+You can craft the Turret Item Book with one Turret Book and one Lapis Lazuli. The recipe is shapeless.<br>
+
+<img src="http://i.imgur.com/j69vB.png" alt="Posted Image" class="bbc_img"><br>
+<br>
+<img src="http://i.imgur.com/dod0v.png" alt="Posted Image" class="bbc_img"> <strong class="bbc">The Turret Control Unit (TCU):</strong><br>
+With the TCU, you can set the targets for all turrets, global and specific. You need only to right click while holding it and it will appear a GUI, where you can change the targets of the turrets (tamed wolves won't seen as targets!)<br>
+The target settings for all turrets will be saved in the world data, so that the settings will not be lost, if you reload the world. Also that means, each world has it's own settings!<br>
+<br>
+With a left click on a turret / defense bot, you'll get all informations about it, like current cmmo count, health, upgrades aso.<br>
+<br>
+you can look up the crafting recipe in the turret (item) book<br>
+<br>
+<img src="http://i.imgur.com/fPIjQ.png" alt="Posted Image" class="bbc_img"> <strong class="bbc">Turret Record:</strong><br>
+
+You can craft a record with a dispenser and a music disk (green or gold) (shapeless)<br>
+It is like all other records, except it will play "Boom" from Jason Shaw<br>
+<br>
+<img src="http://static.minecraftforum.net/public/style_emoticons/default/painting.png" class="bbc_emoticon" alt=":Frame:"> <strong class="bbc">Turret Painting:</strong><br>
+It's like the normal painting but with other motives. You can't craft these paintings but you get them if you throw a normal painting towards a tamed defense bot. He will convert the painting and drop the turret painting. currently avaliable motives are:<br>
+<ul class="bbc"><li>4 x 4<ul class="bbc"><li>T1 turret in a dungeon<br></li><li>T2 turret in the nature<br></li><li>T3 turret in the desert at night<br></li><li>Slow turret in an ice cavern</li></ul></li><li>3 x 2<ul class="bbc"><li>Cybot</li></ul></li><li>2 x 2<ul class="bbc"><li>abstract circuit</li></ul></li></ul><br>
+
+<br>
+<img src="http://i.imgur.com/BneET.png" alt="Posted Image" class="bbc_img"> <strong class="bbc">Turret Tech 1:</strong><br>
+It shoots arrows, has 10 hearts of life, does 2 hearts damage each arrow and has a range of 9 blocks.<br>
+<br>
+<img src="http://i.imgur.com/1Mdpk.png" alt="Posted Image" class="bbc_img"> <strong class="bbc">Turret Tech 2:</strong><br>
+This turret shoots bullets which do 3 hearts damage each bullet and has a range of 14 blocks. It has 20 hearts of life.<br>
+<br>
+<img src="http://i.imgur.com/lgbfv.png" alt="Posted Image" class="bbc_img"> <strong class="bbc">Turret Tech 3:</strong><br>
+It shoots laser, which does 7 hearts damage and has 40 hearts of life! Build one and you'll love it!<br>
+
+<br>
+<img src="http://i.imgur.com/MXoKk.png" alt="Posted Image" class="bbc_img"> <strong class="bbc">Slow Turret:</strong><br>
+A turret out of snow! It slows targets down without damage. It has the same health as the T1 turret.<br>
+<br>
+<img src="http://i.imgur.com/wyu4D.png" alt="Posted Image" class="bbc_img"> <strong class="bbc">Sniper Turret (T4):</strong><br>
+It shoots plasma within a range of 50 blocks, deals 17 hearts damage per shoot and has the same health as the T1 turret.<br>
+<br>
+<img src="http://i.imgur.com/NG1qW.png" alt="Posted Image" class="bbc_img"> <strong class="bbc">FLAK Turret (T4):</strong><br>
+This turret shoots different rockets within a range between 50 to 100 blocks (look in the turret item book for details about the rockets), deals 10 hearts damage per shoot and has the same health as the T2 turret. It attacks only flying entities (includes Ghasts and the Enderdragon (rockets do only 2.5 hearts damage to the Enderdragon!)).<br>
+
+<br>
+<img src="http://i.imgur.com/pfPGp.png" alt="Posted Image" class="bbc_img"> <strong class="bbc">Defense Bot:</strong><br>
+A mobile turret that follows you everywhere, if you don't set them to sleep. Also it don't attack the player, even he has set the global target to "Player". 15 hearts of life and cacti as ammunition makes them to an ideal follower!<br>
+You can find wild defense bots usually in deserts, but also in all other biomes with less spawning rate. They are neutral, so they attack you only if provoked. During day and night they attack all nearby mobs. If destroyed they drop 0-2 parts, which you can use to craft your own defense bot! These drops are also craftable, so you don't have to hunt defense bots (look in the turret item book for further information).<br>
+<br>
+<strong class="bbc">How to give them ammunition?</strong> Just feed them with the right item, that are written in the turret book.<br>
+<strong class="bbc">How to heal them?</strong> Same as ammunition. Feed them with the right item / block.<br>
+
+<strong class="bbc">How to feed them?</strong> Hold the neccessary item in your hands and right click on the turret.<br>
+You can also feed them now with throwing the right item to the turret!<br>
+<br>
+<strong class="bbc">How can I get the amount of ammunition / health?</strong> Left click the turret / bot with the turret control unit. Also you see 2 "antennas" on the feets: one red, for health, and one blue, for ammo. If these are pointing upwards, the turret are full of health / ammo, if these are pointing sidewards, the turret has low health / ammo.<br>
+With the turret control unit, you can turn on hovering bars that shows you the amount of health (red) and ammo (blue)<br>
+<a href="http://i.imgur.com/RowpM.jpg" class="bbc_url" title="" rel="nofollow"><img src="http://i.imgur.com/RowpMs.jpg" alt="Posted Image" class="bbc_img"></a><br>
+<br>
+<strong class="bbc">Also you can upgrade the turrets (except the secret turret) with one chest and / or one saddle.<br>
+
+NOTE 1: If you want to ride an saddle-upgraded turret, you have to hold the turret conrol unit (TCU) in your hands. If you switch to an other slot without a TCU, you will be fall down from the turret. You can control the turret with W A S D (Forward, Left, Backward, Right) and let them shoot with SPACEBAR (Jump)<br>
+NOTE 2: After the chest upgrade, your turret will be able to get it's items from nearby chests. Just place the chest in following pattern:<br>
+ <img src="http://static.minecraftforum.net/public/style_emoticons/default/blank.png" class="bbc_emoticon" alt="::"> <img src="http://static.minecraftforum.net/public/style_emoticons/default/chestfront.png" class="bbc_emoticon" alt=":chestfront:"> <img src="http://static.minecraftforum.net/public/style_emoticons/default/blank.png" class="bbc_emoticon" alt="::">   <br>
+ <img src="http://static.minecraftforum.net/public/style_emoticons/default/chestfront.png" class="bbc_emoticon" alt=":chestfront:"> <img src="http://i.imgur.com/BneET.png" alt="Posted Image" class="bbc_img"> <img src="http://static.minecraftforum.net/public/style_emoticons/default/chestfront.png" class="bbc_emoticon" alt=":chestfront:">   <br>
+ <img src="http://static.minecraftforum.net/public/style_emoticons/default/blank.png" class="bbc_emoticon" alt="::"> <img src="http://static.minecraftforum.net/public/style_emoticons/default/chestfront.png" class="bbc_emoticon" alt=":chestfront:"> <img src="http://static.minecraftforum.net/public/style_emoticons/default/blank.png" class="bbc_emoticon" alt="::">   <br>
+
+You can place just one chest, or two or all 4. double chests will NOT be registered! The turret use only the part that are inside of the pattern.</strong><br>
+<br>
+<strong class="bbc">With an empty bucket, you can right-click a turret (except the defense bot) and you'll get all ammo back!</strong>

@@ -1,0 +1,55 @@
+version 1.0.0_HD_S_B2<br>
+by sp614x<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/249637-181-optifine-hd-b-fps-boost-hd-textures/">HERE</a>.<br>
+<i>Like this mod? Then <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VJG2JUQRTPDYJ">DONATE</a> to show your support to the author!<br><br></i>
+
+<strong class="bbc">OptiFine 1.0.0_HD_S_B2</strong></span><br>
+<span style="font-size: 17px;"><strong class="bbc">(<span style="color: rgb(139, 0, 0);">Smooth</span>, removes lag spikes, extends Classic)</strong></span><br>
+<br>
+
+<strong class="bbc">For maximum FPS use:</strong><br>
+- Graphics: Fast<br>
+
+- Render Distance: Short/Tiny<br>
+- Fog: Fast<br>
+- AdvancedOpenGL: Fast<br>
+<br>
+<span style=""><strong class="bbc">Options:</strong></span><br>
+<strong class="bbc">- AdvancedOpenGL:</strong> Occlusion Culling, the game renders only the geometry which is really visible.<br>
+      OFF - all geometry is rendered (slow)<br>
+      Fast - agressive, may produce minimal artifacts (but much less than the default Minecraft OC)<br>
+
+      Fancy - conservative, should have no artifacts<br>
+<strong class="bbc">- Fog:</strong> Select fog type if supported by the GPU<br>
+      Fast - faster, simpler fog<br>
+      Fancy - slower, better looking fog <br>
+<strong class="bbc">- FogStart:</strong> Select fog start distance<br>
+
+      Min = 0.2 (close to player)<br>
+      Max = 0.8 (far from player, near to render limits)<br>
+<strong class="bbc">- Mipmap Level:</strong> how many levels of mipmaps are to be used, decreases the flickering of distant objects, should not affect FPS<br>
+      Min = 0 - no mipmaps, Minecraft default look<br>
+      Max = 4 - full mipmaps, some detail may disappear in distant objects<br>
+<strong class="bbc">- Mipmap Type:</strong> type of mipmaps, minimal FPS effect if any at all<br>
+
+      Nearest - faster<br>
+      Linear - better looking<br>
+<strong class="bbc">- Load Far:</strong> Enables fast render distance switching without reloading chunks, loads all the terrain at distance Far<br>
+<strong class="bbc">- PreloadedChunks:</strong> Enables movement in an area without loading new chunks<br>
+      Min = 0 - no preloading, after moving 5m new chunks will be loaded (default)<br>
+
+      Max = 8 - preload 8 chunks, when moving up to 8 chunks (8 x 16m = 128m) no new chunks will be loaded<br>
+      Bigger values force more chunks to be loaded at startup, which may take some time<br><br>
+
+<strong class="bbc">Tips and tricks:</strong></span><br>
+<br>
+1. Download the latest Java 7 builds from here: <a href="http://download.java.net/jdk7/" class="bbc_url" title="" rel="nofollow">http://download.java.net/jdk7/</a>. Minecraft should run much smoother with less lag spikes. It really helps.<br>
+2. Set the Java process to higher priority <br>
+
+3. <strong class="bbc">Set "Limit framerate" to Max FPS.</strong> The limiter is so implemented that it always decreases the FPS.<br>
+4. Update LWJGL from <a href="http://www.minecraftwiki.net/wiki/Tutorials/Update_LWJGL" class="bbc_url" title="" rel="nofollow">here</a>.<br>
+5. Lauch Minecraft with less memory (yes, really). It needs maximum 256 MB and runs fine on all settings with the default texture pack. By default java allocates too much memory (1GB?) which may get swapped to disk and the overall performance suffers a lot. I use a custom launcher to do this, here is the CMD file:<br>
+<pre class="prettyprint"><span class="kwd">set</span><span class="pln"> APPDATA</span><span class="pun">=</span><span class="pln">C</span><span class="pun">:\</span><span class="typ">Minecraft</span><span class="pln"><br>start </span><span class="pun">/</span><span class="pln">high javaw </span><span class="pun">-</span><span class="typ">Xmx256M</span><span class="pln"> </span><span class="pun">-</span><span class="typ">Djava</span><span class="pun">.</span><span class="pln">library</span><span class="pun">.</span><span class="pln">path</span><span class="pun">=</span><span class="pln">bin</span><span class="pun">/</span><span class="pln">natives </span><span class="pun">-</span><span class="pln">cp bin</span><span class="pun">/</span><span class="pln">minecraft</span><span class="pun">.</span><span class="pln">jar</span><span class="pun">;</span><span class="pln">bin</span><span class="pun">/</span><span class="pln">jinput</span><span class="pun">.</span><span class="pln">jar</span><span class="pun">;</span><span class="pln">bin</span><span class="pun">/</span><span class="pln">lwjgl</span><span class="pun">.</span><span class="pln">jar</span><span class="pun">;</span><span class="pln">bin</span><span class="pun">/</span><span class="pln">lwjgl_util</span><span class="pun">.</span><span class="pln">jar net</span><span class="pun">.</span><span class="pln">minecraft</span><span class="pun">.</span><span class="pln">client</span><span class="pun">.</span><span class="typ">Minecraft</span><span class="pln"> </span><span class="str">&lt;username&gt;</span><span class="pln"> </span><span class="str">&lt;password&gt;</span></pre><br>
+
+The first line points to the minecraft installation, so you can install Minecraft anywhere. Remove it if you run from the default directory. <br>
+<strong class="bbc">The CMD file have to be in the minecraft directory (for example: %APPDATA%/.minecraft) in order to work.</strong>

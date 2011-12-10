@@ -1,0 +1,6 @@
+max:0;priority:200000;native:Ranchi;english:Big Farm;around:0;startLevel:-2;orientation:3;signs:3,1,2,5,6,4,0,7;shop:japanesetownhall;length:31;width:25;male:japanese_farmerchief;female:japanese_farmwife;tag:Oven
+priority:69
+priority:49
+priority:29
+priority:10
+priority:5

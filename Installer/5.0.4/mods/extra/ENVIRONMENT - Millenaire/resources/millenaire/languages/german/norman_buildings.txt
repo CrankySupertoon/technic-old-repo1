@@ -1,0 +1,47 @@
+//Norman buildings already have French names
+//This file's sole purpose is to "block" an eventual fallback language from showing
+
+abbey_A0=Kloster
+archives_A0=Archiv
+armoury_A0=Waffenlager
+bakery_A0=Bäckerei
+carpenterhouse_A0=Schreinerei
+cattlefarm_A0=Rinderfarm
+church_A0= Kirche
+church_A2=Kirche
+farm_A0=Bauernhof
+farm_B0=Bauernhof
+forge_A0=Schmiede
+fort_A0=Festung
+grove_A0=Wäldchen
+grove_B0=Wäldchen
+grove_C0=Wäldchen
+guardhouse_A0=Wachhaus
+guesthouse_A0=Wachhaus
+guildhouse_A0=Wachhaus
+inn_A0=Gasthaus
+lumbermanhut_A0=Holzfällerhütte
+lumbermanhut_B0=Holzfällerhütte
+manor_A0=Herrenhaus
+market_A0=Markt
+pigfarm_A0=Schweinefarm
+playerestate_A0=Spieler Anwesen
+playerhugefield_A0=Enormes Feld
+playerlargefield_A0=Großes Feld
+playerlargehouse_A0=Großes Haus
+playersmallfield_A0=Kleines Feld
+playersmallhouse_A0=Kleines Haus
+presbytery_A0=Pfarrhaus
+quarry_A0=Steinbruch
+sheepchickenfarm_A0=Schaf und Hühnerfarm
+tavern_A0=Kneipe
+townhall_A0=Rathaus
+townhallagricole_A0=Landwirtschaftliches Rathaus
+watchtower_A0=Wachturm
+fountain_A0=Brunnen
+largefountain_A0=Großer Brunnen
+well_A0=Schacht
+
+
+
+

@@ -1,0 +1,43 @@
+villager.greeting=Kon'nichiwa, $name-ji! / Hello, $name-ji!
+villager.greeting=Yaa!. / Hi!.
+villager.greeting=Ogenki desuka, $name-ji  / How are you, $name-ji?
+villager.greeting=Saikin nai desuka? / Whats new?
+villager.greeting=Dono yo ni anata no sosen wa? / How are your ancestors?
+villager.greeting=Aisatsu ryoko. / Greetings traveler.
+villager.greeting=Anata wa doko kara kuru no ka? / Where are you from?
+
+villager.gorest=Watashi wa ima yasuma hitsuya ga arimasu. / I must rest now.
+villager.gorest=A, sore wa watashi no shushin jikandesu. / Ah, its my bedtime.
+villager.gorest=Watashi mo keizoku shite tsukareta. / I am too tired to continue.
+
+villager.gopray=Watashi wa, watashi-tachi no sosen ga hosaku motarasu koto o. / I will pray that our ancestors bring a bountiful harvest.
+villager.gopray=Rei wa watashi-tachi o hozon suru. / Spirits save us.
+
+villager.BringBackResourcesHome=Sagyo no shigoto o hataraku... / work, work, work...
+villager.ChopTrees=Watashi wa ikutsu ka no ki o rogu ni kiroku shiyou to omoimasu. I'm bout to log some trees.
+villager.GatherGoods=Sore wa, busshi o atsumeru tame ni watashi no shigotodesu. / It is my job to gather supplies.
+villager.PlantSaplings=Watashi wa ki o ueru no ga daisuki. / I love to plant trees.
+
+villager.SlaughterChicken=Anata no shi wa, jomyaku de niwatorideatte wa naranai! / Your death shall not be in vein, chicken!
+
+villager.GetHouseResources=Watashi wa ie kara nani ka o shutoku suru hitsuyo ga arimasu. / I have to go get something from home.
+villager.GetGoodsHousold=Korera wa, watashiga jitaku de hitsuyona monodesu. / These are things I need at home.
+villager.DeliverGoodsHousold=Watashi wa shokuryo-hin o motte iru. / I've got groceries.
+
+
+villager.GetResourcesForBuild=Watashi wa yori oku nno zairyo o hitsuyo to suru. / I need more materials.
+villager.ConstructionStepByStep=Watashi wa chichi kara kechiku o mananda. / I learned architecture from my father.
+villager.ConstructionStepByStep=Watashi wa, masutaakitekuto gozen. / I am a master architect.
+
+villager.GoPlay=Watashi wa taikutsuda, watashi gemu o purei shitai. / I'm bored, i want to play a game.
+villager.BecomeAdult=Seicho suru jikan. / Time to grow up
+male.BecomeAdult=kokina bushi ni naritai. /I want to be a noble Samurai.
+female.BecomeAdult=Watashi wa watashi no otto wa idaina meiyo no hitodearu koto o nozomu. / I hope my husband is a man of great honor.
+villager.gopray.chosen=Anata no kokoro o shizumeru. / Calm your mind.
+
+villager.calltoarms=Anata no Shogun o mamoru. / Defend your Shogun
+villager.calltoarms=Karera wa watashi-tachi o kogeki shita ichi-nichi o kokai suru! / They will regret the day they attacked us!
+villager.calltoarms=Ude Ni! / To Arms!
+
+villager.MakeTools=Watashi wa tochi de saiko no tsuru o komyo ni tsukuru. / I craft the finest tools in the land.
+villager.MakeWeapons=Watashi wa tochi de saiko no buredo o komyo ni tsukuru. / I craft the finest blades in the land.

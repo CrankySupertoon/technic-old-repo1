@@ -1,0 +1,3 @@
+sells=paperwall,timberframe_plain,timberframe_cross
+
+deliverto=paper

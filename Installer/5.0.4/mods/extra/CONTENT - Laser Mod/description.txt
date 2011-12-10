@@ -1,0 +1,177 @@
+<img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/laser-bannerBig.jpg" alt="Posted Image" class="bbc_img"></span><br>
+<span style="font-family: Franklin Gothic Medium;"><span class="bbc_center">The basic of the Laser Mod includes three types of blocks:<br>
+<a href="http://www.minecraftforum.net/topic/515159-100-the-laser-mod-v12-drill-panels-and-more/#Laser"><img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/bLaser.jpg" alt="Posted Image" class="bbc_img"></a><a href="http://www.minecraftforum.net/topic/515159-100-the-laser-mod-v12-drill-panels-and-more/#Reflector"><img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/bReflector.jpg" alt="Posted Image" class="bbc_img"></a><a href="http://www.minecraftforum.net/topic/515159-100-the-laser-mod-v12-drill-panels-and-more/#Sensor"><img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/bSensor.jpg" alt="Posted Image" class="bbc_img"></a><br>
+Use the laser mod to defense your house, as a light source, or for a mob-trap and much more!</span></span><br>
+<br>
+<hr class="bbc"><br>
+<br>
+<span class="bbc_center"><span style="font-size: 15px;"><strong class="bbc">The ruby</strong></span><br>
+All blocks are based on the ruby now. <br>
+You can craft it with glass and redstone: <br>
+
+<img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/recipePicture_ruby.jpg" alt="Posted Image" class="bbc_img"><br>
+For the next version it is planned that <br>
+the ruby arises in the environment.</span><br>
+<br>
+<span id="Laser"></span><br>
+<span style="font-family: Impact;"><span class="bbc_center"><span style="font-size: 21px;">The Laser</span></span></span><br>
+The laser is a block, which shoot a laser-beam, when you activate it.<br>
+<img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/laserNormalWhite.jpg" alt="Posted Image" class="bbc_img"><br>
+The default laser-beam is white, very small and interruptible.<br>
+You can use this fo a mob-detector/light barrier.<br>
+<img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/laserDetector.jpg" alt="Posted Image" class="bbc_img"><br>
+
+You can improve the laser with a lens, to add a function. You can put other blocks on it while sneaking.<br>
+<br>
+<strong class="bbc">Recipe:</strong><br>
+<span class="bbc_center"><img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/recipePicture_laser.jpg" alt="Posted Image" class="bbc_img"></span><br>
+<br>
+<span id="Reflector"></span><br>
+<span style="font-family: Impact;"><span class="bbc_center"><span style="font-size: 21px;">The Laser Reflector</span></span></span><br>
+The peculiarity of the reflector is that the laser goes through and comes out were it points. So you can pass on the laser-beam.<br>
+The redirected beam has the same properties like the source.<br>
+You can mix diffrent laser beams and you can also put a lens on it.<br>
+<img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/laserReflectores1.jpg" alt="Posted Image" class="bbc_img"><br>
+
+<strong class="bbc">Recipe:</strong> <br>
+<span class="bbc_center"><img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/recipePicture_reflector.jpg" alt="Posted Image" class="bbc_img"></span><br>
+<br>
+<span id="Sensor"></span><br>
+<span style="font-family: Impact;"><span class="bbc_center"><span style="font-size: 21px;">The Laser Sensor</span></span></span><br>
+The Laser Sensor is a block, which provide power, while touching the laser-beam.<br>
+Use it for  pass on signales over a long distance.<br>
+<img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/LaserSensor.jpg" alt="Posted Image" class="bbc_img"><br>
+ <strong class="bbc">Recipe:</strong><br>
+<span class="bbc_center"><img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/recipePicture_sensor.jpg" alt="Posted Image" class="bbc_img"></span><br>
+
+<br>
+<span style="font-family: Impact;"><span class="bbc_center"><span style="font-size: 21px;">The Lens</span></span></span><br>
+Use the lens to change the color of the laser-beam and also the function, the properties, all in all the whole behavior of the beam. You can craft a lens via the "lens bench".<br>
+<div class="bbc_spoiler">
+	<span class="spoiler_title">Spoiler</span> <input class="bbc_spoiler_show" value="Show" type="button">
+	<div class="bbc_spoiler_wrapper"><div class="bbc_spoiler_content" style="display: none;"><br>
+<img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/recipePicture_lensBench.jpg" alt="Posted Image" class="bbc_img"><br>
+<br>
+The first step is to click on the new lens bench and and put a glass-block in the middle.<br>
+ <img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/LaserBench1.jpg" alt="Posted Image" class="bbc_img"><br>
+
+<br>
+<strong class="bbc">Specialize your lens:</strong><br>
+For making a edge, put one of these solid blocks into the highest slot. <br>
+ <pre class="prettyprint"><span class="typ">Planks</span><span class="pln"><br></span><span class="typ">Stone</span><span class="pln"><br></span><span class="typ">Cobblestone</span><span class="pln"><br></span><span class="typ">Bricks</span><span class="pln"><br></span><span class="typ">Stone</span><span class="pln"> bricks<br></span><span class="typ">Iron</span><span class="pln"> block <br></span><span class="typ">Gold</span><span class="pln"> block<br></span><span class="typ">Sandstone</span><span class="pln"><br></span><span class="typ">Wood</span></pre><br>
+
+This is only for aesthetics. You can also make frameless lenses, but you need the drill to use them.<br>
+<img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/laserWork2.jpg" alt="Posted Image" class="bbc_img"><br>
+<br>
+To change further poperties, you can put further items into the function slots.<br>
+Is it possible to change following properties:<br>
+<br>
+<span style=""><a href="http://www.minecraftforum.net/topic/515159-100-the-laser-mod-v12-drill-panels-and-more/#Range">-the range</a><br>
+<a href="http://www.minecraftforum.net/topic/515159-100-the-laser-mod-v12-drill-panels-and-more/#Power">-the power</a><br>
+<a href="http://www.minecraftforum.net/topic/515159-100-the-laser-mod-v12-drill-panels-and-more/#Color">-the color</a></span><br>
+<br>
+And advanced it with a Enderpearl.<br>
+
+To change the color, put one dye in one of the other slots. (function slots)<br>
+Each color changes the function of the laser.<br>
+<br>
+<span id="Color"></span><br>
+<span class="bbc_center"><span style="font-size: 15px;"><strong class="bbc">COLORS</strong></span><br>
+<img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/img_improveLaser/img-dye.gif" alt="Posted Image" class="bbc_img"></span><br>
+<br>
+<strong class="bbc">White</strong><br>
+ ?The detector beam. The beam is interruptible.<br>
+<br>
+<ul class="bbc"><li><em class="bbc">Power 1-3:</em> Blocked by items, mobs, and player. <br></li><li><em class="bbc">Power 4-6:</em> Blocked by mobs and players. <br></li><li><em class="bbc">Power 7-9:</em> Blocked by player only.</li></ul><br>
+
+<br>
+<strong class="bbc">Red</strong><br>
+<span style="color: rgb(255, 0, 0);">?</span>The heat beam. Deals damage, sets the world on fire, destroys blocks. <br>
+<br>
+<ul class="bbc"><li><em class="bbc">Power:</em> Each level improves the damage per second, the change to set an entity on fire and the beam can dig through harder blocks. Maximum damage: 30 hearts per second!<br></li><li><em class="bbc">Advanced:</em> Prevents beam from destruction of items.</li></ul><br>
+<br>
+<strong class="bbc">Green</strong><br>
+
+<span style="color: rgb(0, 128, 0);">?</span>The nature beam. Speeds up plant grow rate. If user cuts the tree segment which is under the effect of an advanced green beam, the whole tree will fall. This will allow for automatic tree farms.<br>
+<br>
+<ul class="bbc"><li><em class="bbc">Higher Power:</em> Speeds up plant grow rate.<br></li><li><em class="bbc">Advanced:</em> Tree-cutting mechanism avaible.</li></ul><br>
+<br>
+<strong class="bbc">Blue</strong><br>
+<span style="color: rgb(0, 0, 255);">?</span>The slow down beam. Slows down mobs on horizontal plane (e.g. they move slower, but jump as usual).<br>
+
+<br>
+<ul class="bbc"><li><em class="bbc">Power n:</em> Slows down target to n*10%.<br></li><li><em class="bbc">Advanced:</em> Slows down by vertical axis.</li></ul><br>
+<br>
+<strong class="bbc">Yellow</strong><br>
+<span style="color: rgb(255, 165, 0);">?</span>The light beam. Has increased light level.<br>
+<br>
+<ul class="bbc"><li><em class="bbc">Power n:</em> 4+n Lightlevel<br></li><li><em class="bbc">Advancded:</em> The beam passes through solid blocks as if there wasn't any.</li></ul><br>
+
+<br>
+<strong class="bbc">Cyan</strong><br>
+<span style="color: rgb(0, 191, 255);">?</span>The tractor beam. The beam pushes entities.  All sorts of farming machines as well as laser elevators are possible with this beam.<br>
+<br>
+<ul class="bbc"><li><em class="bbc">Power n:</em> Pulls stuff with acceleration 0.4*n m/s.<br></li><li><em class="bbc">Advanced:</em> Pushes instead. If the beam is horizontal, it also pushes entities top with same acceleration.</li></ul><br>
+<br>
+<strong class="bbc">Purple</strong><br>
+
+ <span style="color: rgb(153, 50, 204);">?</span>The hybrid of red and blue.<br>
+<br>
+<span id="Power"></span><br>
+<span class="bbc_center"><span style="font-size: 15px;"><strong class="bbc">POWER</strong></span><br>
+<img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/img_improveLaser/img-improvePower.gif" alt="Posted Image" class="bbc_img"><br>
+</span><br>
+Increase the power, improves the properties of the laser-beam. Each level also increases the size of the beam.<br>
+The maximum Power is +9.<br>
+<br>
+<img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/laserPower1.jpg" alt="Posted Image" class="bbc_img"><br>
+<span id="Range"></span><br>
+
+<span class="bbc_center"><span style="font-size: 15px;"><strong class="bbc">RANGE</strong></span><br>
+<img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/img_improveLaser/img-improveRange.gif" alt="Posted Image" class="bbc_img"><br>
+</span><br>
+A default beam has the range of 10 meters. Improve the range, when needed. <br>
+Or worsen the range. Each reflector reduce the range by 20%.<br>
+<br>
+<strong class="bbc">Example photos for a lens-crafting-recipe:</strong><br>
+<img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/LaserWork.gif" alt="Posted Image" class="bbc_img"><br>
+</div></div>
+</div><br>
+<br>
+<span style="font-family: Impact;"><span class="bbc_center"><span style="font-size: 21px;">The Drill</span></span></span><br>
+
+You can use the drill to bore more inputs/outputs into a laser device.<br>
+<strong class="bbc">Recipe:</strong><br>
+<span class="bbc_center"><img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/recipePicture_drill.jpg" alt="Posted Image" class="bbc_img"></span><br>
+You can choose between one of these blocks for the case:<br>
+<pre class="prettyprint"><span class="pun">-</span><span class="typ">Stone</span><span class="pln"><br></span><span class="pun">-</span><span class="typ">Cobblestone</span><span class="pln"><br></span><span class="pun">-</span><span class="typ">Mossy</span><span class="pln"> cobblestone<br></span><span class="pun">-</span><span class="typ">Bricks</span><span class="pln"><br></span><span class="pun">-</span><span class="typ">Stone</span><span class="pln"> bricks<br></span><span class="pun">-</span><span class="typ">Planks</span><span class="pln"><br></span><span class="pun">-</span><span class="typ">Netherrack</span><span class="pln"><br></span><span class="pun">-</span><span class="typ">Sandstone</span><span class="pln"><br></span><span class="pun">-</span><span class="typ">Bookshelf</span><span class="pln"><br></span><span class="pun">-</span><span class="typ">Lazuli</span><span class="pln"> block<br></span><span class="pun">-</span><span class="typ">Iron</span><span class="pln"> block<br></span><span class="pun">-</span><span class="typ">Gold</span><span class="pln"> block<br></span><span class="pun">-</span><span class="typ">Diamond</span><span class="pln"> block</span></pre><br>
+
+With the drill in your hand make a right-click on your chosen block and a gui will pop up.<br>
+You can put a glass-blocks or a frameless lenses into the slots.<br>
+Ruby must be present in player's inventory and will be automatically consumed.<br>
+ Each slot stands for one side of the block. The glass-block will add a further input, <br>
+the lenses a further output.<br>
+<img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/laserDrillGUI.gif" alt="Posted Image" class="bbc_img"><br>
+Use the template for examples of possible constructions.<br>
+(You can craft a frameless lenses like a normal one, read the lens-topic for further infos).<br>
+Now you made a custom laser-deviece!<br>
+
+To harvest such device, use a tool you would usually use for its material block.<br>
+<br>
+<span style="font-family: Impact;"><span class="bbc_center"><span style="font-size: 21px;">The handheld laser beam sensor</span></span></span><br>
+You build complicated laser-systems and your are unsure which properties what kind of properties your beams have?<br>
+Craft the "handheld laser beam sensor" to understand better the operation of the laser-beams.<br>
+<strong class="bbc">Recipe:</strong><br>
+<span class="bbc_center"><img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/recipePicture_handsensor.jpg" alt="Posted Image" class="bbc_img"></span><br>
+Click with right-click on any laser device and it will show you the beam-properties.<br>
+<img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/handhelt%20sensor.gif" alt="Posted Image" class="bbc_img"><br>
+<br>
+<span style="font-family: Impact;"><span class="bbc_center"><span style="font-size: 21px;">The tube and the panel</span></span></span><br>
+
+Use the lasers to make colorful displays, or color-signals.<br>
+<strong class="bbc">Recipe:</strong><br>
+<span class="bbc_center"><br>
+<img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/recipePicture_tube.jpg" alt="Posted Image" class="bbc_img"><img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/recipePicture_panel.jpg" alt="Posted Image" class="bbc_img"></span><br>
+When a tube collides with a laser-beam, it will change the color of the connected panels<br>
+into the beam color. Panels light level depends on light level of powering beam.<br>
+<img src="http://dl.dropbox.com/u/5339173/wecraftmodfinal/picture/v.1.1/panle%26tube.gif" alt="Posted Image" class="bbc_img">

@@ -1,0 +1,14 @@
+native_name=Assistant
+gender=male
+familyNameList=alchemistassistant_last
+firstNameList=alchemistassistant_first
+
+texture=/mob/norman/ML_AlchemistAssistant0.png
+
+goal=gorest
+goal=gopray
+
+defaultweapon=woodpickaxe
+
+baseAttackStrength=8
+experiencegiven=8

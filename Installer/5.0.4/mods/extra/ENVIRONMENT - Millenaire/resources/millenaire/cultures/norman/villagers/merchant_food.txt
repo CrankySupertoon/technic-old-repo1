@@ -1,0 +1,24 @@
+native_name=Marchand de nourriture
+gender=male
+familyNameList=merchant_food_family_names
+firstNameList=merchant_food_first_names
+tag=visitor
+tag=foreignmerchant
+chanceWeight=20
+
+texture=/mob/norman/ML_Merchant_Food0.png
+
+goal=gorest
+goal=gopray
+goal=godrink
+goal=keepStall
+
+startingInv=bread,16
+startingInv=porkchops,8
+startingInv=fishcooked,8
+startingInv=cider,4
+startingInv=boudin,4
+startingInv=cake,1
+
+baseAttackStrength=5
+experiencegiven=3
