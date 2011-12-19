@@ -1,0 +1,5 @@
+sells=wood,wood_pine,wood_birch,gold,mayangold,cobblestone,maize,stone,chickenmeat,villageWand,parchmentMayanVillagers,parchmentMayanBuildings,parchmentMayanItems,parchmentMayanComplete
+
+buys=wood,wood_pine,wood_birch,stone,cobblestone,sandstone,maize,gold,chickenmeat,mayangold
+
+deliverto=wood,wood_pine,wood_birch,cobblestone,stone,maize,mayangold,chickenmeat,mayanstatue

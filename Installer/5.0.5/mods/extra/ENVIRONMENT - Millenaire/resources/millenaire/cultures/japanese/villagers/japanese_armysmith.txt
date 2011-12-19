@@ -1,0 +1,19 @@
+native_name=Guntai Tan'ya-jo
+gender=male
+familyNameList=low_caste_family_names
+firstNameList=men_names
+baseHeight=0.9
+
+texture=/mob/mayan/mayan_ArmySmith0.png
+
+goal=gorest
+goal=gopray
+goal=makeIndianWeapons
+
+toolNeeded=steelSword
+
+requiredGood=iron,10
+
+baseAttackStrength=5
+tag=helpInAttacks
+defaultweapon=woodsword

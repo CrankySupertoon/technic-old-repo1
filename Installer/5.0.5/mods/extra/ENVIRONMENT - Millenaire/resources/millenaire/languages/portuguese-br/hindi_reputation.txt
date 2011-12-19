@@ -1,0 +1,9 @@
+0;Estranho;Nao estamos acostumados a ver estranhos em nossa remota vila.
+4*64;Conhecido;Até agora tem respeitado nossos costumes.
+16*64;Visitante Regular;Namaste, $name! Que notícias tens pra contar?
+64*64;Comerciante;Bem vindo novamente, $name. O que você traz para comercializar?
+2*64*64;Amigo da Vila;$name-ji, Nós todos consideramos você um grande amigo da vila.
+8*64*64;Um de Nós;Pensei que nunca viveria pra ver um forasteiro tao bem aceito no vilarejo, mas $name-ji, e com certeza um de nós !
+-64;Incômodo;Nós nao gostamos de estrangeiros aqui, especialmente do seu tipo.
+-4*64;Forasteiro Indesejável;Quem criou você fez um péssimo trabalho. Esperamos que vá embora logo.
+-16*64;Inimigo Público;Toda manha eu clamo aos Deuses para nao voltar a ver sua cara.

@@ -1,0 +1,4 @@
+max:2;priority:92;native:Suiden;english:Rice Paddy;around:3;startLevel:-1;orientation:2;minDistance:60;width:13;length:18;tag:paddy
+priority:78
+priority:35
+priority:15

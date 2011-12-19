@@ -1,0 +1,2 @@
+max:0;priority:200000;native:Shi;english:Castle;around:3;startLevel:-2;orientation:3;signs:3,1,2,5,6,4,7,0;shop:japanesetownhall;length:40;width:40;male:japanese_samuraigeneral;female:japanese_richwoman;tag:Oven
+priority:62

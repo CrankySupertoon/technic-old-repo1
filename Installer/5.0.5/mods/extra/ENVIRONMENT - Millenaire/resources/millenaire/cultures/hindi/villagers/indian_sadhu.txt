@@ -1,0 +1,13 @@
+native_name=Sadhu
+gender=male
+familyNameList=sadhu_first
+firstNameList=sadhu_last
+tag=religious
+
+texture=/mob/indian/ML_sadhu.png
+
+goal=gorest
+goal=gopray
+
+baseAttackStrength=2
+experiencegiven=2

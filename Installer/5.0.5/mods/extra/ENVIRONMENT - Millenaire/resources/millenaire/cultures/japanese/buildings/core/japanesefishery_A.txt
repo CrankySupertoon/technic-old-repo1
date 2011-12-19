@@ -1,0 +1,2 @@
+max:1;priority:94;native:Ike;english:Pond;around:2;startLevel:-3;orientation:3;minDistance:60;width:17;length:17;male:japanese_fisherman;female:japanese_peasantwife;
+priority:91;native:Gyogyo;english:Fishery;tag:Oven

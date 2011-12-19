@@ -1,0 +1,39 @@
+culture.norman=Norman
+
+//Norman:
+villager.abbot=
+villager.carpenter=
+villager.cattleFarmerMale=Cattle Farmer
+villager.cattleFarmerFemale=Cattle Farmer
+villager.boy=Boy
+villager.girl=Girl
+villager.teenagerMale=Youth
+villager.teenagerFemale=Youth
+villager.farmer=
+villager.viking_merchant=
+villager.weapon_merchant=
+villager.plant_merchant=
+villager.oriental_merchant=
+villager.art_merchant=
+villager.wool_merchant=
+villager.food_merchant=Food Merchant
+villager.guard=
+villager.guildmaster=
+villager.knight=Knight
+villager.lady=
+villager.lumberman=Lumberman
+villager.merchant=
+villager.miner=
+villager.monk=Monk
+villager.priest=
+villager.seneschal=
+villager.smith=Smith
+villager.wife=Village Woman
+
+villager.lonelumberman=Lumberman
+villager.lonelumbermantaiga=Lumberman
+villager.loneminer=
+villager.lonemonk=Monk
+villager.loneabbot=
+villager.alchemist=
+villager.alchemistassistant=

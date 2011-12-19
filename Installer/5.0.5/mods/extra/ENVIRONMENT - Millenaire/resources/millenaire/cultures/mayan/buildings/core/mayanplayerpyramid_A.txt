@@ -1,0 +1,10 @@
+max:0;priority:500;native:Muul;english:Pyramid;around:2;orientation:3;startLevel:0;width:36;length:35;signs:3,1,2,5,6,4,7,0;shop:mayantownhall
+priority:80
+
+priority:50
+
+priority:30
+
+priority:15
+
+priority:5

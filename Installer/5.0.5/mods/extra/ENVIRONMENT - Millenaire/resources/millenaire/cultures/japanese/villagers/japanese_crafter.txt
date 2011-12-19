@@ -1,0 +1,19 @@
+native_name=Yun raita no shigoto
+gender=male
+familyNameList=low_caste_family_names
+firstNameList=men_names
+baseHeight=0.9
+
+texture=/mob/japanese/japanese_Crafter0.png
+
+goal=gorest
+goal=gopray
+goal=makepaperwall
+goal=makeTimberFrame
+
+requiredGood=rice,4
+requiredGood=wheat,4
+requiredGood=wood,24
+
+baseAttackStrength=5
+tag=helpInAttacks

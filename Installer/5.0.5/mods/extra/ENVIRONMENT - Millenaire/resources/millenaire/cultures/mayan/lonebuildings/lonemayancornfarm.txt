@@ -1,0 +1,8 @@
+name:Lost Mayan Corn Farm
+weight:10
+radius:15
+biome:forest
+biome:swampland
+
+//starting buildings:
+centre:lonemayancornfarm

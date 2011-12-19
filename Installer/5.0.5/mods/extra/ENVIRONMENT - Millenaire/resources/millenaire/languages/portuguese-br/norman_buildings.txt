@@ -1,0 +1,43 @@
+﻿//Norman buildings already have French names
+//This file's sole purpose is to "block" an eventual fallback language from showing
+
+abbey_A0=Abadia
+archives_A0=Biblioteca
+armoury_A0=Arsenal
+bakery_A0=Padaria
+carpenterhouse_A0=Casa do Carpinteiro
+cattlefarm_A0=Açougue
+church_A0=Capela
+church_A2=Igreja
+farm_A0=Granja
+farm_B0=Granja
+forge_A0=Forja
+fort_A0=Forte
+grove_A0=Bosque
+grove_B0=Bosque
+grove_C0=Bosque
+guardhouse_A0=Casa de Guarda
+guesthouse_A0=Casa de hospedes
+guildhouse_A0=Casa da Guilda
+inn_A0=Pousada
+lumbermanhut_A0=Cabana do Lenhador
+lumbermanhut_B0=Cabana do Lenhador
+manor_A0=Propriedade
+market_A0=Mercado
+pigfarm_A0=Granja de Porcos
+playerestate_A0=Mansao
+playerhugefield_A0=Terreno Grande
+playerlargefield_A0=Terreno grande
+playerlargehouse_A0=Casa grande
+playersmallfield_A0=Terreno pequeno
+playersmallhouse_A0=Casa Pequena
+presbytery_A0=Presbiterio
+quarry_A0=Pedreira
+sheepchickenfarm_A0=Granja
+tavern_A0=Tabernas
+townhall_A0=Prefeitura
+townhallagricole_A0=Prefeitura
+watchtower_A0=Torre de Guarda
+
+
+
