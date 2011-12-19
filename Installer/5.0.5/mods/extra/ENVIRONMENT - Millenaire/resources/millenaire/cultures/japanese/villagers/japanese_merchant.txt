@@ -1,4 +1,4 @@
-native_name=Bijinesuman
+native_name=Chounin
 gender=male
 familyNameList=low_caste_family_names
 firstNameList=men_names
@@ -6,8 +6,8 @@ tag=visitor
 
 tag=localmerchant
 
-texture=/mob/mayan/mayan_merchant0.png
-texture=/mob/mayan/mayan_merchant1.png
+texture=/mob/japanese/japanese_Sculptor0.png
+texture=/mob/japanese/japanese_Crafter0.png
 
 goal=gorest
 goal=gopray

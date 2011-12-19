@@ -1,4 +1,4 @@
-native_name=Ryoshi
+native_name=Ryoushi
 gender=male
 familyNameList=low_caste_family_names
 firstNameList=men_names

@@ -1,4 +1,4 @@
-native_name=Tan'ya-jo
+native_name=Kajiya
 gender=male
 familyNameList=low_caste_family_names
 firstNameList=men_names

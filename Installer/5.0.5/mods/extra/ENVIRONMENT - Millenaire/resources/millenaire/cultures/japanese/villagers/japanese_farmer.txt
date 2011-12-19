@@ -1,4 +1,4 @@
-native_name=Noka
+native_name=Hyakushou
 gender=male
 familyNameList=low_caste_family_names
 firstNameList=men_names

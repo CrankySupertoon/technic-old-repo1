@@ -1,11 +1,11 @@
-native_name=Farmer
+native_name=Chokan
 gender=male
-familyNameList=high_caste_family_names
+familyNameList=low_caste_family_names
 firstNameList=men_names
 tag=chief
 baseHeight=0.93
 
-texture=/mob/japanese/japanese_Farmer0.png
+texture=/mob/japanese/japanese_Peasant1.png
 
 goal=gorest
 goal=gopray

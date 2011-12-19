@@ -1,4 +1,4 @@
-name:Seiji Mura
+name:Bukkyou Mura
 weight:10
 biome:plains
 biome:extreme hills
@@ -23,7 +23,6 @@ core:japanesecrafter
 core:japanesesamuraih
 core:japanesequarry
 core:japaneseforge
-core:japaneseshintoshrine
 core:japaneselookout
 core:japanesekitchen
 
@@ -34,3 +33,4 @@ secondary:japanesezen
 //not to be built
 never:japanesefort
 never:japanesefarmbig
+never:japaneseshintoshrine

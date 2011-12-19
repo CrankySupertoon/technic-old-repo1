@@ -1,4 +1,4 @@
-name:Gunji Mura
+name:Gunjiteki Mura
 weight:10
 biome:plains
 biome:extreme hills

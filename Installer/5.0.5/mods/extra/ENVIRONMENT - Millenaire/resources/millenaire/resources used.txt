@@ -1838,7 +1838,7 @@ Initial Construction
 |}
 
 
-Archive
+Shoko
 japanesearchive
 
 ==Requirements==
@@ -2750,7 +2750,7 @@ Upgrade 1
 |}
 
 
-Kitchin
+Daidokoro
 japanesekitchen
 
 ==Requirements==

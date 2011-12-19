@@ -13,3 +13,4 @@ rewardgood:mushroomred,1
 rewardgood:vine,1
 rewardgood:vegcurry,1
 setglobaltagsuccess:sadhu_5b_done
+clearglobaltagsuccess:sadhu_5b_start

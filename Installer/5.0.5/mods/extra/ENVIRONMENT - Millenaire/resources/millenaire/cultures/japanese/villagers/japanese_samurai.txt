@@ -1,11 +1,11 @@
-native_name=Bushi
+native_name=Keibou 
 gender=male
 familyNameList=high_caste_family_names
 firstNameList=men_names
 baseheight=.9
 hiringcost=32
 
-texture=/mob/japanese/japanese_Samurai0.png
+texture=/mob/japanese/japanese_Guard.png
 texture=/mob/japanese/japanese_Samurai1.png
 
 goal=gorest

@@ -1,6 +1,6 @@
-native_name=Wakai
-alt_native_name=Al
-alt_key=mayan_teenagermale
+native_name=Otokonoko
+alt_native_name=Danshi
+alt_key=japanese_teenager
 gender=male
 tag=child
 familyNameList=low_caste_family_names

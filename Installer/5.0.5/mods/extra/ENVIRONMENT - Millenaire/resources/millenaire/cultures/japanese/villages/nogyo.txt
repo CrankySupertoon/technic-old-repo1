@@ -1,4 +1,4 @@
-name:Nogyo Mura
+name:Nouji Mura
 weight:10
 biome:plains
 biome:extreme hills

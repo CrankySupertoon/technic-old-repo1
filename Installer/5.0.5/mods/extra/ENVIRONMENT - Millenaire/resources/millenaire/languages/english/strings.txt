@@ -362,30 +362,14 @@ hire.hire=Hire
 hire.hireover=The hiring of <0> has ended. He is returning to his village.
 hire.hiredied=<0> has died. He will respawn in his village, his hiring cancelled.
 
-
-actions.forest_timeskip=You have skipped time while exploring, the exploration is cancelled.
-actions.forest_daytime=Dawn has risen before you could finish exploring. You will need to try an other night.
-actions.forest_outof=You have moved out of the forest. The exploration is cancelled.
-actions.forest_nomouvement=You need to move at least fifty metres from your starting point every hour. The exploration is cancelled.
 actions.forest_success=You have successfully explored the forest.
-actions.forest_start=You have started exploring the forest. You need to continue for five hours.
-actions.forest_continue=Your exploration of the forest continues. <0> hour(s) are left.
+actions.forest_continue=You have completed <0>% of your exploration of the forest.
 
-actions.desert_timeskip=You have skipped time while exploring, the exploration is cancelled.
-actions.desert_daytime=Dawn has risen before you could finish exploring. You will need to try an other night.
-actions.desert_outof=You have moved out of the desert. The exploration is cancelled.
-actions.desert_nomouvement=You need to move at least fifty metres from your starting point every hour. The exploration is cancelled.
 actions.desert_success=You have successfully explored the desert.
-actions.desert_start=You have started exploring the desert. You need to continue for five hours.
-actions.desert_continue=Your exploration of the desert continues. <0> hour(s) are left.
+actions.desert_continue=You have completed <0>% of your exploration of the desert.
 
-actions.mountain_timeskip=You have skipped time while exploring, the exploration is cancelled.
-actions.mountain_daytime=Dawn has risen before you could finish exploring. You will need to try an other night.
-actions.mountain_outof=You have moved out of the mountains. The exploration is cancelled.
-actions.mountain_nomouvement=You need to move at least thirty metres from your starting point every hour. The exploration is cancelled.
 actions.mountain_success=You have successfully explored the mountains.
-actions.mountain_start=You have started exploring the mountains. You need to continue for five hours.
-actions.mountain_continue=Your exploration of the mountains continues. <0> hour(s) are left.
+actions.mountain_continue=You have completed <0>% of your exploration of the mountains.
 
 actions.underwaterglass_success=You have successfully built a deep-sea observation window.
 actions.underwaterglass_notdeepenough=The sea is not deep enough at this point.

@@ -1,10 +1,10 @@
-native_name=Guntai Tan'ya-jo
+native_name=Kaji
 gender=male
 familyNameList=low_caste_family_names
 firstNameList=men_names
 baseHeight=0.9
 
-texture=/mob/mayan/mayan_ArmySmith0.png
+texture=/mob/japanese/Japanese_ArmySmith0.png
 
 goal=gorest
 goal=gopray

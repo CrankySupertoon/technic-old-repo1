@@ -1,13 +1,12 @@
-native_name=Josei nomin no
+native_name=Tsuma
 gender=female
 familyNameList=low_caste_family_names
 firstNameList=low_caste_women_names
 tag=seller
 malechild=japanese_boy
 femalechild=japanese_girl
-baseHeight=0.8
+baseHeight=0.85
 health=15
-model=femaleasymmetrical
 
 texture=/mob/japanese/japanese_Peasant_Wife0.png
 texture=/mob/japanese/japanese_Peasant_Wife1.png

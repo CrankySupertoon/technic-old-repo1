@@ -1,11 +1,11 @@
-native_name=Shogun
+native_name=Kokushi 
 gender=male
 familyNameList=high_caste_family_names
 firstNameList=men_names
 tag=chief
 baseHeight=0.93
 
-texture=/mob/japanese/japanese_Kuge0.png
+texture=/mob/japanese/japanese_Overseer1.png
 
 goal=gorest
 goal=gopray

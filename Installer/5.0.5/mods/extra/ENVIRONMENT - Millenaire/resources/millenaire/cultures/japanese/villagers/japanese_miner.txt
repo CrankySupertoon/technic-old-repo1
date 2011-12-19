@@ -1,4 +1,4 @@
-native_name=Kozan rodo-sha
+native_name=Koufu
 gender=male
 familyNameList=low_caste_family_names
 firstNameList=men_names

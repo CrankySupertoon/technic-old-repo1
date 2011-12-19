@@ -1,9 +1,10 @@
-0;Fremder;Wir sind hier gegenüber Fremden etwas achtsam, neuling. Doch Handle fair mit uns und du wirst gastfreundlich behandelt.
-4*64;Bekanntes Gesicht;Wir haben dich hier schon öfters gesehen und kein Huhn scheint uns zu fehlen. Mache weiter so und wir verstehen uns.
-16*64;Regelmäßiger Besucher;Wilkommen, $name! Es ist gut dich wieder zu sehen.
-64*64;Lieblingshändler;Ah, $name! Das ganze Dorf hat auf deine rückkehr gewartet.
-2*64*64;Freund des Dorfes;Wir Normannen sind nicht dafür bekannt Leuten zu trauen, doch du mein guter Freund $name, du hast uns gezeigt das wir dir trauen können!
-8*64*64;Einer von uns;Es ist immer angenehm dich zu sehen $name. Du mögest zwar von weit entfernten Lande kommen, aber du bist jetzt wirklich einer von uns.
--64;Störenfried;Wir beobachten dich, $name. Sei achtsam.
--4*64;Außenseiter;Du hast uns gezeigt das du eine Belästigung hier bist. Sei froh das wir dich noch nicht hinausgeworfen haben.
--16*64;Feind;Dein Aufenthalt wird hier kaum toleriert. Eine falsche Bewegung und das wars.
+0;Fremder;Wir sind hier sehr vorsichtig mit Fremden, Neuer. Aber wenn du gerecht mit uns handelst findest du hier gastfreundliche Menschen.
+4*64;Bekanntes Gesicht;Wir haben dich schon öfters hier gesehen und es scheint noch kein Huhn zu fehlen. Mache so wieter und wir werden miteinander auskommen.
+16*64;Regulärer Besucher;Wilkommen, $name! Schön, dich wieder zu sehen.
+64*64;Favourite Trader;Ah, $name! All the village was waiting for your return.
+2*64*64;Freund des Dorfes;Wir Normannen sind nicht dafür bekannt, dass wir Fremden einfach trauen, aber du mein guter Freund $name, hast bewiesen, dass wir dir vertrauen können!
+8*64*64;Einer von uns;Es ist uns immer wieder eine Freude dich zu sehen $name. Du magst zwar aus fernen Ländern kommen, doch du bist jetuzt wirklich eier von uns.
+32*64*64;Potentieller Anführer;Du hast dir das Vertrauen der Normannen redlich verdient. Sie würden dir überall hin folgen. 
+-64;Plagegeist;Wir beobachten dich, $name. Sei auf der hut.
+-4*64;Unbeliebter Aussenseiter;Du hast dich als echte Plage in der Umgebung hier gezeigt. Du kannst froh sein, dass wir dich noch nicht rausgeworfen haben.
+-16*64;Feind;Deine Anwesenheit wird hier kaum toleriert. Eine falsche Bewegung und es ist aus.

@@ -1,4 +1,4 @@
-native_name=Nomin  
+native_name=Noufu
 gender=male
 familyNameList=low_caste_family_names
 firstNameList=men_names

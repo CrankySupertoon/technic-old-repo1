@@ -18,6 +18,7 @@ felinoel;;Support on;the forum
 Firespread;;Support on;the forum
 Nikoleis;;Help with the;French version
 Trancid;;Wiki contributions
+Rasseru;;Improvements to;Japanese villages
 leftler;;donor
 Dick Dolby;;donor
 BowerPowers;;donor
@@ -48,3 +49,4 @@ Jo1es;;donor
 Tymm403;;donor
 Stefanbjerkell;;donor
 Sn0wCrack;;donor
+Bard_of_Hibbing;;donor

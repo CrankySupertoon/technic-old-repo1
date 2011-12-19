@@ -1,6 +1,6 @@
-native_name=On'nanoko
-alt_native_name=Al
-alt_key=mayan_teenagerfemale
+native_name=Onnanoko
+alt_native_name=Jou
+alt_key=japanese_teenager
 gender=female
 tag=child
 familyNameList=low_caste_family_names

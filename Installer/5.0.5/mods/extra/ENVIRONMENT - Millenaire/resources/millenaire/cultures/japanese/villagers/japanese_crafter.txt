@@ -1,4 +1,4 @@
-native_name=Yun raita no shigoto
+native_name=Saikushi
 gender=male
 familyNameList=low_caste_family_names
 firstNameList=men_names
@@ -10,9 +10,10 @@ goal=gorest
 goal=gopray
 goal=makepaperwall
 goal=makeTimberFrame
+goal=makepaper
 
-requiredGood=rice,4
-requiredGood=wheat,4
+requiredGood=rice,16
+requiredGood=paper,8
 requiredGood=wood,24
 
 baseAttackStrength=5

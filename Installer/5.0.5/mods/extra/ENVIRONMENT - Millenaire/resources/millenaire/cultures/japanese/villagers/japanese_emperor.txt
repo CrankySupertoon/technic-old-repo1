@@ -1,12 +1,11 @@
-native_name=Kotie
+native_name=Kokushi 
 gender=male
 familyNameList=high_caste_family_names
 firstNameList=men_names
 tag=chief
 baseHeight=0.9
 
-texture=/mob/mayan/mayan_King0.png
-texture=/mob/mayan/mayan_King1.png
+texture=/mob/mayan/japanese_Overseer0.png
 
 goal=gorest
 goal=gopray

@@ -1,11 +1,11 @@
-native_name=Ippan
+native_name=Shukun 
 gender=male
 familyNameList=high_caste_family_names
 firstNameList=men_names
 tag=chief
 baseHeight=0.95
 
-texture=/mob/japanese/japanese_Samuraigeneral0.png
+texture=/mob/japanese/japanese_Warrior_Master0.png
 
 goal=gorest
 goal=gopray

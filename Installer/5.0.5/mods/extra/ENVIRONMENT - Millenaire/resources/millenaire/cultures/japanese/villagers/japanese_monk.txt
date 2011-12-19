@@ -1,6 +1,6 @@
-native_name=Monku
+native_name=Souryo 
 gender=male
-familyNameList=high_caste_family_names
+familyNameList=low_caste_family_names
 firstNameList=men_names
 tag=religious
 baseHeight=0.9

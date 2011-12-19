@@ -366,32 +366,16 @@ hire.hiredied=<0> est mort. Il sera recréé dans son village, son contrat termi
 
 
 
-actions.forest_timeskip=Vous avez sauté du temps pendant l'exploration, elle est annulée.
-actions.forest_daytime=L'aube s'est levée avant la fin de votre exploration. Vous devrez recommencer une autre nuit.
-actions.forest_outof=Vous êtes sorti de la forêt. L'exploration est annulée.
-actions.forest_nomouvement=Vous devez vous éloignez de votre point de départ d'au moins cinquante metres par heure. L'exploration est annulée.
 actions.forest_success=Vous avez réussi à explorer la forêt.
-actions.forest_start=Vous avez commencé à explorer la forêt. Vous devez poursuivre pendant cinq heures.
-actions.forest_continue=Votre exploration de la forêt continue. Vous devez poursuivre pendant encore <0> heure(s).
-actions.forest_outof_warning=Vous êtes sorti de la forêt. Vous devez y retourner avant la fin de l'heure.
-actions.forest_nomouvement_warning=Vous n'avez bougé que de <0> mètres depuis votre point de départ. Vous devez avoir bougé d'au moins <1> mètres avant la fin de l'heure.
+actions.forest_continue=Vous avez terminé <0>% de votre exploration de la forêt.
 
-
-actions.desert_timeskip=Vous avez sauté du temps pendant l'exploration, elle est annulée.
-actions.desert_daytime=L'aube s'est levée avant la fin de votre exploration. Vous devrez recommencer une autre nuit.
-actions.desert_outof=Vous êtes sorti du désert. L'exploration est annulée.
-actions.desert_nomouvement=Vous devez vous éloignez de votre point de départ d'au moins cinquante metres par heure. L'exploration est annulée.
 actions.desert_success=Vous avez réussi à explorer le désert.
-actions.desert_start=Vous avez commencé à explorer le désert. Vous devez poursuivre pendant cinq heures.
-actions.desert_continue=Votre exploration du désert continue. Vous devez poursuivre pendant encore <0> heure(s).
+actions.desert_continue=Vous avez terminé <0>% de votre exploration du désert.
 
-actions.mountain_timeskip=Vous avez sauté du temps pendant l'exploration, elle est annulée.
-actions.mountain_daytime=L'aube s'est levée avant la fin de votre exploration. Vous devrez recommencer une autre nuit.
-actions.mountain_outof=Vous êtes sorti des montagnes. L'exploration est annulée.
-actions.mountain_nomouvement=Vous devez vous éloignez de votre point de départ d'au moins trente metres par heure. L'exploration est annulée.
+
 actions.mountain_success=Vous avez réussi à explorer les montagnes.
-actions.mountain_start=Vous avez commencé à explorer les montagnes. Vous devez poursuivre pendant cinq heures.
-actions.mountain_continue=Votre exploration des montagnes continue. Vous devez poursuivre pendant encore <0> heure(s).
+actions.mountain_continue=Vous avez terminé <0>% de votre exploration des montagnes.
+
 
 actions.underwaterglass_success=Vous avez réussi à construire une fenêtre d'observation sous-marine.
 actions.underwaterglass_notdeepenough=La mer n'est pas assez profonde ici.

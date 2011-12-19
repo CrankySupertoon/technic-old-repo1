@@ -1,10 +1,9 @@
-native_name=NA kokina josei
+native_name=Tsuma
 gender=female
-familyNameList=high_caste_family_names
-firstNameList=high_caste_women_names
-baseHeight=0.8
+familyNameList=low_caste_family_names
+firstNameList=low_caste_women_names
+baseHeight=0.85
 health=20
-model=femaleasymmetrical
 
 texture=/mob/japanese/japanese_Peasant_Wife0.png
 texture=/mob/japanese/japanese_Peasant_Wife1.png
