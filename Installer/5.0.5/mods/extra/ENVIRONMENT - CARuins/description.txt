@@ -1,0 +1,8 @@
+version 1.0<br>
+by Formivore<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/171188-v10formivores-mods-city-wall-road-generators/">HERE</a>.<br>
+
+
+<strong class="bbc">CARuins Mod</strong></span><br>
+This new mod creates randomly generated ruins in the world. CA Ruins are generated from random seeds using the rules of <span style="color: rgb(0, 0, 255);"><a href="http://en.wikipedia.org/wiki/Life-like_cellular_automaton" class="bbc_url" title="" rel="nofollow">cellular automata</a></span> such as the Game of Life. Forms taken by the ruins include towers, pyramids, temples, or bizarre statues. They can stretch deep underground and be filled with hidden chambers and dungeons to explore.<br>
+<a href="http://img841.imageshack.us/img841/7793/caruinsriverdaylight.jpg" class="bbc_url" title="" rel="nofollow"><img src="http://img585.imageshack.us/img585/1764/caruinsriverdaylightfor.jpg" alt="Posted Image" class="bbc_img">
