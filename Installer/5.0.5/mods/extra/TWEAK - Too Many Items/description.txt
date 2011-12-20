@@ -1,6 +1,0 @@
-version 1.8.1<br>
-by Marglyph<br>
-For more information/updates, click <a href="http://www.minecraftforum.net/topic/140684-19pre4-toomanyitems-in-game-invedit-oct-13/">HERE</a>.<br>
-<br><br>
-
-Create and delete items in-game, including mod items. Save and load entire inventories. Create unlimited stacks and tools. Test mods, create huge survival worlds, and more. You dirty cheaters!<br><br>
