@@ -1,0 +1,195 @@
+Code Name,Actual Name,Description
+-DO NOT EDIT THIS FIELD- Key at bottom,This is the Actual Name of a Object,Description of the object
+,,Redstone Logic
+item.irWafer.*.1,Stone Wafer,A stone wafer is a support substrate for building logic circuits.
+item.irWire.*.1,Stone Wire,"A stone wire is redstone baked into a stone wafer, providing a conductive path between points in the same circuit."
+item.irCathode.*.1,Stone Cathode,"A stone cathode acts as an inverter, beaming red rays to nearby anodes on the same substrate."
+item.irAnode.*.1,Stone Anode,"A stone anode acts as a receiver for red rays from nearby cathodes, becoming energized when powered by a cathode.
+"
+item.irPointer.*.1,Pointer,"A small motor allows a pointer to spin, providing the core for many more complex timing functions."
+item.screwdriver.*.1,Screwdriver,"Make yourself a screwdriver to rotate your logic tiles easily! Also, in a pinch, it does as much damage as a stone sword, although it's terrible for the life of the tool, so stab that zombie in the eye!"
+tile.irTimer.*.1,Redstone Timer,"Sends out a pulse at a user-specified time interval. Powering it stops the clock. Two sides are both input and output, one side is output only, and one side is input only.
+"
+tile.irseq.*.1,Redstone Sequencer,"Alternates between each of four sides in sequence at a user-specified speed. Since it is synchronized to world time, it also makes a handy clock - simply set it to 300 seconds.
+"
+tile.irpulse.*.1,Pulse Former,"Emits a short pulse when the input turns on. The pulse is sent instantaneously, which also makes it useful as a fast repeater, and because the pulse is so short, placing two back to back allows pulses to be sent in both directions.
+"
+tile.irlatch.*.1,RS Latch,"RS NOR latch. Turning on an input changes state. Turning on both inputs burns it out.
+"
+tile.irtoggle.*.1,Toggle Latch,"Changes state when the input turns on. Can also be clicked to change state manually.
+"
+tile.irnor.*.1,NOR Gate,"The output is on when all inputs are off. Can be clicked to disable some inputs.
+"
+tile.irnand.*.1,NAND Gate,"The output is off when all inputs are on. Can be clicked to disable some inputs.
+"
+tile.irand.*.1,AND Gate,"The output is on when all inputs are on. Can be clicked to disable some inputs.
+"
+tile.iror.*.1,OR Gate,The output is on when any of the inputs is on. Can be clicked to disable some inputs.
+tile.irxor.*.1,XOR Gate,The output is on only when one of the inputs is on.
+tile.irxnor.*.1,XNOR Gate,The output is on when the two inputs are both either on or off.
+tile.irnot.*.1,NOT Gate,"All three outputs are on when the input is off.
+"
+tile.irbuf.*.1,Buffer Gate,All three outputs are on when the input is on.
+tile.irmux.*.1,Multiplexer,"The center input selects which side input controls the output.
+"
+tile.rpainv.1.1,Invert Cell,"The invert cell acts as two crossing wires with an invert function. When the lower wire is unpowered, the upper wire gets powered. When the lower wire is powered, the upper wire is returned to its natural state."
+tile.rpainv.2.1,Non-invert cell,"The non-invert cell acts as two crossing wires with a buffer function. When the lower wire is powered, the upper wire gets powered. When the lower wire is unpowered, the upper wire is returned to its natural state."
+tile.rpanc.0.1,Null cell,"The null cell performs no logic function, simply acting as a crossover for two red alloy wires."
+tile.irCounter.*.1,Counter,"Counts up by Increment for each pulse on one input, and down by Decrement for each pulse on the other. Clicking opens a GUI to allow the maximum count, increment, and decrement to be set. Each output is on when the pointer reaches the end of range in that direction."
+tile.irRepeater.*.1,RedPower Repeater,"An upgraded form of repeater that takes full advantage of RedPower, like the ability to place it on the wall. In addition, it supports 9 different time constants: 1, 2, 3, 4, 8, 16, 32, 64, or 128 torches."
+tile.rpwire.*.1,Red Alloy Wire,"These bare wires are similar to redstone, just better. They will connect to all blocks that accept or emit a redstone signal, connect to themselves and will transmit the signal to the block they are sitting upon. They will also connect to any color of insulated wire. These wires can be run on the wall and ceiling as well as the floor and will transmit a signal for 255 blocks. These will not connect to Bundled Cables."
+tile.rpcable.*.1,Bundled Cable,Bundled Cables allow for the tightest wiring in this mod. A Redstone signal supplied to the cable from Insulated Wires will only transfer to other wires of the same colour attached to the cable. Every Bundled Cable supports transmission of all 16 colors of Insulated Wire in just one block. Bundled Cables can only be connected to other bundled cables (and their colored and jacketed variations and insulated wires). Every color of wire will give the same basic uncolored Bundled Cable.
+tile.rpinsulated.*.1,Insulated Wire,"Like their uninsulated counterparts, Insulated Wires can be placed almost anywhere and transmit a signal over a long distance. But these will only connect to blocks that accept or emit redstone signals, themselves and uninsulated wire. They will not give the signal to the blocks they sit upon. They will especially not connect to Insulated Wires of a different color. This allows multiple wires to run right next to each other without interference. They are also needed to connect to Bundled Cables."
+tile.rpcable.*.1,Colored Bundled Cable,"Colored Bundled Cables allow for the same tight wiring as uncolored ones but will have an extra ribbon around the bundle. Colored Bundled Cables can only be connected to other bundled cables of the same color, uncolored Cable Bundles and insulated wires."
+tile.rparmwire.*.1,Jacketed Wire,"Jacketed wires are self-supporting and do not require a surface to sit upon. They can be made from any material that can be cut into covers. It can be connected (""stitched"") to regular wires on a surface by placing a piece of Red Alloy Wire on the surface you want it to connect to."
+tile.rparmcable.*.1,Jacketed Cable,"Jacketed cables are the self-supporting version of bundled cables. They do not require a surface to sit upon. They can be made from any material that can be cut into covers and an uncolored bundled cable in the center. It cannot be crafted from colored cables. It will also only connect (""stitched"") to a surface with an uncolored cable."
+,,Machines
+tile.rpafurnace.*.1,Alloy Furnace,"This Furnace is required to create alloys used in RedPower Technology. Most prominent is the Red Alloy Ingot, but other new ingots require this device, too.
+It can also be used to reclaim metals from some items that are no longer needed."
+tile.rpbreaker.*.1,Block Breaker,"Upon receiving an electrical pulse, this machine will try to break the block in front of it. It cannot break bedrock, but it will break obsidian, for example. It will then try to eject everything harvested in the process from it's buffer through the hole in the back. If the harvested items cannot be ejected, the machine will cease to operate even on subsequent pulses, until the buffer can be cleared."
+tile.rpdeploy.*.1,Deployer,"The Deployer has an inventory of 9 slots. Upon receiving an energy pulse, it will try to deploy a suitable item from it's inventory into the direction it is facing. Deploying is the same as right-clicking an item from your hotbar as a player. So it can be used to place blocks, set fire using flint and steel, put minecarts on tracks and even use buckets to collect fluids."
+tile.rptranspose.*.1,Transposer,"Items falling into the front of the transposer (or pushed in by a water current or tube will be put into it's buffer. If possible this buffer will be drained through the hole in the back. Supplying an energy pulse to this block will cause it to vacuum in items from an area three blocks wide and two blocks long from it's front into it's buffer. When there's an inventory (like a chest infront of it, it will retrieve one item from that chest.
+It can also be connected (inlined to tubes, for which it will be a valid target, as long it can empty it's buffer. If an inline Transposer is powered, it stops items from crossing."
+tile.rpfilter.*.1,Filter,"Filters operate similar to Transposers, except that they have nine slot into which items can be placed.
+When there are no items in the filtering slot, with a Redstone pulse a Filter will suck a whole stack of any item out of an inventory (chest, etc. or the ground. When there is an item in the slot, only this item will be retrieved. You can put more than one item of the same kind in the slot and it will determine the amount retrieved each pulse. This way you can retrieve up to a full stack per pulse.
+Putting items in the slot will also make it a valid target only for these kind of items when connected to a tube."
+tile.rptube.*.1,Pneumatic Tube,"Tubes are used to transport items. They have automatic internal routing, sending items to the closest valid destination. They have a distribution function built in, so when multiple valid destinations of the same length exist, it'll alternate between them. Valid destinations are usually inventories like chests, deployers or furnaces. If an inventory fills up and cannot accept any more items, it will cease to be a valid target. Items will be sent to the next valid destination if one exists. If no valid destinations exist, the tube will no longer accept new items.
+Items are are usually supplied to tubes through the rear holes in block breakers, transposers or filters."
+tile.rpitemdet.*.1,Item Detector,"This block can be placed between two pieces of tube. It can detect items passing through and emit redstone pulse signals for them, depending on configuration. The detector has 3 modes. The first mode will emit a pulse for every item. That means if you send a full stack, it will send 64 pulses. The second mode will emit a single pulse for every stack passing through. And the third mode of the item detector is ""stuffed mode"" - it will turn on when it is jammed."
+tile.rpsorter.*.1,Sorting Machine,The Sorting Machine enables you to set up item delivery with military precision. Like the filter it can be used inline (meaning between tubes) or connected to an inventory (usually a chest or a buffer). It will tag items with a color if you select a color using the buttons below the columns.
+tile.irbuf.*.1,Buffer,"The buffer is very similar to a chest with 5 compartments. When providing items to the buffer via tubes, pipes or similar devices, each of the 5 input sides will fill a different compartment. The output side has access to all compartments. This is very useful in combination with a sorting machine.
+A common application for this block is in situations, where different inputs provide their materials at different rates. A regular chest could easily be filled up by a single item, leaving no space for other resources."
+tile.rpbfurnace.*.1,Bluelectric Furnace,"Operates quite like the regular furnace in smelting and cooking items, but is twice as fast in operation. It will only work on blutricity, so you'll have to supply power through a power source. Power sources can be placed directly adjacent to it or connected by Blue Alloy Wire to transfer power."
+,,Tools
+item.screwdriver.*.1,Screwdriver,"Right-clicking a machine block with the screwdriver will rotate the block without the need to replace it. The block cycles through all 6 possible orientations, beginning at the start on further clicks. This will work on RedPower2 logic gates and machines as well as vanilla pistons, repeaters and dispensers."
+item.handsawIron.*.1,Iron Handsaw,"Used for making subblocks, this version will cut only softer blocks."
+item.handsawDiamond.*.1,Diamond Handsaw,"Used for making subblocks, this version will cut all blocks."
+item.handawRuby.*.1,Ruby Handsaw,"Used for making subblocks, this version will cut all blocks except obsidian."
+item.handsawSapphire.*.1,Sapphire Handsaw,"Used for making subblocks, this version will cut all blocks except obsidian."
+item.handsawEmerald.*.1,Emerald Handsaw,"Used for making subblocks, this version will cut all blocks except obsidian."
+tile.marblebrick.*.1,Marble Brick,Brick blocks are currently used only for decoration.
+tile.BasaltBrick.*.1,Basalt Brick,Brick blocks are currently used only for decoration.
+item.sickleWood.*.1,Wood Sickle,"Sickles are for cutting plants. They will harvest crops in an area. Will work on most plants like wheat, flax, tall grass."
+item.sickleiron.*.1,Iron Sickle,"Sickles are for cutting plants. They will harvest crops in an area. Will work on most plants like wheat, flax, tall grass."
+item.sicklegold.*.1,Gold Sickle,"Sickles are for cutting plants. They will harvest crops in an area. Will work on most plants like wheat, flax, tall grass."
+item.sicklediamond.*.1,Diamond Sickle,"Sickles are for cutting plants. They will harvest crops in an area. Will work on most plants like wheat, flax, tall grass."
+item.sickleruby.*.1,Ruby Sickle,"Sickles are for cutting plants. They will harvest crops in an area. Will work on most plants like wheat, flax, tall grass."
+item.sickleemerald.*.1,Emerald Sickle,"Sickles are for cutting plants. They will harvest crops in an area. Will work on most plants like wheat, flax, tall grass."
+item.sicklesapphire.*.1,Sapphire Sickple,"Sickles are for cutting plants. They will harvest crops in an area. Will work on most plants like wheat, flax, tall grass."
+item.sicklestone.*.1,Stone Sickle,"Sickles are for cutting plants. They will harvest crops in an area. Will work on most plants like wheat, flax, tall grass."
+item.shovelSapphire.*.1,Sapphire Shovel,Equivalent to diamond shovel except it has only 500 uses instead of 1560.
+item.shovelRuby.*.1,Ruby Shovel,Equivalent to diamond shovel except it has only 500 uses instead of 1560.
+item.shovelEmerald.*.1,Emerald Shovel,Equivalent to diamond shovel except it has only 500 uses instead of 1560.
+item.pickaxeSapphire.*.1,Sapphire Pickaxe,Equivalent to diamond pickaxe except it has only 500 uses instead of 1560. It cannot break obsidian.
+item.pickaxeRuby.*.1,Ruby Pickaxe,Equivalent to diamond pickaxe except it has only 500 uses instead of 1560. It cannot break obsidian.
+item.pickaxeEmerald.*.1,Emerald Pickaxe,Equivalent to diamond pickaxe except it has only 500 uses instead of 1560. It cannot break obsidian.
+item.axeSapphire.*.1,Sapphire Axe,Equivalent to diamond axe except it has only 500 uses instead of 1560.
+item.axeRuby.*.1,Ruby Axe,Equivalent to diamond axe except it has only 500 uses instead of 1560.
+item.axeEmerald.*.1,Emerald Axe,Equivalent to diamond axe except it has only 500 uses instead of 1560.
+item.swordSapphire.*.1,Sapphire Sword,Equivalent to diamond sword except it has a shorter lifetime.
+item.swordRuby.*.1,Ruby Sword,Equivalent to diamond sword except it has a shorter lifetime.
+item.swordEmerald.*.1,Emerald Sword,Equivalent to diamond sword except it has a shorter lifetime.
+item.hoeSapphire.*.1,Sapphire Hoe,Equivalent to diamond hoe except it has only 500 uses instead of 1560.
+item.hoeRuby.*.1,Ruby Hoe,Equivalent to diamond hoe except it has only 500 uses instead of 1560.
+item.hoeEmerald.*.1,Emerald Hoe,Equivalent to diamond hoe except it has only 500 uses instead of 1560.
+,,Plants and Plant Accessories
+item.dyeindigo.*.1,Indigo Dye,Crafted from the Indigo Flower. It can be used to replace Lapis Lazuli in dye recipes.
+tile.indigo.*.1,Indigo Flower,"Found in the world, you can use this to create indigo dye."
+tile.rpleaves.*.1,Rubber Leaves,Decorative block shear from rubber trees.
+item.seedflax.*.1,Flax Seeds,You can plant these seeds on well hydrated farmland. They will grow into flax plants. You can punch these to obtain 2-3 seeds and some string for making wool. 
+tile.rubbersapling.*.1,Rubber Tree Sapling,"Dropped from Rubber Leaves, plant it like a normal sapling. It will grow into a massive rubber tree one day."
+tile.rplog.*.1,Rubber Log,"Can be used as a decorative material, or used to obtain 8 sticks per log. Eventually you will be able to use this to obtain rubber, which will be required in creating Bluetric wires."
+,,Lumars
+item.rplumar.*.1,Lumar,Used in creating lamp blocks. Each color is used to create the corresponding color block.
+tile.rplamp.*.1,Lamps,"Lamps are blocks you can place and will glow and supply light when a redstone signal is supplied. All lamps produce white light, only the color of the block itself differs."
+,,Paint Cans
+item.paintcan.empty.1,Empty Paint Bucket,This paint bucket contains no paint!
+item.paintcan.*.1,Paint Bucket,This paint bucket contains paint! Each color is used to create the corresponding color tube.
+,,Paint Brushes
+item.paintbrush.dry.*.1,Paint Brush,Dip this in a paint bucket to put some paint on it!
+item.paintbrush.*.1,Paintbrush,This paint brush has the ability to paint tubes! Each color is used to create the corresponding color tube.
+,,Misc Block
+item.Blocksapphire.*.1,Sapphire Block,"Straight forward storage blocks for RedPower gemstones similar to Diamond blocks. Nine gems will form a block, which can be placed for decorative purposes. The gems can be reclaimed by placing the storage block in the crafting area."
+item.Blockruby.*.1,Ruby Block,"Straight forward storage blocks for RedPower gemstones similar to Diamond blocks. Nine gems will form a block, which can be placed for decorative purposes. The gems can be reclaimed by placing the storage block in the crafting area."
+item.Blockemerald.*.1,Emerald Block,"Straight forward storage blocks for RedPower gemstones similar to Diamond blocks. Nine gems will form a block, which can be placed for decorative purposes. The gems can be reclaimed by placing the storage block in the crafting area."
+item.Sapphire.*.1,Sapphire,"As straight forward as creating the storage block is retrieving the gems back. Put the block in a crafting area and you'll get back all 9 gems. They are also used for making tools, and will have a use later in the future."
+item.Ruby.*.1,Ruby,"As straight forward as creating the storage block is retrieving the gems back. Put the block in a crafting area and you'll get back all 9 gems. They are also used for making tools, and will have a use later in the future."
+item.Emerald.1.1,Emerald,"As straight forward as creating the storage block is retrieving the gems back. Put the block in a crafting area and you'll get back all 9 gems. They are also used for making tools, and will have a use later in the future."
+item.Ingotred.*.1,Red Alloy Ingot,"Red Alloy is a soft, ductile, highly conductive metal. How conductive? 16 times the conductivity of regular redstone! While it's much too soft to make tools out of, it's easily made into all kinds of wire."
+item.Ingotblue.*.1,Blue Alloy Ingot,Blue alloy is one of the most basic building blocks of the Blutricity which empowers most Tier 2 Technology in RedPower2. It is used for most advanced machine blocks and creating Bluetricity Wires.
+item.Ingotbrass.*.1,Brass Ingot,"In RedPower, Brass is an alloy of copper and tin. It is used for applications where low friction is required such as tube plumbing and electrical applications."
+item.Boulesilicon.*.1,Silicon Boule,A boule is a single-crystal ingot produced from coal and sand in an alloy furnace. A boule of silicon is the starting material for most of the integrated circuits. A semiconductor crystal boule is normally cut with a diamond saw into circular wafers.
+item.Waferred.*.1,Red-Doped Wafer,Red-Doped Wafers are used in devices for signal transmission purposes. They allow higher density integrated circuits to be fabricated.
+item.Waferblue.*.1,Blue-Doped Wafer,"Blue doping makes the silicon photosensitive, so Blue-Doped Wafers are used in light responding devices like the solar panel."
+item.Tinplate.*.1,Tinplate,"An alloy of iron and tin, those plates are used to craft Paint Cans."
+tile.basalt.*.1,Basalt,"This block is introduced in RedPower World and makes up volcanos. Harvesting this will give you Basalt Cobblestone, which can be smelted into smooth Basalt."
+tile.basaltCobble.*.1,Basalt Cobblestone,The mined version of Basalt. Smelting it will produce regular smooth Basalt.
+tile.marble.*.1,Marble,Only for decoration.
+item.Ingottin.*.1,Tin Ingot,"Like most ores, Tin Ore can simply be smelted into an ingot in any furnace."
+item.Ingotsilver.*.1,Silver Ingot,"Like most ores, Silver Ore can simply be smelted into an ingot in any furnace."
+item.Ingotcopper.*.1,Copper Ingot,"Like most ores, Copper Ore can simply be smelted into an ingot in any furnace."
+tile.oreTungsten.*.1,Tungsten Ore,A Currently Unused Ore.
+item.nikolite.*.1,Nikolite,Used in various electrical crafting recipes.
+tile.oretin.*.1,Tin Ore,"Like most ores, Tin Ore can simply be smelted into an ingot in any furnace."
+tile.oresilver.*.1,Silver Ore,"Like most ores, Silver Ore can simply be smelted into an ingot in any furnace."
+tile.orecopper.*.1,Copper Ore,"Like most ores, Copper Ore can simply be smelted into an ingot in any furnace."
+item.voltmeter.*.1,Voltmetert,Right-clicking a blue alloy wire and certain other blulectric devices will display a chat-like message containing the voltage and current running through the wire.
+item.btbattery.*.1,battery,"Used to store blulectric energy, this battery is used as a component in Battery Boxes. For now that is it's only purpose, but other applications will surely arise."
+tile.rpsolar.0.1,solar panel,"A solar panel is a packaged, connected assembly of solar cells. The solar panel can be used to generate and supply energy for blutricity applications. Because a single solar panel can produce only a limited amount of power, many installations contain several panels."
+tile.rpbatbox.6.1,battery box,"An energy net's blulectric surplus will charge the batteries of this block. The energy will be resupplied to other devices when the levels drop. The current charge level of the Box can be checked in the right-click interface but is also shown on the block's texture, so you can estimate your remaining reserve at a quick glance at the block."
+tile.rprstube.2304.1,redstone tube," A hybrid between jacketed wire and tube: this tube will act like any other tube in delivering items. You can even apply paint to it. But it also contains some redstone and will transmit redstone signals like a jacketed wire. Thus it will happily connect to other tubes as well as jacketed wire, which is a common way to patch it into other systems. It will not directly connect to red allow wire (use a short jacketed wire if you want it to), but it does connect to vanilla redstone dust."
+,,This tube is especially useful to supply redstone signals to machine blocks connected to them without the need to run additional wires.
+tile.rpslab.*.1,"Slab
+(testing range)","You can cut almost any solid block. First, cut a block vertically by putting the saw above. This will saw it in half, producing two thinner pieces. Full blocks can be cut in half into slabs (1/2 block thickness, slabs can be cut into panels (1/4 block thickness and finally panels can be sliced to covers (1/8 block thickness."
+tile.rppanel.*.1,"Panel
+(just add 47)","You can cut almost any solid block. First, cut a block vertically by putting the saw above. This will saw it in half, producing two thinner pieces. Full blocks can be cut in half into slabs (1/2 block thickness, slabs can be cut into panels (1/4 block thickness and finally panels can be sliced to covers (1/8 block thickness."
+tile.rpcover.*.1,Cover,"You can cut almost any solid block. First, cut a block vertically by putting the saw above. This will saw it in half, producing two thinner pieces. Full blocks can be cut in half into slabs (1/2 block thickness, slabs can be cut into panels (1/4 block thickness and finally panels can be sliced to covers (1/8 block thickness."
+tile.rpslabs.*.1, Slab Strip,"When your block has the desired thickness, you can optionally cut it horizontally into strips by placing your saw on the side. While much less effective at protecting wires than covers or panels, strips can prevent unwanted wire connections while maintaining a much lower profile than full-sized covers. They are also useful for decoration, for making stairs, and many other things!"
+tile.rppans.*.1,Panel Strip,"When your block has the desired thickness, you can optionally cut it horizontally into strips by placing your saw on the side. While much less effective at protecting wires than covers or panels, strips can prevent unwanted wire connections while maintaining a much lower profile than full-sized covers. They are also useful for decoration, for making stairs, and many other things!"
+tile.rpcovs.*.1,Cover Strip,"When your block has the desired thickness, you can optionally cut it horizontally into strips by placing your saw on the side. While much less effective at protecting wires than covers or panels, strips can prevent unwanted wire connections while maintaining a much lower profile than full-sized covers. They are also useful for decoration, for making stairs, and many other things!"
+tile.rpslabc.*.1,Slab Corner,"If Strips are still too large, you can cut them down again by placing your saw on the side again. You will receive the apropriate kind of corners."
+tile.rppanc.*.1,Panel Corner,"If Strips are still too large, you can cut them down again by placing your saw on the side again. You will receive the apropriate kind of corners."
+tile.rpcovc.*.1,Cover Corner,"If Strips are still too large, you can cut them down again by placing your saw on the side again. You will receive the apropriate kind of corners."
+tile.rphcov7.*.1,Anticover,"Anticovers are as thick as a block minus a cover (7/8th block a and made from a slab, panel and cover."
+tile.rpcov6.*.1,Triple Panel,Triple Panels are three times as thick as a panel (6/8th block and made from three panels as the name suggests.
+tile.rpcov5.*.1,Cover Slab,Coverslabs add the thickness of a slab and a panel (5/8th block crafted from a cover and a slab.
+tile.rpcov3.*.1,Triplecover,The Triple Cover has thrice as thick as a cover (3/8th block and therefore made of three such covers.
+tile.rpcov7s.*.1,Anticover Strip,"Like the power of two small blocks, the new sizes can also be cut into strips.
+These strips cannot, however, be glued back together, so beware."
+tile.rpcov6s.*.1,Triple Panel Strip,"Like the power of two small blocks, the new sizes can also be cut into strips.
+These strips cannot, however, be glued back together, so beware."
+tile.rpcov5s.*.1,Cover Slab Strip,"Like the power of two small blocks, the new sizes can also be cut into strips.
+These strips cannot, however, be glued back together, so beware."
+tile.rpcov3s.*.1,Triple Cover Strip,"Like the power of two small blocks, the new sizes can also be cut into strips.
+These strips cannot, however, be glued back together, so beware."
+tile.rpcov7c.*.1,Anticover Corner,"Like the power of two small blocks, the new sizes: slabs can also be cut into corners.
+Like their strips, these corners can not be glued back together, so beware."
+tile.rpcov6c.*.1,Triple Panel Corner,"Like the power of two small blocks, the new sizes: slabs can also be cut into corners.
+Like their strips, these corners can not be glued back together, so beware."
+tile.rpcov5c.*.1,Cover Slab Corner,"Like the power of two small blocks, the new sizes: slabs can also be cut into corners.
+Like their strips, these corners can not be glued back together, so beware."
+tile.rpcov3c.*.1,Triple Cover Corner,"Like the power of two small blocks, the new sizes: slabs can also be cut into corners.
+Like their strips, these corners can not be glued back together, so beware."
+tile.rppole3.*.1, Column,"Unlike the other small blocks you can craft, Columns, Pillars and Posts will be placed in the middle of a surface. Other small blocks can only be placed on sides or corners. Craft them from Strips of Triple Panels, Slabs or Panels simply by placing them into the crafting area. You can just as easily revert them to strips."
+tile.rppole2.*.1,Pillar,"Unlike the other small blocks you can craft, Columns, Pillars and Posts will be placed in the middle of a surface. Other small blocks can only be placed on sides or corners. Craft them from Strips of Triple Panels, Slabs or Panels simply by placing them into the crafting area. You can just as easily revert them to strips."
+tile.rppole1.*.1,Post,"Unlike the other small blocks you can craft, Columns, Pillars and Posts will be placed in the middle of a surface. Other small blocks can only be placed on sides or corners. Craft them from Strips of Triple Panels, Slabs or Panels simply by placing them into the crafting area. You can just as easily revert them to strips."
+tile.rppans.*.1,Panel Strip,"Unlike the other small blocks you can craft, Columns, Pillars and Posts will be placed in the middle of a surface. Other small blocks can only be placed on sides or corners. Craft them from Strips of Triple Panels, Slabs or Panels simply by placing them into the crafting area. You can just as easily revert them to strips."
+tile.rpcov6s.*.1,Triple Panel Strip,"Unlike the other small blocks you can craft, Columns, Pillars and Posts will be placed in the middle of a surface. Other small blocks can only be placed on sides or corners. Craft them from Strips of Triple Panels, Slabs or Panels simply by placing them into the crafting area. You can just as easily revert them to strips."
+tile.rphcov7.*.1,Hollow Anticover,Arranging 8 vertically sliced blockpieces in this pattern will give you 8 hollow pieces of the same thickness. Those are used if you want tubes or a jacketed wire to go through a wall without leaving a big gap.
+tile.rphcov6.*.1,Hollow Triple Panel,Arranging 8 vertically sliced blockpieces in this pattern will give you 8 hollow pieces of the same thickness. Those are used if you want tubes or a jacketed wire to go through a wall without leaving a big gap.
+tile.rphcov5.*.1,Hollow Cover Slab,Arranging 8 vertically sliced blockpieces in this pattern will give you 8 hollow pieces of the same thickness. Those are used if you want tubes or a jacketed wire to go through a wall without leaving a big gap.
+tile.rphcov3.*.1,Hollow Triple Cover,Arranging 8 vertically sliced blockpieces in this pattern will give you 8 hollow pieces of the same thickness. Those are used if you want tubes or a jacketed wire to go through a wall without leaving a big gap.
+tile.rphslab.*.1,Hollow Slab,Arranging 8 vertically sliced blockpieces in this pattern will give you 8 hollow pieces of the same thickness. Those are used if you want tubes or a jacketed wire to go through a wall without leaving a big gap.
+tile.rphpanel.*.1,Hollow Panel,Arranging 8 vertically sliced blockpieces in this pattern will give you 8 hollow pieces of the same thickness. Those are used if you want tubes or a jacketed wire to go through a wall without leaving a big gap.
+tile.rphcover.*.1,Hollow Cover,Arranging 8 vertically sliced blockpieces in this pattern will give you 8 hollow pieces of the same thickness. Those are used if you want tubes or a jacketed wire to go through a wall without leaving a big gap.
+
+,Credits:,"Narzuhl, Blueblade11 (Editing), mrkingster (typing all the description), TheEnlightened (typing titles), Oswarlan(Various things)"
+
+,Version:,RPpr4 v1.0.0 [updating]
+
+,,"Tags: [completed, in conversion, updating]"
+
+Key:,Red - NOT WORKING
+,"Yellow - Hard Coded to a specific value, may break with a RP update"
+,"Not Working, but prefered"
+,Description with expiration date

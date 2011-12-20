@@ -1,0 +1,17 @@
+version 1.5<br>
+by ljdp<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/856538-100-crafting-table-ii-v15-171211/">HERE</a>.<br>
+
+
+<img src="http://i.imgur.com/u4wZf.gif" alt="Posted Image" class="bbc_img"><br>
+Inspired by Terraria crafting, Crafting Table II displays everything you can currently craft with the items in your inventory. How much of each item the recipe uses is displayed on the left as well as a description of that item, click on the item and the Crafting Table II will automatically craft it for you without you ever having to remember recipes. As you add and remove items from your inventory the list of available items updates. Works with any recipe, including mods.<br>
+<br>
+I lied, you need to remember a recipe:<br>
+<img src="http://i.imgur.com/yXtMA.png" alt="Posted Image" class="bbc_img"><br>
+<br>
+This now comes with descriptions for vanilla items, RedPower pr4, Buildcraft, Railcraft, Thaumcraft, Equivalent Exchange, Weaponmod and Moar Nether.<br>
+<br>
+Lots of credit to the following for creating the descriptions:<br>
+Narzuhl, Blueblade11, mrkingster , TheEnlightened, Oswarlan, Kitten, JonReed, pwnedgod, Vertebro and nukularpower.<br>
+
+<img src="http://i.imgur.com/1r3Bt.png"</img>
