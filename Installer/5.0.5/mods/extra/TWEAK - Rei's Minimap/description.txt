@@ -1,4 +1,4 @@
-version 2.8_04<br>
+version 2.9<br>
 by ReiFNSK<br>
 For more information/updates, click <a href="http://www.minecraftforum.net/topic/482147-173-aug14-reis-minimap-v16-01/">HERE</a>.<br><br>
 
