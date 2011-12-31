@@ -1,0 +1,202 @@
+# Configuration file
+# Generated on 12/30/11 10:16 PM
+
+###########
+# General #
+###########
+
+general {
+   blockAdvMachine.name=Advanced Machine Block
+   blockBatBox.name=BatBox
+   blockCanner.name=Canning Machine
+   blockCompressor.name=Compressor
+   blockElecFurnace.name=Electric Furnace
+   blockElectrolyzer.name=Electrolyzer
+   blockExtractor.name=Extractor
+   blockGenerator.name=Generator
+   blockGeoGenerator.name=Geothermal Generator
+   blockInduction.name=Induction Furnace
+   blockIronFurnace.name=Iron Furnace
+   blockMFE.name=MFE
+   blockMFSU.name=MFSU
+   blockMacerator.name=Macerator
+   blockMachine.name=Machine Block
+   blockMagnetizer.name=Magnetizer
+   blockMatter.name=Mass Fabricator
+   blockMetalBronze.name=Bronze Block
+   blockMetalCopper.name=Copper Block
+   blockMetalTin.name=Tin Block
+   blockMetalUranium.name=Uranium Block
+   blockMiner.name=Miner
+   blockNuclearReactor.name=Nuclear Reactor
+   blockPersonalChest.name=Personal Safe
+   blockPersonalTrader.name=Trade-O-Mat
+   blockPump.name=Pump
+   blockRecycler.name=Recycler
+   blockSolarGenerator.name=Solar Panel
+   blockTeleporter.name=Teleporter
+   blockTerra.name=Terraformer
+   blockTesla.name=Tesla Coil
+   blockTransformerHV.name=HV-Transformer
+   blockTransformerLV.name=LV-Transformer
+   blockTransformerMV.name=MV-Transformer
+   blockWaterGenerator.name=Water Mill
+   blockWindGenerator.name=Wind Mill
+   item.itemArmorAlloyChestplate.name=Composite Vest
+   item.itemArmorBatpack.name=BatPack
+   item.itemArmorBronzeBoots.name=Bronze Boots
+   item.itemArmorBronzeChestplate.name=Bronze Chestplate
+   item.itemArmorBronzeHelmet.name=Bronze Helmet
+   item.itemArmorBronzeLegs.name=Bronze Legs
+   item.itemArmorCFPack.name=CF Backpack
+   item.itemArmorJetpack.name=Jetpack
+   item.itemArmorJetpackElectric.name=Electric Jetpack
+   item.itemArmorLappack.name=Lappack
+   item.itemArmorNanoBoots.name=NanoSuit Boots
+   item.itemArmorNanoChestplate.name=NanoSuit Bodyarmor
+   item.itemArmorNanoHelmet.name=NanoSuit Helmet
+   item.itemArmorNanoLegs.name=NanoSuit Leggings
+   item.itemArmorQuantumBoots.name=QuantumSuit Boots
+   item.itemArmorQuantumChestplate.name=QuantumSuit Bodyarmor
+   item.itemArmorQuantumHelmet.name=QuantumSuit Helmet
+   item.itemArmorQuantumLegs.name=QuantumSuit Leggings
+   item.itemArmorRubBoots.name=Rubber Boots
+   item.itemBatCrystal.name=Energy Crystal
+   item.itemBatLamaCrystal.name=Lapotron Crystal
+   item.itemBatRE.name=RE-Battery
+   item.itemBatSU.name=Single-Use Battery
+   item.itemCellBio.name=Bio Cell
+   item.itemCellBioRef.name=Biofuel Cell
+   item.itemCellCoal.name=H. Coal Cell
+   item.itemCellCoalRef.name=Coalfuel Cell
+   item.itemCellCoolant.name=Coolant Cell
+   item.itemCellEmpty.name=Empty Cell
+   item.itemCellLava.name=Lava Cell
+   item.itemCellUran.name=Uranium Cell
+   item.itemCellUranDepleted.name=Depleted Isotope Cell
+   item.itemCellUranEmpty.name=Near-depleted Uranium Cell
+   item.itemCellUranEnriched.name=Re-Enriched Uranium Cell
+   item.itemCellWater.name=Water Cell
+   item.itemCellWaterElectro.name=Electrolyzed Water Cell
+   item.itemCoin.name=Industrial Credit
+   item.itemDoorAlloy.name=Reinforced Door
+   item.itemDustBronze.name=Bronze Dust
+   item.itemDustClay.name=Clay Dust
+   item.itemDustCoal.name=Coal Dust
+   item.itemDustCopper.name=Copper Dust
+   item.itemDustGold.name=Gold Dust
+   item.itemDustIron.name=Iron Dust
+   item.itemDustIronSmall.name=Small Pile of Iron Dust
+   item.itemDustSilver.name=Silver Dust
+   item.itemDustTin.name=Tin Dust
+   item.itemDynamite.name=Dynamite
+   item.itemDynamiteSticky.name=Sticky Dynamite
+   item.itemFoamSprayer.name=CF Sprayer
+   item.itemFreq.name=Frequency Transmitter
+   item.itemFuelCan.name=Filled Fuel Can
+   item.itemFuelCanEmpty.name=(Empty) Fuel Can
+   item.itemFuelCoalCmpr.name=H. Coal
+   item.itemFuelCoalDust.name=Hydrated Coal Dust
+   item.itemFuelPlantBall.name=Plantball
+   item.itemFuelPlantCmpr.name=Compressed Plants
+   item.itemHarz.name=Sticky Resin
+   item.itemIngotAdvIron.name=Refined Iron
+   item.itemIngotAlloy.name=Mixed Metal Ingot
+   item.itemIngotBronze.name=Bronze
+   item.itemIngotCopper.name=Copper
+   item.itemIngotTin.name=Tin
+   item.itemIngotUran.name=Refined Uranium
+   item.itemMatter.name=UU-Matter
+   item.itemNanoSaber.name=Nano Saber
+   item.itemOreIridium.name=Iridium Ore
+   item.itemOreUran.name=Uranium Ore
+   item.itemPartAlloy.name=Advanced Alloy
+   item.itemPartCarbonFibre.name=Raw Carbon Fibre
+   item.itemPartCarbonMesh.name=Raw Carbon Mesh
+   item.itemPartCarbonPlate.name=Carbon Plate
+   item.itemPartCircuit.name=Electronic Circuit
+   item.itemPartCircuitAdv.name=Advanced Circuit
+   item.itemPartCoalBall.name=Coal Ball
+   item.itemPartCoalBlock.name=Compressed Coal Ball
+   item.itemPartCoalChunk.name=Coal Chunk
+   item.itemPartIndustrialDiamond.name=Industrial Diamond
+   item.itemPartIridium.name=Iridium Plate
+   item.itemPartPellet.name=CF Pellet
+   item.itemReactorCooler.name=Integrated Heat Disperser
+   item.itemReactorPlating.name=Integrated Reactor Plating
+   item.itemRemote.name=Dynamite-O-Mote
+   item.itemRubber.name=Rubber
+   item.itemScanner.name=OD Scanner
+   item.itemScannerAdv.name=OV Scanner
+   item.itemScrap.name=Scrap
+   item.itemScrapbox.name=Scrap Box
+   item.itemTFBP.name=TFBP - Empty
+   item.itemTFBPChilling.name=TFBP - Chilling
+   item.itemTFBPCultivation.name=TFBP - Cultivation
+   item.itemTFBPDesertification.name=TFBP - Desertification
+   item.itemTFBPFlatification.name=TFBP - Flatification
+   item.itemTFBPIrrigation.name=TFBP - Irrigation
+   item.itemTinCan.name=Tin Can
+   item.itemTinCanFilled.name=(Filled) Tin Can
+   item.itemToolBronzeAxe.name=Bronze Axe
+   item.itemToolBronzeHoe.name=Bronze Hoe
+   item.itemToolBronzePickaxe.name=Bronze Pickaxe
+   item.itemToolBronzeSpade.name=Bronze Shovel
+   item.itemToolBronzeSword.name=Bronze Sword
+   item.itemToolChainsaw.name=Chainsaw
+   item.itemToolCutter.name=Insulation Cutter
+   item.itemToolDDrill.name=Diamond Drill
+   item.itemToolDrill.name=Mining Drill
+   item.itemToolMeter.name=EU-Reader
+   item.itemToolMiningLaser.name=Mining Laser
+   item.itemToolPainter.name=Painter
+   item.itemToolWrench.name=Wrench
+   item.itemToolWrenchElectric.name=Electric Wrench
+   item.itemTreetap.name=Treetap
+   itemCable.name=Copper Cable
+   itemCableO.name=Uninsulated Copper Cable
+   itemDetectorCable.name=EU-Detector Cable
+   itemGlassCable.name=Glass Fibre Cable
+   itemGoldCable.name=Gold Cable
+   itemGoldCableI.name=Insulated Gold Cable
+   itemGoldCableII.name=2xIns. Gold Cable
+   itemIronCable.name=HV Cable
+   itemIronCableI.name=Insulated HV Cable
+   itemIronCableII.name=2xIns. HV Cable
+   itemIronCableIIII.name=4xIns. HV Cable
+   itemSplitterCable.name=EU-Splitter Cable
+   itemTinCable.name=Ultra-Low-Current Cable
+   tile.blockAlloy.name=Reinforced Stone
+   tile.blockAlloyGlass.name=Reinforced Glass
+   tile.blockFenceIron.name=Iron Fence
+   tile.blockFoam.name=Construction Foam
+   tile.blockITNT.name=Industrial TNT
+   tile.blockLuminator.name=Luminator
+   tile.blockLuminatorD.name=Luminator
+   tile.blockMiningPipe.name=Mining Pipe
+   tile.blockMiningTip.name=Mining Pipe
+   tile.blockNuke.name=Nuke
+   tile.blockOreCopper.name=Copper Ore
+   tile.blockOreTin.name=Tin Ore
+   tile.blockOreUran.name=Uranium Ore
+   tile.blockReactorChamber.name=Reactor Chamber
+   tile.blockRubSapling.name=Rubber Tree Sapling
+   tile.blockRubWood.name=Rubber Wood
+   tile.blockRubber.name=Rubber Sheet
+   tile.blockScaffold.name=Scaffold
+}
+
+#########
+# Block #
+#########
+
+block {
+}
+
+########
+# Item #
+########
+
+item {
+}
+

@@ -1,0 +1,100 @@
+Code name,Actual name,Description
+"-DO NOT EDIT THIS FIELD- ""type.name.dmgval.version""
+",Description of the object,Description of the object.
+,,Detectors and Loaders
+detector.storage.*.1,Detector (Inventory),"This detector block will detect any minecart that passes adjacent to them. They can be placed under or beside rails. They will only provide power in the direction of the light. 
+Triggers only on Chest Carts or Tank Carts."
+detector.any.*.1,Detector (Any),"This detector block will detect any minecart that passes adjacent to them. They can be placed under or beside rails. They will only provide power in the direction of the light.
+Triggers on any cart."
+detector.empty.*.1,Detector (Empty),"This detector block will detect any minecart that passes adjacent to them. They can be placed under or beside rails. They will only provide power in the direction of the light.
+Triggers only on carts that can be
+ridden but that are currently empty."
+detector.mob.*.1,Detector (Mob),"This detector block will detect any minecart that passes adjacent to them. They can be placed under or beside rails. They will only provide power in the direction of the light.
+Triggers only on carts with a monster in them."
+detector.powered.*.1,Detector (Furnace),This detector block will detect any minecart that passes adjacent to them. They can be placed under or beside rails. They will only provide power in the direction of the light.
+detector.player.*.1,Detector (Player),"This detector block will detect any minecart that passes adjacent to them. They can be placed under or beside rails. They will only provide power in the direction of the light.
+Triggers only on carts with a player in them."
+detector.tnt.*.1,Detector (Explosive),This detector block will detect any minecart that passes adjacent to them. They can be placed under or beside rails. They will only provide power in the direction of the light.
+detector.animal.*.1,Detector (Animal),"This detector block will detect any minecart that passes adjacent to them. They can be placed under or beside rails. They will only provide power in the direction of the light.
+Triggers only on carts with an animal in them."
+detector.tank.*.1,Detector (Tank),This detector block will detect any minecart that passes adjacent to them. They can be placed under or beside rails. They will only provide power in the direction of the light.
+detector.advanced.*.1,Detector (Advanced),"This detector block will detect any minecart that passes adjacent to them. They can be placed under or beside rails. They will only provide power in the direction of the light.
+Uses a GUI to select which carts it detects. Can Trigger off of many configurable things.
+Animal Carts.
+Empty Carts.
+Powered Carts.
+TNT Carts.
+Mob Carts.
+Player Carts.
+Storage Carts.
+Tank Carts.
+"
+minecart.loader.item.1,Minecart Loader,This detector block will detect any minecart that passes adjacent to them. They can be placed under or beside rails. They will only provide power in the direction of the light.
+minecart.unloader.item.1,Minecraft Unloader,This detector block will detect any minecart that passes adjacent to them. They can be placed under or beside rails. They will only provide power in the direction of the light.
+minecart.loader.liquid.1,Minecart Liquid Loader,"These loaders function similar to your basic Loaders, however they are designed to work with Tank Carts. The have an internal capcity equal to one bucket.
+Liquid can be pumped out of the unloader with a Waterproof Wooden Pipe and a Buildcraft engine. It has an internal capacity equivalent to one bucket.
+Additonally, if you put a bucket in the Filter slot of the GUI, the Unloader will only empty carts carrying the same liquid as the bucket.
+"
+minecart.unloader.liquid.1,Minecart Liquid Unloader,"These loaders function similar to your basic Loaders, however they are designed to work with Tank Carts. The have an internal capcity equal to one bucket.
+Liquid can be pumped out of the unloader with a Waterproof Wooden Pipe and a Buildcraft engine. It has an internal capacity equivalent to one bucket.
+Additonally, if you put a bucket in the Filter slot of the GUI, the Unloader will only empty carts carrying the same liquid as the bucket.
+"
+,,Rails
+tile.elevatorrail.*.1,Elevator Rail,"This rail is unique in that is can be placed vertically. When powered, it will power all the rails below it. Powered rails will lift minecarts up, unpowered rails will lower minecarts down. When a minecart reaches the top it will be pushed onto any normal rail located on the block above. The rail also doubles as a ladder."
+item.rail.junction.1,Junction Rail,This rail will allow you to place rails that cross each other.
+item.rail.switch.1,Switch Rail,"Switch Rails allow you move minecarts from one rail line to another. They differ from vanilla Minecraft switches in that they allow you to either go straight or to turn, instead of either turning left or right. However, they cannot be operated directly by redstone. To do that you need a Switch Motor. The Switch Motor must be placed opposite the turnout.
+
+Minecarts approaching from the Diverging Line will temporally spring the switch regardless of its current setting, allowing them to traverse the switch without the need to manually realign it."
+item.rail.Boarding.1,Boarding Rail,"If you've ever stopped at your house briefly only to return to your cart and realize a chicken ran off with it, these rails are for you.
+
+When powered these rails act just like your standard Powered Rail, but when unpowered they will grab and hold onto any cart that passes over them. And unlike Powered Rails, the cart can't be pushed off. Additionally, when placed the rail will have an arrow on one side. When an unpowered rail with a minecart on it becomes powered, it will launch the cart in that direction.
+"
+item.rail.Holding.1,Holding Rail,"When powered, these rails act just like your standard Booster Rail, but when unpowered they will grab and hold onto any cart that passes over them. However, unlike Booster Rails, the cart can not be pushed off. This rail is very similar to the Boarding Rail, the only difference is that the rail will launch the cart in the direction it was traveling upon arrival rather than a set direction.
+"
+item.rail.oneway.1,One-Way Rail,"The behavior of this rail is identical to that of normal rails, while unpowered. However, when they receive power they will reverse the momentum of any cart travelling in the opposite direction of the arrow on the rail. Some of the momentum is lost of course."
+item.rail.control.1,Control Rail,"These rails act like weak boosters that only boost carts in one direction. Any carts travelling in the opposite direction will be gradually slowed. Powering them will reverse the direction of the rail. They are cheap to make and will propagate power for up to sixteen blocks in either direction.
+"
+item.rail.Launcher.1,Launcher Rail,"This rail will launch any cart that passes over it into the air. Launch force can be adjusted by right-clicking on the rail with a Crowbar. Maybe not very realistic, but a ton of fun anyway!"
+item.rail.Priming.1,Priming Rail,This rail will light the fuse of any TNT Cart that passes over it. Fuse length can be adjusted by right-clicking on the rail with a Crowbar. Fuse length is measured in 1/20ths of a second.
+item.rail.Slow.1,Wooden Rail,"The basic wooden rail. Capable of making corners and traversing slopes. Functionally equivalent to normal rails, only with a lower maximum speed (for safety reasons)."
+item.rail.slow_Booster.1,Wooden Booster Rail,"Functionally equivalent to Powered Rails, but in wooden rail form."
+item.rail.slow_Junction.1,Wooden Junction Rail,"Functionally equivalent to Junction Rails, but in wooden rail form."
+item.rail.slow_Switch.1,Wooden Switch Rail,"Functionally equivalent to Switch Rails, but in wooden rail form."
+item.rail.speed.1,High Speed Rail,"This collection of rails is a little different from normal rails. Any carts travelling on these rails can travel three times faster than normal, but only in a straight line. Additionally, attempting to leave these rails without first slowing down will likely result in death and destruction. Collisions are bad too. Please sign the wavier before boarding."
+item.rail.speed_boost.1,High Speed Booster,These rails will boost the cart when powered or slow them to normal minecart speed if they are not.
+item.rail.speed_switch.1,High Speed Switch,"Functionally equivalent to Switch Rails, but in High Speed rail form."
+item.rail.speed_transition.1,High Speed Transition Rail,These directional rails will only boost carts in one direction when powered. Carts travelling in the opposite direction will be slowed to normal minecart speeds.
+,,Tools
+item.signalTuner.*.1,Signal Tuner,"This electronic frequency scanner is used to pair a Controller with a Receiver. To initiate pairing, simply right-click on a Controller. Once you have done that, move to the Receiver you wish to pair the Controller to and right-click on it as well. If the pairing was successful you will receive a message to that effect on the screen. It can also be used to clear an existing pairing by right-clicking on either the controller or the receiver."
+item.crowbar.*.1,Crowbar,"A multi-purpose tool any rail engineer should carry. It makes removal of old rails a breeze and even works on Detector Blocks and Loaders. Additionally, right-clicking on a rail will allow you to adjust the rail. Most of the time that means reversing the rail's direction, but some rails will open a GUI. Right-clicking a Detector Block will turn the block to face the side clicked on. Right-clicking a Loader/Unloader will open a GUI to configure the Loader."
+item.signalblocksurveyor.*.1,Signal Block Surveyor,"This surveying tool is used to pair two Block Signals to create a Signal Block. To begin surveying, right click a Block Signal. To complete the Signal Block, move to the signal at the other end and right-click on it too. If the Signal Block is valid, a message will appear on the screen telling you the pairing was successful. If the pairing failed a message should also appear to tell you why it failed."
+,,Technical Blocks
+item.minecartTNT.*.1,TNT Cart,The ever popular explosive combination returns. Handle with care. Will explode if jarred or lit on fire. Great for parties. Can be used as a substitute for cannonballs or fireworks in a pinch. Fuse length can be adjust with a string. Fuse length is measured in 1/20ths of a second.
+item.minecartTank.*.1,Tank Cart,"This cart can store and transport any Buildcraft liquid. It is filled/emptied at a Liquid Loader/Unloader. It's capacity is half a Buildcraft Tank, 8 buckets."
+item.creosote.*.1,Creosote Oil,In order preserve Wooden Ties against rot and decay we need to coat them with Creosote Oil. The particular properties of this oil derived from Coal helps to waterproof and protect wood against many forms of insects and bacteria that would otherwise destroy it in short order.
+item.signallamp.*.1,Signal Lamp,"The most important part of any Signal is the lamp. Designed for high visibility day and night, this special multi-color lamp is perfect for any railway."
+item.controllercircuit.*.1,Controller Circuit,These circuits comprise the basic electronics required for Controllers and Receivers to operate.
+item.receiverCircuit.*.1,Receiver Circuit,These circuits comprise the basic electronics required for Controllers and Receivers to operate.
+item.woodtie.*.1,Wooden Tie,Every rail needs some kind of support to keep the rails upright and the correct distance apart. For that purpose we have Ties. Ties come in two varieties (wood and stone) and are used to make Railbeds and Posts. In order to preserve Wooden Ties for extended use they must be coated with Creosote Oil.
+item.stonetie.*.1,Stone Tie,Every rail needs some kind of support to keep the rails upright and the correct distance apart. For that purpose we have Ties. Ties come in two varieties (wood and stone) and are used to make Railbeds and Posts. In order to preserve Wooden Ties for extended use they must be coated with Creosote Oil. Stone Ties need to have some iron included to give them strength.
+item.woodrailbed.*.1,Wooden Railbed,"In Railcraft, Railbeds come in two varieties: Wood and Stone. Wooden Railbeds are used for standard rails and Wooden Rails and made with Wooden Ties, they are cheaper than Stone but can't handle the higher stresses of High Speed Rails. "
+item.stonerailbed.*.1,Stone Railbed,"In Railcraft, Railbeds come in two varieties: Wood and Stone. Wooden Railbeds are used for standard rails and Wooden Rails and made with Wooden Ties, they are cheaper than Stone but can't handle the higher stresses of High Speed Rails. This is where the Stone Railbeds come in. They are made with Stone Ties and provide the support needed for higher speeds."
+item..structure.block_signal.1,Block Signal,"This is the most basic Signal, both a Block Signal and a Controller. This signal will form the heart of your Signalling System. It must be placed near a rail in order to form a valid Signal Block. The exact distance it can be from the rail is somewhat hard to define, but it must be within two tiles horizontally, and four tiles vertically. You need not place the signal on both ends in the same configuration relative to the rail, all that matters is that the rail forms a straight line between the two signals. When searching for a rail, it will look below it first, then one tile to either side, and then finally two tiles to either side. If two rails are equidistant to the signal, the exact rail picked will vary on the implementation of the search algorithm and will not be defined here. Best to avoid such configurations as there is no guarantee they will remain valid between updates."
+item..structure.dual_head_block.1,Dual - Head Block Signal,This Block Signal possess an additional lamp than can be used to display the status of a distant Signal or Controller.
+item..structure.switch_motor.1,Switch Motor,This trackside device is capable of operating a Switch Rail remotely or via redstone current. It functions as a Receiver for any Controller and the triggering Signal Aspects can be set by using a Crowbar on the Switch Motor.
+item..structure.box_receiver.1,Signal Reciever Box,"This box can be paired with any Controller. When paired, you can open a GUI to pick which Signal Aspects should emit a Redstone current from the Box. If placed next to a Signal Controller Box it will transmit the Aspect to it as well."
+item..structure.box_controller.1,Signal Controller Box,This box can be placed next to a Signal Receiver Box and will then send the Signal Aspect from the Receiver Box to a paired Receiver. Multiple Controller Boxes can be placed next to a single Receiver Box. This enables a single Block Signal to control multiple Switch Motors or Distant Signals. Placing two Receiver Boxes next to a Controller Box will cause the Controller Box to send the most restrictive Signal Aspect between the two. Additionally it can be powered via Redstone to emit an Aspect chosen via a GUI. It will not activate on the Redstone current emitted directly from a Signal Receiver Box. It will however always emit the most restrictive Aspect between the one chosen in the GUI and one received from a Receiver Box.
+,,Decoration Blocks
+item..structure.iron_post.1,Iron Post,"Iron Posts are a versatile block that can be used for many different purposes. These include but are not limited to Signal Mounting Brackets, Bridges, Trestles, Fences, Support Pillars, etc...
+Iron Posts are unique in that they can be painted many different colors. By default, raw Iron Posts come in a rusty red color, however any kind of Dye can be used to produce painted Iron Posts. The downside being that removing a painted Iron Post will result once again in a raw Iron Post."
+item..structure.stone_post.1,Stone Post,"Stone Posts are arguably cheaper that Iron Posts, but more expensive than Wooden Posts. They can be used alongside Concrete Blocks for many purposes including but not limited to Signal Mounting Brackets, Bridges, Trestles, Monorail Platforms, Pillar Anchors, etc..."
+item..structure.concrete_block.1,Concrete Block,"This simple block provides a versatile building material designed to be used in conjunction with Stone Posts to create many varied and imaginative structures.
+Additionally, unlike normal blocks, they possess the special property that any Post will link to them like they would another Post."
+item..structure.wood_post.1,Wood Post,"Wooden Posts are a cheap construction material that be used to create many things. This includes but is not limited to Signal Mounting Brackets, Telephone Poles, Bridges, Trestles, Fences, etc...
+
+The only significant downside to Wooden Posts is that they are highly flammable and care should be taken not to place them near fire or lava."
+
+
+
+,Credits,Oswarlan (Everything)
+,,"100% complete, ignoring minor typos or something"
