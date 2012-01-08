@@ -1,0 +1,39 @@
+Code name,Actual name,Description
+-DO NOT EDIT THIS FIELD-,Description of the object
+item.NetherPickaxe.*.1,Nether Pickaxe,Really efficient at 245 uses. Almost instant mining on every block except for obsidian.
+item.NetherAxe.*.1,Nether Axe,You can cut down a tree in mere seconds with this!
+item.NetherShovel.*.1,Nether Shovel,Super efficient as you can dig out a large patch of grass faster than a gold shovel.
+item.NetherHoe.*.1,Nether Hoe,Used for farming. Nothing much to it.
+item.NetherSword.*1,Nether Sword,Useful. Deadly. One hit kill on an animal and two for monsters. Goodbye creepers ;)
+item.MagmaPowder.*.1,Magma Dust,Highly explosive powder used to make the oh so deadly Nether Bomb. Dropped by Nether Herobrine
+item.NetherIngot.*.1,Nether Ingot,Smelt a magma ore and you get this. A mineral used to make the nether tool set. 
+tile.NetherBomb.*.1,Nether Bomb,"Used for mining or blowing stuff up, the Nether Bomb has a 4x bigger blast then normal TNT."
+tile.MagmaOre.*.1,Magma Ore,Found in the nether and when smelted you get a Nether Ingot.
+tile.NetherTorch.*.1,Nether Torch,Basically a torch version of glowstone.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,Credit:(move down if in way),Nausir (Code) and marlinwalkup (Textures)
