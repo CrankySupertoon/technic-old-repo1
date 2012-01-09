@@ -1,0 +1,7 @@
+// Custom furnace fuels, syntax:
+// :data value is optional
+// characters case does not matter.
+//
+// item:data % burntime (1, 5, 60, etc)
+//
+

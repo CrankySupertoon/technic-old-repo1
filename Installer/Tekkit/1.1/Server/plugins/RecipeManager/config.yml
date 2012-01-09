@@ -1,0 +1,6 @@
+# debug = print debug messages in server console, for normal usage use "false" (default)
+# furnace-ticks = ticks that the furnace cooktime task runs at, 1 tick is default which is 20 times per second, use 2 or more if you have a verry slow server OR alot of burning furnaces at once cause lag
+# print-features = if the plugin should print new and restricted recipes when players hit a workbench or furnace the first time
+debug: false
+furnace-ticks: 1
+print-features: true
