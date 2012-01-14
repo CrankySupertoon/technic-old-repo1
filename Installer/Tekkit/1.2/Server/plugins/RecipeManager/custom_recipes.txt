@@ -1,0 +1,77 @@
+// Custom workbench and furnace recipes, syntaxes:
+// :data value is optional, so is :amount
+// [ ] means optional
+// ... means previous syntax can be repeated
+// characters case does not matter.
+//
+// SHAPED
+// item:data [ + item:data + item:data ]
+// [ item:data + item:data + item:data ]
+// [ item:data + item:data + item:data ]
+// = result_item:data:amount
+//
+// UNSHAPED
+// item:data:amount [ + ... ]
+// = result_item:data:amount
+//
+// FURNACE
+// item:data % time in seconds (1, 0.3, 60, etc; lower than 0.1, 0 or INSTANT is... well instant)
+// = result_item:data:amount
+//
+
+UNSHAPED
+177:3
+= 15:0:1
+
+UNSHAPED
+177:7
+= 248:4:1
+
+UNSHAPED
+177:2
+= 14:0:1
+
+UNSHAPED
+177:5
+= 331:0:6
+
+UNSHAPED
+177:6
+= 249:0:1
+
+UNSHAPED
+177:4
+= 351:4:8
+
+UNSHAPED
+177:11
+= 248:0:1
+
+UNSHAPED
+177:15
+= 248:0:1
+
+UNSHAPED
+177:13
+= 248:0:1
+
+UNSHAPED
+177:1
+= 264:0:1
+
+UNSHAPED
+177:10
+= 248:0:1
+
+UNSHAPED
+30135
+= 264:0:1
+
+SHAPED
+87 + 87
+87 + 87
+= 112:0:4
+
+UNSHAPED
+177:0
+= 263:0:1

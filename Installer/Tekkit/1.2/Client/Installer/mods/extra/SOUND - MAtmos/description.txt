@@ -1,0 +1,9 @@
+version 1.8.1 R6<br>
+by Hurricaaane<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/379925-181-matmos-r6-environmental-sound-atmosphere-simulator/">HERE</a>.<br>
+<br><br>
+MAtmos is a sound atmosphere generator. When you play on any server or in singleplayer, it looks at your surroundings and generates natural noises as a soundscape, such as birds in the forest or rumbling near a lava lake or wind gusts on a hilltop, which fills out the perpetual silence of Minecraft.<br>
+<br>
+This is performed thanks to a knowledge base that contain rules about when and how the sounds should play. MAtmos scans your environment to approximate and describe your location.<br>
+<br>
+This knowledge base can be expanded with the use of expansions that can be created and written by third-parties for more various experience.

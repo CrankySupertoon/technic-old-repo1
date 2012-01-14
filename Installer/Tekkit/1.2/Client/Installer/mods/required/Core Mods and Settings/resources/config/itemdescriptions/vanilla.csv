@@ -1,0 +1,259 @@
+"Code Name
+type.name.dmgval.version",Actual Name,Description
+
+tile.log.*.1,Wood,"Logs of wood can be chopped by hand, but using an axe is quicker. Logs are flammable so be careful with fire in a forest as the fire can spread quickly. A log can be crafted into four wooden planks.
+
+Logs can be burnt as fuel inside furnaces, they burn for fifteen seconds."
+tile.log.*.2,,"Example, if you are adding your own description, do not overwrite an existing one, create a new cell with a new number so we can see all the different versions and pick the best. To insert a new cell right click on the numbers on the left and click ""insert 1 below"".
+Although I will overwrite descriptions I don't think are very descriptive.
+If you add a description add your name to the credits at the bottom of this page."
+item.apple.*.2,Apple,Delicious red apples are hard to find! They restore two hunger points and drop from oak trees.
+item.apple.*.1,Apple,"This yummy fruit won't cure scurvy, but it will fill up two hunger points.  They can drop from oak trees and may be found in dungeons as well."
+item.appleGold.*.2,Golden Apple,A delicious apple now coated with gold. Sweet sweet Gold. Restores five hunger points.
+item.appleGold.*.1,Golden Apple,"This rare treat will not only restore a good bit of hunger, but also cause your health to rapidly regenerate, even if you are still hungry after you eat it!"
+item.bed.*.1,Bed,"When the sky goes dark and the monsters come out it is sometimes best to go to bed. Once you place a bed right click it to go to sleep, you will wake up at dawn.
+You can not go to bed if there are monsters very close by. Sleeping in a bed also sets your respawn point to that location.
+Also note that furnaces will not continue to burn overnight."
+item.beefCooked.*.1,Cooked Beef,A deliciously cooked steak that will fill four hunger points.
+item.beefRaw.*.1,Raw Beef,"A raw steak.  You can eat it as is, but cooking it in a furnace will fill you up a lot more!"
+item.blazePowder.*.1,Blaze Powder,"Used in the making of ""Eyes of Ender"" and ""Magma Creams."""
+item.blazeRod.*.1,Blaze Rod,"Blaze rods are obtained from Blazes. These are mobs that can be found in the nether, but beware of the flames they project. The main use of these rods is being crafted into blaze powder."
+item.boat.*.1,Boat,"Boats can be ridden on water, use them to explore the oceans and travel down rivers. Wooden boats are quite fragile so try not to sail into anything at speed, and don't even think of riding it in lava."
+item.bone.*.1,Bone,Bones are obtained from killing skeletons and can be mashed into bonemeal which makes the best fertiliser.
+item.book.*.1,Book,Books are used to make bookshelves and enchantment tables and of course the crafting table II.
+item.bootsCloth.*.1,Leather Boots,Comfy boots for your very sensitive feet. It will protect your feet but not for long.
+item.bootsDiamond.*.1,Diamond Boots,Your feet needs protection. This is the best protection it will ever get!
+item.bootsGold.*.1,Gold Boots,"This will make your feet so shiny that people cant look at them. But better still, It will protect you from damage!"
+item.bootsIron.*.1,Iron Boots,"These boots are one of the best boots in minecraft. Shiny Iron boots, Do you want it?"
+item.bow.*.1,Bow,"A ranged weapon that fires arrows, especially useful on creepers and spiders to keep your distance. Hold right click to stretch back the string and adjust your power."
+item.bowl.*.1,Bowl,A wooden bowl can hold soup and stew.
+item.bread.*.1,Bread,Bread is made from wheat and restores two hunger points.
+item.brewingStand.*.1,Brewing Stand,"A brewing stand allows you to dabble in the art of potion making. Place various ingredients inside and up to three bottles which can contain water or other potions.
+The ingredient will distill into all three bottles."
+item.brewingStand.*.2,Brewing Stand,"A brewing stand allows you to dabble in the art of potion making. The brewing stand will distill an ingredient into glass bottles. Use the brewing stand to open the interface, the bottom three slots can hold glass bottles, these bottles must be filled with either water or some potion. The upper slot is used to brew an ingredient which will distill into the bottles."
+item.brick.*.1,Brick,"Brick is a decorative material, but can also be turned into stairs and half steps."
+item.bucketEmpty.*.1,Bucket,"A bucket is crafted using 3 iron ingots. It can be used to scoop up lava or water, or even to milk a cow."
+item.bucketLava.*.1,Lava Bucket,"It's very hot, use it to spill this fiery liquid. It can be turned into obsidian, help with the production of cobble, and even be used as decoration. Just make sure not to go for a dive."
+item.bucketWater.*.1,Water Bucket,"Its very cool, right click to place this relaxing liquid. It can help with the production of cobble, be used as decoration, or a nice cool down after a fiery bath."
+item.cake.*.1,Cake,"This cake is a lie! Look down at your hands, now back to your inventory, now back to your hands. The cake isn't a lie."
+item.cauldron.*.1,Cauldron,Replica to witch's cauldron that makes evil things. You will use this to make good things and pay revenge to the witches!
+item.chestplateCloth.*.1,Leather Tunic,This Leather Tunic will keep your mighty chest from getting injured or damaged. It will protect you but not for long.
+item.chestplateDiamond.*.1,Diamond Chestplate,The strongest material made into a chestplate.  It's quite heavy but it will protect you longer than any other armor.
+item.chestplateGold.*.1,Gold Chestplate,Your chest will sparkle while using this. Your will be so shiny that mobs hate seeing you.
+item.chestplateIron.*.1,Iron Chestplate,Mighty chestplate for a mighty Warrior. Can hold damage and still keep you mighty!
+item.chickenCooked.*.1,Cooked  Chicken,"Yummy cooked chicken. And the best thing is, You made it! Restores three hunger points."
+item.chickenRaw.*.1,Raw Chicken,Found by killing a chicken. Could be cooked but eating it raw will restore one hunger point.
+item.clay.*.1,Clay ball,Clay is found at the bottom of oceans and rivers. You can smelt it in a furnace to create clay brick. Which can then be combined to make brick.
+item.clock.*.1,Clock,"Holding this useful instrument will let you see the position of the sun, allowing you to tell time even underground. Does not work in the Nether or in the End"
+item.coal.*.1,Coal,"A common material used mainly for torches, it is also the most efficient fuel.  Can typically be found in the stockings of naughty children."
+item.coal.*.2,Coal,Found in underground or near the cliffs. It is the most common ore underground!
+item.compass.*.1,Compass,The red marker on this handy gadget will always point towards your default spawn location.
+item.compass.*.2,Compass,"The compass is very useful, craft it, you will see your respawn point. Never lost !"
+item.cookie.*.1,Cookie,"Just like mom used to make, this scrumptious cookie isn't very filling, but it sure does taste good."
+item.cookie.*.2,Cookie,A cookie restores one hunger point each time it is eaten and is stackable up to 8
+item.cookie.*.3,Cookie,Don't tell cookie monster! A cookie restores one hunger point each time it is eaten.
+item.diode.*.1,Redstone Repeater,A repeater is used in extending and/or delaying redstone signals. They can also be used to power blocks directly which allows some very tightly squeezed redstone circuitry.
+item.doorIron.*.1,Iron Door,"Unlike the wood door, you cannot right or left click to open. Instead you must either place a lever nearby or provide the door with redstone power. Once applied the door will stay open until the power source turns off. They act as entrances and exits to concealed areas."
+item.doorWood.*.1,Wood Door,When placed you can right or left click them to open and close them. They act as entrances and exits to concealed areas.
+item.dyePowder.*.1,Dye,Can be used to dye wools.
+item.egg.*.1,Egg,"It is an item created by chickens, throw an egg on the ground will spawn with a random chance a chicken."
+item.egg.*.2,Egg,"Created by chickens in a mysterious biological process, eggs are an ingredient of cake and can be thrown for a small chance to hatch a baby chicken.. or just to make a mess."
+item.emerald.0.1,Diamond,"Very, Very Precious. Make sure you don't lose it, and look out for creepers!"
+item.enderPearl.*.1,Ender Pearl,"You can obtain these from killing Endermen. They have magic power, and can be imbued with Blaze Power to unlock a word of excitement."
+item.enderPearl.*.2,Ender Pearl,Good Job! You killed an enderman!
+item.eyeofEnder.*.1,Eye of Ender,"Little is known about the eye of ender. When used it appears to point you in some direction, perhaps you should follow?"
+item.feather.*.1,Feather,Get this by killing chickens. Used for making arrows.
+item.fermentedSpiderEye.*.1,Fermented Spider Eye,"Used in making negative potions such as ""Potion of Weakness"" and ""Potion of Harming"" These can be thrown at monsters to hurt them."
+item.fishCooked.*.1,Cooked Fish,Tasty and Healthy! Heals three hunger points.
+item.fishingRod.*.1,Fishing Rod,Used for catching fish. Bait is not required.
+item.fishRaw.*.1,Raw Fish,"An uncooked fish, it heals one hunger point."
+item.flint.*.1,Flint,Flint is a very hard and durable variety of quartz. The extreme hardness of flint makes it an excellent material for arrows. Flint is found in gravel. 
+item.flintAndSteel.*.1,Flint and Steal,"By striking flint against steel you create fire! With this power you can burn down forests and wooden huts, and even light portals to the nether world."
+item.ghastTear.*.1,Ghast Tear,"Ghast tears come from the cries of ghasts, they cry because of their eternal pain in the hellish nether world. Ghast tears can be brewed into a health regenerating potion."
+item.glassBottle.*.1,Glass Bottle,Glass bottles are used for potion making. They can can hold water and potions. Use the glass bottle on a cauldron to fill with water. 
+item.goldNugget.*.1,Gold Nugget,Gold nuggets are used in the process of crafting glistering melons.
+item.hatchetDiamond.*.1,Diamond Axe,"A diamond axe is used for cutting down trees and other wooden blocks. A diamond axe is the fastest axe after gold and the most durable, they will last you a very long time!"
+item.hatchetGold.*.1,Gold Axe,A golden axe is used for cutting down trees and other wooden blocks. A golden axe is the fastest axe but the least durable.
+item.hatchetIron.*.1,Iron Axe,An iron axe is used for cutting down trees and other wooden blocks. An iron axe is faster and more durable than a stone axe.
+item.hatchetStone.*.1,Stone Axe,A stone axe is used for cutting down trees and other wooden blocks. A stone axe is faster and more durable than wooden axe.
+item.hatchetWood.*.1,Wood Axe,A wooden axe is used for cutting down trees and other wooden blocks. A wooden axe is the slowest axe but it is more durable than a golden axe.
+item.helmetCloth.*.1,Leather Cap,"This leather cap will keep your head cozy and warm, a must have for winter biomes. It also provides a small amount of protection."
+item.helmetDiamond.*.1,Diamond Helmet,A diamond helmet is the strongest and most durable helmet. It is also the heaviest and is known to cause droopy-head syndrome.
+item.helmetGold.*.1,Gold Helmet,Your head will be great with this armor. Might be lame but it will protect you.
+item.helmetIron.*.1,Iron Helmet,Iron made into an helmet. Hard work has been put to this. So wear it and go adventuring!
+item.ingotGold.*.1,Gold Ingot,Obtained by smelting gold ore in a furnance and can be used to craft gold tools and blocks.
+item.ingotIron.*.1,Iron Ingot,Obtained by smelting iron ore in a furnace and can be used to craft gold tools and blocks.
+item.leather.*.1,Leather,"Leather is dropped by cows, you can use it to craft an armor. You will need to kill a lot of cows !"
+item.leggingsCloth.*.1,Leather Pants,"Soft, warm and cozy pants. But not the best pants. But still, you will feel great in them."
+item.leggingsDiamond.*.1,Diamond Leggings,Strong leggings for your strong legs. It will be protected from damage. What more do you want?
+item.leggingsGold.*.1,Gold Leggings,"Your pants will be the most best pants in the world. And yes, those pants makes you look fat."
+item.leggingsIron.*.1,Iron Leggings,"Wear this and you pants will be shiny as a star. And like a star, it is strong and will protect you!"
+item.magmaCream.*.1,Magma Cream,"When used in the making of potions, Magma cream will add a fire resistance effect to the potion."
+item.map.*.1,Map,Maps help you navigate the infinite lands. Travel with the map in your hand to draw your surroundings.
+item.melon.*.1,Melon Slice,Harvesting a Melon Block will get this! Yummy Melons. Restores one hunger point.
+item.milk.*.1,Milk,Harvest it by right clicking a cow with a bucket. This is one of the ingredients to make a cake.
+item.minecart.*.1,Minecart,"Minecarts are rideable and when placed on rails they can be used to carry items, mobs, and players. They can be used as a form of transportation to cover long distances, since they are much faster than walking. They can also be used to create roller coasters or even fun houses."
+item.minecartChest.*.1,Minecart with Chest,A minecart with a chest. What more can you ever ask for? 
+item.minecartFurnace.*.1,Minecart with Furnance,"A self-powered, self-moving minecart. They are much slower then powered rails. It only moves when you have inserted coal in it. It is only reccomended you use this if your track does not currently have enough powered rails to reach the other end."
+item.mushroomStew.*.1,Mushroom stew,Mushroom Stew is the best (and the only one) stew in minecraft! Two mushrooms and a bowl. SPLENDID!
+item.netherFence.*.1,Nether Brick Fence,"Its like a normal fence, but made from nether brick."
+item.netherStalkSeeds.*.1,Nether Wart,"Similar to wheat, but much more evil, this wicked plant only grows in the Nether when planted in Soul Sand.  It is used as an ingredient for potions."
+tile.netherStalk.*.1,Nether Wart,"Similar to wheat, but much more evil, this wicked plant only grows in the Nether when planted in Soul Sand.  It is used as an ingredient for potions."
+item.painting.*.1,Painting,Used for decorative purposes.
+item.paper.*.1,Paper,Used for making maps and bookshelves.
+item.pickaxeDiamond.*.1,Diamond Pickaxe,"Used for mining stone and ores. A diamond pickaxe is strong enough to mine everything, the second fastest after gold and the most durable pickaxe."
+item.pickaxeGold.*.1,Gold Pickaxe,"Used for mining stone and ores. A golden pickaxe is too soft to mine rarer ores such as gold or diamond, it is the fastest pickaxe but the least durable. It is the only pickaxe unable to mine the ore in which it is made from."
+item.pickaxeIron.*.1,Iron Pickaxe,Used for mining stone and ores. An iron pickaxe is strong enough to mine diamond ores and is faster and more durable than a stone pickaxe.
+item.pickaxeStone.*.1,Stone Pickaxe,Used for mining stone and ores. A stone pickaxe is not strong enough to mine rarer ores such as obsidian or diamond but is faster and more durable than a wooden pickaxe.
+item.pickaxeWood.*.1,Wooden Pickaxe,Used for mining stone and ores. A wooden pickaxe is not strong enough to mine rarer ores such as diamond and is the slowest to mine.
+item.porkchopCooked.*.1,Cooked Porkchop,"Cooked pork chops restore four hunger points and are very tasty!  They are made by throwing a raw pork chop in a furnace - however, you could just set a pig on fire..."
+item.porkchopRaw.*.1,Raw Porkchop,Kill a pig to harvest some raw pork chops. Eating raw pork chops has no ill side effects but restores only one and a half hunger points.
+item.potion.*.1,Potion,"What is this? Potions in minecraft? Holy Cow! But best still, you have it!"
+item.record.*.1,All Records,Throw it in a jukebox and have a party!
+item.record.1.2,Record 2,Records at its finest.
+item.redstone.*.2,Redstone,Can be used for very simple or very advanced circuitry.
+item.redstone.*.1,Redstone,"This magical dust can be put on the floor to create wires.  When powered by a lever or a redstone torch, it can be used to simulate electrical circuits, allowing you to make openable doors, logic gates, and much more.  Be aware that the current will only carry for 16 blocks without a repeater or redstone torch to propagate it."
+item.reeds.*.1,Sugar Canes,Get this by harvesting sugar canes. This can be converted into sugar or papers.
+item.saddle.*.2,Saddle,Use this to ride a pig! Go and be wild.
+item.saddle.*.1,Saddle,"Step 1:  Apply to pig.  Step 2:  Ride the wind, cowboy!"
+item.seeds_melon.*.1,Melon Seeds,These seeds will make full size melons and are found in Dungeons and Mineshafts! You can also get them by converting a melon slice!
+item.seeds_pumpkin.*.1,Pumpkin seeds,These seeds will make pumpkins and are found in Dungeons and Mineshafts! You can also get them by converting a pumpkin!
+item.seeds.*.1,Seeds,When placed on hydrated farmland they will grow into wheat crops. You can speed up the process with the use of bonemeal.
+item.shears.*.1,Shears,Used to get wool without killing sheep. You will get more wool if you use these instead of killing the sheep. Also can be used to harvest leaves and even to trim your beard in a pinch!
+item.shovelWood.*.1,Wooden shovel,"If you actually made this shovel, you probably have the intention of burying yourself."
+item.shovelStone.*.1,Stone shovel,"While primitive, this stone shovel can help you move dirt or shovel snow faster than a wooden one."
+item.shovelIron.*.2,Iron Shovel,"A Iron Shovel is a shovel made out of iron..Well duh! But the iron shovel is moss likely to be the shovel that you will have. ( Well if you have a diamond, you can use that! )"
+item.shoveliron.*.1,Iron Shovel,"A steel shovel that is quite durable and fast at removing unsightly dirt and gravel from wherever you don't want it to be, as well as shoveling up snow to make a snowman army with!"
+item.shovelGold.*.1,Gold shovel,"A Gold shovel. Not the best shovel but still, who doesn't want a golden shovel, I mean seriously."
+item.shovelDiamond.*.1,Diamond shovel,Ahh! This shovel. The ruler of all the shovels! Best in speed after gold and durability! I recommend this shovel among the rest!
+item.sign.*.1,Sign,"When you place the sign you will be presented with a sign post. This sign post has 4 lines of text, each 15 characters long. You can type here, and click done. This text will then appear on the sign in the world. If you make a typo, you can correct it if you have not left the gui, but if you have already clicked done you will have to delete the sign and start over. In multiplayer you may notice colors on signs. This is through use of a plugin for the server, and is not possible on its own without the use of such. "
+item.slimeball.*.1,Slimeball,Found by killing a slime. Used for making sticky pistons.
+item.snowball.*.1,Snowball,Found by breaking a snow block. Could be thrown to make a snowball fight.
+item.speckledMelon.*.1,Glistering Melon,"Used in making ""Mundane"" and ""Healing"" potions."
+item.spiderEye.*.1,Spider Eye,"Used in making ""Mundane"" and ""Poison"" potions."
+item.stick.*.1,Stick,"Sticks are used primarily as the handles for torches, tools and weapons. They can also be used as the shaft of arrows, the post for signs and the rail-bed for rails.
+
+Sticks can be burned as fuel inside furnaces, they burn for five seconds. However, it is more efficient to burn the two wooden planks which will burn for thirty seconds."
+item.string.*.1,String,Get this by killing a spider. Used for making lots of stuff that includes string.
+item.string.*.2,String,"Primarily acquired by killing spiders, this can be used to make fishing rods and bows, among other things."
+item.sugar.*.1,Sugar,This is not a drug! It is plain sugar distilled from sugar canes. This is one of the ingredients to make a cake.
+item.sulphur.*.1,Sulphur,Used for TNT. Found by killing a creeper without exploding it.
+item.wheat.*.1,Wheat,"Wheat can be made into various foods, most commonly bread. Combine it with sugar, milk and eggs to bake a cake!  Holding wheat will make many animals follow you, and feeding it to them will allow them to breed."
+item.yellowDust.*.1,Glowstone Dust,Used for making glowstones and found by breaking glowstones.
+item.yellowDust.*.2,Glowstone Dust,"Found only in the nether, put four of these into a crafting grid to recreate a Glowstone block."
+tile.blockDiamond.*.1,Diamond block,"A block of diamond is crafted by joining nine diamonds together, you can easily get your nine diamonds back.
+Great for saving space or showing off your vast wealth."
+tile.blockGold.*.1,Gold block,"A block of gold is crafted by joining nine gold ingots together, you can easily get your nine ingots back.
+Great for saving space or showing off your wealth."
+tile.blockIron.*.1,Iron block,"A block of iron is crafted by joining nine iron ingots together, you can easily get your nine ingots back.
+Great for saving space or showing off your wealth."
+tile.blockLapis.*.1,Lapis Block,"A block of lapis lazui is crafted by compressing nine lapis lazuli dyes together, you can easily get your nine dyes back.
+Great for saving space or showing off your wealth."
+tile.bookshelf.*.1,Bookshelf,A bookshelf is the sign of an intelligent man or woman. It is rumoured the enchantment table can magically read and learn from nearby bookshelves.
+tile.brick.*.1,Brick,A brick is a very strong and non-flammable material. you can easily get bricks by smelting clay.
+tile.button.*.1,Button,A button that can be pressed to power adjacent redstone for a short while.
+tile.cactus.*.1,Cactus,A fierce plant but also sometime helpful. Its sharpness could kill mobs and you. Don't Touch it!
+tile.chest.*.1,Chest,It is a block that can contains different blocks and items. They are saved from your respawn.
+tile.clay.*.1,Clay block,Clay blocks are found in water and will break into smaller pieces when mined. Smelt clay and you will get bricks.
+tile.cloth.*.2,Wool,Wool blocks can be found by killing sheeps and it is used for making beds!
+tile.cloth.*.1,Wool,"Acquired by using shears on sheep or killing them, you monster! It can be used to craft beds or dyed to make decorative blocks."
+tile.detectorRail.*.1,Detector Rail,A detector rail will power adjacent redstone when a minecart passes over.
+tile.deadBush.*.1,Dead Bush,Mushroom Stew is the best (and the only one) stew in minecraft! Two mushrooms and a bowl. SPLENDID!
+tile.dirt.*.2,Dirt,It is very dirty.
+tile.dirt.*.1,Dirt,Your mother would be angry if she knew you still play in the dirt.
+tile.dispensor.*.2,Dispenser,It dispense things that you put in it. 
+tile.dispenser.*.1,Dispenser,"This will eject one of whatever you put inside when it recieves a redstone current.  Typically used with arrows and splash potions as a basic trap, but has many other applications."
+tile.enchantmentTable.*.1,Enchantment Table,"It enchants stuff ( Swords, Axes, etc,). Best to enchant in a room with a LOT of bookshelfs."
+tile.fence.*.2,Fence,Fence off your house to protect it from mobs!
+tile.fence.*.1,Fence,"Used to create areas that mobs can't get into or out of.  Most creatures cannot jump over fences, including you!"
+tile.fencegate.*.1,Fence Gate,This gate can be placed alongside fences. You can't jump over fences so gates allow easy access.
+tile.fenceiron.*.1,Iron bars,Great for decoration and it also keeps your prisoners in.
+tile.flower.*.1,Yellow Flower,Found literally everywhere in your world! Used for making dyes and decorating your House!
+tile.furnace.*.2,Furnace,It is smelting time baby!
+tile.furnace.*.1,Furnace,"With a bit of fuel in the bottom slot, this will smelt ores into ingots, burn cobblestone smooth, turn sand into glass, and can even cook your food.   Yep, it does it all!"
+tile.glass.*.1,Glass,"Glass is made from silica (sand) and is commonly used as windows to view to beautiful lands from the safety of your home.
+Glass can also be crafted into thinner glass panes."
+tile.goldenRail.*.1,Powered Rail,"Powered rail will give your minecarts a boost when powered by redstone. If the rail is unpowered it will slow down minecarts.
+In order to boost a stationary minecart a block must be placed at either end of the powered rail."
+tile.gravel.*.1,Gravel,Gravel is the only source of flint which can be used to make arrows.
+tile.hellrock.*.1,Netherrack,"This is what the nether is made out of. Found in the nether. When the Netherrack have a fire on top, it will not burn out the fire. So are you ready to RACK! I mean ROCK! "
+tile.ice.*.1,Ice,"Ice occurs when water is in a snow biome and is very slippery.  Breaking an Ice block on top of another block will create a water source, so be careful!"
+tile.ladder.*.1,Ladder,Ladders are perfect for climbing vertical surfaces or getting to the bottom of your mineshaft.
+tile.leaves.*.1,Any leaves,Leaves are found on trees and decay if not attached to wood.  If destroyed using shears you get a leaf block that does not decay when placed.
+tile.lever.*.2,Lever,You flip the lever and it will open. What will open? The thing where the lever is near to.
+tile.lever.*.1,Lever,"This handy bit of high technology can be used to activate redstone contraptions, or to directly operate any powerable block nearby, such as a door.  If placed on the front side of a block that is connected to redstone on the floor behind it, the switch will still activate the redstone wire, allowing for hidden circuits."
+tile.lightgem.*.1,Glowstone,Found in the nether and crafted using four glowstone dusts. Gives brightness and is a great decorative material.
+tile.litpumpkin.*.1,Jack O Lantern,Gives light and it looks great for decoration!
+
+tile.melon.*.1,Melon Block,"A full size melon, delicious, good looking, tasty, sweet melon."
+tile.mushroom.*.1,Mushroom,Can be used for making Mushroom Stew and not too common but not too rare.
+tile.musicBlock.*.1,Music Block,"Add some joy with the music block. Hit the music block or power with redstone to play a note. Right click the music block the alter the pitch.
+
+The music block will play a different instrument depending what surface it lies on:
+Place it on dirt or grass to play the piano.
+Place it on something wooden to play the bass guitar.
+Place it on sand or gravel to play the snare drum.
+Place it on glass to play the sticks.
+Place it on stone to play the kick drum."
+tile.notGate.*.1,Redstone torch,"The redstone torch collects a magic power from the aether and then transmits it to adjacent redstone. If the block below it is powered by redstone this torch will switch off, making it useful for things you want to switch off instead of on."
+tile.obsidian.*.1,Obsidian
+tile.pistonStickyBase.*.1,Sticky Piston,Piston that sticks blocks so it wont get loose!  
+tile.pressureplate.*.1,Wood/Stone Plates,"Pressure Plate is a type of switch that can be placed onto a surface of a block. If connected by wire to an object, they will provide power to that object or block when stepped on by either a player, mob, or entity and will stop when stepped off."
+tile.pumpkin.*.1,Pumpkin,Not so rare but not so common. Could be use for decorations and on your head! Enderman will ignore pumpkin headed creatures.
+tile.rail.*.1,Rail,"Rails provide a path along which minecarts can travel. They can be further crafted into special rails such as the golden powered rail or the iron detector rail.
+When placed in a t-junction the corner rail can be switched with a lever or via powered redstone."
+tile.reeds.*.2,Sugar cane,Found next to water. Can be placed in a crafting square to be turned into sugar.
+tile.reeds.*.1,Sugar cane,"Used to make paper or sugar, this plant grows near water.  It can be farmed by planting the harvested cane back into the ground - and will regrow as long as you don't cut it all down!"
+tile.rose.*.1,Red Flower,A semi-rare flower that can be place in a crafting square to make 2 red dye.
+tile.sand.*.1,Sand,A naturally occurring block that follows the laws of gravity. Can be placed in a furnace to be smelted into glass.
+tile.sandStone.*.1,Sandstone,Usually found under sand in a sand biome. it destroys faster then regular stone.
+tile.sapling.*.1,Any Saplling,Can be placed on grass only. Saplings grow into the tree of they're type. The growing process can be sped up by using bonemeal on a sapling. it will grow a tree if there is enough room
+tile.snow.*.1,Snow,This Snow block is great for decoration or making snowmen.  Can be crafted with snowballs.
+tile.stairsBrick.*.1,Brick Stairs,These brick stairs are perfect for your brick house.
+tile.stairsStone.*.1,Stone Stairs,Basic stairs for a basic house and made by a basic person. Are you the basic person?
+tile.stairsstonebricksmooth.*.1,Stone Brick Stairs,"Stone Brick are cool, but now they are in stairs! Super Cool!"
+tile.stairsWood.*.1,Wooden Stairs,Stairs allow you to quickly gain altitude without having to jump and leap over rough terrain.
+tile.stone.*.1,Stone,Naturally occurring block found in every biome. When destroyed it drops cobblestone which can be placed in a furnace to turn it back into stone.
+tile.stonebricksmooth.*.1,Stonebrick,Bricks and Stones combine in to this! It is is crafted by placing 4 stone in a square form in a crafting grid.
+tile.stoneMoss.*.1,Moss Stone,Found only in dungeons. 
+tile.stoneMoss.*.2,Moss Stone,"Obsidian is produced when lava and water collide. It is the hardest material therefore extremely resistant to explosions. It has been told that obsidian also
+possesses a magical quality that allows transport to the hellish nether world with proper application of fire."
+tile.stoneSlab.*.1,Stone Slab,Stone slab is crafted by placing 3 stone in a crafting table grid. Can be stacked 2 high creating a double slab.
+tile.thinglass.*.1,Glass Panes,Glass panes are a smaller alternative to the full sized glass blocks.  They connect to any adjecent block.
+tile.tnt.*.2,TNT,VERY VERY DANGEROUS BUT USEFUL! Use this when necessary or all your hard work will be blown up. 
+tile.tnt.*.1,TNT,"This volatile block can be used to clear out unwanted buildings, as a fast way to mine, or just to make a big hole.  Make a fuse with redstone and activate it with a lever (and don't forget your safety goggles!)"
+tile.torch.*.1,Torch,Torches provide light. Right click to place it on a surface. Torches are vital for your survival as monsters don't spawn near light.
+tile.trapdoor.*.1,Trapdoor,Trapdoors are used to create quick vertical access between two levels of a structure.
+tile.vine.*.1,Vines,Vines will spread downwards and great for making your house like a ruin.
+tile.wood.*.1,Wooden planks,"Planks of wood, the basis of many recipes. Can be crafted into stick which in turn can be used for torches, tools and weapons. They also make for nice wooden floors.
+
+Find yourself a forest and get chopping!"
+tile.waterlily.*.1,Water lily,This are found in water and great for decoration.
+tile.workbench.*.2,Crafting Table,Want to craft? The crafting table is here for your crafting needs!
+tile.workbench.*.1,Crafting Table,"The basis of all Minecraft technology, this wonderful cube can be used to create anything from swords to stairs.  However, there are rumors of a newly invented ""Crafting Table II"" that has the potential to make this old standby obsolete."
+item.swordGold.*.1,Gold Sword,"This sword is not the best but its golden! GOLD! G-O-L-D GOLD! Who doesnt want a gold sword? I don't!
+
+Please note while a gold sword looks pretty it is the least durable sword because gold is a soft material. Lasts just as long as wooden tools but destroys blocks faster."
+item.swordIron.*.1,Iron Sword,This sword is not the best but this is most likely the sword that will guide you through you adventures since it is hard to get Diamond.
+item.swordDiamond.*.1,Diamond Sword,A Holy Blade is what people call it. Best sword in minecraft. So what are you waiting for? Go and get adventurin' Hero!
+item.swordWood.*.1,Wood Sword,This sword is the weakest but it will come in handy when you first spawn in the world.
+item.swordStone.*.1,Stone Sword,An upgrade from a wooden sword. Not that bad but will come in handy if you are new to the world.
+tile.bedrock.*.2,Bedrock,Hmm.. how did you get this?
+tile.bedrock.*.1,Bedrock,A strong material that can't be destroyed in any manner. Starts to appear 61 meters below the surface.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Minecraft Forum Name,Credits:,"TheEnlightened(descrptions), mrkingster(descriptions), Kitten, JonReed, Blueblade11, pwnedgod, Vertebro, nukularpower(edits and descriptions), Oswarlan(minor edits here and there)"
+
+,,Look at minecraftwiki.net for ingame names.

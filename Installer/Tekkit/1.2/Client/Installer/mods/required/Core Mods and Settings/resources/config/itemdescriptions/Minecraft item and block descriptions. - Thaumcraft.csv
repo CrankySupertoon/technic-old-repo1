@@ -1,0 +1,67 @@
+Code Name,Actual Name,Description
+-DO NOT EDIT THIS FIELD-,This is the Actual Name of a Object,Description of the object
+tile.thaumprocessor.0.1,Thaumic Infuser,"Now you have your crucible filled with thaum and enough conduits to take it where you wish, but what to do with it? The Infuser is used to enchant mundane objects with thaumic energy. You fill the bottom slot with template items like blank symbols and the top slot with the object or block to be infused. Interrupting the infusion process is mostly harmless, but any thaum used thus far is lost, so take care. It receives thaum from conduits or an adjacent crucible."
+tile.thaumprocessor.1.1,Thaumic Duplicator,"Excess thaum filling your conduits and creating a mess around your crucible? Why not turn it back into matter? Any item placed into the input slot is doubled. Free stuff!
+Not quite. It costs five times more thaum to create an item than you would receive from burning it in a crucible. Not a cheap process, but worthwile to copy those hard to find items. It receives thaum from conduits or an adjacent crucible.
+NOTE: Some object cannot be copied. No one knows why – must be something to do with quantum."
+tile.thaumcrucible.0.1,Thaumic Crucible,"The first thing you will need to craft to get started with this mod. Any object thrown into the crucible is destroyed and converted into liquid thaum. The thaumic value of items differ, but the rarer or harder something is to find, the more thaum it produces. Anything the crucible cannot process, or that is of too little value is simply spit out again. Care must be taken not to overfill the crucible. Liquid thaum is quite volatile and having puddles of it lying around can have consequences ranging from annoying to catastrophic... though occasionally something useful happens."
+tile.thaumcrucible.2.1,Thaumic Condenser,"The Condenser can suck background thaum right out of the air, but it doesn’t work just anywhere. You need to find areas with higher levels of background thaumic radiation. These can be found with a thaumic detector (see below), or just by keeping an eye out for locales with strange creatures or ancient artifacts. Note that the rate at which it produces thaum is very, very slow. The rate does vary with the current phase of the moon (fuller is better), and there might be other ways to boost its speed. To extract the thaum from the condenser you need to connect it to conduits or nodes."
+tile.thaumcrucible.3.1,Obelisk Piece,A piece of the mysterious obelisk. I am pretty sure this is the base.
+tile.thaumcrucible.4.1,Obelisk Piece,A piece of the mysterious obelisk. I am pretty sure this is....wait was it the to second from the bottom or from the top?
+tile.thaumcrucible.5.1,Obelisk Piece,A piece of the mysterious obelisk. I am pretty sure this is....wait was it the to second from the bottom or from the top?
+tile.thaumcrucible.6.1,Obelisk Piece,A piece of the mysterious obelisk. I am pretty sure this is the top.
+tile.thaumconduit.0.1,Thaumic Conduit,Liquid thaum cannot be handled safely so to transfer it from the crucible to things that need it you need glass conduits.
+tile.thaumconduit.1.1,Thaumic Node,"Nodes can be connected to conduits to act as storage containers, but they have a far more important purpose than that - Symbols draw their power from nodes to power their mystical effects. For mysterious and arcane reason Nodes cannot be placed directly adjacent to each other. One node can hold 100 thaum"
+item.thaumsymbol.0.1,Iron Symbol,"This symbol will slowly pull items along the horizontal axis towards itself. If it is within 15 blocks of a node the pull effect will increase in power. 
+Runes effects: Iron rune doubles area. The gold rune causes the symbol to pull on the vertical axis as well. The diamond rune causes any items that reach the symbol to be sucked up and placed in an adjacent chest."
+item.thaumsymbol.1.1,Stone Symbol,"This symbol will slowly push items along the horizontal axis away from itself.  If it is within 15 blocks of a node the push effect will increase in power. 
+Runes effects: Iron rune doubles area. The gold rune causes the symbol to push on the vertical axis as well. "
+item.thaumsymbol.2.1,Gold Symbol,"Simular to Iron, this symbol pulls mobs towards itself.  If it is within 15 blocks of a node the pull effect will increase in power. 
+Rune effects: Iron rune doubles area. The gold rune causes the symbol to pull on the vertical axis as well. "
+item.thaumsymbol.3.1,Lapis Symbol,"This symbol slowly pulls mobs towards itself. If it is within 15 blocks of a node the push effect will increase in power. 
+Rune effects: Iron rune doubles area. The gold rune causes the symbol to pull on the vertical axis as well."
+item.thaumsymbol.4.1,Mossy Symbol,"The mossy symbol promotes the growth of plants. Crops, reeds, cacti, melons and watermelons grow much faster along as there is a node nearby and there is thaum to consume. As a side effect moss also slowly grows on any cobblestone in the area, but not everything can be perfect.
+Rune effects: Iron rune doubles area. The gold rune increases the speed at which it operates."
+item.thaumsymbol.5.1,Earth Symbol,"The earth symbol has several practical uses. By default it tills any dirt or grass blocks in its area (at no thaum cost), and when imbued with a diamond rune it also harvest fully grown crops, melons, etc. Harvesting does require a nearby node and costs thaum.
+Rune effects: Iron rune doubles area."
+item.thaumsymbol.6.1,Frozen Symbol,"This symbol sends out a blast of freezing cold towards any animals or monsters. This hampers their movement. If it is within range of a node the slowing effect is greatly increased at the cost of minor thaum consumption.
+Rune effects: Iron rune doubles area. With redstone rune it only targets hostile mobs. With lapis rune it only targets animals. With a gold rune it slowly lifts the mob into the air. With a diamond rune it can affect more than one mob at a time."
+item.thaumsymbol.7.1,Blazing Symbol,"This symbol sends out a stream of fire at any living creature other than the player. This symbol must be within range of a node and requires thaum to work.
+Rune effects: Iron rune doubles area. With redstone rune it only targets hostile mobs. With lapis rune it only targets animals. With a gold rune it does increased damage (but also consumes more thaum). With a diamond rune it can affect more than one mob at a time."
+item.thaumsymbol.8.1,Seeing Symbol,"This symbol detects any entities in its area and sends out a redstone current. By default it detects all mobs, animals, items and the player. This symbol does not consume thaum.
+Rune effects: Iron rune doubles area. It only detects the player with a gold rune. It only detects hostile with a redstone rune. It only detects animals with a lapis rune. It only detects items with a flint rune."
+item.thaumtemplate.0.1,Blank Symbol,"Combining blank symbols with various blocks or items in an infuser creates special magical circles, err, I mean squares that can be placed on the ground or against walls. They have varying effects and their functions can be modified further by placing a rune on the symbol.
+By default most symbols affect an area 7 squares wide and 7 squares long depending on how there were placed. Most symbols can be deactivated by connecting them to active redstone current.
+Some symbols require thaum to function. They receive their thaum from a Thaumic Node located within 15 squares. Symbols need not (and in fact cannot) be connected to conduits.
+"
+item.thaumtemplate.1.1,Blank Rune,"There are 6 types of runes (iron, gold, diamond, flint, redstone and lapis), each crafted by combining a blank rune with the appropriate item). They modify the functioning of the symbol they are placed on."
+item.thaumtemplate.2.1,Arcane Tinkering Tools,"A type of infusion template. When used to infuse items the Arcane Tinkering Tools progressively take more damage (damage varies with the type of item being infused), but it can be repaired in a crafting table like vanilla minecraft items."
+item.thaumtemplate.3.1,Infusion Mold,"A type of infusion template. When used to infuse items the Infusion Mold progressively take more damage (damage varies with the type of item being infused), but it can be repaired in a crafting table like vanilla minecraft items."
+item.thaumrune.0.1,Iron Rune,"An iron rune, does nothing on its own. Generally doubles the area affected by a symbol."
+item.thaumrune.1.1,Gold Rune,"A gold rune, does nothing on its own."
+item.thaumrune.2.1,Diamond Rune,"A diamond rune, does nothing on its own."
+item.thaumrune.3.1,Flint Rune,"A flint rune, does nothing on its own."
+item.thaumrune.4.1,Redstone Rune,"A redstone rune, does nothing on its own."
+item.thaumrune.5.1,Lapis Rune,A lapis rune. does nothing on its own.
+item.thaumgrenade.0.1,Unstable Thaumic Singularity,"Combining Nitor and Alumentum in an infuser results in a horribly unstable and dangerous orb. If you are silly enough to make this, then it is probably best to throw it away as soon as possible – right clicking will make sure it is thrown quite far. Remember to stand back when you do this as the results are quite spectacular.
+I have heard that it is possible to stabilize the singularity with an infusion mold, but that just seems to make it more dangerous."
+tem.thaumgrenade.1.1,Stabilized  Thaumic Singularity,Sure if by stabilized you mean more destructive. Highly recommended that you stand a good distance away from detonation point.
+item.thaumreagents.0-2.1,Glimmering Alumentum,"Infusing coal in a mold imbues it with mystical power, allowing it to power a furnace for much longer than normal coal. Alumentum can be infused multiple times, each time increasing its power and burn time. The mold is not consumed during the infusion process."
+item.thaumreagents.3-5.1,Glimmering Nitor,"Like coal, glowstone dust can be infused multiple times, turning it into increasingly potent Nitor. Oddly enough, more thaum can be extracted from Nitor in a crucible than it cost to infuse in the first place. There must be some way to make a profit out of this odd feature. The mold is not consumed during the infusion process.
+"
+item.thaumreagents.6.1,Crystalized Thaum,"Thaum which has taken on a solid state, often found within the remains of thaumic slimes."
+item.fabric.0.1,Fabric,Fabric is used in the production of various advanced items.
+item.fabric.1.1,Enchanted Fabric,"Enchanted fabric is created by enchanting fabric in an Infuser with Arcane Tinkering Tools. Many wondrous items can be crafted from this mystic cloth. Makes for a good shower curtain, and as one person discovered if crafted properly can be used to make a portable hole."
+item.thaumportablehole.*.1,Portable Hole,"The great wizard Ak'mee has decided to share his newest creation with us: The Portable Hole!
+Ever needed to get inside your home, but the door was just too far? Here is your answer!
+The Ak'mee Portable Hole... craft one today.
+Uses limited. Do no use near heavy machinery. Do not use when medicated, inebriated, pregnant, or sane. May cause sterility and sudden onset death. Ak'mee and Associates are not responsible for loss of life or limb."
+item.thaumdetector.*.1,Thaumic Detector,"When placed on your hotbar, this item alerts you when you are within a locale with higher than normal thaumic radiation. Right clicking on a ThaumCraft object with the detector reveals if it contains Thaum, how much it contains and how full it is."
+
+
+
+
+
+
+
+,Credits:,"JonReed(Code & Actual Names and Descriptions),"

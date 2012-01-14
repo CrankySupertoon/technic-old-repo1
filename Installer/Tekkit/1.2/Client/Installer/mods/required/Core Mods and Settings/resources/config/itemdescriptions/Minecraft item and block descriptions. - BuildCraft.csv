@@ -1,0 +1,102 @@
+Code name,Actual name,Description
+-DO NOT EDIT THIS FIELD-,This is the Actual Name of a Object,Description of the object
+item.woodenGearItem.*.1,Wooden Gear,"A wooden gear is made from wooden sticks. They are used as a component for the very simplest machines, such as redstone engines. It can be upgraded with cobblestone to create Stone Gears."
+item.stoneGearItem.*.1,Stone Gear,"A stone gear is made from cobblestone and a wooden gear. They are used as a component of simple machines, such as steam engines.  It can be upgraded with four iron ingots to create Iron Gears."
+item.ironGearItem.*.1,Iron Gear,An iron gear is made from iron ingots and a stone gear. They are used as a component of basic machines.  It can be upgraded with gold ingots to create Gold Gears.
+item.goldGearItem.*.1,Gold Gear,A golden gear is made from gold ingots and an iron gear. They are used in some high end machines. It can be upgraded with diamond to create Diamond Gears.
+item.diamondGearItem.*.1,Diamond Gear,Diamond gears are made from diamonds and a gold gear. They are used to craft advanced machines such as quarries. This gear is the last upgrade of the gear line.
+item.wrenchItem.*.1,Wrench,"The Buildcraft wrench allows you to manipulate engines, machines, and wooden or iron pipes.  Is not compatible with the Industrialcraft wrench and will have no effect on items from it or any other mod."
+item.pipeWaterproof.*.1,Pipe waterproof,"Pipe waterproof is used to create waterproof pipes when placed on top of one in a crafting grid.  This allows transport of liquids such as water, lava, or oil."
+item.PipeItemsWood.*.1,Wooden Transport Pipe,Wooden Transport pipe is the cheapest pipe to make. It allows you extract items from a chest or other container such as a furnace into a pipe system when powered by an adjacent engine.
+item.PipeItemsCobblestone.*.1,Cobblestone Transport Pipe,Cobblestone Transport pipe is the second cheapest pipe. They serve as a transporter only. They do not connect with Stone Transport pipes.
+item.PipeItemsStone.*.1,Stone Transport Pipe,Stone Transport pipe is the third cheapest pipe. They serve as a transporter only. They do not connect with CobbleStone Transport pipes.
+item.PipeItemsIron.*.1,Iron Transport Pipe,"Iron Transport pipe serves as a director.  They will only allow items to pass through one of the five possible outputs, and are very useful for preventing backflow.  The output direction is configurable using the buildcraft wrench."
+item.PipeItemsGold.*.1,Gold Transport Pipe,Gold Transport pipe greatly accelerates items passing through it when powered by redstone or an engine.
+item.PipeItemsDiamond.*.1,Diamond Transport Pipe,"The diamond pipe sorts the items that pass through it into colored outputs, configurable by its right-click accessible GUI.  Up to 9 different items can be selected per output. If an item has no match, it will be routed out of a color that has no filter.  Diamond pipes can not be waterproofed."
+item.PipeItemsObsidian.*.1,Obsidian Transport Pipe,"Obsidian pipes will suck up any free items in front of them within a 1-tile radius.  When powered by an engine, this increases to 3 blocks in front of and around it."
+item.PipeLiquidsWood.*.1,Wooden Waterproof Pipe,"Wooden Waterproof pipe acts like its transport version, only for liquids. It allows you to extract liquid from tanks or pumps when powered by any type of engine."
+item.PipeLiquidsCobblestone.*.1,Cobblestone Waterproof Pipe,"Cobblestone Waterproof pipe acts like it's transport version, but only for liquids.  They will not connect with Stone Waterproof Pipes."
+item.PipeLiquidsStone.*.1,Stone Waterproof Pipe,Stone Waterproof pipe acts like it's transport version. It only serves as a Liquid transporter and does not connect with Cobblestone Waterproof Pipes.
+item.PipeLiquidsIron.*.1,Iron Waterproof pipe,Iron Waterproof pipe acts like it's transport version. It directs liquid into the selected pipe. Configurable using wrench.
+item.PipeLiquidsGold.*.1,Gold Waterproof Pipe,Gold Waterproof pipe acts like it's transport version but does not require any redstone input to make liquid faster.
+item.PipePowerWood.*.1,Wooden Conductive Pipe,"Wooden conductive pipes are used to extract power from engines and transport it to a distant powerable block, such as a quarry or pump.  They are very useful if you want all your engines to be in a central location, or if the block they are powering is in a temporary spot, as the pipe system can just be redirected after you relocate the machine."
+item.PipePowerStone.*.1,Stone Conductive Pipe,Stone conductive pipes are used to transport energy after it has been extracted by the wooden conductive pipes. These pipes lose 1% of their energy for each block travelled so it is recomended to use gold pipes for carrying power long distances.
+item.PipePowerGold.*.1,Gold Conductive Pipe,Gold conductive pipes are used to transport energy. These pipes only lose 0.01% of their energy for every block travelled and so it is best to use these for transporting power long distances.
+item.Redstone Engine.*.1,Redstone Engine,"Redstone engines are built from wooden parts. They must be activated by a simple lever or redstone connection.  They are quite weak, generally only useful for powering pipes that need a power source, such as wooden pipe.  If it turns red, it is overheating - give it some time to cool off!"
+item.Steam Engine.*.1,Steam Engine,"Steam engines are built from stone parts. They are powered using any type of fuel and a redstone switch.  They are moderately powerful and can be used to power midrange machines such as Mining Wells and Pumps, or even Quarries in large numbers.  Don't let it run too long or it may overheat and explode!"
+item.Combustion Engine.*.1,Combustion Engine,"Combustion engines are the most powerful engines and can be used to power Quarries and Builders.  They are powered using liquid fuel (lava, oil, or fuel) and a redstone switch.  They must always be supplied with water for coolant - without it, they can fail quite catastrophically."
+tile.autoWorkbenchBlock.*.1,Automatic Crafting Table,The Automatic Crafting Table allows items to be automatically created. They're configurable by placing items/blocks into its crafting grid in the shape of what you want them to create.  They can only accept items from chests and pipe systems.
+tile.miningWellBlock.*.1,Mining Well,"A Mining Well serves as a simple and relatively cheap automatic mining machine. They mine from the bottom of the machine all the way to bedrock, with the blocks mined either spit out the top or automatically placed in transport pipes if one is connected.  Any pipe will work for this purpose."
+tile.pumpBlock.*.1,Pump,"Pumps are used to collect oil, water and lava, which can be transported into tanks or directly into certain engines . Pumps require Steam engines or better to power them properly, though two or more Redstone Engines connected directly to the pump will cause it to work at a reduced rate. Stone waterproof pipe can be directly connected to the pump to retrieve the product - wooden pipes are not required. "
+tile.machineBlock.*.1,Quarry,"The Quarry will excavate a 9x9 area (or an area specified with landmarks.) It will continue mining down until it reaches bedrock or lava. The Quarry must be powered by one or more engines of steam level or higher. On starting, the Quarry will start building its frame and clear the area within it. Note that, while building the frame and clearing the area, Steam Engines seem to overheat much more easily."
+tile.refineryBlock.*.1,Refinery,"Refineries are used to convert oil into fuel. Oil can be pumped in with waterproof pipes, or put in with buckets. Fuel that is created needs to be pumped out with a powered wooden waterproof pipe. The conversion rate of oil to fuel is 1:1.  Refineries must be powered to operate."
+tile.tankBlock.*.1,Tank,"Tanks allow you to store various liquids, which can later be extracted using Wooden Waterproof pipes.  Fill them by right clicking with a full bucket, or by piping liquids in directly."
+tile.builderBlock.*.1,Builder,"A builder is a machine that, when powered, will automatically build a structure, using a previously created template sheet and resources supplied by the player. As a note, the template sheet does not include the types of blocks used to create it, and will use whatever you put in the builder - thusly it is unable to recreate decorative patterns. "
+tile.markerBlock.*.1,Landmark,Landmarks allow you to adjust the area that a quarry will mine or the structure size for a builder.
+tile.templateBlock.*.1,Template Drawing Table,"A Template Drawing Machine is used to fill a template sheet with instructions on building a structure, which can then be used in a builder to recreate the structure out of any material. Once placed, a stone pick or greater is required to retrieve the template drawing table."
+item.templateItem.*.1,Blank Template,"A template stores information for a builder to create structures. When first created, a template is blank, and the tooltip says 'Blank template'. Blank templates need to be written to using a Template Drawing Table before they can be used."
+
+item.bucketOil.*.1,Oil Bucket,"It's oil in a bucket.  Nothing more, but careful not to spill it!  Oil can be piped into a refinery and made into fuel  to be around 8 times more efficient than plain oil as a fuel source for combustion engines."
+item.bucketFuel.*.1,Fuel Bucket,This refined oil is the most efficient fuel for combustion engines.
+
+
+
+
+,Credit is at the bottom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,Credits,pwnedgod(added names and descriptions)
+,,nukularpower - code names and fixed up many descriptions (some from BC wiki.)  
+,,Please do improve the description ~pwnedgod
