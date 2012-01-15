@@ -1,0 +1,13 @@
+Menu Key: Period
+Toggle Enable: None
+Toggle Render Type: None
+Toggle Zoom: Semicolon
+Toggle Large Map: Apostrophe
+Toggle Large Map Label: None
+Toggle Waypoints Visible: None
+Toggle Waypoints Dimension: None
+Toggle Entities Radar: None
+Set Waypoint: Comma
+Waypoint List: None
+Zoom In: None
+Zoom Out: None
