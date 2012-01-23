@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><contents>
 <expansion>
-<data>32</data>
+	<data>32</data>
 </expansion>
 <dynamic name="Iceland (Large)">
 	<descriptible>
@@ -535,6 +535,19 @@
 	<constant>100</constant>
 	<list/>
 </condition>
+<condition name="Water 5% (L)">
+	<descriptible>
+		<nickname>Water 5% (L)</nickname>
+		<description/>
+		<icon/>
+		<meta/>
+	</descriptible>
+	<sheet>LargeScanPerMil</sheet>
+	<key>9</key>
+	<symbol>&gt;</symbol>
+	<constant>50</constant>
+	<list/>
+</condition>
 <condition name="Water 5% (S)">
 	<descriptible>
 		<nickname>Water 5% (S)</nickname>
@@ -591,8 +604,9 @@
 		<meta/>
 	</descriptible>
 	<truepart>Air 30% (L)</truepart>
-	<truepart>Water 5% (S)</truepart>
 	<truepart>Sand closeby (10%)</truepart>
+	<truepart>Water 5% (S)</truepart>
+	<truepart>Water 5% (L)</truepart>
 	<truepart>Sand 4.5% (L)</truepart>
 </set>
 <set name="Big fire (30), In Nether">
@@ -700,8 +714,8 @@
 		<icon/>
 		<meta/>
 	</descriptible>
-	<falsepart>Sunlight lower than 5/15</falsepart>
 	<truepart>Air 30% (L)</truepart>
+	<falsepart>Sunlight lower than 5/15</falsepart>
 	<truepart>Highlands (96)</truepart>
 </set>
 <set name="In Aether">
@@ -879,8 +893,8 @@
 	<falsepart>Sunlight Maximum 15/15</falsepart>
 	<truepart>Receive Sunlight</truepart>
 	<truepart>Is Raining</truepart>
-	<truepart>Windows (8)</truepart>
 	<falsepart>Can rain on</falsepart>
+	<truepart>Windows (8)</truepart>
 </set>
 <set name="Rock shelter">
 	<descriptible>
@@ -900,10 +914,11 @@
 		<icon/>
 		<meta/>
 	</descriptible>
-	<truepart>Sunlight lower than 5/15</truepart>
-	<truepart>In Thunderstorm</truepart>
 	<truepart>Air 30% (L)</truepart>
+	<truepart>In Thunderstorm</truepart>
+	<truepart>Sunlight lower than 5/15</truepart>
 	<truepart>Receive Sunlight</truepart>
+	<truepart>Is Raining</truepart>
 </set>
 <set name="Thunderstorm outdoor">
 	<descriptible>
@@ -912,9 +927,10 @@
 		<icon/>
 		<meta/>
 	</descriptible>
-	<falsepart>Sunlight lower than 5/15</falsepart>
-	<truepart>In Thunderstorm</truepart>
 	<truepart>Air 30% (L)</truepart>
+	<truepart>In Thunderstorm</truepart>
+	<falsepart>Sunlight lower than 5/15</falsepart>
+	<truepart>Is Raining</truepart>
 </set>
 <set name="Time (0 - 6000)">
 	<descriptible>
@@ -952,8 +968,8 @@
 		<icon/>
 		<meta/>
 	</descriptible>
-	<truepart>Time (0 - 22000)</truepart>
 	<falsepart>Time (0 - 14000)</falsepart>
+	<truepart>Time (0 - 22000)</truepart>
 </set>
 <set name="Time (22000 - 23999)">
 	<descriptible>
@@ -971,8 +987,8 @@
 		<icon/>
 		<meta/>
 	</descriptible>
-	<truepart>Time (0 - 12000)</truepart>
 	<falsepart>Time (0 - 6000)</falsepart>
+	<truepart>Time (0 - 12000)</truepart>
 </set>
 <set name="Wet cave">
 	<descriptible>

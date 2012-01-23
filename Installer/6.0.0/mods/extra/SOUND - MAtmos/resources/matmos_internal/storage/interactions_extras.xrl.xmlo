@@ -127,7 +127,7 @@
 		<delaymin>0.7</delaymin>
 		<delaymax>0.8</delaymax>
 		<delaystart>0.0</delaystart>
-		<volmod>1.0</volmod>
+		<volmod>0.5</volmod>
 		<pitchmod>1.0</pitchmod>
 	</eventtimed>
 </machine>
@@ -144,7 +144,7 @@
 		<delaymin>0.6</delaymin>
 		<delaymax>0.7</delaymax>
 		<delaystart>0.0</delaystart>
-		<volmod>1.0</volmod>
+		<volmod>0.5</volmod>
 		<pitchmod>1.0</pitchmod>
 	</eventtimed>
 </machine>
