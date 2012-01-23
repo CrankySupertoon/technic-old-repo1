@@ -1,0 +1,6 @@
+version 3.0.1<br>
+by simo_415<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/94310-181-single-player-commands-v2121-mcp-pack-updated/">HERE</a>.<br>
+<i>Like this mod? Then <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=UVYVMDVBJTYHU&lc=AU&item_name=Single%20Player%20Commands&item_number=SPC415&cy_code=AUD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted">DONATE</a> to show your support to the author!<br><br></i>
+
+Adds commands to singleplayer similar to what multiplayer operators have.  For all you cheaters.

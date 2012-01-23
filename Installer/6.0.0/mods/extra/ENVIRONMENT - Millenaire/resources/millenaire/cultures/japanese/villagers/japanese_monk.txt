@@ -1,0 +1,14 @@
+native_name=Souryo 
+gender=male
+familyNameList=low_caste_family_names
+firstNameList=men_names
+tag=religious
+baseHeight=0.9
+
+texture=/mob/japanese/japanese_Monk0.png
+
+goal=gorest
+goal=gopray
+
+baseAttackStrength=3
+tag=helpInAttacks

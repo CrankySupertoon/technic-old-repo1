@@ -1,0 +1,77 @@
+"Code name
+-DO NOT EDIT THIS FIELD-",Actual name,Description
+
+item.spearWood.*.1,Wooden Spear,"This wooden spear does less damage than a sword, but can be thrown by right-clicking.   It will not disappear after hitting a mob and can be retreived."
+item.spearStone.*.1,Stone Spear,"Stone spears do less damage than a stone sword,  but have a slightly higher knockback and can be thrown by right-clicking.   It will not disappear after impact and can be retreived."
+item.spearSteel.*.1,Iron Spear,"Iron spears do less damage than iron swords, but have a slightly higher knockback and can be thrown by right-clicking.   It will not disappear after hitting a mob and can be retreived."
+item.spearGold.*.1,Golden Spear,"Gold spears do less damage than golden swords, but have a slightly higher knockback and can be thrown by right-clicking.   It will not disappear after hitting a mob and can be retreived.  All golden weapons have signifigantly higher knockback than other materials but break quite quickly."
+item.spearDiamond.*.1,Diamond Spear,"The strongest spear, this weapon does less damage than a diamond sword, but has a slightly higher knockback and can be thrown by right-clicking.   It will not disappear after hitting a mob and can be retreived."
+item.flailWood.*.1,Wooden Flail,"The weakest flail.  Does a lot of damage and the ball can be thrown by right clicking.  It will follow where you go and right clicking it again will swing it.
+If the ball is set on fire (such as by lava) and you hit a mob, it will be set on fire too!"
+item.flailStone.*.1,Stone Flail,"A stronger flail.  Does a lot of damage and the ball can be thrown by right clicking.  It will follow where you go and right clicking it again will swing it.
+If the ball is set on fire (such as by lava) and you hit a mob, it will be set on fire too!"
+item.flailSteel.*.1,Iron Flail,"The middle tier flail, it does a lot of damage and the ball can be thrown by right clicking.  It will follow where you go and right clicking it again will swing it.
+If the ball is set on fire (such as by lava) and you hit a mob, it will be set on fire too!"
+item.flailGold.*.1,Golden Flail,"A very strong flail, it does a lot of damage and the ball can be thrown by right clicking.  It will follow where you go and right clicking it again will swing it.
+If the ball is set on fire (such as by lava) and you hit a mob, it will be set on fire too!    All golden weapons have signifigantly higher knockback than other materials but break quite quickly."
+item.flailDiamond.*.1,Diamond Flail,"The strongest flail, this does a ton of damage and the ball can be thrown by right clicking.  It will follow where you go and right clicking it again will swing it.
+If the ball is set on fire (such as by lava) and you hit a mob, it will be set on fire too!"
+item.battleaxeWood.*.1,Wooden Battleaxe,"An axe made of wood, this weapon does alot of damage and has a huge knockback.  Also does more damage to blocks than most weapons, especially wood blocks.
+"
+item.battleaxeStone.*.1,Stone Battleaxe,"An upgraded battleaxe, this weapon does alot of damage and has a huge knockback.  Also does more damage to blocks than most weapons, especially wood blocks.  It is also quite manly."
+item.battleaxeIron.*.1,Iron Battleaxe,"A very strong battleaxe, this weapon does alot of damage and has a huge knockback.  Also does more damage to blocks than most weapons, especially wood blocks."
+item.battleaxeGold.*.1,Golden Battleaxe,"An upper tier battleaxe, this weapon does alot of damage and has a huge knockback.  Also does more damage to blocks than most weapons, especially wood blocks.   All golden weapons have signifigantly higher knockback than other materials but break quite quickly."
+item.battleaxeDiamond.*.1,Diamond Battleaxe,"The strongest battleaxe, this weapon does massive damage and has a huge knockback.  Also does more damage to blocks than most weapons, especially wood blocks."
+item.warhammerWood.*.1,Wooden Warhammer,"This wooden hammer does as much damage and has the same knockback as the wooden halberd, but also does huge damage to blocks.  Hold right mouse button to charge a super-SMASH!   If you hold it long enough and then release, the shockwave will be strong enough to damage any creature around you."
+item.warhammerStone.*.1,Stone Warhammer,"A stronger hammer, this does the same damage and has as much knockback as the stone halberd, but also does huge damage to blocks.  Hold right mouse button to charge a super-SMASH!   If you hold it long enough and then release, the shockwave will be strong enough to damage any creature around you."
+item.warhammerIron.*.1,Iron Warhammer,"A very strong weapon, this does the same damage and has as much knockback as an iron halberd, but also does huge damage to blocks.  Hold right mouse button to charge a super-SMASH!   If you hold it long enough and then release, the shockwave will be strong enough to damage any creature around you."
+item.warhammerGold.*.1,Golden Warhammer,"A strong and slightly effeminate weapon, this does as much damage and has the same knockback as a golden halberd, but also does huge damage to blocks.  Hold right mouse button to charge a super-SMASH!   If you hold it long enough and then release, the shockwave will be strong enough to damage any creature around you.   All golden weapons have signifigantly higher knockback than other materials but break quite quickly."
+item.warhammerDiamond.*.1,Diamond Warhammer,"The strongest warhammer, this does as much damage and has the same knockback as the diamond halberd, but also does huge damage to blocks.  Hold right mouse button to charge a super-SMASH!   If you hold it long enough and then release, the shockwave will be strong enough to damage any creature around you."
+item.knifeWood.*.1,Wooden Knife,"This easily-made weapon does less damage than a wooden sword and has half the durability, but is crafted with very few recources and can be made without a workbench.  It cuts through cobwebs very easily, and can be thrown by right-clicking (does not disappear on impact.)"
+item.knifeStone.*.1,Stone Knife,"This stone knife does less damage than a stone sword and has half the durability, but is crafted with very few recources and can be made without a workbench.  It cuts through cobwebs very easily, and can be thrown by right-clicking (does not disappear on impact.)  Also good for sacrificial rites."
+item.knifeSteel.*.1,Iron Knife,"This steel dagger does less damage than an Iron sword and has half the durability, but is crafted with very few recources and can be made without a workbench.  It cuts through cobwebs very easily, and can be thrown by right-clicking (does not disappear on impact.)  Can also be crafted onto a musket to create a handy bayonet."
+item.knifeGold.*.1,Golden Knife,"This shining dagger does less damage than a golden sword and has half the durability, but is crafted with very few recources and can be made without a workbench.  It cuts through cobwebs very easily, and can be thrown by right-clicking (does not disappear on impact.)   All golden weapons have signifigantly higher knockback than other materials but break quite quickly."
+item.knifeDiamond.*.1,Diamond Knife,"The most powerful dagger, this weapon does less damage than a diamond sword and has half the durability, but is crafted with very few recources and can be made without a workbench.  It cuts through cobwebs very easily, and can be thrown by right-clicking (does not disappear on impact.)"
+item.halberdWood.*.1,Wooden Halberd,"The weakest halberd, it still does more damage than a wooden sword and has a lot of knockback.  Right click to switch from slashing to stabbing mode, which does more damage, but decreases the knockback substantially."
+item.halberdStone.*.1,Stone Halberd,"The stone halberd does more damage than a stone sword and has a lot of knockback.  Right click to switch from slashing to stabbing mode, which does more damage, but decreases the knockback substantially."
+item.halberdSteel.*.1,Iron Halberd,"The iron halberd does more damage than an iron sword and has a lot of knockback.  Right click to switch from slashing to stabbing mode, which does more damage, but decreases the knockback substantially."
+item.halberdGold.*.1,Golden Halberd,"The golden halberd does more damage than a golden sword and has a lot of knockback.  Right click to switch from slashing to stabbing mode, which does more damage, but decreases the knockback substantially.  All golden weapons have signifigantly higher knockback than other materials but break quite quickly."
+item.halberdDiamond.*.1,Diamond Halberd,"The strongest halberd, this weapon does more damage than a diamond sword and has a lot of knockback.  Right click to switch from slashing to stabbing mode, which does more damage, but decreases the knockback substantially."
+item.crossbow.*.1,Crossbow,"This weapon shoots further than a standard bow and quite accurately, but must be reloaded between shots.  Holding right mouse reloads it, and once loaded, increases shot accuracy similar to a bow.  Fires specialized crossbow bolts as ammunition."
+item.bolt.*.1,Crossbow Bolt,These bolts are used as ammunition for the crossbow.
+item.blowgun.*.1,Blowgun,"Fires a very fast and accurate dart that will poison whatever it hits.  The poison will cause damage over time, but won't actually kill - though usually the creature will have very little health remaining.  The shot itself, however, doesn't do much damage at all.  Must be reloaded with poison darts between shots."
+item.dart.*.1,Poisonous Dart,A poisoned dart used as ammunition for the blowgun.  Careful not to prick yourself!
+item.javelin.*.1,Javelin,"These short spears can thrown with the right mouse button.  They do more damage than arrows, but don't go as far and are quite inaccurate.  You don't need feathers to craft them, or a bow to shoot them, making them quite convenient as a starting weapon.  If you throw the javelin downwards while falling down as well, it will critically hit for massive damage."
+item.musket_iron_part.*.1,Musket Barrel,"This is the main element used in crafting a high-power musket, this must be combined with a stock to be of any use."
+item.gunStock.*.1,Stock,"The wooden chassis of a firearm, this must be combined with ether a musket or blunderbuss barrel to be of any use."
+item.musket.*.1,Musket,"This extremely powerful weapon is very effective against almost any creature you may find, but has a long reload time.  Fire by holding and releasing right click similar to a bow, and then press and hold right click again to reload.  You can attach an iron knife to it to make a bayonet, which makes the musket a very strong melee weapon as well. You can only shoot a limited amount of musket rounds, the ammunition it uses,  before the musket will break.  "
+item.bullet.*.1,Musket Round,These steel balls are used as ammunition for the musket.
+item.bayonet.*.1,Musket with Bayonet,"This musket has a powerful melee attack as well as the normal use of firing very powerful musket rounds.   Fire by holding right click and releasing similar to a bow, and then press and hold right mouse again until you hear the ""click"" of the flintlock being set to be able to fire again.  You can only fire it a limited number of times before it breaks.  Uses musket rounds as ammunition."
+item.blunderbuss.*.1,Blunderbuss,"This primitive shotgun is very effective in close quarters.  When fired, it pelts any mobs in a wide cone with doombringing pellets.  The closer you are, the more damage it does.   It reloads like the musket, but quicker.  Uses blunderbuss shot as ammunition."
+item.blunder_iron_part.*.1,Blunderbuss Barrel,"This is the main element used in crafting a short-range, shotgun style blunderbuss.  Must be combined with a stock to be of any use."
+item.blunderShot.*.1,Blunderbuss Shot,These pellets are used as ammunition for the blunderbuss.
+item.cannon.*.1,Cannon,"This portable weapon of mass destruction can be placed wherever you want and mounted by right clicking. When mounted, looking around will aim the cannon wherever you like. To load the cannon, make sure you have gunpowder in your inventory, and right click on the cannon with a cannonball. Wait a few seconds, and then hit space (or the desired jump button) to fire!!   Uses cannonballs as ammunition."
+item.cannonBall.*.1,Cannon Ball,"This large ball is used as ammunition for the cannon, and is quite heavy!"
+item.dynamite.*.1,Dynamite,"A more portable version of Minecraft TNT,  hold it and right click to light the fuse.  You then have a few seconds to right click again to throw it and make a big hole, but don't worry - it will simply extinguish if you can't find a likely target.  The explosion power is half that of normal TNT.
+"
+item.fireRod.*.1,Fire Rod,Striking a creature with this burning ember will set him on fire for a short time.  The fire rod has one use and can't stack.
+item.dummy.*.1,Training Dummy,"The perfect practice target or imaginary friend, place the dummy by right clicking.  It can be retreived the same way, if you are not holding a weapon or a sword.   It will never break no matter how much damage you do it, and it will never call you names or betray you!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,Credit:
+,,"Nukularpower (codes, names, descriptions!)"

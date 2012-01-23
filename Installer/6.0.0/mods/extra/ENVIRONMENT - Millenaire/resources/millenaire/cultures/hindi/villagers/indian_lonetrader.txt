@@ -1,0 +1,16 @@
+native_name=Vyapari
+gender=male
+familyNameList=low_caste_family_names
+firstNameList=men_names
+tag=seller
+
+texture=/mob/indian/ML_merchant0.png
+texture=/mob/indian/ML_merchant1.png
+texture=/mob/indian/ML_merchant2.png
+
+goal=gorest
+goal=gopray
+
+baseAttackStrength=5
+tag=helpInAttacks
+experiencegiven=5

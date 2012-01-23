@@ -1,0 +1,9195 @@
+Puraalekhagar
+archives
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|76
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|511
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|50
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|42
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|399
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|86
+|}
+
+
+Sena ka Bhati
+armyforge
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|93
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|47
+|}
+
+
+Inta bhatta
+brickkiln
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|147
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|24
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|30
+|}
+
+
+Mukhiya ka Ghar
+chiefhouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|540
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|176
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|160
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|9
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|24
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|216
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|262
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|48
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|24
+|}
+
+
+Bhati
+forge
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|49
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|34
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|49
+|}
+
+
+Qila
+fort
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|266
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|62
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|380
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|36
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|191
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|18
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|47
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|222
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|26
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|812
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|36
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|74
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|233
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|628
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|709
+|}
+
+
+Upgrade 8
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|112
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|154
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|27
+|}
+
+
+Upgrade 9
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|156
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|15
+|}
+
+
+Qila ka Bhati
+fort_A_forge
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|33
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|30
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|12
+|}
+
+
+Sena-Nivaas
+fort_A_soldierhouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|38
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|21
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|16
+|}
+
+
+Kunja
+grove
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|35
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|34
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|68
+|}
+
+
+Chota Saraay
+guesthouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|130
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|58
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|82
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|55
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Saraay
+inn
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|243
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|85
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|143
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|143
+|}
+
+
+Bhare Ghar
+largepeasanthouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|78
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|56
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|33
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|32
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|76
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|87
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Dusra Ghar
+largepeasanthouse_A_secondary
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|133
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|58
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|77
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|44
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|99
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Lakarhara ka Ghar
+lumbermanhouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|72
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|35
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|129
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|7
+|}
+
+
+Dhaan
+paddy
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|39
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|38
+|}
+
+
+Mahal
+palace
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|406
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|89
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|74
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|495
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|75
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|662
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|18
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|30
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|108
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|650
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|13
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|368
+|-
+| style="text-align: center; "|Statue Hindoue
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|882
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|14
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|150
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|686
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|14
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|12
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|304
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|5
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|25
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|84
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|530
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|45
+|}
+
+
+Upgrade 8
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|48
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|120
+|}
+
+
+Pandit ka Ghar
+pandithouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|238
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|75
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|87
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|192
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|64
+|}
+
+
+Kisaan ka Ghar
+peasanthouse
+
+==Requirements==
+===Variation A===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|52
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|38
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|49
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|39
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|69
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|75
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|47
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|19
+|}
+
+
+===Variation B===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|54
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|35
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|33
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|17
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|33
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|58
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|20
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|68
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|32
+|}
+
+
+===Variation C===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|61
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|39
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|54
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|32
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|43
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|15
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|105
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|63
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Bangla
+playerestate
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|1797
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|404
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|56
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|167
+|}
+
+
+Visaala saajisa
+playerhugefield
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|136
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Bari saajisa
+playerlargefield
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|80
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Mahal
+playerpalace
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|406
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|89
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|74
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|495
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|75
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|662
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|18
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|30
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|108
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|650
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|13
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|368
+|-
+| style="text-align: center; "|Statue Hindoue
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|882
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|14
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|150
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|686
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|14
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|12
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|304
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|5
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|25
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|84
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|530
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|45
+|}
+
+
+Upgrade 8
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|48
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|120
+|}
+
+
+Choti saajisa
+playersmallfield
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|45
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Chota ghar
+playersmallhouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|223
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|31
+|}
+
+
+Sikaar
+quarry
+
+==Requirements==
+===Variation A===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|85
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|11
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|13
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|85
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|30
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+===Variation B===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|85
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|11
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|13
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|85
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|30
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Muurtikaar ka Ghar
+scultorhouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|129
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|85
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|69
+|}
+
+
+Sainik ka Ghar
+soldierhouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|26
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|113
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|37
+|}
+
+
+Masaalaa udyaana
+spicegarden
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|20
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|20
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|40
+|}
+
+
+Gannaa baagaana
+sugarplantation
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|19
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|18
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|36
+|}
+
+
+Gaanv ka Mandir
+villagetemple
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Statue Hindoue
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|312
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|386
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|292
+|-
+| style="text-align: center; "|Statue Hindoue
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Tandurust
+well
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|252
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|84
+|}
+
+
+Adivasi ka Ghar
+adivasifarm
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|77
+|}
+
+
+Saray
+deserttradeoutpost
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|295
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|120
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|21
+|}
+
+
+Purana Qila
+ruinedfort
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|193
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|224
+|-
+| style="text-align: center; "|Sand
+| style="text-align: center; "|43
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|16
+|}
+
+
+Sadhu ke Peer
+sadhutree
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood
+| style="text-align: center; "|566
+|-
+| style="text-align: center; "|Leaves
+| style="text-align: center; "|1517
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Shoko
+japanesearchive
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|62
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|122
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|406
+|}
+
+
+Kurafutohausu
+japanesecrafter
+
+==Requirements==
+===Variation A===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|98
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|17
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|45
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|17
+|}
+
+
+===Variation B===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|88
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|14
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|29
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|19
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|8
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|117
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Pressure Plate
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|48
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|24
+|}
+
+
+Komuji Nojo
+japanesefarm
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|57
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|21
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|13
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|54
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|32
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|25
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|217
+|}
+
+
+Ranchi
+japanesefarmbig
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|160
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|117
+|-
+| style="text-align: center; "|Grass
+| style="text-align: center; "|93
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|35
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|49
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|20
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|58
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|23
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|82
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|180
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|30
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|36
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|10
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|69
+|}
+
+
+Ike
+japanesefishery
+
+==Requirements==
+===Variation A===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|5
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|142
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|19
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|114
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|38
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|450
+|}
+
+
+===Variation B===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|5
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|142
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|19
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|114
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|38
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|450
+|}
+
+
+===Variation C===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|5
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|142
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|19
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|114
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|38
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|450
+|}
+
+
+Gizo Suru
+japaneseforge
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Gravel
+| style="text-align: center; "|90
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|55
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|15
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|149
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|30
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|50
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|109
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|171
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|918
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|48
+|}
+
+
+Shi
+japanesefort
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|874
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|204
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|113
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|138
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|8
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|124
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|8
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|741
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|296
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|320
+|}
+
+
+Upgrade 8
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|304
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|410
+|}
+
+
+Tsuri no kodachi
+japanesegrove
+
+==Requirements==
+===Variation A===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|9
+|}
+
+
+===Variation B===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|10
+|}
+
+
+===Variation C===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|9
+|}
+
+
+Shanai
+japanesehouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|67
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|251
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|116
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Gravel
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|207
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|33
+|}
+
+
+Kyabin
+japanesehut
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|70
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|72
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|42
+|}
+
+
+Daidokoro
+japanesekitchen
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|32
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|68
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|12
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|34
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|13
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|36
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|11
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|20
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Kikori Shanai
+japaneselmh
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|80
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|9
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|22
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|16
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|120
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|44
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|11
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|10
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|24
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|480
+|}
+
+
+Kanshi-to
+japaneselookout
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|55
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|13
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|20
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|30
+|}
+
+
+Suiden
+japanesepaddy
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|16
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|83
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|55
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|26
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|98
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|138
+|}
+
+
+Tawa
+japanesepagoda
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|127
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|324
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|273
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|760
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|592
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|916
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|188
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|73
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|53
+|}
+
+
+Kyuden
+japanesepalace
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|493
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|408
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|450
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|7
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Sapling
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|98
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|400
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|180
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|412
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|85
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|93
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|63
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|256
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|6
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|54
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|70
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|118
+|}
+
+
+Fama Shanai
+japanesepeasanth
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|85
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|10
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|21
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|129
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|58
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|7
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|12
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|20
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|384
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|7
+|}
+
+
+Kyuden
+japaneseplayerpalace
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|493
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|408
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|450
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|7
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Sapling
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|98
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|400
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|180
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|412
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|85
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|93
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|63
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|256
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|6
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|54
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|70
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|118
+|}
+
+
+Ko Sukeru Purotto
+japaneseplot1
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|13
+|}
+
+
+E no Toreningu Purotto
+japaneseplot2
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|18
+|}
+
+
+Okibo NA Purotto
+japaneseplot3
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|27
+|}
+
+
+Saiseki-jo
+japanesequarry
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|83
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|13
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|25
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|135
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|13
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|7
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|22
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|13
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|528
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|10
+|}
+
+
+Bushi Shanai
+japanesesamuraih
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|216
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|14
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|39
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|216
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|32
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|11
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|900
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|42
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|224
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|12
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|20
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Jinja
+japaneseshintoshrine
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|30
+|}
+
+
+Ike
+japanesezen
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Sand
+| style="text-align: center; "|153
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|51
+|}
+
+
+K'uhul Jalab
+mayanacropolis
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood
+| style="text-align: center; "|184
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|1624
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|40
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|162
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|14
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|440
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|58
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|296
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|17
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|378
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|220
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|160
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|58
+|}
+
+
+Upgrade 8
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|120
+|}
+
+
+Upgrade 9
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|48
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|48
+|-
+| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|4
+|}
+
+
+Upgrade 10
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|30
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|116
+|}
+
+
+Upgrade 11
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|48
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|712
+|}
+
+
+K'eyem
+mayanalter
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|482
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|107
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|107
+|}
+
+
+Ah Tz'on Si' Took
+mayanarmyforge
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|52
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|67
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|140
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|116
+|}
+
+
+Chak
+mayanbakery
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|60
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|217
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|65
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|178
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|131
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|28
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|80
+|}
+
+
+Jalab
+mayanballcourt
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|930
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|944
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+K'in Pak
+mayancalendar
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|32
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|123
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Ch'en
+mayancave
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|504
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|23
+|}
+
+
+Pwes
+mayancistern
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|5
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|124
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|48
+|}
+
+
+Maize Makan
+mayancornfarm
+
+==Requirements==
+===Variation A===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|32
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|96
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|66
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|168
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|46
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|180
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|183
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|180
+|}
+
+
+===Variation B===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|47
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|232
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|128
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|284
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|206
+|}
+
+
+===Variation C===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|34
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|34
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|180
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Kob Took
+mayancrafter
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|57
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|25
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|165
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|134
+|}
+
+
+K'aax
+mayangrove
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|34
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|34
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|68
+|}
+
+
+Chanan Nah
+mayanguard
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|44
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|24
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|48
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|26
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|82
+|}
+
+
+Maya Otoch
+mayanhouse
+
+==Requirements==
+===Variation A===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|54
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|27
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|158
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|118
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|15
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|30
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+===Variation B===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|48
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|34
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|142
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|19
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|65
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|89
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|16
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|74
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|15
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|23
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|64
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|64
+|}
+
+
+===Variation C===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|68
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|59
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|120
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|132
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|56
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|178
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|200
+|}
+
+
+===Variation D===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|48
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|39
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|212
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|116
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|204
+|}
+
+
+Laak'Noh Nah
+mayaninn
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|473
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|32
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|143
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|96
+|}
+
+
+Yalam Otoch
+mayanlargepeasanthouse2
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|25
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|81
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|46
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|193
+|}
+
+
+Ni'Nah
+mayanlargepeasanthouse2_A_secondary
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|42
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|203
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|34
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|108
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|200
+|}
+
+
+Hach Noh Otoch
+mayanlargepeasanthouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|885
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|16
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|341
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|682
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|215
+|}
+
+
+Hach Noh Nah
+mayanlargepeasanthouse_A_secondary
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|368
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|14
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|245
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|490
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|123
+|}
+
+
+Hu'um-Noh
+mayanlibrary
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|179
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|233
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|89
+|}
+
+
+B'aat Winik Nah
+mayanlumber
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood
+| style="text-align: center; "|40
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|9
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|40
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|84
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|20
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|74
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|32
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|106
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Tunich In-ti'a'al
+mayanmining
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|104
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|77
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|178
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|141
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|144
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|51
+|}
+
+
+Kan Cha'an
+mayanobservatory
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood
+| style="text-align: center; "|84
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|1874
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|45
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|124
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|346
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|156
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|51
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|168
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|294
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|21
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|116
+|}
+
+
+Upgrade 8
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|302
+|}
+
+
+Upgrade 9
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|110
+|}
+
+
+Upgrade 10
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|170
+|}
+
+
+Upgrade 11
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|96
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|48
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Upgrade 12
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|542
+|-
+| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 13
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|36
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|204
+|}
+
+
+Upgrade 14
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|144
+|}
+
+
+Upgrade 15
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|44
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|125
+|}
+
+
+Noh Muul
+mayanplayerestate
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|696
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|2231
+|-
+| style="text-align: center; "|Bookshelf
+| style="text-align: center; "|18
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|57
+|}
+
+
+Noh Kuuch
+mayanplayerhugefield
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|248
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Chumuk Kuuch
+mayanplayerlargefield
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|128
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Chak Muul
+mayanplayerlargehouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|1906
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|188
+|-
+| style="text-align: center; "|Bookshelf
+| style="text-align: center; "|22
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|40
+|}
+
+
+Muul
+mayanplayerpyramid
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood
+| style="text-align: center; "|42
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|152
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|47
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|358
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|152
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|201
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|896
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|48
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|448
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|39
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|496
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|280
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|630
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 8
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|508
+|}
+
+
+Upgrade 9
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|100
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|180
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 10
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|70
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|113
+|-
+| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|6
+|}
+
+
+Upgrade 11
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|120
+|}
+
+
+Upgrade 12
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|220
+|}
+
+
+Upgrade 13
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|55
+|}
+
+
+Mehen Kuuch
+mayanplayersmallfield
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|64
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Ix La' Nah
+mayanplayersmallhouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|143
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|173
+|-
+| style="text-align: center; "|Bookshelf
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|24
+|}
+
+
+Muul
+mayanpyramid
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood
+| style="text-align: center; "|42
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|152
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|47
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|358
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|152
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|201
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|896
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|48
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|448
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|39
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|496
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|280
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|630
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 8
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|508
+|}
+
+
+Upgrade 9
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|100
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|180
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 10
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|70
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|113
+|-
+| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|6
+|}
+
+
+Upgrade 11
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|120
+|}
+
+
+Upgrade 12
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|220
+|}
+
+
+Upgrade 13
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|55
+|}
+
+
+Uxul Otoch
+mayansculptorhouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|5
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|82
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|112
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|204
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|112
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|280
+|}
+
+
+Ah Waay Su'uk
+mayanshamangrounds
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|46
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|9
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|22
+|}
+
+
+Ah Kax Makan
+mayansheepchickenfarm
+
+==Requirements==
+===Variation A===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|65
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|359
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|114
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|84
+|}
+
+
+===Variation B===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|122
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|496
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|77
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|137
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|159
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|9
+|}
+
+
+K'u-nah
+mayantemple
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|58
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|1032
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|78
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|62
+|-
+| style="text-align: center; "|Sandstone
+| style="text-align: center; "|8
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|608
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|162
+|-
+| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|4
+|}
+
+
+Cha'an Ka'nal
+mayanwatchtower
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|369
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|15
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|176
+|}
+
+
+Ch'en
+lonemayancave
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|541
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|20
+|}
+
+
+Sa'at Maya Maize Makan
+lonemayancornfarm
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|392
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|14
+|-
+| style="text-align: center; "|Grass
+| style="text-align: center; "|59
+|}
+
+
+Maya Makan
+lonemayanfarm
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|640
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|93
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|69
+|}
+
+
+Sa'at Tunich In-ti'a'al
+lonemayanmining
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|323
+|-
+| style="text-align: center; "|Coal Ore
+| style="text-align: center; "|26
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|58
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|10
+|-
+| style="text-align: center; "|Iron Ore
+| style="text-align: center; "|8
+|}
+
+
+Sa'at Maya Otoch
+lonemayanruin
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood
+| style="text-align: center; "|203
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|409
+|-
+| style="text-align: center; "|Leaves
+| style="text-align: center; "|488
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Grass
+| style="text-align: center; "|99
+|}
+
+
+Ah Waay Su'uk
+lonemayanshaman
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|102
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|414
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|71
+|-
+| style="text-align: center; "|Rose
+| style="text-align: center; "|7
+|-
+| style="text-align: center; "|Sapling
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Flower
+| style="text-align: center; "|9
+|-
+| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|12
+|}
+
+
+K'as Otoch
+mayanbandithome
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|993
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|142
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|13
+|}
+
+
+K'as Koloh-che'
+mayanbandits
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|131
+|-
+| style="text-align: center; "|Jack 'o' Lantern
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|114
+|}
+
+
+Sa'at Muul
+mayanruinedpyramid
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|953
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|200
+|-
+| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|12
+|}
+
+
+Abbaye
+abbey
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|288
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|49
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|192
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|5
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|86
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|834
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|15
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|296
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|246
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|448
+|}
+
+
+Upgrade 8
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|172
+|}
+
+
+Upgrade 9
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|799
+|}
+
+
+Upgrade 10
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 11
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|148
+|}
+
+
+Archives du village
+archives
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|806
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|12
+|-
+| style="text-align: center; "|Bookshelf
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|85
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|676
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Bookshelf
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|99
+|}
+
+
+Armurerie
+armoury
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|436
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|9
+|-
+| style="text-align: center; "|Iron Ingot
+| style="text-align: center; "|18
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|92
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|30
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|35
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|4
+|}
+
+
+Boulangerie
+bakery
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|142
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|110
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|5
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|40
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|24
+|}
+
+
+Maison du charpentier
+carpenterhouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|126
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|60
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|68
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|27
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Elevage Bovin
+cattlefarm
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|399
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|39
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|30
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|137
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|54
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|6
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|193
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|187
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|69
+|}
+
+
+Chapelle
+church
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|14
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|35
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|136
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|564
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|39
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Ferme
+farm
+
+==Requirements==
+===Variation A===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|83
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|23
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|54
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|45
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|12
+|}
+
+
+===Variation B===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|78
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|23
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|54
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|36
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|21
+|}
+
+
+Forge
+forge
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|620
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|5
+|-
+| style="text-align: center; "|Iron Ingot
+| style="text-align: center; "|18
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|12
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Fort
+fort
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|165
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|135
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|500
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|434
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|143
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|26
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|1278
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|436
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|11
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|162
+|}
+
+
+Upgrade 8
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|162
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|202
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|13
+|}
+
+
+Upgrade 9
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Tapisserie normande
+| style="text-align: center; "|5
+|}
+
+
+Tour de garde
+fort_A_lefttower
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|23
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|10
+|}
+
+
+Tour de garde
+fort_A_righttower
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|23
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|10
+|}
+
+
+Bosquet
+grove
+
+==Requirements==
+===Variation A===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|12
+|}
+
+
+===Variation B===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|13
+|}
+
+
+===Variation C===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|13
+|}
+
+
+Maison du guarde
+guardhouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|422
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|10
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|7
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Relais
+guesthouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|104
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|61
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|5
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|31
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|20
+|}
+
+
+Hall de la Guilde
+guildhouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|258
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|81
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|128
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|64
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|236
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|20
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|76
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|12
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|198
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|9
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|22
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|256
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|274
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|377
+|}
+
+
+Upgrade 8
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|566
+|}
+
+
+Upgrade 9
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Auberge
+inn
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|163
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|66
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|8
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|9
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|153
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|462
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|74
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|54
+|}
+
+
+Hutte de Bûcheron
+lumbermanhut
+
+==Requirements==
+===Variation A===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|62
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|25
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|7
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|54
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|31
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|16
+|}
+
+
+===Variation B===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|78
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|30
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|6
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|42
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|45
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|22
+|}
+
+
+Manoir
+manor
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|399
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|111
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|72
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|137
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|84
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|9
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|104
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|396
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|480
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|528
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Marché
+market
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|14
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|77
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|62
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|5
+|-
+| style="text-align: center; "|Red Wool
+| style="text-align: center; "|11
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|51
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|62
+|-
+| style="text-align: center; "|Blue Wool
+| style="text-align: center; "|7
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|49
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|158
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|26
+|}
+
+
+Elevage Porcin
+pigfarm
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|201
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|54
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|12
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|122
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|104
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|32
+|}
+
+
+Hôtel particulier
+playerestate
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|9
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|3001
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|56
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|30
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|210
+|}
+
+
+Fort
+playerfort
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|165
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|135
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|500
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|434
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|143
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|26
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|1278
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|436
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|11
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|162
+|}
+
+
+Upgrade 8
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|162
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|202
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|13
+|}
+
+
+Très grand terrain
+playerhugefield
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|22
+|}
+
+
+Grand terrain
+playerlargefield
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|15
+|}
+
+
+Maison bourgeoise
+playerlargehouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|50
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|923
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|12
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|49
+|}
+
+
+Petit terrain
+playersmallfield
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|9
+|}
+
+
+Petite maison
+playersmallhouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|66
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|23
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|28
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|71
+|}
+
+
+Presbytère
+presbytery
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|422
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|10
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|7
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|177
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Carrière
+quarry
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|127
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|46
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|161
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|7
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|19
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|135
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|5
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|231
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|3
+|}
+
+
+Elevage Ovin
+sheepchickenfarm
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|164
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|37
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|7
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|54
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|48
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|40
+|}
+
+
+Taverne
+tavern
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|181
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|42
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Iron Ingot
+| style="text-align: center; "|18
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|46
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|37
+|}
+
+
+Tour de guet
+watchtower
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|101
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|256
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|256
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|13
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|1
+|}
+
+
+Fontaine
+fountain
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|12
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|43
+|}
+
+
+Grande Fontaine
+largefountain
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|22
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|79
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|79
+|}
+
+
+Puit
+well
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|156
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|6
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|5
+|}
+
+
+Fort
+forttest
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|165
+|}
+
+
+Tour de l'Alchimiste
+alchemisttower
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|824
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|32
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|21
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|60
+|-
+| style="text-align: center; "|Bookshelf
+| style="text-align: center; "|26
+|-
+| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|126
+|}
+
+
+Anomalie Une
+anomalyone
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Iron Bars
+| style="text-align: center; "|29
+|-
+| style="text-align: center; "|Bedrock
+| style="text-align: center; "|765
+|-
+| style="text-align: center; "|Glowstone
+| style="text-align: center; "|61
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|4
+|}
+
+
+Anomalie Deux
+anomalytwo
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|315
+|-
+| style="text-align: center; "|Iron Bars
+| style="text-align: center; "|68
+|-
+| style="text-align: center; "|Bedrock
+| style="text-align: center; "|4863
+|-
+| style="text-align: center; "|Button
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Lava
+| style="text-align: center; "|34
+|-
+| style="text-align: center; "|Gravel
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Redstone Ore
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Gold Ore
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Iron Ore
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Coal Ore
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Lapis Lazuli Ore
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Redstone Dust
+| style="text-align: center; "|5
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|13
+|-
+| style="text-align: center; "|Diamond Ore
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Glowstone
+| style="text-align: center; "|146
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|2
+|}
+
+
+Repère de bandits
+banditlair
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood
+| style="text-align: center; "|12
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|36
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|103
+|}
+
+
+Abbaye
+loneabbey
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|9
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|450
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|174
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|5
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|365
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|10
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|132
+|}
+
+
+Hutte de Bûcheron
+lonelumbermanhut
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood
+| style="text-align: center; "|59
+|-
+| style="text-align: center; "|Wood
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|29
+|}
+
+
+Hutte de Bûcheron
+lonelumbermantaigahut
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood
+| style="text-align: center; "|96
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|24
+|}
+
+
+Mine
+lonemine
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|31
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|22
+|}
+
+
+Panthéon
+pantheon
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|12519
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|56
+|-
+| style="text-align: center; "|Lapis Lazuli Block
+| style="text-align: center; "|54
+|-
+| style="text-align: center; "|Glass
+| style="text-align: center; "|30
+|-
+| style="text-align: center; "|Block of Gold
+| style="text-align: center; "|142
+|-
+| style="text-align: center; "|Iron Ingot
+| style="text-align: center; "|9180
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|39
+|}
+
+
+Ferme en ruine
+ruinedfarm
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|352
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|83
+|}
+
+

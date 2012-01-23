@@ -1,0 +1,17 @@
+native_name=Kokushi 
+gender=male
+familyNameList=high_caste_family_names
+firstNameList=men_names
+tag=chief
+baseHeight=0.9
+
+texture=/mob/mayan/japanese_Overseer0.png
+
+goal=gorest
+goal=gopray
+
+toolNeeded=steelSword
+
+baseAttackStrength=5
+tag=helpInAttacks
+defaultweapon=woodsword

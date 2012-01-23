@@ -1,0 +1,104 @@
+"Code name
+-DO NOT EDIT THIS FIELD-",Actual name,Description
+
+item.philStone.*.1,Philosopher's Stone,Allows transmutation recipes plus some extra features included.
+item.darkMatter.*.1,Dark Matter,"Dark matter is a dangerious material. Stick it in a collector and it will gather energy, eventually becoming Red Matter."
+item.redMatter.*.1,Red Matter,"Red Matter is produced by charging a piece of Dark Matter in an Energy Collector (Using an Antimatter Relay to boost the process is a wise choice). It is used in the creation of the best tools in the mod, Red Matter tools. It is not considered as fuel, so if you put it in a Relay it will yield 150% of its EMC."
+item.baseRing.*.1,Iron Band,The iron band is the base component alchemical rings.
+item.darkAxe.*.1,Dark Matter Axe,Dark Matter Axe. The second most powerful axe! Infinite Durability!
+item.darkHoe.*.1,Dark Matter Hoe,Dark Matter Hoe. Infinite Durability!
+item.darkSword.*.1,Dark Matter Sword,Dark Matter Sword. The second most powerful sword! Infinite Durability!
+item.darkPickaxe.*.1,Dark Matter Pickaxe,"Dark Matter Pickaxe. The second most powerful pickaxe, can mine everything and Infinite Durability!"
+item.darkSpade.*.1,Dark Matter Shovel,Dark Matter Shovel. The second most powerful shovel! Infinite Durability!
+item.darkShears.*.1,Dark Matter Shears,"Has an infinite durability and when shearing a sheep by left-clicking, drops the wool on top of the player's head. 
+Press v to charge, which shears leaves and drops leaf blocks. 
+It will cause a sheep to drop 8 wool, compared to a usual 3
+It can also sometimes clone the sheep allowing an infinite wool supply"
+item.darkHammer.*.1,Dark Matter Hammer,"When forged, the Dark Matter Hammer can destroy stone and ore faster than a diamond pick axe and will never break.
+When you charge it with V, the hammer can go up to three different levels.
+By right clicking it when it's charged, the hammer destroys all rock within a certain area,
+leaving only dirt, sand, gravel, clay, water, and lava."
+item.darkMatterHelmet.*.1,Dark Matter Helmet,"The 2nd most powerful armor, only beaten by Red Matter Armor. When all of the armor sets are used you're pretty much indestructible."
+item.darkMatterArmor.*.1,Dark Matter Chestplate,"The 2nd most powerful armor, only beaten by Red Matter Armor. When all of the armor sets are used you're pretty much indestructible."
+item.darkMatterGreaves.*.1,Dark Matter Leggings,"The 2nd most powerful armor, only beaten by Red Matter Armor. When all of the armor sets are used you're pretty much indestructible."
+item.darkMatterBoots.*.1,Dark Matter Boots,"The 2nd most powerful armor, only beaten by Red Matter Armor. When all of the armor sets are used you're pretty much indestructible."
+item.darkMatterHelmetP.*.1,Aqueous Helmet,"Red Matter Armor, with the bonus of granting the ability to breath under water."
+item.darkMatterArmorP.*.1,Volcanic Armor,"Red Matter Armor, with the bonus of granting immunity to Lava and Fire."
+item.darkMatterGreavesP.*.1,Weightless Greaves,"Red Matter Armor, with the bonus of granting - "
+item.darkMatterBootsP.*.1,Gale Boots,"Red Matter Armor, with the bonus of granting the ability to fly, much like the Rending Gale, but without cost."
+item.redAxe.*.1,Red matter Axe,Red Matter Axe. The most powerful axe! Infinite Durability!
+item.redHoe.*.1,Red matter Hoe,Red Matter Hoe. Infinite Durability!
+item.redSword.*.1,Red matter Sword,Red Matter Sword. The most powerful sword! Infinite Durability!
+item.redPickaxe.*.1,Red matter Pickaxe,"Red Matter Pickaxe. The most powerful pickaxe, can mine everything and Infinite Durability!"
+item.redSpade.*.1,Red matter Shovel,Red Matter Shovel. The most powerful shovel! Infinite Durability!
+item.redShears.*.1,Red Matter Shears,"As an addition to the DM shears these new shears have an extra charge level.
+Allows them to 'shear' a massive amount of leaves or wool."
+item.redHammer.*.1,Red Matter Hammer,"When forged, the Red Matter Hammer can destroy stone and ore faster than a diamond pick axe and will never break.
+When you charge it with V, the hammer can go up to four different levels.
+By right clicking it when it's charged, the hammer destroys all rock within a certain area,
+leaving only dirt, sand, gravel, clay, water, and lava."
+item.redMatterHelmet.*.1,Red matter Helmet,The most powerful armor. When all of the armor sets are used you're pretty much indestrutible.
+item.redMatterArmor.*.1,Red matter Chestplate,The most powerful armor. When all of the armor sets are used you're pretty much indestrutible.
+item.redMatterGreaves.*.1,Red matter Leggings,The most powerful armor. When all of the armor sets are used you're pretty much indestrutible.
+item.redMatterBoots.*.1,Red matter Boots,The most powerful armor. When all of the armor sets are used you're pretty much indestrutible.
+item.redMatterHelmetP.*.1,Abyss Helmet,"Red Matter Armor, with the bonus of granting the ability to breath under water."
+item.redMatterArmorP.*.1,Infernal Armor,"Red Matter Armor, with the bonus of granting immunity to Lava and Fire."
+item.redMatterGreavesP.*.1,Gravity Greaves,"Red Matter Armor, with the bonus of granting - "
+item.redMatterBootsP.*.1,Hurricane Boots,"Red Matter Armor, with the bonus of granting the ability to fly, much like the Rending Gale, but without cost."
+item.catalystStone.*.1,Destruction Catalyst,Destruction catalyst is DESTRUCTIVE. Used for mining or all that cool stuff.
+item.hyperkineticLens.*.1,Hyperkinetic lens,Lobs an explosive projectile consuming glowstone dust. The projectile will fizzle if it is too close to the player on impact.
+item.hyperCatalyst.0.1,Catalytic Lens,"Similar to a combination of Destruction Catalyst and Hyperkinetic lens, but more powerful and fuel efficient.
+A max level projectile consumes only 4 glowstone dust. The consumption rates of the Destruction Catalyst's "
+item.soulStone.*.1,Soul Stone,"When it's in your inventory, It heals you over time when active, or can be ""used"" to immediately heal a heart. It will also heal mobs if you strike them with it. Whether healing yourself or a mob, each heart healed costs you 2 redstone (or two Klein Star points)."
+item.evertide.*.1,Evertide amulet,"This item allows you to breathe underwater for an unlimited amount of time. It also allows you to fire a projectile, that upon hitting ground, will create water. If the projectile should hit the sky, it shall bring down rain!"
+item.volcanite.*.1,Volcanite amulet,"This magical item will grant lava immunity so long as it is in your main item bar. It has a right click feature that will consume gunpowder and create lava for every 2 consumed, so beware where you place it. If the projectile hits a mob, they will be dealt damage and lit on fire. If the projectile nears water, it shall evaporate the water. Should the projectile stray to the sky during a rain storm, it will clear the skies."
+item.attractionRing.*.1,Black hole band,"This band draws in items nearby, and is free to use. Placing it within an Alchemical chest will cause the items to be drawn into it."
+item.grimarchRing.*.1,Archangel's smite,"Consumes Arrows, Dirt, Stone, Cobblestone and Flint from your inventory to produce massive quantities of arrows, that also home into nearby mobs. Left clicking will fire a shotgun like barrage, while holding right click will constantly fire a chain or arrows."
+item.ignitionRing.*.1,Ignition ring,"Left clicking with the ring will fire a projectile that bursts a 3x3x3 area into flames, directly. Doing so consumes nothing. Holding it on your hot bar will grant fire and lava immunity. Upon activating the ring, it will consume 1 redstone dust every 10 seconds, and nearby blocks and mobs will ignite and take fire damage.
+"
+item.swiftWolfRing.*.1,Swift Wolf's Rending Gale,"A very powerful item with many possible uses.
+1) Left clicking fires a projectile, which launches mobs for 1 redstone dust, unless it's raining. If it's raining, (and you're outside) the projectile will hit them with lightning for 2 glowstone dust. If it's a thunderstorm, it will hit them with 2 or 3 bolts for the same price. When fired directly into the air, the projectile will transform any rainstorm into a thunderstorm for 1 redstone dust.
+2) When activated with G, you will be able to fly. Pressing jump twice (like in creative mode) begins the flight mode or ends it. Pressing sneak descends. It must remain on your hotbar or you will fall. While on your hotbar, you are immune to fall damage.
+3) When activated with C, a different effect will activate, creating a barrier around the player, in the shape of an 11x11x11 cube. It will repel mobs and enemy projectiles.
+"
+item.harvestRing.*.1,Harvest Goddess Band,"A complex item that has total power over virtualy all things plant-related.
+Simply wearing the ring does a few things.
+1) Tilled fields will stay tilled
+2) Crops, Reeds and Cactus will grow randomly at a fixed rate. Flowers, Mushrooms and Tallgrass will duplicate themselves randomly at a fixed rate."
+item.watchOfTime.*.1,Watch of Flowing Time,"Charging up the watch will cause the movement of the sky to slow down, at no cost.
+Each level of charge gives you approximately 10% longer days/nights, with max level just about doubling the duration of your days.
+"
+item.eternalDensity.*.1,Gem of Eternal Density,"The Gem of Eternal Density is a versatile relic that condenses your inventory using the Equivalent Exchange Formulas common to the Philosopher's Stone. As you mine, depending on what level you have your Gem charged to, it will condense them down to a more compact form. The Gem is always free to use."
+item.repairCharm.*.1,Talisman of Repair,"Having this item will cause it to consume covalence dust to repair items nearing destruction. However, if you put it into an Alchemical chest, it will repair all items for free, at the rate of 1 point per second. "
+item.covalenceDust.0.1,Low covalence dust," Low Covalence Dust can be used to repair wooden and stone tools and leather armor, along with the fishing rod."
+item.covalenceDust.1.1,Medium covalence dust,"Medium Covalence Dust can be used to repair steel and gold tools and armor, along with the flint and steel, and the shears."
+item.covalenceDust.2.1,High covalence dust,High Covalence Dust can be used to repair diamond tools and armor.
+item.kleinStar1.*.1,Klein Star Ein,"Allows the storing of EMC, and can be used with other Alchemy tools instead of their own costs. The first level of the Klein Star holds 800,256 EMC."
+item.kleinStar2.*.1,Klein Star Zwei,"Allows the storing of EMC, and can be used with other Alchemy tools instead of their own costs. The second level of the Klein Star holds 1,700,512 EMC."
+item.kleinStar3.*.1,Klein Star Drei,"Allows the storing of EMC, and can be used with other Alchemy tools instead of their own costs. The third level of the Klein Star holds 3,501,024 EMC."
+item.kleinStar4.*.1,Klein Star Veir,"Allows the storing of EMC, and can be used with other Alchemy tools instead of their own costs. The fourth level of the Klein Star holds 7,102,048 EMC."
+item.kleinStar5.*.1,Klein Star Sphere,"Allows the storing of EMC, and can be used with other Alchemy tools instead of their own costs. The fifth level of the Klein Star holds 14,304,096 EMC."
+item.alchemyBag.*.1,Alchemy Bag,"Crafting an alchemy bag gives you a colored bag, of which there are 16 possible. Each color has a unique inventory it is tied to. Multiple bags of the same color will always open the same inventory. Some of the alchemical chest powers apply to these bags, and items within will do as they would within your inventory or within a chest."
+item.alchemicalCoal.*.1,Alchemical Coal,Alchemical Coal is a more efficient form of furnace fuel. It is a step on the transmutation path toward making Mobius Fuel. It burns much longer than regular coal.
+item.mobiusFule.*.1,Mobius Fuel,"Mobius Fuel is the longest burning type of fuel, and will burn nearly 16 times what one piece of coal can do."
+
+tile.dmFurnace.*.1,Dark Matter Furnace,"This potent alchemy furnace has a total of 9 input and 9 output slots. When it runs out of material to smelt in the main stack, it will pull another stack into the input. When the output main stack is full, it will push it to an empty one or attempt to combine it with one of the other stacks. It has a 33% chance to DOUBLE the smelting result of each smelt and is 20 times faster than a standard furnace. It also operates slightly faster than a regular furnace. If there is an alchemical chest next to the furnace, it will place full stacks of smelted items into the chest, instead of the output slots."
+tile.eCollector.*.1,Energy Collector,"The Energy Collector converts redstone, coal, glowstone dust, gunpowder, glowstone blocks and alchemical coal all the way to Mobius fuel, cycling products into the intake automatically using the power of the sun (or any light source). For example. if you give it some amount of redstone, it will convert them through each fuel intermediate until they are all Mobius Fuel, automatically pushing stacks of output to the eight leftmost input boxes. If you place a specific fuel in the far right slot however, the collector targets that fuel, directly converting whatever is input to that targeted fuel without converting to any possible intermediate fuels in the chain."
+tile.eCondenser.*.1,Energy Condenser,"The slots along the bottom left are for fuel. Above that are the inputs. You may place virtually any vanilla block in the inputs (it will spit unacceptable inputs out) and condense the energy produced by the fuel burning into it, adding 3x the EMC value of the fuel to the input material. It will initially convert an item placed in it to the item in this chain with the next higher EMC value. You may also specify a target with the target slot, and this can be any non-fuel object with value. This will cause the condenser to skip all intermediate transmutations and go straight for what you target."
+tile.alChest.*.1,Alchemical Chest,"A simple box, powered by alchemy, which condenses your inventory to a very confined space. Unlike normal chests, these do not ""combine"" when placed near each other. Alchemical Chests may hold nearly quadruple that of a normal chest - a whopping 104 items per ""block"" of storage space - making them compliment a workshop nicely. A number of the power items will also automatically do their effect while within this chest."
+tile.novaCatalyst.*.1,Nova Catalyst,"Did you ever think TNT was too weak for your tastes? Have you found that 'normal' explosives tend to destroy most of the blocks they extract? Nova Catalysts are a special breed of explosives that do a few things for you:
+1. They leave massive craters. They blister through all forms of material with relative ease, and have a very wide area of effect.
+2. They won't hurt you, or anything for that matter. You can stand right next to the blast as it safely vaporizes all materials nearby to their appropriate ""collectable"" forms. This also means no items will ever be ""accidentally"" vaporized.
+3. They don't drop individual items. Much like several of the alchemical items, this explosion drops everything in a neat, lag reducing bundle nearby the player, leaving you free to detonate massive quantities of the stuff in relative safety, and without the worry of losing the items in lava."
+tile.dmBlock.*.1,Dark Matter Block,The dark matter block is nigh indestructible. If placed in a Energy Condenser the result is a Dark Matter.
+tile.amArray.*.1,Anti-Matter Relay,"This block will burn nearly any item placed into it straight to raw EMC. Melting something in the Relay will cause it to be worth 150% of its original EMC value, unless it is a fuel-type item, in which case it will be worth 200%. If placed near other Blocks, such as the Energy Collector, it will speed up their own processes, at the cost of the stored EMC within the Relay. The relay only affects blocks placed horizontally to it, in the shape of a +, where the relay would be the very center, and the affected blocks would be the extending lines. If a Klein Star (any level) is placed in the output slot, the EMC will charge the Star."
+tile.pedestal.*.1,Pedestal,"A Very Powerful block. The pedestal, when right-clicked or given redstone power, will activate an effect of various alchemy power items. The GUI can be opened by shift-clicking on the pedestal.  Its area of affect is 9 blocks. The effect it activates depends on what power item you place inside of its inventory."
+tile.iTorch.*.1,Interdiction Torch,"The interdiction torch has a max light output, and pushes mobs 3 blocks away from itself. When powered via redstone-pulses, however, the push force is increased to 10 blocks. "
+
+
+
+,Add yourself if you helped
+,Credits
+,,"pwnedgod(added the title and some item descriptions), JonReed(Code Names), Oswarlan(Descriptions), Blueblade11 (Editing)"
+
+,,Please do improve the description ~pwnedgod

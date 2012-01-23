@@ -1,0 +1,28 @@
+﻿brickkiln_A0=Forte de Tijolos
+chiefhouse_A0=Casa do Chefe
+fort_A0=Forte
+grove_A0=Bosque
+lumbermanhouse_A0=Casa do Lenhador
+paddy_A0=Arrozal
+pandithouse_A0=Casa do padre
+peasanthouse_A0=Casa de Camponeses
+peasanthouse_B0=Casa de Camponeses
+peasanthouse_C0=Casa de Camponeses
+playerhugefield_A0=Terreno Grande
+playerlargefield_A0=Terreno Grande
+playersmallfield_A0=Terreno Pequeno
+playersmallhouse_A0=Casa Pequena
+quarry_A0=Pedreira
+soldierhouse_A0=Casa do Guarda
+sugarplantation_A0=Plantaçao de Cana
+villagetemple_A0=Templo
+playerestate_A0=Vila
+spicegarden_A0=Jardim
+forge_A0=Forja
+armyforge_A0=Forja Militar
+
+
+
+
+
+

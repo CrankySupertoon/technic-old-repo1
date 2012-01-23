@@ -1,0 +1,36 @@
+name:Bukkyou Mura
+weight:10
+biome:plains
+biome:extreme hills
+
+//starting buildings:
+centre:japanesepalace
+start:japaneselmh
+start:japanesefarm
+start:japanesegrove
+start:japanesefishery 
+start:japanesepeasanth
+
+player:japaneseplot1
+player:japaneseplot2
+player:japaneseplot3
+player:japanesehut
+player:japanesehouse
+
+//to be built in priority
+core:japanesepagoda
+core:japanesecrafter
+core:japanesesamuraih
+core:japanesequarry
+core:japaneseforge
+core:japaneselookout
+core:japanesekitchen
+
+//to be built after the core ones
+secondary:japanesearchive
+secondary:japanesezen
+
+//not to be built
+never:japanesefort
+never:japanesefarmbig
+never:japaneseshintoshrine

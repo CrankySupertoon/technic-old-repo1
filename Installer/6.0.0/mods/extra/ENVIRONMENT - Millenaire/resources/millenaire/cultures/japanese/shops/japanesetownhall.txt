@@ -1,0 +1,5 @@
+sells=wood,wood_pine,wood_birch,cobblestone,stone,chickenmeat,villageWand,rice,paperwall,iron,thatched,timberframe_plain,timberframe_cross,cookedfish,fishraw,udon
+
+buys=wood,wood_pine,wood_birch,stone,cobblestone,chickenmeat,rice,paperwall,iron,thatched,cookedfish,fishraw,udon
+
+deliverto=wood,wood_pine,wood_birch,cobblestone,stone,chickenmeat,rice,paperwall,thatched,fishraw,udon,paperwall,timberframe_plain,timberframe_cross

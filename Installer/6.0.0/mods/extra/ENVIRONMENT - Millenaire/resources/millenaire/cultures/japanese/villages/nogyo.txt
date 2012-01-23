@@ -1,0 +1,36 @@
+name:Nouji Mura
+weight:10
+biome:plains
+biome:extreme hills
+
+//starting buildings:
+centre:japanesefarmbig
+start:japaneselmh
+start:japanesefarm
+start:japanesegrove
+start:japanesepaddy
+start:japanesepeasanth
+
+player:japaneseplot1
+player:japaneseplot2
+player:japaneseplot3
+player:japanesehut
+player:japanesehouse
+
+//to be built in priority
+core:japanesefishery
+core:japaneselookout
+core:japanesecrafter
+core:japanesesamuraih
+core:japanesequarry
+core:japaneseforge
+core:japanesekitchen
+
+//to be built after the core ones
+secondary:japanesearchive
+secondary:japaneseshintoshrine
+
+//not to be built
+never:japanesepalace
+never:japanesefort
+never:japanesepagoda

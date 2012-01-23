@@ -1,0 +1,31 @@
+//name, selling price, buying price, reserved quantity, target quantity, foreign merchant price, auto-generated, needed equipment
+wood,2,1,128,1024
+wood_pine,2,1,128,1024
+wood_birch,2,1,128,1024
+cobblestone,2,1,128,1024
+stone,5,3,128,1024
+timberframe_cross,32,26,128,1024
+timberframe_plain,48,40,128,1024
+villageWand,2*64*64
+chickenmeat,2*64,0,0,64
+gold,25,20,5,10
+feather,2,1,64,128
+egg,2,1,64,128
+sandstone,5,3,64,512
+rice,10,5,10,64,12
+paperwall,64,48,128,512,64
+thatched,16,12,128,512
+cookedfish,7,5,64,124
+fishraw,5,3,64,124
+udon,20,15,64,124
+iron,25,20,64,128
+paper,15,12,64,128
+
+bow,0,0,0,0,2*25
+arrow,0,0,0,0,8
+steelPickaxe,2*64,2*64,1,1,5*25
+steelAxe,2*64,2*64,1,1
+steelShovel,2*64,2*64,1,1
+steelHoe,2*64,2*64,1,1
+steelSword,1*64,1*64,0,0, 2*25
+

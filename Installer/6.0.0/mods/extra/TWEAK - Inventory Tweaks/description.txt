@@ -1,0 +1,9 @@
+version 1.34b<br>
+by jimeowan<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/323444-173spsmp-inventory-tweaks-122-july-30/">HERE</a>.<br>
+<i>Like this mod? Then <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GHMHBCCQFBLPW">DONATE</a> to show your support to the author!</i><br><br>
+
+Tweaks your inventory handling to be more intuitive. Break your iron sword in the heat of battle and don't have time to replace it? No worries, if you have another one handy in your inventory it will automatically be moved into the last slot it was used! Works with all stacked items!<br><br>
+
+<b>Key commands</b><br>
+[R] - Sort inventory

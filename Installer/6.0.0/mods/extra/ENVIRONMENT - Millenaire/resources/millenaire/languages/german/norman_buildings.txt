@@ -1,0 +1,54 @@
+
+abbey_A0=Abtei
+archives_A0=Dorfarchiv
+armoury_A0=Rüsthaus 
+bakery_A0=Bäckerei
+carpenterhouse_A0=Schreinerei
+cattlefarm_A0=Viehzucht
+church_A0=Kapelle
+church_A2=Kirche
+farm_A0=Bauernhof
+farm_B0=Bauernhof
+forge_A0=Schmiede
+fort_A0=Festung
+fort_A_lefttower_A0=Wachturm
+fort_A_righttower_A0=Wachturm
+grove_A0=Hain
+grove_B0=Hain
+grove_C0=Hain
+guardhouse_A0=Wachenhaus
+guesthouse_A0=Gashaus
+guildhouse_A0=Gildenhalle
+inn_A0=Herberge
+lumbermanhut_A0=Holzfällerhütte
+lumbermanhut_B0=Holzfällerhütte
+manor_A0=Landhaus
+market_A0=Markt
+pigfarm_A0=Schweinezucht
+playerestate_A0=Anwesen
+playerhugefield_A0=Riesiges Grundstück
+playerlargefield_A0=Grosses Grundstück
+playerlargehouse_A0=Bürgerliches Haus
+playersmallfield_A0=Kleines Grundstück
+playersmallhouse_A0=Kleines Haus
+presbytery_A0=Pfarrhaus
+quarry_A0=Steinbruch
+sheepchickenfarm_A0=Schafzucht
+tavern_A0=Taverne
+watchtower_A0=Wachturm
+fountain_A0=Springbrunnen
+largefountain_A0=Grosser Springbrunnen
+well_A0=Brunnen
+
+playerfort_A0=Festung
+anomalyone_A0=Anomalie
+anomalytwo_A0=Anomalie
+
+
+lonelumbermanhut_A0=Holzfällerhütte
+lonelumbermantaigahut_A0=Holzfällerhütte
+lonemine_A0=Steinbruch
+loneabbey_A0=Kloster
+ruinedfarm_A0=Verlassener Bauernhof
+banditlair_A0=Banditenlager
+alchemisttower_A0=Turm des Alchemisten

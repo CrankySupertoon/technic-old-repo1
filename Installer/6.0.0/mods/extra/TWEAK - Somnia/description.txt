@@ -1,0 +1,8 @@
+version 17<br>
+by MALfunction84<br>
+For more information/updates, click <a href="http://www.minecraftforum.net/topic/162771-173-somnia-v12-sspmltfc-configurable-heal-rates/">HERE</a>.<br>
+<i>Like this mod? Then <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TJB65Y6K69DKW">DONATE</a> to show your support!<br><br></i>
+
+This mod expands upon the sleep feature. While sleeping it simulates the world around you realtime, so that means if mobs can't possibly reach you, then they won't. And also crops will grow, and Millenaire villagers will go about their daily lives. Sleep at any time of day. And right clicking on a bed while holding a clock will give you an alarm feature to wake up at any time of day.<br><br>
+
+(NOTE: Recommended for higher end systems!)

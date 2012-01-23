@@ -1,0 +1,24 @@
+native_name=Marchand oriental
+gender=male
+familyNameList=merchant_oriental_family_names
+firstNameList=merchant_oriental_first_names
+tag=visitor
+tag=foreignmerchant
+chanceWeight=10
+
+texture=/mob/norman/ML_Merchant_Oriental0.png
+texture=/mob/norman/ML_Merchant_Oriental1.png
+
+goal=gorest
+goal=gopray
+goal=godrink
+goal=keepStall
+
+startingInv=cactus,64
+startingInv=dye_blue,64
+startingInv=sandstone,128
+startingInv=diamond,32
+startingInv=gold,64
+
+baseAttackStrength=5
+experiencegiven=3

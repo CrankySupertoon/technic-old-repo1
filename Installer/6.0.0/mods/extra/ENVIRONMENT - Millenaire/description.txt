@@ -1,0 +1,17 @@
+version 2.7<br>
+by Kinniken<br>
+For more information/updates, click <a href="http://millenaire.org">HERE</a>.<br>
+<i>Like this mod? Then <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SJ3XSW2A2VDNJ">DONATE</a> to show your support to the author!<br><br></i>
+
+Is your Minecraft world devoid of intelligent life?<br>Add
+some randomly generated villages that live and build around you. Help
+them expand their settlements via selling materials to them. For more
+detailed information, read the enclosed Beginner's Guide PDF or
+visit <a href="http://millenaire.wikia.com">http://millenaire.wikia.com</a><br><br>
+
+<b>Key commands</b><br>
+[V] - Display nearest villages<br>
+[M] - Display current quest<br>
+[CTRL+SHIFT+P] - Switch pathing method<br>(use this if Millenaire runs slow!)<br><br>
+
+(NOTE: May cause performance issues on low-end systems!)

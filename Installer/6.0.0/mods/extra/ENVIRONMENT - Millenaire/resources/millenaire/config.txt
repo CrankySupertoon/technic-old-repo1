@@ -1,0 +1,56 @@
+//Game language
+//value has to be one of the directory name in languages/
+//Main game language, used when available:
+language=english
+
+//Secondary game language, used when the main is not available
+//It is recommended to pick either English or French as those two are the ones I maintain myself
+//and are so guarrenteed to contain all the text
+fallback_language=french
+
+//Config
+//Keys to use for the village and quest listings
+village_list_key=[
+quest_list_key=]
+
+//Whether to display the Millénaire start message:
+displayStart=true
+block_building_id=183
+block_panel_id=184
+block_wood_id=185
+block_earth_id=186
+block_stone_id=187
+block_crops_id=188
+block_panes_id=189
+item_range_start=1515
+//comma-separated list of block IDs villagers will avoid building upon
+//on top of "regular" ones like lava or ice
+forbidden_blocks=
+
+//Gameplay
+min_village_distance=600
+//warning: increasing this will cause major lag on slower computers:
+village_radius=50
+min_distance_between_buildings=2
+//setting this to false will stop new villages from being generated, unless you toggle it back for a specific world by pressing ctrl-shift-G (left ctrl and shift)
+generate_villages=true
+//display names, occupations and current task above villagers' heads:
+display_names=true
+villagers_names_distance=20
+//distance from the player up to which villages stay active:
+active_radius=300
+
+//Lone buildings
+generate_lone_buildings=true
+//Min distance between a lone building and a village
+min_village_lonebuilding_distance=300
+//Min distance between two lone buildings
+min_lonebuilding_distance=600
+
+//Extra
+//whether to regenerate the colour sheet PNG at startup (useful if you are adding blocks to blocklist.txt)
+generate_colour_chart=false
+//whether to regenerate resources used.txt at start (useful if you want the info for custom buildings you are adding)
+generate_building_res=false
+//whether to generate a list of gaps found between your main language and your fallback language. Mainly intended for translators.
+generate_translation_gap=false

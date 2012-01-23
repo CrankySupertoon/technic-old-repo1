@@ -1,0 +1,399 @@
+
+startup.loadproblem=Une erreur est survenue lors du chargement de <0>.
+startup.checkload=Vérifiez que le dossier cultures est bien dans le dossier millenaire dans le dossier minecraft.
+startup.millenaireloaded=<0> est chargé. Explorez et appuyez sur 'v' pour trouver les villages.
+startup.radiuswarning=ATTENTION: Un rayon aussi important pour les villages n'est pas recommandé. Cela risque de diminuer les performances.
+
+command.nogenerate=<0> ne générera plus de nouveaux villages dans ce monde.
+command.willgenerate=<0> génère à nouveau des nouveaux villages pour ce monde.
+command.astarpathing=Pathing A* activé
+command.binarypathing=Pathing binaire activé
+command.inactive=Inactif
+command.active=Actif
+command.frozen=Figé
+command.villagelist=<0> (<1>) est à <2> metres vers le <3>.
+command.villagelistkeylonebuilding=<0> est à <1> metres vers le <2>.
+command.noknowvillage=Aucun village connu à moins de deux kilomètres. Continuez de chercher!
+command.newvillagefound=Nouveau village trouvé: <0> de type <1> et de culture <2> est <3> mètres au <4>.
+command.newlonebuildingfound=Nouveau bâtiment trouvé: <0> est <1> mètres au <2>.
+
+//Text used in various UI parts, in no specific order:
+ui.lockedchest=Coffre verrouillé
+ui.largelockedchest=Grand coffre verrouillé
+ui.unlockedchest=Coffre déverrouillé
+ui.largeunlockedchest=Grand coffre déverrouillé
+ui.allchestsunlocked=Tous les coffres sont maintenant déverrouillés.
+ui.outofstock=Rupture de stock!
+ui.missingdeniers=Il vous manque <0> deniers.
+ui.missingequipment=Equipement absent
+ui.noneininventory=Vous n'en avez pas dans votre inventaire
+ui.selling=Vente
+ui.buying=Achat
+ui.sellercoming=J'arrive tout de suite, sire!
+ui.tradecomplete=J'espère que vous êtes content de vos achats. Bonne journée!
+ui.sellerboycott=Jamais plus nous ne commercerons avec vous, bandit!
+ui.wesell=Nous vendons
+ui.webuy=Nous achetons
+ui.isell=Je vend
+ui.inventory=Inventaire
+ui.villagechief=Chef du village de <0>
+ui.yourstatus=Votre statut
+ui.possiblehousing=Logements possibles
+ui.alreadybuilt=déjà construit
+ui.alreadyrequested=déjà commandé
+ui.notavailableyet=par encore disponible
+ui.available=disponible
+ui.youaremissing=il vous manque: <0>
+ui.scrollsnoreputation=Votre réputation n'est pas suffisant pour l'achat du parchemin du village.
+ui.scrollsnotenoughmoney=Il vous manque <0> deniers pour l'achat du parchemin du village.
+ui.scrollsok=Vous pouvez acheter le parchemin du village.
+ui.buyscroll=Acheter le parchemin du village.
+ui.cost=Coût
+ui.clicktorequest=Demander
+ui.scrollbought=Nous vous confions le parchemin du village!
+ui.housebought=la construction de votre <0> va commencer!
+ui.inhabitantof=Habitant de <0>
+ui.inconstruction=En Construction
+ui.nospace=Pas assez d'espace
+ui.reservedforvillager1=Réservé pour
+ui.reservedforvillager2=le villageois
+ui.currentlyempty1=Inoccupé
+ui.currentlyempty2=pour le moment
+ui.visitorslist1=Liste des
+ui.visitorslist2=visiteurs
+ui.goodstraded=Marchandises échangées
+ui.imports=Imports
+ui.exports=Exports
+ui.import_total=Imports totaux
+ui.export_total=Exports totaux
+ui.merchants=Marchants
+ui.goalscompleted1=Toutes les
+ui.goalscompleted2=constructions finies
+ui.project=Projet
+ui.noconstruction1=Pas de construction
+ui.noconstruction2=en cours
+ui.upgrading=Amélioration
+ui.construction=Construction
+ui.population=Population
+ui.adults=Adultes
+ui.teens=Jeunes
+ui.children=Enfants
+ui.villagemap=Carte du village
+ui.wandwrongblock=Cette baguette ne marche que sur un bloc d'obsidienne pour un village aléatoire ou sur les blocs suivants:
+ui.wandblocklist=<0> pour un <1>
+ui.wandblocklistcontrolled=<0> pour un <1> (nécéssite d'être chef dans cette culture)
+ui.brickinstructions=Un bloc de terre et un de sable sont nécessaires pour créer une brique
+ui.buildingscentre=Centre
+ui.buildingsstarting=Bâtiments initiaux
+ui.buildingsplayer=Bâtiments du joueur
+ui.buildingskey=Bâtiments clés
+ui.buildingssecondary=Bâtiments secondaires
+ui.buildingsextra=Bâtiments additionnels
+ui.worldnotgenerated=Le terrain aux alentours n'est pas complètement généré. Marchez et revenez.
+ui.lackingresources=Resources insuffisantes
+ui.lockedchestwarning=ATTENTION: détruire un coffre verrouillé empêche les villages de fonctionner correctement. Ne faites ça que si vous voulez détruire le village.
+ui.extraresneeded1=<0> autres resources
+ui.extraresneeded2=nécéssaires
+ui.woodforplanks=Bois (pour planches)
+ui.selectabuildingproject=Choisissez un bâtiment
+ui.projectadded=Le projet a été ajouté à la liste
+ui.problemat=Problème à
+ui.constructionforbidden=contruction interdite
+ui.locationclash=conflit avec un autre bâtiment
+ui.outsideradius=en dehors du village
+ui.wrongelevation=en dehors des altitudes autorisées
+ui.danger=bloc dangereux
+ui.unknownerror=problème inconnu
+ui.controlbuildingprojects=Gèrer les projets
+ui.forbidupgrades=Stopper Aml.
+ui.allowupgrades=Autoriser Aml.
+ui.cancelbuilding=Oublier le bâtiment
+ui.level=amélioration
+ui.notyetbuilt=Pas encore construit
+ui.wandnocontrol=Vous ne pouvez pas créer ce type de village car vous n'êtes pas reconnu comme chef par la culture <0>.
+ui.control_ok=Vous avez tellement aidé ce village que les gens de culture <0> sont prêts à vous reconnaitre comme un chef! Je peux le rendre officiel et vous permetre de démmarer votre propre village.
+ui.control_noreputation=Votre réputation n'est pas encore suffisante pour que vous soyez reconnu comme chef de la culture <0>. Améliorez votre réputation chez nous ou accomplissez des missions d'exceptions pour attendre ce statut.
+ui.control_alreadydone=Vous êtes déjà reconnu comme un chef de la culture <0>.
+ui.control_get=Demander à être reconnu comme chef.
+ui.control_gotten=$name, je vous reconnais officiellement comme digne de diriger des peuples de culture <0>! Vous pouvez maintenant fonder votre propre village.
+ui.selectavillage=Choisissez le village que vous voulez créer
+ui.leadershipstatus=Statut dans les cultures
+ui.leaderin=Vous êtes reconnu comme chef dans la culture <0>. Vous pouvez créer un village que vous controllerez.
+ui.notleaderin=Vous n'êtes pas encore un chef dans la culture <0>.
+ui.leaderinstruction=Pour devenir chef dans une culture, vous devez attendre le rang de "chef naturel" dans un village et demain le rang au chef, ou completer le chapitre de la Quête de la Création pour cette culture (si disponble)
+ui.wandinstruction=Utilisez la baguette sur on bloc d'obsidienne pour générer un village aléatoire ou sur un bloc d'or pour choisir le type à générer.
+ui.controlled=contrôlé
+
+quest.close=Fermer
+quest.accept=Accepter la quête
+quest.refuse=Refuser la quête
+quest.continue=Continuer la quête
+quest.conditionsnotmet=Vous n'avez pas remplie toutes les conditions.
+quest.obtained=Obtenu
+quest.lackingcondition=Il vous manque:
+quest.lackinghiddengoods=Vous n'avez pas les objets nécessaires à cette tâche.
+quest.lessthananhourleft=il reste moins d'une heure!
+quest.timeremaining=Temps restant
+quest.noquestsvisible=Pas de quêtes à lister
+quest.questlist=Quêtes en cours
+quest.hours=heure(s)
+quest.creationqueststatus=Statut de la Quête de la Création
+quest.cqnotstarted=Vous n'avez pas commençé la Quête de la Création
+quest.cqstartexplanation=Trouver un villageois qui puisse vous guider dans un village indien de type gaanv où vous avez la réputation "amis du village".
+quest.cqcompleted=Félicitation, vous avez terminé toutes les missions de la Quête de La Création disponibles pour le moment!
+quest.cqcheckforupdates=Visitez www.millenaire.org pour des mises à jour avec plus de missions.
+quest.cqchaptersadhu=Le Sadhu
+quest.cqchapteralchemist=L'Alchimiste
+quest.cqinprogress=Vous avez terminez <1> mission(s) sur <2> dans le chapitre "<0>" de la Quête de la Création.
+quest.cqcheckquestlist=Pressez '<0>' pour plus d'information.
+quest.cqsadhucompleted=Vous avez fini le premier chapitre de la Quête de la Création. Pour commencer le second, trouvez un villageois qui vous guidera dans un village norman où vous êtes au moins "amis du village".
+
+
+//Item names
+item.building=Bâtiments
+item.normanPickaxe=Pioche normande
+item.normanAxe=Hache normande
+item.normanShovel=Pelle normande
+item.normanHoe=Houe normande
+item.normanBroadsword=Epée normande
+item.normanHelmet=Casque normand
+item.normanPlate=Cuirasse normande
+item.normanLegs=Cuissardes normandes
+item.normanBoots=Bottes normandes
+item.rice=Riz
+item.turmeric=Curcuma
+item.vegcurry=Carri végétarien
+item.chickenmeat=Viande de poulet
+item.chickencurry=Carri murgh
+item.brickmould=Moule à briques
+item.rasgulla=Rasgulla
+item.plaintimber=Colombages
+item.crosstimber=Colombages à croix
+item.wetbrick=Brique humide
+item.cookedbrick=Brique cuite
+item.mudbrick=Brique de terre
+item.indianstatue=Statue Hindoue
+item.ciderapple=Pomme à cidre
+item.cider=Cidre
+item.villagewand=Baguette d'invocation
+item.normanvillagers=Villageois normands
+item.normanitems=Objets normands
+item.normanbuildings=Bâtiments normands
+item.normanfull=Parchemin normand complet
+item.tapestry=Tapisserie normande
+item.raven_amulet=Amulette du Corbeau
+item.dwarves_amulet=Amulette des Nains
+item.yddrasil_amulet=Amulette d'Yddrasil
+item.skoll_hati_amulet=Amulette de Sköll et Hati
+item.villagescroll=Parchemin du village
+item.indianvillagers=Villageois indiens
+item.indianitems=Objets indiens
+item.indianbuildings=Bâtiments indiens
+item.indianfull=Parchement indien complet
+
+item.wah=Wah
+item.masa=Masa
+item.maize=Maïs
+item.mayangold=Décoration en or
+item.mayanstatue=Sculpture Maya
+item.mayanvillagers=Villageois mayas
+item.mayanitems=Objets mayas
+item.mayanbuildings=Bâtiments mayas
+item.mayanfull=Parchemin maya complet
+
+item.paperwall=Paroi de papier
+item.udon=Udon
+item.thatched=Chaume
+
+item.parchmentsadhu=Livre du Sadhu
+
+item.unknownpowder=Poudre inconnue
+item.alchimistexplosive=Explosif alchimique
+
+//Errors
+ui.updateEntity=Erreur dans TileEntityBuilding.updateEntity(). Regardez millenaire.log.
+
+//Panels & parchments
+panels.notextfound=Aucun texte trouvé pour ce livre.
+panels.invalidid=ID du village non valide.
+panels.toofar=Le village est trop loin pour le charger.
+panels.recordsnotloaded=Le village ne peut pas se charger.
+panels.villagescroll=Parchemin du village
+panels.mother=Mère
+panels.father=Père
+panels.spouse=Conjoint
+panels.missing=DISPARUS !
+panels.multiple=PRESENT <0> FOIS!
+panels.currentoccupation=Activité actuelle
+panels.visitors=Visiteurs
+panels.constructions=Constructions
+panels.upgrade=Amélioration
+panels.buildingprojects=Projets de construction
+panels.notyetbuilt=Pas encore construit
+panels.nbupgradesleft=<0> améliorations restantes.
+panels.finished=terminé
+panels.houseunoccupied=Cette maison est inoccupée. Des enfants devenus jeunes adultes viendront s'installer ici et deviendront des adultes.
+panels.man=Homme
+panels.woman=Femme
+panels.children=Enfants
+panels.nofemaleresident=Cette maison n'aura jamais de résident féminin.
+panels.bachelor=L'homme vivant ici est toujours célibataire. Une femme s'installera avec lui un jour.
+panels.nomaleresident=Cette maison n'aura jamais de résident masculin.
+panels.spinster=La femme vivant ici est toujours célibataire. Un homme s'installera avec elle un jour.
+panels.resources=Ressources
+panels.goodstraded=Marchandises négociées dans ce village
+panels.goodsimported=Importé d'autres villages
+panels.goodsexported=Exporté à d'autres villages
+panels.innvisitors=Visiteurs dans cette <0>
+panels.mappurple=Violet: Construction en cours
+panels.mapblue=Bleu: Autre Bâtiment
+panels.mapgreen=Vert: Terrain constructible
+panels.mapred=Rouge: Terrain dangereux (lave, cactus, etc)
+panels.mapyellow=Jaune: Construction interdite (glace, blocs artificiels).
+panels.maporange=Orange: Construction interdite car trop proche d'une autre bâtiment.
+panels.maplightblue=Bleu clair: Eau.
+panels.mapbrown=Marron: Autres terrains (trop hauts ou trop bas, etc.).
+panels.merchantlist=Liste des marchands
+panels.capacity=Capacité
+panels.nbnightsin=Dans le village depuis <0> nuit(s).
+panels.storedexports=<0> a apporté les biens suivants pour exportation
+panels.broughtimport=<0> a amené les biens suivants au village
+panels.startedtrading=<0> (<1>) a commencé une carrière dans le commerce.
+panels.merchantmovedout=<0> (<1>) est parti à <2> après <3> jours dans le village.
+panels.merchantarrived=<0> (<1>) est arrivé de <2>.
+panels.resourcesneeded=Resources nécéssaires au projet
+panels.resourcesavailable=Resources en stock
+panels.villageculture=Villages de culture <0>
+
+//Goals (text displayed above the villager when he is doing it)
+goal.gorest=Se repose
+goal.godrink=Parti boire un coup
+goal.gopray=Parti prier
+goal.GatherGoods=Collecte des marchandises
+goal.BringBackResourcesHome=Ramène des ressources
+goal.GetTool=Va chercher un outil
+goal.huntMonster=Combat une créature
+goal.GetGoodsHousehold=Va chercher des marchandises pour sa maison
+goal.DeliverGoodsHousehold=Livre des marchandises pour sa maison
+goal.GetHouseTHResources=Va chercher des marchandises de sa maison
+goal.DeliverResourcesShop=Livre des ressources
+goal.CollectCrop=Récolte
+goal.PlantSeeds=Plante du blé
+goal.ChopTrees=Coupe du Bois
+goal.PlantSaplings=Plante des arbres
+goal.GetResourcesForBuild=Va chercher des ressources pour une construction
+goal.MakeBread=Fait du pain
+goal.BeSeller=Vend au joueur
+goal.MakeCider=Fabrique du cidre ou du calva
+goal.Construction=Construit
+goal.GoPlay=Joue
+goal.BecomeAdult=Emménage
+goal.MakeTools=Fabrique des outils
+goal.Patrol=Patrouille
+goal.Butcher=Abat un animal
+goal.MakeBoudin=Fait du boudin
+goal.MakeTripes=Fait des tripes
+goal.Mining=Mine
+goal.Cooking=Cuit des ressources
+goal.MakeBooks=Fabrique des parchemins
+goal.MakeTapestry=Fabrique des tapisseries
+goal.VisitInn=Visite l'auberge
+goal.VisitBuilding=Visite un magasin
+goal.MakeAmulet=Fabrique une amulette
+goal.KeepStall=Tiens son stand
+goal.MakeTimberFrame=Fabrique des colombages
+goal.DryBrick=Fait sécher des briques
+goal.GatherBrick=Collecte des briques séchées
+goal.CookBrick=Cuit des briques
+goal.PlantRice=Plante du riz
+goal.HarvestRice=Récolte du riz
+goal.PlantTurmeric=Plante du curcuma
+goal.HarvestTurmeric=Récolte du curcuma
+goal.SlaughterChicken=Abat un poulet
+goal.PlantSugarCane=Plante de la canne à sucre
+goal.HarvestSugarCane=Récolte de la canne à sucre
+goal.MakeRasgulla=Prépare des rasgullas
+goal.MakeIndianTools=Fabrique des outils
+goal.MakeIndianWeapons=Fabrique des armes
+goal.scult=Sculpte
+
+goal.PlantMaize=Plante du maïs
+goal.HarvestMaize=Récolte du maïs
+goal.makeGoldBlock=Fabrique des décorations en or
+goal.sculptMayan=Sculpte
+
+goal.fish=Pêche
+goal.makethatch=Fabrique de la chaume
+goal.makepaper=Fabrique du papier
+goal.makepaperwall=Fabrique des parois de papier
+goal.cookfish=Cuit du poisson
+goal.makeudon=Fait des udons
+
+//other
+other.west=ouest
+other.east=est
+other.north=nord
+other.south=sud
+
+other.west_short=O
+other.east_short=E
+other.north_short=N
+other.south_short=S
+
+other.metre=metres
+other.kilometre=kilometres
+other.andhalf=et demi
+
+other.directionshort=<1> au <0>
+other.exploredbuilding=Vous avez explorez un bâtiment: <0>.
+
+
+hire.health=Vie
+hire.strength=Force
+hire.cost=Coût (par jour)
+hire.aggressive=Agressif
+hire.passive=Passif
+hire.timeleft=Embauché pour <0> heure(s)
+hire.hiredvillager=Ce villageois a été embauché. Il restera à votre service pour encore <0> heures ou jusqu'à sa mort et recréation dans son village.<ret><ret>Appuyez sur '<1>' pour le mettre en mode agressif et sur maj gauche-<1> pour le mode passif.
+hire.hireablevillager=Vous pouvez embaucher ce villageois. Il vous suivra jusqu'à expiration du contrat ou sa mort. Il attaquera les créatures qui vous attaquent ou attaquera directement les monstres ou villageois hostiles si mis en mode aggressif.
+hire.hireablevillagernoreputation=Il vous faut une réputation d'au moins "marchant préféré" pour embaucher ce villageois.
+hire.extend=Prolonger
+hire.release=Libérer
+hire.close=Fermer
+hire.hire=Embaucher
+hire.hireover=Le contrat de <0> est fini. Il rentre dans son village.
+hire.hiredied=<0> est mort. Il sera recréé dans son village, son contrat terminé.
+
+
+
+actions.forest_success=Vous avez réussi à explorer la forêt.
+actions.forest_continue=Vous avez terminé <0>% de votre exploration de la forêt.
+
+actions.desert_success=Vous avez réussi à explorer le désert.
+actions.desert_continue=Vous avez terminé <0>% de votre exploration du désert.
+
+
+actions.mountain_success=Vous avez réussi à explorer les montagnes.
+actions.mountain_continue=Vous avez terminé <0>% de votre exploration des montagnes.
+
+
+actions.underwaterglass_success=Vous avez réussi à construire une fenêtre d'observation sous-marine.
+actions.underwaterglass_notdeepenough=La mer n'est pas assez profonde ici.
+
+actions.underwaterdive_success=Vous avez réussi à plonger loin dans l'océean.
+
+actions.bottomoftheworld_success=Il semblerait que vous ne puissiez pas creuser plus profondément. Ca doit être les racines du monde!
+
+actions.topoftheworld_success=Il semblerait que vous ne puissiez pas vous élever plus haut. C'est surement le sommet du ciel.
+
+actions.borehole_nblineok=<0> blocs du manteau sont correctement exposés au ciel. Il vous en faut 25 formant un carré de 5x5.
+actions.borehole_success=Vous avez réussit à creuser le trou de forage!
+
+actions.boreholetnt_success=Suffisament de TNT est en place. Vous pouvez la détonner.
+actions.boreholetnt_nbtnt=<0> blocs de TNT ont été plaçés et couverts d'obsidiennes. Il vous en faut 20 au total.
+
+actions.boreholetntlit_success=Vous avez allumé la TNT. Observez le résultat et allez voir l'alchimiste.
+
+actions.thevoid_success=Vous avez contemplez le Vide!
+
+
