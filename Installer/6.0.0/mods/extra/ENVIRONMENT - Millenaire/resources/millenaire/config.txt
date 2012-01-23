@@ -10,8 +10,8 @@ fallback_language=en
 
 //Config
 //Keys to use for the village and quest listings
-village_list_key=V
-quest_list_key=M
+village_list_key=[
+quest_list_key=]
 
 //Whether to display the MillÃ©naire start message:
 displayStart=true
