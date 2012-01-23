@@ -32,9 +32,6 @@ tile.irnot.*.1,NOT Gate,"All three outputs are on when the input is off.
 tile.irbuf.*.1,Buffer Gate,All three outputs are on when the input is on.
 tile.irmux.*.1,Multiplexer,"The center input selects which side input controls the output.
 "
-tile.rpainv.1.1,Invert Cell,"The invert cell acts as two crossing wires with an invert function. When the lower wire is unpowered, the upper wire gets powered. When the lower wire is powered, the upper wire is returned to its natural state."
-tile.rpainv.2.1,Non-invert cell,"The non-invert cell acts as two crossing wires with a buffer function. When the lower wire is powered, the upper wire gets powered. When the lower wire is unpowered, the upper wire is returned to its natural state."
-tile.rpanc.0.1,Null cell,"The null cell performs no logic function, simply acting as a crossover for two red alloy wires."
 tile.irCounter.*.1,Counter,"Counts up by Increment for each pulse on one input, and down by Decrement for each pulse on the other. Clicking opens a GUI to allow the maximum count, increment, and decrement to be set. Each output is on when the pointer reaches the end of range in that direction."
 tile.irRepeater.*.1,RedPower Repeater,"An upgraded form of repeater that takes full advantage of RedPower, like the ability to place it on the wall. In addition, it supports 9 different time constants: 1, 2, 3, 4, 8, 16, 32, 64, or 128 torches."
 tile.rpwire.*.1,Red Alloy Wire,"These bare wires are similar to redstone, just better. They will connect to all blocks that accept or emit a redstone signal, connect to themselves and will transmit the signal to the block they are sitting upon. They will also connect to any color of insulated wire. These wires can be run on the wall and ceiling as well as the floor and will transmit a signal for 255 blocks. These will not connect to Bundled Cables."
@@ -101,7 +98,6 @@ tile.rubbersapling.*.1,Rubber Tree Sapling,"Dropped from Rubber Leaves, plant it
 tile.rplog.*.1,Rubber Log,"Can be used as a decorative material, or used to obtain 8 sticks per log. Eventually you will be able to use this to obtain rubber, which will be required in creating Bluetric wires."
 ,,Lumars
 item.rplumar.*.1,Lumar,Used in creating lamp blocks. Each color is used to create the corresponding color block.
-tile.rplamp.*.1,Lamps,"Lamps are blocks you can place and will glow and supply light when a redstone signal is supplied. All lamps produce white light, only the color of the block itself differs."
 ,,Paint Cans
 item.paintcan.empty.1,Empty Paint Bucket,This paint bucket contains no paint!
 item.paintcan.*.1,Paint Bucket,This paint bucket contains paint! Each color is used to create the corresponding color tube.
@@ -133,12 +129,7 @@ item.nikolite.*.1,Nikolite,Used in various electrical crafting recipes.
 tile.oretin.*.1,Tin Ore,"Like most ores, Tin Ore can simply be smelted into an ingot in any furnace."
 tile.oresilver.*.1,Silver Ore,"Like most ores, Silver Ore can simply be smelted into an ingot in any furnace."
 tile.orecopper.*.1,Copper Ore,"Like most ores, Copper Ore can simply be smelted into an ingot in any furnace."
-item.voltmeter.*.1,Voltmetert,Right-clicking a blue alloy wire and certain other blulectric devices will display a chat-like message containing the voltage and current running through the wire.
-item.btbattery.*.1,battery,"Used to store blulectric energy, this battery is used as a component in Battery Boxes. For now that is it's only purpose, but other applications will surely arise."
-tile.rpsolar.0.1,solar panel,"A solar panel is a packaged, connected assembly of solar cells. The solar panel can be used to generate and supply energy for blutricity applications. Because a single solar panel can produce only a limited amount of power, many installations contain several panels."
-tile.rpbatbox.6.1,battery box,"An energy net's blulectric surplus will charge the batteries of this block. The energy will be resupplied to other devices when the levels drop. The current charge level of the Box can be checked in the right-click interface but is also shown on the block's texture, so you can estimate your remaining reserve at a quick glance at the block."
-tile.rprstube.2304.1,redstone tube," A hybrid between jacketed wire and tube: this tube will act like any other tube in delivering items. You can even apply paint to it. But it also contains some redstone and will transmit redstone signals like a jacketed wire. Thus it will happily connect to other tubes as well as jacketed wire, which is a common way to patch it into other systems. It will not directly connect to red allow wire (use a short jacketed wire if you want it to), but it does connect to vanilla redstone dust."
-,,This tube is especially useful to supply redstone signals to machine blocks connected to them without the need to run additional wires.
+,,Subblocks:
 tile.rpslab.*.1,"Slab
 (testing range)","You can cut almost any solid block. First, cut a block vertically by putting the saw above. This will saw it in half, producing two thinner pieces. Full blocks can be cut in half into slabs (1/2 block thickness, slabs can be cut into panels (1/4 block thickness and finally panels can be sliced to covers (1/8 block thickness."
 tile.rppanel.*.1,"Panel

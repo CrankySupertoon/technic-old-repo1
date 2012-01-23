@@ -1,0 +1,131 @@
+Code name,Actual name,Description
+-DO NOT EDIT THIS FIELD-,Actual Name,Description of the object
+Blocks
+###tile.musicBlock.0.1,Order Drum,"This drum is use for ordering groups of dinosaurs.
+Right click with anything in hand: Switch order mode(Follow/Free move/Stay)
+Left Click with stick in hand: Send current order to triceratops within 30 blocks.
+Left Click with bone in hand: Send current order to velociraptors within 30 blocks.
+Left Click with arrow in hand: Send current order to pterosaurs within 30 blocks.
+Left Click with Skullstick in hand: Don't do this when there are adult T-rexes around."
+tile.fossil.*.1,Fossil,"Fossil blocks look similar to stone but are much harder to break.   When you mine them, you have a chance of finding an ancient artifact, such as a fossil, relic, broken swords, or even an ancient gem."
+tile.skull.*.1,Skull,"An ancient skull left behind by the Minecraftians of long ago.  It can be used as a rather macabre decoration, especially with a torch placed inside - or they can just be ground down into bonemeal, if you care to risk the wrath of the ancestors."
+tile.SkullLantern.*.1,SkullLantern,This creepy nightlight is more likely to give you nightmares than keep them away. 
+tile.analyzerIdle.*.1,Analyzer,"This machine is used to break down ancient fossils and search for anything of value they might contain.  With luck and a bit of mad science, it might even be possible to recover usable DNA fragments from the bones.  The analyzer can also recover DNA from modern lifeforms by placing bits of meat in the machine's recepticle.  Lastly, the Analyzer will also clean up and restore relics placed within to their pristine state, converting them to decorative stoneboards."
+tile.analyzerActive.*.1,Analyzer,"This machine is used to break down ancient fossils and search for anything of value they might contain.  With luck and a bit of mad science, it might even be possible to recover usable DNA fragments from the bones.  The analyzer can also recover DNA from modern lifeforms by placing bits of meat in the machine's recepticle.  Lastly, the Analyzer will also clean up and restore relics placed within to their pristine state, converting them to decorative stoneboards."
+tile.cultivateIdle.*.1,Cultivate,"This highly advanced machine is used to develop DNA acquired from the Analyzer into viable life forms.  It is a ""bio-furnace"" of sorts - when DNA is placed in the top slot, the cultivator will automatically begin sciencing it into a usable state.  However, this process is inexact and leaves many holes.  To ensure proper operation of the gene-splicing functionality of the Analyzer, biological matter must be ""burned"" as a ""fuel"".  Most any organic substance will suffice for this purpose, including eggs, meats, fish, and even milk.  If the science is good, a viable egg may be produced after some time.  If the science is bad, however, there is no telling what type of monstrosity could come forth... "
+tile.cultivateActive.*.1,Cultivate,"This highly advanced machine is used to develop DNA acquired from the Analyzer into viable life forms.  It is a ""bio-furnace"" of sorts - when DNA is placed into the top slot, the cultivator will automatically begin sciencing the ancient DNA into a usable state.  However, this process is inexact and leaves many holes.  To ensure proper operation, biological matter must be used as a fuel.  Most any organic substance will suffice for this purpose, including eggs, meats, fish, and even milk.  If the science is good, a viable egg may be produced after some time.  If the science is bad, however, there is no telling what type of monstrosity could come forth... "
+tile.worktableIdle.*.1,Archeology workbench,"This dusty bookshelf secretly contains a very advanced microcomputer and smithing suite.  It will break down and store data on any ancient armors, broken swords, and other dusty relics you happen to dig up, and with enough input, will recreate usable, modernized copies.  It can also repair any ancient tools you have acquired."
+tile.worktableActive.*.1,Archeology workbench,"This dusty bookshelf secretly contains a very advanced microcomputer and smithing suite.  It will break down and store data on any ancient armors, broken swords, and other dusty relics you happen to dig up, and with enough input, will recreate usable, modernized copies.  It can also repair any ancient tools you have acquired."
+tile.Feeder.*.1,Feeder,"This machine is an automatic dinosaur feeder.   The left side of the GUI is for carnivores, and the right is for herbivores.  Placing a bit of food into the proper slot will automatically grind it up and put it out for your creations to eat.  Pterosaurs, Tyrannosaurs, and Velociraptors will feed from it when there is no live meat around.  Triceratops and other herbivores, on the other hand, will use it before searching for edible ferns."
+tile.Permafrost.*.1,Permafrost,"This ice shelf has lain hidden within the Earth for millenia and is almost unnaturally cold.  It is so near to absolute zero that it actually freezes the stone around it, almost like a protective shell, and will quickly melt if exposed to any source of heat or light.  When carefully examined (bare hands or a shovel only)  it is possible to find rare artifacts from ages past buried within.  "
+tile.IcedStone.*.1,IcedStone,This ice-coated stone is typically found around areas of permafrost deep underground.
+Items
+item.biofossil.*.1,Bio-Fossil,"The remains of a long-extinct organism, this fossil just might contain usable fragments of DNA.  It should be placed in an Analyzer to be examined."
+item.relic.*.1,Relic Scrap,These fragments are all that survives of some ancient civilization.  An Analyzer may be able to make sense of the symbols and markings that cover them.
+item.stoneboard.*.1,StoneBoard,"These reconstructed stoneboards bear the ancient writings of a fallen people.  Do the markings they bear depict the history of their downfall, or portents of a future yet to pass?  Whatever you believe, they make fine decoration, though some of the symbols look strangely familiar..."
+item.BrokenSword.*.1,Broken Ancient Sword,This rusted and dusty artifact shows signs of great use in some war of ages past.  It should be examined in an Archeological Workbench to see if it can be salvaged.
+item.AncientSword.*.1,Ancient Sword,"Flames run up and down the edges of this ancient blade, and the markings inscribed there seem to burn with fury.   Among these fiery and indeciperable writings is one that seems to show a man weilding both this sword and a similar helm as two parts of a whole.  Striking an enemy with this weapon of power will cause fire to burst forth in a wide area. "
+item.FernSeed.*.1,Fern Seeds,"These ancient seeds have survived the passing of the eons and can still flourish in the modern age.  They only can grow under trees, and slowly spread as times passes.  Once grown, the ferns are the preferred food of most giant herbivores.
+"
+item.Brokenhelmet.*.1,Broken Ancient Helmet,This rusted and dusty artifact shows signs of great use in some war of ages past.  It should be examined in an Archeological Workbench to see if it can be salvaged.
+item.Ancienthelmet.*.1,Ancient Helmet,"While somewhat flimsy, this eon-old helmet gives off an aura of great power.  Inscribed along the inner rim are symbols that seem to depict a man weilding a similar sword, leading an army of distorted, piglike companions through a river of fire."
+item.SkullStick.*.1,Skull Stick,"A relic left behind by some witch-doctor of long ago, this wand doesn't seem to do much.  However, on close inspection, it is covered in symbols showing a drum surrounded by raging dinosaurs..."
+DNAtriceratops.*.1,DNA of triceratops,These recovered ancient DNA fragments just may be enough to produce a viable organism.  Put them in a Cultivator and let science take its course!
+DNAraptor.*.1,DNA of velociraptor,These recovered ancient DNA fragments just may be enough to produce a viable organism.  Put them in a Cultivator and let science take its course!
+DNATRex.*.1,DNA of Tyrannosaurus,These recovered ancient DNA fragments just may be enough to produce a viable organism.  Put them in a Cultivator and let science take its course!
+DNAPterosaur.*.1,DNA of Pterosaur,These recovered ancient DNA fragments just may be enough to produce a viable organism.  Put them in a Cultivator and let science take its course!
+DNANautilus.*.1,DNA of Nautilus,These recovered ancient DNA fragments just may be enough to produce a viable organism.  Put them in a Cultivator and let science take its course!
+DNAPlesiosaur.*.1,DNA of Plesiosaur,These recovered ancient DNA fragments just may be enough to produce a viable organism.  Put them in a Cultivator and let science take its course!
+DNAMosasaurus.*.1,DNA of Mosasaurus,These recovered ancient DNA fragments just may be enough to produce a viable organism.  Put them in a Cultivator and let science take its course!
+DNAStegosaurus.*.1,DNA of Stegosaurus,These recovered ancient DNA fragments just may be enough to produce a viable organism.  Put them in a Cultivator and let science take its course!
+Eggtriceratops.*.1,Egg of triceratops,"After a long repairing process, the cultivator has successfully processed ancient DNA into this viable Triceratops egg.  It will hatch about 5 minutes after being placed on the ground.  If you want to tame the creature, you must be nearby when it hatches (about 6 blocks) or you will not imprint on the animal's conciousness, causing it to be truly wild.  If tamed, you can change how they act by right clicking them with a stick in hand, from Follow (will follow you),  Free Move (will move and eat on its own), or Stay (will not move, no matter how hungry it gets.)  They eat ancient ferns.
+
+Triceratops Behavior:
+
+While in Free mode, they will find ancient ferns or wheat (dropped on the ground) and feed themselves - especially when they are hurt.  You can also feed them wheat by right clicking.  Once they have grown into adults, you can ride them!  While being ridden, the dinosaur won't get hungry and won't age.  Holding the sneak button will make it charge, which can flatten landscapes or enemies."
+Eggraptor.*.1,Egg of velociraptor,"After a long repairing process, the cultivator has successfully processed ancient DNA into this viable Velociraptor egg.  It will hatch about 5 minutes after being placed on the ground.  If you want to tame the creature, you must be nearby when it hatches (about 6 blocks) or you will not imprint on the animal's conciousness, causing it to be truly wild.  If tamed, you can change how they act by right clicking them with a stick in hand, from Follow (will follow you and pick up drops),  Free Move (will move and hunt pigs on its own), or Stay (will stay in place until it gets hungry, when it will try to find a pig to kill.)  They eat pig meat.
+
+Velociraptor Behavior:
+
+Velociraptors always act in groups.  If following a player, he is the leader, and they will attack anything that they regard as a threat to him.  They are quite intelligent, however, and fully understand betrayal:  If the leader attacks one of the group, they will quickly turn on him/her.  They will hunt pigs, and wild raptors will form hunting packs on their own.  They will also pick up any free items on the group and hold them in their mouths.  Right clicking a tamed raptor with an item in hand will give it to raptor, and right clicking with empty hands will cause it to give you whatever it's holding.  They can even learn to operate chests, if you let them stay near one long enough!"
+EggTRex.*.1,Egg of Tyrannosaurus,"After a long repairing process, the cultivator has successfully processed ancient DNA into this viable Tyrannosaur egg.  It will hatch about 5 minutes after being placed on the ground.  If you want to tame the creature, you must be nearby when it hatches (about 6 blocks) or you will not imprint on the animal's conciousness, causing it to be truly wild.  If tamed, you can change how they act by right clicking them with a stick in hand, from Follow (will follow you),  Free Move (will move and hunt on its own), or Stay (will stay in place until it gets hungry, at which time it will go try to find meat.)  They eat anything that moves, including you!
+
+Tyrannosaur behavior:
+
+As a baby, a wild tyrannosaur is very shy, and will run from any players nearby.  It will find a hunting range and generally stay there.  Once it is grown, it will attack anything that enters this territory, and is strong enough to break most blocks that get in the way.  Its thick hide is impenetrable to arrows.
+
+If tamed, they won't break any blocks but tree blocks, and wont attack the player.  Once they have grown into adults, you can ride them!  While being ridden, the dinosaur won't get hungry and won't age.  Holding the sneak button will make it charge, which can flatten landscapes or enemies.  You are also arrow immune while riding a Tyrannosaur.   CAUTION:  Stay away from water, as the T-Rex can't swim!
+"
+EggPterosaur.*.1,Egg of Pterosaur,"After a long repairing process, the cultivator has successfully processed ancient DNA into this viable Pterosaur egg.  It will hatch about 5 minutes after being placed on the ground.  If you want to tame the creature, you must be nearby when it hatches (about 6 blocks) or you will not imprint on the animal's conciousness, causing it to be truly wild.  If tamed, you can change how they act right clicking them with a stick in hand, from Follow (will follow you),  Free Move (will move and try to feed itself), or Stay (will stay in place).  They eat fish and must be fed them by you.
+
+Pteosaur behavior:
+
+Pterosaurs can fly on their own after 5 days but still mostly depend on you for food, so don't forget to fill your Feeder!  After 8 days, you can ride them.  To the sky, Silver!!!"
+ShellNautilus.*.1,Living Nautilus,"This ancient shelled creature can either be released into water by right clicking or cooked into a delicious treat.  If too many of them occupy too small of an area, they will mysteriously kill themselves off to make room for more.  When they die, they drop magic shells you can use to give orders to Plesiosaurs, and you can also catch them again if you want to relocate them by right clicking."
+EggPlesiosaur.*.1,Egg of Plesiosaur,"After a long repairing process, the cultivator has successfully processed ancient DNA into this viable Plesiosaur egg.  It will hatch about 5 minutes after being placed in water.  If you want to tame the creature, you must be nearby when it hatches (about 6 blocks) or you will not imprint on the animal's conciousness, causing it to be truly wild.  You can give them orders using a Magic Conch acquired from a dead nautilus. They eat fish.
+
+Plesiosaur behavior:
+
+Plesiosaurs are amphibious dinosaurs that feed on fish.  They can find fish (dropped on the ground) and feed themselves, or you can feed them yourself.  They can't jump at all, so if you want them to come onto land, you must build a platform of slabs or stairs they can use to climb up.  After 14 days of age, you can ride them.  While in the water, holding sneak will cause the dinosaur to dive, and holding still will make it surface."
+EggMosasaurus.*.1,Egg of Mosasaurus,"After a long repairing process, the cultivator has successfully processed ancient DNA into this viable Mosasaurus egg.  It will hatch about 5 minutes after being placed in the water.  They eat anything that moves, including you!
+
+Mosasaurus behavior:
+
+These massive water dinosaurs are completely untamable and very ferocious.  When hungry they will eat any type of water creature, or unfortunate humans that they detect.  They can destroy boats and drop everyone onboard in the water, where they are usually easy prey."
+EggStegosaurus.*.1,Egg of Stegosaurus,"After a long repairing process, the cultivator has successfully processed ancient DNA into this viable Stegosaurus egg.  It will hatch about 5 minutes after being placed on the ground.  If you want to tame the creature, you must be nearby when it hatches (about 6 blocks) or you will not imprint on the animal's conciousness, causing it to be truly wild.  If tamed, you can change how they act by right clicking them with a stick in hand, from Follow (will follow you),  Free Move (will move and eat on its own), or Stay (will not move, no matter how hungry it gets.)  They eat ancient ferns.
+
+Stegosaurus Behavior:
+
+While in Free mode, they will find ancient ferns or wheat (dropped on the ground) and feed themselves - especially when they are hurt.  You can also feed them wheat by right clicking.  For obvious reasons, you can't ride them."
+item.Gen.*.1,Scarab Gem,These beautiful symbols of rebirth were sacred to an ancient civilization.  They retain mystic properties that can be used to imbue your tools with special properties.
+item.GenAxe.*.1,Scarab Axe,Using an ancient process to reforge a tool with holy Scarab gems vastly increases its power.  It is functionally equivalent to the diamond version and is also quite decorative.  It can be easily repaired by placing it on an Archeology Workbench.
+item.GenPickaxe.*.1,Scarab Pickaxe,Using an ancient process to reforge a tool with holy Scarab gems vastly increases its power.  It is functionally equivalent to the diamond version and is also quite decorative.  It can be easily repaired by placing it on an Archeology Workbench.
+item.GenSword.*.1,Scarab Sword,Using an ancient process to reforge a sword with holy Scarab gems vastly increases its power.  It is functionally equivalent to the diamond version and is also quite decorative.  It can be easily repaired by placing it on an Archeology Workbench.
+item.GenHoe.*.1,Scarab Hoe,Using an ancient process to reforge a tool with holy Scarab gems vastly increases its power.  It is functionally equivalent to the diamond version and is also quite decorative.  It can be easily repaired by placing it on an Archeology Workbench.
+item.GenShovel.*.1,Scarab Shovel,Using an ancient process to reforge a tool with holy Scarab gems vastly increases its power.  It is functionally equivalent to the diamond version and is also quite decorative.  It can be easily repaired by placing it on an Archeology Workbench.
+item.DinoPedia.*.1,DinoPedia,"This vast tome contains a wealth of information about dinosaurs.  Simply hold it and right click a dinosaur to learn all about it, including how it feels at the moment."
+item.TRexTooth.*.1,T-Rex Tooth,"""Those in the upper jaw were larger than those in all but the rear of the lower jaw. The largest found so far is estimated to have been 30 centimetres (12 in) long including the root when the animal was alive, making it the largest tooth of any carnivorous dinosaur yet found.""--  This tremendous fang could make a deadly weapon."
+item.ToothDagger.*.1,Tooth Dagger,"This dagger, crafted from the tooth of a Tyrannosaur, functions as both a weapon and sheep shears.  Right click to harvest wool or leaves, and left click to stab a foe!  RRAAH, CAVEMAN!!!"
+item.RawChickenSoup.*.1,Raw Chicken Soup,"Raw chicken in a bowl of water.  Doesn't sound very appetizing, does it?   When cooked, it will make a good food for your ancient pets."
+item.ChickenEss.*.1,Essence of Chicken,"This is the very essence of life itself, distilled from a chicken through a rather morbid process.  While it won't feed you, it will greatly increase the growth rate of any dinosaurs you give it to.  Also has great value as a hair tonic - If you're, you know, a little thin on top.  Not saying you are, just.. maybe you should try it!"
+item.EmptyShell.*.1,Empty Shell,"Dropped by a dead nautilus, this shell can be blown to change a single Plesiosaur's order status.
+"
+item.SioChiuLe.*.1,Sio-Chiu-Le,"A delicious snack made by cooking a living Nautilus to perfection.  If a hungry Mosasaurus is after you, dropping one of these just may distract it long enough to allow you get to away."
+item.MagicConch.0.1,Magic Conch:Stay,"Dropped by a dead nautilus, this shell can be blown to give orders to a group of Plesiosaurs.  Change the order type by putting it into a crafting area.
+"
+item.MagicConch.1.1,Magic Conch:Follow,"Dropped by a dead nautilus, this shell can be blown to give orders to a group of Plesiosaurs.  Change the order type by putting it into a crafting area.
+"
+item.MagicConch.2.1,Magic Conch:Free move,"Dropped by a dead nautilus, this shell can be blown to give orders to a group of Plesiosaurs.  Change the order type by putting it into a crafting area.
+"
+Meattriceratops.*.1,Meat of triceratops,"Meat. You can eat it raw, but it would probably taste better cooked."
+Meatraptor.*.1,Meat of velociraptor,"Meat. You can eat it raw, but it would probably taste better cooked."
+MeatTRex.*.1,Meat of Tyrannosaurus,"Meat. You can eat it raw, but it would probably taste better cooked."
+MeatPterosaur.*.1,Meat of Pterosaur,"Meat. You can eat it raw, but it would probably taste better cooked."
+MeatNautilus.*.1,Meat of Nautilus,"Meat. You can eat it raw, but it would probably taste better cooked."
+MeatPlesiosaur.*.1,Meat of Plesiosaur,"Meat. You can eat it raw, but it would probably taste better cooked."
+MeatMosasaurus.*.1,Meat of Mosasaurus,"Meat. You can eat it raw, but it would probably taste better cooked."
+MeatStegosaurus.*.1,Meat of Stegosaurus,"Meat. You can eat it raw, but it would probably taste better cooked."
+item.CookedDinoMeat.*.1,Dino Steak,"Mmmmh, Dinosaur steak."
+EmbyoPig.*.1,Embryo of Pig,"This cloned embryo was grown in a cultivator using animal DNA.  You can inject it into a host mother, who will carry it through term.  Assuming nothing goes wrong, it will eventually be born, and you will have a shiny new super-scientific animal clone!  You can use a Dino-Pedia on the host mother to track the progress of the implanted embryo for the real mad scientist feel."
+EmbyoSheep.*.1,Embryo of Sheep,"This cloned embryo was grown in a cultivator using animal DNA.  You can inject it into a host mother, who will carry it through term.  Assuming nothing goes wrong, it will eventually be born, and you will have a shiny new super-scientific animal clone!  You can use a Dino-Pedia on the host mother to track the progress of the implanted embryo for the real mad scientist feel."
+EmbyoCow.*.1,Embryo of Cow,"This cloned embryo was grown in a cultivator using animal DNA.  You can inject it into a host mother, who will carry it through term.  Assuming nothing goes wrong, it will eventually be born, and you will have a shiny new super-scientific animal clone!  You can use a Dino-Pedia on the host mother to track the progress of the implanted embryo for the real mad scientist feel."
+DNAPig.*.1,DNA of Pig,These recovered DNA fragments just may be enough to produce a viable and relatively mutation-free clone.  Put them in a Cultivator and let science take its course!
+DNASheep.*.1,DNA of Sheep,These recovered DNA fragments just may be enough to produce a viable and relatively mutation-free clone.  Put them in a Cultivator and let science take its course!
+DNACow.*.1,DNA of Cow,These recovered DNA fragments just may be enough to produce a viable and relatively mutation-free clone.  Put them in a Cultivator and let science take its course!
+DNAChicken.*.1,DNA of Chicken,These recovered DNA fragments just may be enough to produce a viable and relatively mutation-free clone.  Put them in a Cultivator and let science take its course!
+
+
+
+
+
+,VERSION: 5.4
+,Credits:,"JonReed(Code & Actual Names), nukularpower(Most Descriptions), Oswarlan(Descriptions), pwnedgod(Attempted to fix Code names)"
+
+,,nukularpower;  is this working now? Nope - code names in red do not work
+
+
+
+
+
+
+,,"who keeps deleting the ""item."" ? -JonReed- I do becuase that is not how it appears in game."

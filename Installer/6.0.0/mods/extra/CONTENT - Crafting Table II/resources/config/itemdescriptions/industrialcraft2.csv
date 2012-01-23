@@ -1,0 +1,303 @@
+Code name,Actual name,Description
+"-DO NOT EDIT THIS FIELD- ""type.name.dmgval.version""",This is the Actual Name of a Object,Description of the object
+Item/Block Description detection are fucked. Leave them alone for now.
+"IF YOU USE THE INFO THE WIKI. PLEASE CHANGE THEM TO BE MORE CONVENEINT AND NOT USING EVERYDAY SENTANCE(heyo, etc)"
+
+
+Ore related Items and Blocks
+
+item.itemDustCoal.*.1,Coal Dust,Used for making Carbon Plates and Industrial Diamonds.
+item.itemDustIron.*.1,Iron Dust,Smelted into Iron Ingots
+item.itemDustGold.*.1,Gold Dust,Smelted into Gold Ingots
+item.itemDustCopper.*.1,Copper Dust,Smelted into Copper Ingots.  3 Copper Dusts can be combined with one Tin Dust to make Bronze Dust.
+item.itemDustTin.*.1,Tin Dust,Smelted into Tin Ingots.  One Tin Dust can be combined with 3 Copper Dusts to make Bronze Dust.
+item.itemDustBronze.*.1,Bronze Dust,Smelted into Bronze Ingots. Made from 3 tin dusts and 1 copper dust.
+item.itemDustIronSmall.*.1,Small Pile of Iron dust,Used for making an Iron Dust Pile
+item.itemIngotAdvIron.*.1,Refined Iron Ingot,An ingot of Refined Iron. Used in circuits and other industrial applications.
+item.itemIngotCopper.*.1,Copper Ingot,An ingot of Copper. Used for cables and other industrial applications.
+item.itemIngotTin.*.1,Tin Ingot,An ingot of Tin. Used for cells and other industrial applications.
+item.itemIngotBronze.*.1,Bronze Ingot,An ingot of Bronze. Used for wrenches and other industrial applications.
+item.itemIngotAlloy.*.1,Mixed Metal Ingot,An ingot of Mixed Metal. Used in the production of Advanced Alloy. That's it.
+item.itemOreUran.*.1,Uranium Ore,"Raw Resource.  Place in a compressor to produce Refined Uranium, which can be used as a nuclear fuel."
+item.itemIngotUran.*.1,Refined Uranium,A fuel used for Nuclear reactor. May contain some radiation!
+item.itemDustSilver.*.1,Silver Dust,Dust of silver. Smelt into silver ingots.
+tile.blockOreCopper.*.1,Copper Ore,Just the ore of the copper. Nothing much. Macerate into two copper dusts. Commonly found near the surface.
+tile.blockOreTin.*.1,Tin Ore,Just the ore of the tin. Nothing much. Macerate into two tin dusts.
+tile.blockOreUran.*.1,Uranium Ore,The ore block of Uranium. This is not the Item version.
+tile.blockMetalCopper.*.1,Copper Block,Block of copper.
+tile.blockMetalTin.*.1,Tin Block,Block of tin.
+tile.blockMetalBronze.*.1,Bronze Block,Block of Bronze.
+tile.blockMetalUranium.*.1,Uranium Block,Block containing Uranium.
+
+Machines and Generators
+
+tile.blockIronFurnace.*.1,Iron Furnace,"An improved version of the normal furnace, it is more fuel efficient, using 1 coal/10 items, and is also used in various crafting recipes."
+tile.blockMachine.*.1,Machine Block,Used in the making of basic machines.
+tile.blockAdvMachine.*.1,Advanced Machine Block,Used in the making of advanced machines.
+tile.blockElecFurnace.*.1,Electric Furnace,"An improved version of the Iron Furnace, it runs off electricity and operates at the same speed as an iron furnace.
+Maximum Input: 32 EU/t"
+tile.blockMacerator.*.1,Macerator,"The Macerator is an all purpose grinding machine, capable of breaking down many ores and other items into their base components. They're capable of turning ores into 2 dusts of the ore.
+Maximum Input: 32 EU/t"
+tile.blockCompressor.*.1,Compressor,"The Compressor is commonly used to craft Advanced Alloys, Carbon Plates, Industrial Diamonds, and Compressed Plantclumps. It can also make snowballs and ice. In addition, it is used for the intermediate stages of crafting many items. The Compressor has a pressure of over 4000 Gibbl.  That's a lot!
+Maximum Input: 32 EU/t"
+tile.blockExtractor.*.1,Extractor,"The Extractor is used to extract Rubber from Resin, as well as Coalfuel Cells from H. Coal Cells and Biofuel Cells from Bio Cells.
+Maximum Input: 32 EU/t"
+tile.blockCanner.*.1,Canning Machine,"The Canning Machine puts food into Tin Cans, which unlike normal food, can be stacked up to 64. It also is used to refill Fuel Cans and Jetpacks.
+Maximum Input: 32 EU/t"
+tile.blockRecycler.*.1,Recycler,"The Recycler is a machine that can consume any block or item. During operation, it has a small chance of producing Some random scrap, which has further uses.
+Maximum Input: 32 EU/t"
+tile.blockInduction.*.1,Induction Furnace,"The Induction Furnace is an advanced version of the Electro Furnace. It has the ability to process 2 stacks of items simultaneously. Doing so will also save 50% of the energy that would have been used had every stack been smelted by itself. The hotter the furnace gets, the faster the smelting goes.
+Maximum input: 128 EU/t"
+tile.blockMatter.*.1,Mass Fabricator,"The Mass Fabricator is an advanced machine that requires 1,000,000 EU to perform its function. It is a considerably high-cost piece of technology that is capable of producing the mysterious and futuristic UU-Matter. This material in turn is capable of being formed into almost anything in Minecraft, with some exceptions, and can be used to craft extremely futuristic devices and equipment.  You can greatly speed up the matter-generation process by putting scrap in the Fabricator.
+Maximum Input: 512EU/t"
+tile.blockTerra.*.1,Terraformer,"So what do you do with all the Advanced Machines and Advanced Circuits you have lying around?  Well, you build something new. Something amazing. Something incredibly future-like with immense resource costs!
+
+The Terraformer!!!
+
+To operate, the Terraformer must be powered by cable (for example from an MFE). To tell a Terraformer what it is actually supposed to do, you must craft a TFBP and program it. The terraformer can work very energy-efficiently, and depending on your choice of program, can even last multiple DAYS until running out of power. On the other hand, it will consume all the power it can get and may drain VAST amounts of energy if you allow it to."
+tile.blockMiner.*.1,Miner,"The Automated Miner allows you to mine Ores from the surface without going into caves or using mining techniques such as branch, strip or stair case mining.  The miner must be supplied with Mining Pipe and power to function, as well as an OD or OV scanner to set the horizontal range it will process. "
+tile.blockMiningPipe.*.1,Mining Pipe,Mining Pipes are used by the Automated Miner for digging down
+tile.blockMiningTip.*.1,Mining Pipe,Mining Pipes are used by the Automated Miner for digging down
+tile.blockPump.*.1,Pump,The Pump is a tier 2 technology machine capable of absorbing liquids and compressing them into a cell.
+tile.blockMagnetizer.*.1,Magnetizer,"The Magnetizer can be used to turn Iron Fences stacked onto one another into a powerful elevator. Upon powering the Magnetizer, it idles without consuming any EU. "
+tile.blockElectrolyzer.*.1,Electrolyzer,"Put the Electrolyzer next to an MFE or MFSU and it'll take some power to convert Water Cells into Electrolyzed Water Cells. Electrolyzed Water Cells can be used to store power for later usage.
+Maximum Input: 128 with MFE or 512 with MFSU"
+tile.blockGenerator.*.1,Generator,"Generators are used to either supply direct power to machines or charge RE Batteries. The basic Generator operates on conventional fuel, which includes most wooden items, coal, certain plants, and scrap.
+Output: 10EU/t."
+tile.blockTeleporter.*.1,Teleporter,"Teleporters are highly-complex, super-modern pieces of extremely-hayoish-awesome technology, capable of teleporting an infinite number of objects, excluding solid matter in form of blocks, to another Teleporter.  Two teleporters must be linked together with a FreqTrans to function.  They are among the most power-hungry machines available, and it is recommended to place energy storage devices directly adjacent to them for the teleporter to draw from, rather than powering them via cable."
+tile.blockTesla.*.1,Tesla Coil,"How do you defend your well-terraformed, expensive industrial landscape from pesky animals/creepers/weirdos/thieves? Try a TESLA COIL!  A Tesla Coil, already used by the Soviets to defend against the combined Allied army in the second altered-realm World War, is highly effective, medium-ranged and absolutely deadly. When switched on via redstone and supplied with adequate power, it will zap any living creature nearby with a lethal energy bolt.  Maximum Input: 128 EU/t"
+tile.blockBatBox.*.1,Batbox,"The BatBox is the most basic energy storage device. It is able to store up to forty thousand EU, and can accept currents of up to 32 EU/s from any of its 5 input faces. It can also emit a current of up to 32 EU/s from its output face."
+tile.blockMFE.*.1,MFE,"The Multi-Functional Electric storage unit, or MFE, is a Tier 2 energy storage device. It is able to store up to 600,000 EU, and can accept a maximum current of 128 EU/s from all 5 input faces combined. It can also emit a current of up to 128 EU/s from its output face."
+tile.blockMFSU.*.1,MFSU,"The Multi-Functional Storage Unit, or MFSU, is a Tier 3 energy storage device. It is able to store up to 10 million EU, and can accept a maximum current of 512 EU/t from each of the 5 input faces. It can also emit a current of 512 EU/t from its output face (the face with a dot)."
+tile.blockTransformerLV.*.1,LV-Transformer,The Low Voltage Transformer is used to turn Medium Voltage (MV) EU current into Low Voltage (LV) and back. This is useful for powering basic machines.
+tile.blockTransformerMV.*.1,MV-Transformer,The Medium Voltage Transformer is used to turn High Voltage (HV) EU current into Medium Voltage (MV) and back. This is useful for powering advanced machines and for medium-range energy transport.
+tile.blockTransformerHV.*.1,HV-Transformer,The High Voltage Transformer is used to turn Extreme Voltage (EV) EU current into High Voltage (HV) and back. This transformation is useful for carrying EU over extreme distances without significant losses.
+tile.blockGeoGenerator.*.1,Geothermal Generator,"A Geothermal Generator works on the same basic principle as normal Generators do. Geothermal generators use the heat of Lava to generate electricity and accept both lava buckets and lava cells as fuel, making them ideal for portable power when exploring underground.
+Output: 20 EU/t."
+tile.blockWaterGenerator.*.1,Water Mill,"The Water Mill produces EU by either having a Water Bucket placed in its lower slot, or being surrounded by running or still water.
+Maximum output:  2 EU/t."
+tile.blockSolarGenerator.*.1,Solar Panel,"Solar Panels are generators that utilize the energy of the Sun to generate EU. This fact means that they cannot work underground (unless there is an unobstructed view of the sky) or in the Nether. They also don't work at night or during storms.
+Outputs 1 EU/t (13050 EU/day)."
+tile.blockWindGenerator.*.1,Wind Mill,"Wind Mills are Generators that utilize the energy of the wind to produce EU. They are the most unstable and unpredictable type of generators, depending greatly upon both placement and pure luck."
+tile.blockNuclearReactor.*.1,Nuclear Reactor,"The Nuclear Reactor is the most powerful EU generator in existance. They're fueled by Uranium cells and can easily overheat and explode unless Coolant Cells, Intergrated Reactor Plating and/or Integrated Heat Dispersers are put inside. Use with caution!  They can be expanded to have a greater holding capacity by attaching Reactor Chambers.  "
+tile.blockReactorChamber.*.1,Reactor Chamber,The Reactor Chamber's purpose is to expand the Nuclear Reactor. It allows it to process more Uranium.
+
+Cables
+
+item.itemTinCable.*.1,Ultra-low-current-cable,"Tin cables can only tolerate up to 5 EU/t, but are very cheap and have extremely low energy loss. In fact, only 1 EU is lost every 40 blocks—the same loss as diamond wire. However, keep in mind that energy loss is calculated per EU packet, so tin cables actually lose over 100x more energy when carrying the same total EU. These wires cannot be insulated, so they cannot be painted. They are also prone to electrocuting nearby objects, so be careful."
+item.itemCableO.*.1,Uninsulated Copper Cable,"Copper cables are Tier 1, the most common cable tier. They are only capable of handling Low Voltage (up to 32 EU/t); however, they suffer the smallest distance-related energy losses out of all the conventional cables (~1 EU every 3.33 blocks), with insulated copper cables having even less energy loss."
+item.itemCable.*.1,Copper Cable,"They're just about the same as the normal version, but are safer and suffer less distance-related energy loss. (1 EU every 5 blocks)"
+itemGoldCable.2.1,Gold Cable,"Gold cables are Tier 2. They suffer higher distance-related energy losses than copper cables (1 EU every 2 blocks), but are able to carry Medium Voltage, up to 128 EU/s."
+item.itemGoldCableI.*.1,Insulated Gold Cable,Pretty much the same as the normal version but safer and suffer less distance-related energy loss. (~1 EU every 2.22 blocks)
+item.itemGoldCableII.*.1,2x Ins. Insulated Gold Cable,"They're almost the same as 1x version. However, they're more effective because they have even less energy loss, at 1 EU every 2.5 blocks."
+item.itemIronCable.*.1,HV Cable,"HV cables are the highest tier conventional cables. They can tolerate High Voltage (512 EU/s) and Extreme Voltage (2048 EU/s), but have an extremely high distance-related energy loss—1 EU every block! HV cables can have 3 different levels of insulation. Considering that a shock from a poorly insulated HV cable will most likely prove fatal, it is recommended to insulate them well unless the cable is located in a completely unreachable area. Even then, insulation should be applied to reduce the massive energy losses."
+item.itemIronCableI.*.1,Insulated HV Cable,Insulted HV Cable is much safer than the uninsulated version and suffers less distance-related energy loss. (~1 EU every 1.05 blocks) The insulation level on this cable is the lowest that it can be.
+item.itemIronCableII.*.1,2x Ins. Insulated HV Cable,"Twice the insulation as the base cable, these are functionally the same as the 1x version, but are more effecient because they have slightly less energy loss. (~1 EU every 1.11 blocks)"
+item.itemIronCableIIII.*.1,4x Ins. Insulated HV Cable,"Four times the insulation of the base cable, these are functionally the same as the 1x version but more effecient because they have less energy loss. (1 EU every 1.25 blocks)"
+item.itemGlassCable.*.1,Glass Fibre Cable,"The most expensive, and the most efficient cable type, Glass Fibres suffer very little distance-related energy loss. They tolerate currents up to High Voltage (512 EU/s). Due to latest quality standards of Glass fiber cables only the highest quality materials can be utilized, resulting in reduced cable lengths from the same materials.  Energy loss is 1 EU every 40 blocks."
+item.itemCable.11.1,EU Detector Cable,"The Detector Cable is a special cable which outputs a redstone current when EU is flowing through it. With a storage block nearby, it can be used to detect overflow. Able to handle EU Packets up to 512 with energy loss 0.025 per block."
+item.itemCable.12.1,EU Splitter Cable,The Splitter Cable is a special cable which prevents EU from flowing through it when a redstone current is applied. Will accept only direct redstone current. Handle EU Packets up to 512 with 0.025 loss per block.
+
+Misc. Blocks
+
+tile.blockNuke.*.1,Nuke,TNT not enough for you? Then this is for you. Made from Refined Uranium and piled with massive power. Beware of radiation!  Nukes are 5 times as effective as TNT.
+tile.blockITNT.*.1,Industrial TNT,"Did anyone yet notice that mining can be grey, plain and boring, even with a Mining Drill? Now, of course it is, because it's still hard work and a hell of a lot of stone to mine through. Some people claim TNT-mining to be far more fun; and for sure it is. On the downside however, using TNT to mine stuff reduces your overall mineral gain by 70% due to explosion casualties, not to mention the extreme danger of working with explosives... For this sole reason, we invented industrial TNT.
+
+Splitting up the charges and adding some nice cutting material results in the explosion caused by our patented ITNT to be much more useful: It has less direct power, which means no more accidental suicides or destroyed ore. "
+tile.blockAlloy.*.1,Reinforced Stone,"The combination of Stone and the Advanced Alloy yields Reinforced Stone.  This material is explosion resistant, and is a good choice for building a Creeper/TNT safe bunker.  Reinforced Stone can even withstand a nuclear explosion, if you build a wall at least 4 blocks thick. It can also be used to craft the Reinforced Door."
+tile.blockAlloyGlass.*.1,Reinforced Glass,"You can use Alloy plates to reinforce glass.  Sure, it's still glass and thus not completely unbreakable, but at least your entire glass house won't blow up in an instant."
+tile.blockRubWood.*.1,Rubber wood,"Rubber Wood is the component of Rubber Trees. It can be extracted into 1 Rubber. Sometimes, Rubber Wood blocks have a yellowish Resin Hole. Right clicking this spot with a Treetap will produce 1-3 Sticky Resin, which can be smelted into 1 Rubber each in any furnace or extracted in an Extractor into 3 Rubber.
+
+Be aware that right clicking an empty (dark) Resin Hole may produce extra Resin, but is very likely to permanently remove the Resin Hole. Therefore, it is advised to be careful when extracting Resin."
+tile.blockRubSapling.*.1,Rubber Tree Sapling,The sapling of the rubber tree.
+tile.blockRubber.*.1,Rubber sheet,A plain sheet of rubber that smells like old tires.
+tile.blockLuminator.*.1,Luminator,Luminator lights up are when 0.25 EU are applied into it.
+tile.blockFoam.*.1,Construction Foam,"Can be used with a CF Sprayer for distribution. Try surrounding an area with scaffolding and shooting some construction foam into it to create walls or various shapes. The foam will expand into several blocks and eventually dry into a hard material. Excellent for building foundations and city walls. Presents interesting opportunities to both drown and suffocate if used incorrectly. ""Wet"" blocks can now be instantly dried by applying sand!"
+tile.blockScaffold.*.1,Scaffold,"Scaffolds are easy to place construction helpers that are usually used to construct frames for filling with Construction Foam.  Though they are slightly unstable and need support by other scaffolds below, they are easy to set up / demolish AND even act as ladders for reaching the building's top easily."
+tile.blockCable.*.1,Cable the Block,(BLOCK VERSION OF CABLE)
+tile.blockPersonalChest.*.1,Personal Safe,"Tired of griefers and thieves stealing your stuff? Then use the personal safe!  Once placed and first rightclicked by yourself, only you can open it or destroy it."
+tile.blockPersonalTrader.*.1,Trade-o-mat,Trading station that accepts Industrial Credits as currency.
+tile.blockFenceIron.*.1,Iron Fence,"The Iron Fence can serve as a normal fence, but its primary function is to replace the function of ladders. Iron Fences can be stacked on top of one another, and if a player approaches the resulting pole while holding the Crouch button, he will quickly slide down the pole, much faster than down a ladder, though still not fast enough to receive fall damage upon touching the ground.
+
+Furthermore, if powered by a Magnetizer, the Iron Fence can serve as a type of elevator, quickly propelling upwards any players with metal shoes equipped who approach it."
+,Rubber Trampoline,"The rubber trampoline is a highly advanced piece of rubber capable of doing one amazing thing: Bouncing you!  Jumping off of a height onto this rubberized sheet will cause you to bounce back up, effectivly negating fall damage while having fun!
+
+Be warned, the rubber sheet will not prevent injury from a very high fall! (approximately 11 blocks.)
+
+The rubber trampoline must be connected on at least 2 sides to blocks on the same level as it, and must have a gap underneath, similar to a real trampoline."
+Items,,"Be warned, the rubber sheet will not prevent injury from a very high fall(approximately 11 blocks)!"
+,,"The rubber trampoline must be connected on at least 2 sides to blocks on the same level as it, and must have a gap underneath, similar to a real trampoline."
+item.itemBatRE.*.1,RE Battery,"Rechargeable battery.  If you hold a battery and right click, it will re-energize tools such as chainsaws and drills that might have run low on power."
+item.itemBatCrystal.*.1,Energy Crystal,"These neat little pieces of future technology are the commonly used energy storage device for all REALLY Advanced Machines.  Yes, it can even get more advanced than the Macerator!
+
+However, newly created Energy Crystals do not contain energy, at all. None. Zero. Being so super-awesome and advanced, before used, they must first be charged in either an MFE Unit or MFS Unit. HAYO!!"
+item.itemBatLamaCrystal.*.1,Lapotron Crystal,"By combining the Lapis Lazuli's Current-Storage abilities with an Energy Crystal, one can create a device capable of storing ONE MILLION EU.  However, as most devices are incapable of handling this power, only an MFSU can (dis)charge these crystals."
+item.itemBatREDischarged.*.1,Discharged RE Battery,"Of course we don't want to bore you with some random details of the T500-Rechargeable Energy Storage Unit, so we'll just tell you this:
+
+If one piece of coal would store 3000 units of power, our RE Battery's power level would be OVER NINE-THOUSAND! Take that, Vegeta! One lil' battery can smelt your entire everything to something else!
+
+Ah, and we didn't mention the big feature of our beloved little gadget yet: It's fully rechargeable and completely indestructible. We're serious. You can use it as often as you like, it will never break of material exhaustion!"
+item.itemBatSU.*.1,Single Use Battery,"Also known as the T501-Non-Rechargeable Energy Storage Unit, each Single-Use Battery can store up to 1000 EU. That's 9000 EU less than their rechargeable counterparts... and you can't recharge them. However, they are much easier to produce in quantities and are easier to transport."
+item.itemCellEmpty.*.1,Empty Cell,"Empty cells can be used to store Lava, Uranium, Water and much more."
+item.itemCellLava.*.1,Lava Cell,Cell filled with lava. Used for fuel in geothermal generator.
+item.itemCellWater.*.1,Water Cell,Cell filled with water. Compress into Coolant cell or Electrolylze into Electrolyzed Water Cell.
+item.itemCellCoolant.*.1,Coolant Cell,Coolant Cell is used for coolant in Nuclear reactor. Place the cell around the Uranium Cell for coolant.
+item.itemCellWaterElectro.*.1,Electrolyzed Water Cell,Water Cell that is Electrolyzed. Do not touch without a rubber glove!
+item.itemCellUran.*.1,Uranium Cell,Cell filled with uranium. They're what you use in Nuclear Reactor.
+item.itemCellBio.*.1,Bio Cell,"Bio Cells are crafted with Compressed Plants and can be extracted to Biofuel Cells, which can later be used to fill Empty Fuel Cans."
+item.itemCellUranDepleted.*.1,Depleted Isotope Cell,"The Depleted Isotope Cell is obtained by combining a Near-Depleted Uranium Cell with Coal Dust. After this, it can be enriched in a Nuclear Reactor to create a Re-Enriched Uranium Cell. Enriching is performed by surrounding the Depleted Isotope Cell with one or more Uranium Cells. This will cause the uranium cells to pulse an additional time. This pulse will recharge the isotope, producing heat but no EU."
+item.itemCellUranEnriched.*.1,Re-Enriched Uranium Cell,"Re-Enriched Uranium Cells are the result of enriching a Depleted Isotope Cell in a Breeder type Nuclear Reactor. After enrichment, it can be combined with Coal Dust to create a brand new Uranium Cell."
+item.itemCellUranEmpty.*.1,Near-depleted Uranium Cell,"The Near-Depleted Uranium Cell is rarely produced when Uranium Cells decay in the Nuclear Reactor. It can be enriched to produce a Re-Enriched Uranium Cell. Another way to obtain the Near-Depleted Uranium Cells is to evenly distribute Refined Uranium between 8 Empty Cells. This way, it's possible to increase the energy yield of a single Uranium ingot up to 8-fold. The cell will produce one point of heat each reactor tick but will not interact with any of the adjacent components."
+item.itemCellCoal.*.1,H. Coal Cell,A combination of an empty cell and a compressed hydrated coal clump. Used in an extractor to create coalfuel cells that can be used to fill empty energy cans.
+item.itemCellCoalRef.*.1,Coalfuel Cell,A fully processed coal cell that can be used to refill empty fuel cans.
+item.itemCellBioRef.*.1,Biofuel Cell,Biofuel Cells can be used with the Canning Machine to fill Empty Fuel Can.  The filled fuel cans can then be used in Generators to produce EU. 6 Biofuel Cells are required to fill an Empty Fuel Can.
+item.itemToolWrench.*.1,Wrench,The Wrench allows you to rotate machines or quickly remove them.
+item.itemTinCan.*.1,Tin Can,The Tin Can is used along with the Canning Machine to store food as a stack-able item.
+item.itemTinCanFilled.*.1,(Filled) Tin Can,What delicious snack is contained within this super-high-tech Portable Feeding Unit 2050?  Only one way to find out...
+item.itemHarz.*.1,Sticky Reisin,"Sticky Resin is the substance obtained by tapping Rubber Wood logs with a Treetap, and is rarely dropped when chopping Rubber Wood down.
+
+Sticky Resin can either be smelted or extracted into Rubber (with the latter method producing more Rubber), or placed on the ground, where it acts similar to Soulsand and slows down all mobs and players."
+item.itemToolDrill.*.1,Drill,Pickaxe not enough for you? Get the Drill! The ultimate tool for miners is here. If you got a few diamonds consider upgrading your Drill. The Drill does not break and it is also rechargeable. (Enchantability included!)
+item.itemToolDDrill.*.1,Diamond Drill,Tired of your normal drill not being able to mine Obsidian? Well this tool is the one for you! Just a few pieces of diamond is enough for Obsidian smashing POWER!  The Drill does not break and it is rechargeable. (Enchantability included!)
+item.itemToolChainsaw.*.1,Chainsaw,The Chainsaw is a Lumberjack's ultimate tool. It can also slay mobs without any worry. (Enchantability included!)
+item.itemFuelCoalDust.*.1,Hydrated Coal Dust,"The Compressed Hydrated Coalclump can be obtained by first hydrating Coal Dust using Water buckets, and then compressing them.  It is used to manufacture Hydrated Coal Cells and, ultimately, the Coalfuel Cell."
+item.itemFuelCoalCmpr.*.1,H. Coal,"The Compressed Hydrated Coalclump can be obtained by first hydrating Coal Dust using Water buckets, and then compressing them.  It is used to manufacture Hydrated Coal Cells and, ultimately, the Coalfuel Cell."
+item.itemFuelPlantBall.*.1,Plantball,"The Plant ball is the first stage of a biological source of fuel that is created using tree saplings, sugar canes, cacti or wheat. The Plantball is placed in a Compressor, resulting in a Compressed Plantball."
+item.itemFuelPlantCmpr.*.1,Compressed Plantball,The Compressed Plantball is the product of compressing a Plantball. One Compressed Plantball can be combined with an Empty Cell to create a Bio Cell.
+item.itemScanner.*.1,OD Scanner,"The Ore Density Scanner. Uses 48 EU (out of 10k storage) to scan a 5x5 area around the player to determine how densely packed ores are beneath the player and outputs the ""density rating"" onto the screen. Used by right clicking. Can also be combined with a mining well to give it a 5x5 mining area. Can be upgraded into the more expensive and power-hungry OV Scanner."
+item.itemScannerAdv.*.1,OV Scanner,"The Ore Value Scanner. Uses 250 EU (out of 10k storage) to scan the area beneath the player and determine not only how densely ores are packed, but how valuable the area is given what ores are located there. The more valuable the ores (diamond being the most valuable) the higher the value rating the scanner produces. Can also be combined with a mining well to increase its effective mining range to 9x9."
+item.itemRubber.*.1,Rubber,Rubber is used for insulating cable.
+item.itemDynamite.*.1,Dynamite,Got TNT? Turn it into Dynamite and throw it at a creeper!
+item.itemDynamiteSticky.*.1,Sticky Dynamite,Turn your dynamite into explosives that stick to walls!  Must be thrown to function.
+item.itemRemote.*.1,Dynamite-O-Mote,"The Dynamite-O-Mote (commonly called the Dynamite Remote) can be used to remotely detonate one or multiple Dynamite sticks. This is performed by right-clicking on the stick while holding the Remote. Note that right-clicking with the remote while aiming at a block will NOT detonate the Dynamite, however, right-clicking into the air will do so.
+
+It is possible to have several different Remotes assigned to different sets of Dynamite sticks."
+item.itemTreetap.*.1,Treetap,Treetaps are used for collecting sticky resin from Rubber Trees.
+item.itemArmorRubBoots.*.1,Rubber Boots,"Ever had that problem where you'd fall off a cliff and DIE?
+
+WELL NO MORE!!! Our researchers have recently discovered a NEW usage for Rubber and created Rubber Boots!  Enjoy jumping off of your house! Or getting into your mine without having to use those pesky ladders. It completely degates fall damage up to 10 blocks high!  Great in combination with the Jetpack."
+item.itemArmorJetpack.*.1,Jetpack,"The Jetpack is an equippable tool that allows the player to fly for as long as the fuel in the Jetpack lasts. Flying is performed by holding down the jump key. It also has a Hover Mode, which can be toggled by pressing the H key. In Hover Mode, holding the jump key will make the player slowly descend, while releasing it will disable the Jetpack, hurling the player downwards at normal fall speed. In Hover Mode, the Jetpack uses less fuel.
+
+A fully fuelled Jetpack will function for about 90 seconds. When the fuel gauge reaches about 5%, the Jetpack starts losing its power quickly. It can be completely refilled with either 18 Biofuel Cells or by 6 Coalfuel Cells in a Canning Machine."
+item.itemArmorJetpackElectric.*.1,Electric Jetpack,"The Electric Jetpack is a simpler and easily recharged version of the conventional Jetpack. Flying is performed by holding down the jump key. Unlike the normal Jetpack, the Electric Jetpack is limited to a maximum flying height of 85 meters (blocks) above the bedrock layer.  It also has a Hover Mode, which can be toggled by pressing the H key while in use.  In Hover Mode, holding the jump key will make the player ascend slowly, and the jetpack will automatically slow the player's fall to a similar speed. This feature makes the Electric Jetpack better than the normal Jetpack, as the Hover Mode for the normal Jetpack only has the first feature. Plus, Hover Mode uses less energy!
+
+It can be recharged in an MFE Transmitter or an MFS Unit and requires 30,000 EU to fully charge."
+item.itemToolMiningLaser.*.1,Mining Laser,"The Mining Laser is a powerful high-tech tool with a variety of applications. It can be used as an insta-mining tool with a relatively low EU consumption, as well as a high-power AoE block remover, or even as a weapon. All blocks destroyed by the Laser are dropped, with the exception of non-drop blocks like Glass or Leaves. However, due to the destructive nature of the Laser, there is a chance that the block will be destroyed and not drop anything. IndustrialCraft machines drop a Machine block, as if they were destroyed by a pickaxe. As of 1.337, the Mining Laser can use energy from a LapPack.  
+
+The Mining Laser has 5 different modes. These modes can be switched by holding the M key and right-clicking.  It can be recharged in an MFE Unit or an MFS Unit."
+item.itemReactorPlating.*.1,Integrated Reactor Plating,"The Integrated Reactor Plating is a major component in creating and managing Nuclear Reactors. If placed into the Reactor Grid, it has the ability to instantly redistribute the heat evenly between neighbouring Cooling Cells or other plating. Heat distrubed to a second plating cannot be futher distributed to a third plating even if one is availible. If there are no components cool enough, it will store heat in itself, up to 10.000. The Plating does not cool very well, at a rate of -0.1 heat/tick.
+
+Aside from that, every piece of Integrated Reactor Plating increases the durability of the Reactor Hull by an additional 100 points."
+item.itemReactorCooler.*.1,Integrated Heat Disperser,"The Integrated Heat Dispenser is a Nuclear Reactor component that has the ability to redistribute heat from itself either to neighboring components, or to the Reactor Hull. Every tick, the Integrated Heat Dispenser can add or subtract up to 6 heat from surrounding elements, and dispense up to 25 heat to or from the Reactor Hull. The dispenser will attempt to make the heat level within the Reactor Hull, itself and the adjacent cooling components all equal.
+
+The Integrated Heat Dispenser is also a key component in building a Reactor Chamber."
+item.itemToolBronzePickaxe.*.1,Bronze Pickaxe,"A pickaxe made of bronze, it has x1.5 the durability of iron tools."
+item.itemToolBronzeAxe.*.1,Bronze Axe,"A axe made of bronze, it has x1.5 the durability of iron tools."
+item.itemToolBronzeSword.*.1,Bronze Sword,"A sword made of bronze, it has x1.5 the durability of iron tools."
+item.itemToolBronzeSpade.*.1,Bronze Shovel,"A shovel made of bronze, it has x1.5 the durability of iron tools."
+item.itemToolBronzeHoe.*.1,Bronze Hoe,"A hoe made of bronze, it has x1.5 the durability of iron tools."
+item.itemArmorBronzeHelmet.*.1,Bronze Helmet,"A helmet made of bronze, it has x1.5 the durability of iron armour."
+item.itemArmorBronzeChestplate.*.1,Bronze Chestplate,"A chestplate made of bronze, it has x1.5 the durability of iron armour."
+item.itemArmorBronzeLegs.*.1,Bronze Legs,"Leggings made of bronze, it has x1.5 the durability of iron armour."
+item.itemArmorBronzeBoots.*.1,Bronze Boots
+item.itemPartCircuit.*.1,Electronic Circuit,"Circuits are used to construct Bat-Packs, Jetpacks, Lapotron Crystals, HV Transformers, Advanced Circuits, Miners, Pumps, Canning Machines, Compressors, Electro Furnaces, Extractors, Macerators, Electrolyzers, Personal Safes, TFBPs, and Tesla Coils. They serve no other purpose.
+
+However, as they are used to craft Advanced Circuits, they are also indirectly used to create Integrated Heat Dispensers, Nuclear Reactors, Electric Jetpacks, and Mass Fabricators."
+item.itemPartCircuitAdv.*.1,Advanced Circuit,"Advanced Circuits, like Circuits, are used only in the construction of machines. Advanced Circuits allow for more sophisticated machinery than normal circuits. They are used in the crafting of Integrated Heat Dispensers, Nuclear Reactors, Electric Jetpacks, Mass Fabricators, and TFBPs."
+item.itemPartAlloy.*.1,Advanced Alloy,"Placing a Metal Block in a Compressor yields the Advanced Alloy. This useful material can be used in the creation of Reinforced Stone, Reinforced Glass, Composite Armor, an Advanced Machine, and Nuclear Reactors."
+item.itemScrap.*.1,Scrap,Useless scrap... right? The preferred food of the mass fabricator! Created from a Recycler by placing excess items in and powering it. Can also be crafted into a scrap box. 
+item.itemMatter.*.1,UU-Matter,"The most versitile item ever made in minecraftiankind. You can craft it into many different resources and it is a component of highly advanced armor, machines, and weapons in its unaltered state."
+item.itemCoin.*.1,Industrial Credit,Mainly used on IC2 servers as a form of currency.
+item.itemDoorAlloy.*.1,Reinforced Door,"Created with Reinforced Stone, the Reinforced Door is an explosion resistant door that behaves like an Iron door. It requires a Lever or some other form of Redstone power in order to open."
+item.itemToolMeter.*.1,EU-Reader,"This handy device can be used to scan a piece of cable to find how much power it carries.  Right click once to start the scan, and right click once more to finish it and view results."
+item.itemArmorBatpack.*.1,BatPack,"The BatPack is a backpack filled with batteries that can provide energy to certain electric tools. It stores 60,000 EU, which is essentially 6 times the storage of any individual tool.  The BatPack is equipped in the Chest Slot, and is then immediately put to use by any relevant tools:"
+item.itemArmorAlloyChestplate.*.1,Composite Vest,"Boots made of bronze, it has x1.5 the durability of iron armour."
+item.itemArmorNanoHelmet.*.1,NanoSuit Helmet,"Carbon Plates are the most essential Ressource for creating Nanosuits, as well as... Energy Crystals!   Why use Crystals in armor, you ask?  For Energy storage, of course!
+
+Energy Storage?
+
+Didn't we tell you already, the Nanosuit runs on ENERGY and takes most of its protective ability from an ENERGY SHIELD!  HAYO! You can recharge your armor at an MFE or MFSU."
+item.itemArmorNanoChestplate.*.1,NanoSuit Bodyarmor,"Carbon Plates are the most essential Ressource for creating Nanosuits, as well as... Energy Crystals!   Why use Crystals in armor, you ask?  For Energy storage, of course!
+
+Energy Storage?
+
+Didn't we tell you already, the Nanosuit runs on ENERGY and takes most of its protective ability from an ENERGY SHIELD!  HAYO! You can recharge your armor at an MFE or MFSU."
+item.itemArmorNanoLegs.*.1,NanoSuit Leggings,"Carbon Plates are the most essential Ressource for creating Nanosuits, as well as... Energy Crystals!   Why use Crystals in armor, you ask?  For Energy storage, of course!
+
+Energy Storage?
+
+Didn't we tell you already, the Nanosuit runs on ENERGY and takes most of its protective ability from an ENERGY SHIELD!  HAYO! You can recharge your armor at an MFE or MFSU."
+item.itemArmorNanoBoots.*.1,NanoSuit Boots,"Carbon Plates are the most essential Ressource for creating Nanosuits, as well as... Energy Crystals!   Why use Crystals in armor, you ask?  For Energy storage, of course!
+
+Energy Storage?
+
+Didn't we tell you already, the Nanosuit runs on ENERGY and takes most of its protective ability from an ENERGY SHIELD!  HAYO! You can recharge your armor at an MFE or MFSU."
+item.itemArmorQuantumHelmet.*.1,QuantumSuit Helmet,"The QuantumSuit Helmet is an extremely advanced and powerful piece of equipment.  It is also extremely expensive, having two Iridium Plates as components. A charged helmet will allow its user to breathe underwater until the charge is depleted. Furthermore it will replenish the user's hunger-bar and cure poison effects.
+
+The QuantumSuit Helmet, like all other pieces of QuantumSuit, stores up to 1 million EU, and can only be recharged in an MFS Unit."
+item.itemArmorQuantumChestplate.*.1,QuantumSuit Bodyarmor,"QuantumSuit Armor is an extremely advanced and powerful piece of equipment.  It is also extremely expensive, having Iridium Plates as one of its components. A charged Bodyarmor will absorb ALL incoming damage up until it completely discharges.
+
+The QuantumSuit Bodyarmor, like all other pieces of QuantumSuit, stores up to 1 million EU, and can only be recharged in an MFS Unit."
+item.itemArmorQuantumLegs.*.1,QuantumSuit Leggings,"QuantumSuit Leggings are an extremely advanced and powerful piece of equipment.  They are also extremely expensive, having Iridium Plates as a component. Charged Leggings allow the user to sprint extremely fast (approximately 3.4 times faster) until discharged. To activate the Quantum-Suit's special abilities, start sprinting.
+
+The QuantumSuit Leggings, like all other pieces of QuantumSuit, store up to 1 million EU, and can only be recharged in an MFS Unit."
+item.itemArmorQuantumBoots.*.1,QuantumSuit Boots,"QuantumSuit Boots are an extremely advanced and powerful piece of equipment.  They are also extremely expensive, having Iridium Plates as one of their components. Charged Boots allow the user to jump extremely high (up to 9 blocks up) and negate all fall damage completely. Note: Hold ctrl while jumping to activate.
+
+The QuantumSuit Boots, like all other pieces of QuantumSuit, store up to 1 million EU, and can only be recharged in an MFS Unit."
+item.itemToolPainter.*.1,Painter,Painters allows you to seperate Cable wiring so they don't connect to other cables of a different color.
+item.itemToolPainterBlack.*.1,Painter,Painters allows you to seperate Cable wiring so they don't connect to other cables of a different color.
+item.itemToolPainterRed.*.1,Painter,Painters allows you to seperate Cable wiring so they don't connect to other cables of a different color.
+item.itemToolPainterGreen.*.1,Painter,Painters allows you to seperate Cable wiring so they don't connect to other cables of a different color.
+item.itemToolPainterBrown.*.1,Painter,Painters allows you to seperate Cable wiring so they don't connect to other cables of a different color.
+item.itemToolPainterBlue.*.1,Painter,Painters allows you to seperate Cable wiring so they don't connect to other cables of a different color.
+item.itemToolPainterPurple.*.1,Painter,Painters allows you to seperate Cable wiring so they don't connect to other cables of a different color.
+item.itemToolPainterCyanLightGrey.*.1,Painter,Painters allows you to seperate Cable wiring so they don't connect to other cables of a different color.
+item.itemToolPainterDarkGrey.*.1,Painter,Painters allows you to seperate Cable wiring so they don't connect to other cables of a different color.
+item.itemToolPainterPink.*.1,Painter,Painters allows you to seperate Cable wiring so they don't connect to other cables of a different color.
+item.itemToolPainterLime.*.1,Painter,Painters allows you to seperate Cable wiring so they don't connect to other cables of a different color.
+item.itemToolPainterYellow.*.1,Painter,Painters allows you to seperate Cable wiring so they don't connect to other cables of a different color.
+item.itemToolPainterCloud.*.1,Painter,Painters allows you to seperate Cable wiring so they don't connect to other cables of a different color.
+item.itemToolPainterMagenta.*.1,Painter,Painters allows you to seperate Cable wiring so they don't connect to other cables of a different color.
+item.itemToolPainterOrange.*.1,Painter,Painters allows you to seperate Cable wiring so they don't connect to other cables of a different color.
+item.itemToolPainterWhite.*.1,Painter,Painters allows you to seperate Cable wiring so they don't connect to other cables of a different color.
+item.itemToolCutter.*.1,Insulation Cutter,"The Insulation cutter is used to chop the Rubber insulation off of any sort of Cable. This will leave the (now uninsulated) cable on the ground, and drop the Rubber onto the ground, as an item.
+
+Oddly enough, the cutter can also place insulation on wires, using rubber found in the players inventory.
+
+Left click on wire: chop insulation, right click: add insulation."
+item.itemPartCarbonFibre.*.1,Raw Carbon Fibre,Raw Carbon Fibers are a material that can be used to craft a Raw Carbon Mesh.
+item.itemPartCarbonMesh.*.1,Raw Carbon Mesh,The Raw Carbon Mesh is a crafting material made out of 2 Raw Carbon Fibers. They can be compressed to form a Carbon Plate.
+item.itemPartCarbonPlate.*.1,Carbon Plate,"Carbon Plates are a material that is used to craft several advanced items and machines, namely the Advanced Machine Block , the Nanosuit and the Nano Saber."
+item.itemNanoSaber.*.1,Nano Saber,"The Nano Saber is the most advanced close combat technology on the go! Charge it up, right-click it, and slice those Creepers as if its an infinite durability Diamond Sword that uses electricity... with super-cool light effects!!  Now don't forget that it only loses energy when it's on, but it only deals massive damage when it's on!"
+item.itemPartIridium.*.1,Iridium Plate,Iridium is a material that can only be obtained with the use of UU-Matter. Iridium is used to craft extremely powerful Quantum Armor.
+item.itemTFBP.*.1,TFBP - Empty,"TFBPs control the effect a Terraformer will have on the surrounding area.  These little devices can literally save TERRAbytes of data.  Get it? Terrabyte?  HAYO!
+
+But seriously, they really do! A single TFBP is capable of saving whole programs, DNA structures AND your account information! 
+
+And yet to program one you can use your old-fashioned WORKBENCH, astonishing, isn't it?"
+item.itemTFBPCultivation.*.1,TFBP - Cultivation,"The Cultivator will replace sand with dirt, dirt with grass and randomly add all kinds of plant life."
+item.itemTFBPIrrigation.*.1,TFBP - Irrigation,"Turns sand into dirt and then grass, rarely spawns water on suface areas that are below the Terraformer's layer. Causes saplings, wheat and sugar cane to grow faster, also causes sugar cane to grow higher than its 3 block limit."
+item.itemTFBPDesertification.*.1,TFBP - Desertification,"The Desertificator will melt ice/snow, destroy plants, and replace dirt with sand.
+Warning! Will set forest fires!"
+item.itemTFBPChilling.*.1,TFBP - Chilling,"Makes snow and snow blocks appear, freezes water."
+item.itemTFBPFlatification.*.1,TFBP - Flatification,Removes all natural blocks (except stone) from the layers above the Terraformer. Also fills in the surface layers below the Terraformer with dirt.
+item.itemToolWrenchElectric.*.1,Electric Wrench,"The Electric Wrench works the same as the Bronze Wrench, but instead of taking wear and tear with use, it uses electricity. Thus, it will never wear out, and like Mining Drills, it can be charged in BatBoxes and other storage devices, as well as by batteries."
+item.itemScrapBox.*.1,Scrap Box,A box full of scrap. Right click and...?
+item.itemPartCoalBall.*.1,Coal Ball,The Coal Ball is used for the first stage of creating an Industrial Diamond.  It must be compressed to have any use.
+item.itemPartCoalBlock.*.1,Compressed Coal Ball,"The Compressed Coal Ball is the product of placing a Coal Ball in a Compressor, and is the second stage of production for creating an Industrial Diamond.  It must be combined with Obsidian to create a Coal Chunk."
+item.itemPartCoalChunk.*.1,Coal Chunk,"The Coal Chunk is the third step in producing an Industrial Diamond.   Once you have a Coal Chunk, compress it one more time to recieve an Industrial Diamond."
+item.itemPartIndustrialDiamond.*.1,Industrial Diamond,"Industrial Diamonds can be used as a replacement for Diamonds in all IndustrialCraft² recipes that use Diamonds as well as most vanilla game recipes, except for Diamond Armor, Diamond Blocks, Jukeboxes, and any recipes that use Diamonds that were added via different mods.
+
+Industrial Diamonds cannot be mixed with normal Diamonds in a single recipe, they need to be all Diamonds or all Industrial Diamonds for it to work."
+item.itemFreq.*.1,Frequency Transmitter,"The FreqTrans is capable of manipulating teleporters and opening momentary holes in Field Generator force fields.  Right click a teleporter with the FreqTrans to gain its current frequency.
+
+Now left click Portal A to manipulate its frequency, add your own frequency and restart the gap in the space/time continuum via a single click.
+
+Now left click  Portal B to manipulate its freq, setting it to the same as Portal A's, effectively linking the two together to allow access to each other."
+item.itemDustClay.*.1,Clay Dust,"Macerated Clay Dust is used to make Foam Blocks, which are in turned placed in a compressor to produce Construction Foam pellets."
+item.itemPartPellet.*.1,CF Pellet,A construction foam pellet. Made by compressing construction foam. Used in the refilling of the CF Sprayer.
+item.itemFoamSprayer.*.1,CF Sprayer,"The construction foam sprayer. A tool capable of launching CF Pellets to create construction foam. Can now be launched directly into scaffolding by right clicking on scaffolding while holding the CF Sprayer to automatically fill the area defined by scaffolding with foam. In order to refill the sprayer, simply combine with more CF Pellets!"
+
+
+
+,Credits,"Blueblade11 (Major editing), pwnedgod(added the descriptions, Some reorganization and all of IC2's code names), MrRegret (added descriptions, feel free to overwrite), Nukularpower (fixed up many descriptions to be well, more descriptive (mostly from the wiki)), iluvredwall (proofreading/minor editing, power loss of cables)"

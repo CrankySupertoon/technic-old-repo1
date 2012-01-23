@@ -1,0 +1,101 @@
+Code name,Actual name,Description
+"-DO NOT EDIT THIS FIELD- ""type.name.dmgval.version""
+",Description of the object,Description of the object.
+tile.apatite.0.1,Apatite Ore,Ore of Apatite.
+tile.oreCopper.0.1,Copper Ore,"Ore of Copper. Due to Forge's Ore Dictionary, they are usable in IC2 and RP."
+tile.oreTin.0.1,Tin Ore,"Ore of Tin. Due to Forge's Ore Dictionary, they are usable in IC2 and RP."
+tile.soil.0.1,Humus,A nutrient rich soil composed of dirt mixed with fertilizer or manure that is capable of sustaining a densely packed copse. The rapid growth of trees on this soil drains it of its nutrients and minerals and leaves sand in its place.
+tile.soil.1.1,Bog Earth,"A humid mixture of dirt and sand that can eventually mature into peat. Used in the Peat Bog and harvested by the Turbary when mature, leaving dirt in its place."
+item.ingotBronze.0.1,Bronze Ingot,A mixture of 3 parts copper and one part tin that is stronger and more pliable than its components.
+item.ingotCopper.0.1,Copper Ingot,Copper ore smelted and shaped to rid it of impurities and prepare it for the crafting of more advanced items.
+item.ingotTin.0.1,Tin Ingot,Tin ore smelted and shaped to rid it of impurities and prepare it for the crafting of more advanced items.
+item.fertilizerBio.0.1,Manure,The biological equivalent of fertilizer. Manure is made with the use of wheat or ash mixed with dirt. Can be used to create humus or as the fertilizing agent in the Fermenter.
+item.fertilizerCompound.0.1,Fertilizer,The mineral equivalent of Manure. Fertilizer is made when apatite gems are ground with sand or when sand and ash is combined.  Can be used to create humus or as the fertilizing agent in the Fermenter.
+item.apatite.0.1,Apatite,Used for making Fertiliser.
+item.wrench.0.1,Wrench,The basic tool of Forestry (among other mods). Used to realign or recollect machines. The Buildcraft and IC2 wrench may also be used in its place.
+item.gearBronze.0.1,Bronze Gear,"A gear crafted from bronze ingots. If Buildcraft is installed, a stone gear is used as a central frame in the crafting process."
+item.bucketBiomass.0.1,Biomass Bucket,A bucket full of liquid biomass.
+item.sturdyMachine.0.1,Sturdy Machine,A sturdy machine block crafted from bronze ingots. Used as the base of all machines crafted in Forestry.
+item.vialEmpty.0.1,Empty Vial,"An exciting glass vial, most often used to contain catalyst."
+item.vialCatalyst.0.1,Catalyst,A specially concocted growing agent used to explosively speed up the growth of trees. Can be applied automatically through the use of a Forester.
+item.bucketBiofuel.0.1,Biofuel Bucket,A bucket brimming with distilled biofuel.
+item.bucketBiofuel.0.1,Biofuel Bucket,A bucket brimming with distilled biofuel.
+item.peat.0.1,Peat,"Mature bog earth that is cut away by a Turbary. Can be used as a cheap early fuel source in peat fired engines that can burn for an extended period of time. When burnt, peat turns to ash."
+item.ash.0.1,Ash,The burnt remains of peat. Can be used as a supplement in place of apatite gems and wheat to produce fertilizer and manure respectively.
+item.gearCopper.0.1,Copper Gear,"A gear crafted from copper ingots. If Buildcraft is installed, a stone gear is used as a central frame in the crafting process."
+item.canEmpty.0.1,Empty Can,"An empty can made of tin. Easy to mass produce and capable of storing liquids ranging from water to biofuel for easy transfer. In most cases, wherever a can could be used, an IC2 cell may also be used in its place."
+item.waterCan.0.1,Water Can,A tin can filled with water.
+item.biomassCan.0.1,Biomass Can,A tin can filled with liquid biomass.
+item.biofuelCan.0.1,Biofuel Can,A tin can filled with disstilled biofuel.
+item.gearTin.0.1,Tin Gear,"A gear crafted from tin ingots. If Buildcraft is installed, a stone gear is used as a central frame in the crafting process."
+item.hardenedMachine.0.1,Hardened Machine,"A sturdy machine that has been specially hardened with diamond through the application of a Carpenter. Used in the creation of advanced machines such as the Rainmaker. Please note that hardened machines must be crafted with a Carpenter, and cannot be produced in any other way."
+item.carton.0.1,Carton
+item.crate.0.1,Crate,"An empty box made of wood for use with the Carpenter. Typically used with the Carpenter to take large amounts of materials and compact them for storage. When uncrating is done by the carpenter, all items are recovered, but the crate itself is destroyed."
+item.oakStick.0.1,Polished Oak Stick
+item.woodPulp.0.1,Wood Pulp
+item.kitPickaxe.0.1,Survivalist Pickaxe Kit
+item.bronzePickaxe.0.1,Survivalist's Pickaxe
+item.brokenBronzePickaxe.0.1,Broken Pickaxe
+item.kitShovel.0.1,Survivalist Shovel Kit
+item.bronzeShovel.0.1,Survivalist's Shovel
+item.brokenBronzeShovel.0.1,Broken Shovel
+item.tent.0.1,Forester's Tent
+item.mouldyWheat.0.1,Mouldy Wheat,Decayed wheat that has suffered further degradation through the use of a Moistener. This stage of wheat speeds up the creation of mycelium in the Moistener the most before turning to mulch.
+item.decayingWheat.0.1,Decayed Wheat,Wheat that has been processed and degraded by a Moistener in the process of creating mycelium. Decayed wheat is useless outside of a Moistener until it has become mulch.
+item.mulch.0.1,Mulch,The decayed remains of wheat that has been processed by a Moistener. It is important to note that mulch is useless in a Moistener and must be piped out or removed. Mulch can be used in the Carpenter to create Bog Earth as an easy alternative to manual crafting.
+item.cratedWood.0.1,Crated Wood,Wood that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedCobblestone.0.1,Crated Cobblestone,Cobblestone that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedDirt.0.1,Crated Dirt,Dirt that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedStone.0.1,Crated Stone,Stone that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedBrick.0.1,Crated Brick,Brick that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedCacti.0.1,Crated Cacti,Cacti that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedSand.0.1,Crated Sand,Sand that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedObsidian.0.1,Crated Obsidian,Obsidian that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedNetherrack.0.1,Crated Netherrack,Netherrack that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedSoulsand.0.1,Crated Soulsand,Soulsand that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedSandstone.0.1,Crated Sandstone,Sandstone that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedBogearth.0.1,Crated Bog Earth,Bog Earth that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedHumus.0.1,Crated Humus,Humus that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedNetherbrick.0.1,Crated Nether Brick,Nether Brick that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedPeat.0.1,Crated Peat,Peat that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedApatite.0.1,Crated Apatite,Apatite gems that have been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedFertilizer.0.1,Crated Fertilizer,Fertilizer that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedTin.0.1,Crated Tin Ingots,Tin Ingots that have been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedCopper.0.1,Crated Copper Ingots,Copper Ingots that have been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedBronze.0.1,Crated Bronze Ingots,Bronze Ingots that have been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedWheat.0.1,Crated Wheat,Wheat that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedMycelium.0.1,Crated Mycelium,Mycelium that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedMulch.0.1,Crated Mulch,Mulch that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedSilver.0.1,Crated Silver,Silver that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedBrass.0.1,Crated Brass,Brass that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedNikolite.0.1,Crated Nikolite,Nikolite that has been densely packed into a crate for storage. Crating is done by the Carpenter.
+item.cratedCookies.0.1,Cookies-in-a-box,COOKIES~!
+tile.planter.2.1,Rubber Plantation
+tile.planter.0.1,Arboretum
+tile.harvester.3.1,Pumpkin Harvester,A logger that has been specialized to harvest pumpkins and/or melons in a pumpkin farm when powered by a Buildcraft compatible engine.
+tile.machine.0.1,Fermenter,"A Fermenter is a specially designed machine capable of taking a fertilizing agent (manure or fertilizer), a supply of water, and plant materials and producing liquid biomass. In order to ferment the plant materials to produce biomass the Fermenter must have a constant supply of water and be powered by a Buildcraft compatible engine. This biomass may be used as an effective alternative fuel in Biogas Engines. Biomass may either be piped out via Buildcraft pipes or placed into empty cans. Biomass may find additional uses when converted to biofuel via a Still. Plant materials accepted are :saplings, cactus, sugarcane, mushrooms, and wheat, with saplings being the most effective fuel. A single constantly running Fermenter can typically power up to 3 Biogas Engines."
+tile.mill.1.1,Rainmaker,"An advanced machine capable of actually altering the weather, the Rainmaker is used when farms are suffering severe droughts. When fed an Iodine Capsule, the Rainmaker will being to charge. When it is completed charging, the Rainmaker will cause a shift in weather and it will begin to rain. Very useful for supplying Raintanks. The Rainmaker may be fed an Iodine Capsule by right clicking while holding the capsule or by piping one in during an inactive period, if a Rainmaker is already charging the capsule will be rejected."
+tile.harvester.0.1,Logger,"The second and final machine necessary for the completion of an automatic tree farm, the Logger will search for adult trees in an area slightly larger than the Arboretum (to compensate for offset placement) and will chop them down. The Logger will also collect the wood and saplings that the tree drops. The harvest is stored in a small, inaccessible inventory but may be piped out using Buildcraft pipes or otherwise automatically stored in any adjacent chests. If using pipes, the top and bottom of the Logger will eject saplings, while the sides will eject collected wood. The Logger does require energy from a Buildcraft compatible engine and the diamonds necessary for construction may also be replaced with industrial diamonds if IC2 is installed. The Logger is also a required component for several other machines that share similar but specialized features. "
+tile.harvester.2.1,Rubber Harvester,"A Logger converted to chop down IC2 rubber trees, the Rubber Harvester behaves in much the same way. In addition to a normal Logger's behavior, the Rubber Harvester will also collect any dropped resin that is extracted by an Automatic Treetap. Resin is ejected out of the top or bottom of the Rubber Harvester along with saplings when using pipes."
+tile.planter.5.1,Mushroom Farm,"A farming machine capable of producing the spectacles that are giant mushrooms. The Mushroom farm must be supplied with a constant supply of mycelium and mushrooms - either red or brown, it will plant and grow both. Additionally, the Mushroom Farm must also be placed in a low-light setting, as mushrooms tend to grow in darkness, so it must remain at or below light-level 11. When a giant mushroom finally matures, the mycelium is depleted and replaced by dirt. When the giant mushroom is collected, the dirt is collected and replaced by mycelium and a mushroom is replanted. As with all farms, the Mushroom Farm must be powered by a Buildcraft compatible engine."
+tile.mill.0.1,Forester,"A costly machine capable of injecting catalyst into the soil of an Arboretum and causing trees to grow nigh instantly, vastly increasing the efficiency of any automatic tree farms it benefits. The Forester must be supplied with a steady stream of catalyst and must be receiving power from a Buildcraft compatible engine in order to function.  "
+tile.machine.1.1,Still,"Devilish, hippie biomass got you down? Not to worry, pump it into a Still in order to produce wildly efficient, greenhouse gas producing biofuel. Biofuel may be used to directly power Buildcraft combustion engines, or as a more efficient fuel for Biogas Engines or Bio Power Generators. After all, what harm could it cause? The Still accepts an input of biomass and will output converted biofuel when it - and its connected pipe - receive power from a Buildcraft compatible engine. Additionally, the Still will fill any empty cans with biofuel if placed in its inventory, or biomass cans may be used to refill the internal tank of biomass. The world is a beautiful place.. you've got a lot of work to do."
+tile.harvester.4.1,Turbary,An inexpensive machine used to cut mature peat from a Peat Bog when supplied with power from a Buildcraft Compatible engine. 
+tile.machine.4.1,Bio Power Generator,"A specialty machine for those suffering from an extreme phobia of liquid power. The Bio Power Generator can accept inputs of either biomass or biofuel and will convert the liquid into a steady stream of IC2 power. The generator has an internal storage of up to 30k EU and can accept cables for transmitting the power. If pipes are undesirable, biomass or biofuel cans may be placed inside the generator to fill its internal reservoir. "
+tile.engine.1.1,Peat-Fired Engine
+tile.mill.2.1,Treetap
+tile.planter.3.1,Pumpkin Farm
+tile.machine.6.1,Moistener
+tile.planter.4.1,Peat Bog
+tile.harvester.1.1,Combine
+tile.machine.2.1,Biofuel Bottler
+tile.harvester.7.1,Sugar Cane Harvester
+tile.engine.0.1,Biogas Engine
+tile.harvester.6.1,Mushroom Picker
+tile.machine.3.1,Raintank
+tile.engine.2.1,Electrical Engine
+tile.planter.1.1,Farm
+tile.harvester.5.1,Cacti Harvester
+tile.machine.5.1,Carpenter
+
+,Credits,"Blueblade11 (Copying and pasting SirSengir's sheet :D, Also adding some descriptions and formatting, etc.), MrRegret (adding a bunch of descriptions - as always, feel free to tweak!)"

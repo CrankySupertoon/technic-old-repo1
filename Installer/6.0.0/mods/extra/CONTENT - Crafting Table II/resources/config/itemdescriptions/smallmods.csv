@@ -1,0 +1,172 @@
+Code name,Actual name,Description
+ -DO NOT EDIT THIS FIELD-,Description of the object,Description of the object.
+Directory,Use find to quick travel to specific mods,"This sheet is for mods that have less then 30 entries, or groups of mods that share less then 30 entries between them."
+Risugami's Mods
+Hot Air Balloons
+Fireworks,,Adds a firework launcher to the game that can be used with redstone.
+Laser Mod,,Adds multiple types of lasers to the game.
+Wireless Redstone
+Crafting Table II
+Mine Plus
+Moar Nether
+TheApathetic's Mods
+Craft Guide
+Zeppelin
+Peronix's Mods
+Baby Animals
+
+RISUGAMI'S MODS
+Shelves
+tile.shelf.0.1,Wooden Shelf,A shelf made of Wood. Show your Items at the shelf!
+tile.shelf.4.1,Stone Shelf,A shelf made of Stone. Show your Items at the shelf!
+tile.shelf.8.1,Brick Shelf,A shelf made of Brick. Show your Items at the shelf!
+tile.shelf.12.1,Obsidian Shelf,A shelf made of Obsidian. Show your Items at the shelf!
+Arrow Mod
+item.homBow.*.1,Homing Bow,The Homing Bow searches for mobs and redirect arrows into the mob. They do not care about gravity.
+item.expArrow.*.1,Explosive Arrow,The Explosive arrow explodes like TNT upon impact! Give the creeper the taste of their own medicine!
+item.firArrow.*.1,Fire Arrow,The Fire arrow lights objects on fire upon impact! Do not point this to your wooden house!
+item.iceArrow.*.1,Ice Arrow,The Ice arrow freezes mobs and water into ice.
+item.eggArrow.*.1,Egg Arrow,The egg arrow spawns Chickens upon impact and turn mobs into chickens.
+item.ligArrow.*.1,Lightning Arrow,The lightning arrow spawns lightning upon impact!
+tile.armorStand.*.1,Armor Stand,Show your armor here.
+Recipe Book
+item.recipeBook.*.1,Recipe Book,Recipe book contains all of the recipe that you can currently craft. No need to look at the wiki anymore.
+item.recipeBook.*.2,Recipe Book,Recipe book contains all of the recipe that you can currently craft. Currently Superseeded by the Crafting Table II.
+
+,,Nukularpower :  missing flood gate and light sensor if anyone has those mods installed
+,,"Also not sure about shelf codes, seem to use metadata according to TMI but come up as written in CTII"
+
+HOT AIR BALLOONS
+item.rope.*.1,Rope,"String just isn't strong enough to hold a hot air balloon together, so it must be woven into rope before one can be built."
+item.leatherBalloon.*.1,Leather Balloon,Sewing together 5 leather sheets in a plus-sign pattern on a crafting grid will produce this flyable balloon.  It is ready to be attached to a boat and taken to the skies!
+item.hotAirBalloon.*.1,Hot Air Balloon,"This non-propelled balloon drifts along with the northerly wind. It uses little fuel, but can only travel to the north.  It must be supplied with water buckets and coal occasionially (automatically taken from the player's inventory) to remain afloat.  A propeller can be added by combining it with two iron bars.  Space ascends, C descends, and right clicking the balloon while inside will hop out.  The balloon is 4 blocks high."
+item.leatherSheet.*.1,Leather Sheet,"Four pieces of leather can be combined into these leather sheets, which are in turn used to create a sky-worthy hot air balloon."
+item.hotAirBalloonPropelled.*.1,Propelled Hot Air Balloon,"This propelled balloon is fully controllable by the rider, though it flies much faster with the wind (south) than against it (north.)  It uses up fuel (in the form of water buckets and coal) much faster than the nonpropelled balloon.   Space ascends, C descends, and right clicking the balloon while inside will hop out - causing the balloon to slowly descend in the direction it was travelling.  The balloon is 4 blocks high."
+
+
+FIREWORKS
+tile.fireworks.*.1,Fireworks,The Firework machine will make fireworks for decoration. Make sure there is no children around though as it could be dangerous!
+
+,Credits:,mrkingster
+
+LASER MOD
+FixedLaser.0.1,Laser,"The laser is a block, which shoot a laser-beam, when you activate it.
+"
+FixedSensor.1.1,Sensor,"The Laser Sensor is a block, which provide power, while touching the laser-beam.
+Use it for pass on signales over a long distance."
+FixedReflector.2.1,Reflector,"The peculiarity of the reflector is that the laser goes through and comes out were it points. So you can pass on the laser-beam.
+The redirected beam has the same properties like the source.
+You can mix different laser beams and you can also put a lens on it."
+FixedBlankLaser.3.1,Black Laser Device,This is a laser block with no inputs or outputs.
+LaserTemp.4.1,Custom Reflector,This is a customized laser block.
+tile.Lens bench.*.1,Lens bench,A special workbench for creating lenses.
+Display tube.0.1,Display tube,"When a tube collides with a laser-beam, it will change the color of the connected panels
+into the beam color."
+Display panel.1.1,Display panel,Panel light level depends on the power of the powering beam. Panel colors depend on the beam colors.
+item.Ruby.*.1,Ruby,The primary component  of all the lasers.
+item.LaserDrill.*.1,Drill,You can use the drill to bore more inputs/outputs into a laser device.
+item.BeamSensor.*.1,Handheld Sensor,"You build complicated laser-systems and your are unsure which properties what kind of properties your beams have?
+Craft the ""handheld laser beam sensor"" to understand better the operation of the laser-beams.
+Click with right-click on any laser device and it will show you the beam-properties."
+item.LaserLensTemp.*.1,Lens,"Use the lens to change the color of the laser-beam and also the function, the properties, all in all the whole behavior of the beam. You can craft a lens via the ""lens bench""."
+
+,Credits:,JonReed(Code & Actual Names & Descriptions)
+
+WIRELESS REDSTONE
+tile.wifit.*.1,Wireless Transmitter,"This block, when placed and right clicked, will open up a GUI where you can set a frequency for the transmitter, if you hook up a redstone current to it, when a receiver is set to the same frequency as the transmitter then that receiver will give out the current the transmitter is recieving."
+tile.wifir.*.1,Wireless Reciever,"This block, when placed and right clicked, will open up a GUI where you can choose a frequency that a transmitter is set to, and if that transmitter is receiving a redstone current, then the receiver will output the current the transmitter is getting."
+item.itemPowDir.*.1,Power Configurator,Power Configurator allows you to set which direction power from the receiver goes as well as controlling indirect powering.
+item.itemSniffer.*.1,Wireless Sniffer,"Wireless Sniffer displays the state of all frequencies on a GUI 2D grid. . One ""pixel""/box each frequency."
+item.itemRemote.*.1,Wireless Remote,Wireless Remote allows you to pulse the state on a set frequency for 1 second.
+item.temTriang.*.1,Wireless Triangulator,"Wireless Triangulator allows you to see the direction of the closest transmitter that's transmitting on a set frequency (turned on). If two transmitters are turned on on the same frequency, the triangulator will point towards the closest one."
+tile.blockClock.*.1,Wireless Clocker,"Wireless Clocker acts as a pulsating transmitter. Very useful for circuits that depends on clocks, such as multiplexers and flip-flops."
+
+,Credits:,"ops99, pwnedgod(added descriptions for WR's addons and code names for it)"
+
+CRAFTING TABLE II
+tile.blockclevercraft.*.1,Crafting Table II,"The Crafting Table II is a Upgraded version of the normal Crafting Table. It is more user friendly plus gives description about items. They do not require you to remember any Crafting recipes, only with a simple click of touch. It is also cheap, only requiring 3 sugar canes, and a single wood block."
+
+,Credits:,"Blueblade11 (Aww, who changed the description?), Luke"
+
+MINE PLUS
+tile.CopperOre.*.1,Copper Ore
+tile.TinOre.*.1,Tin Ore
+tile.TungstenOre.*.1,Tungsten Ore
+tile.SapphireOre.*.1,Sapphire Ore
+tile.EmeraldOre.*.1,Emerald Ore
+tile.RubyOre.*.1,Ruby Ore
+tile.MarbleOre.*.1,Marble Ore,Used for decorating and can be crafted into tools and GlowMarble
+tile.MarbleGlow.*.1,Marble Glow
+
+MOAR NETHER
+item.NetherPickaxe.*.1,Nether Pickaxe,Really efficient at 245 uses. Almost instant mining on every block except for obsidian.
+item.NetherAxe.*.1,Nether Axe,You can cut down a tree in mere seconds with this!
+item.NetherShovel.*.1,Nether Shovel,Super efficient as you can dig out a large patch of grass faster than a gold shovel.
+item.NetherHoe.*.1,Nether Hoe,Used for farming. Nothing much to it.
+item.NetherSword.*1,Nether Sword,Useful. Deadly. One hit kill on an animal and two for monsters. Goodbye creepers ;)
+item.MagmaPowder.*.1,Magma Dust,Highly explosive powder used to make the oh so deadly Nether Bomb. Dropped by Nether Herobrine
+item.NetherIngot.*.1,Nether Ingot,Smelt a magma ore and you get this. A mineral used to make the nether tool set. 
+tile.NetherBomb.*.1,Nether Bomb,"Used for mining or blowing stuff up, the Nether Bomb has a 4x bigger blast then normal TNT."
+tile.MagmaOre.*.1,Magma Ore,Found in the nether and when smelted you get a Nether Ingot.
+tile.NetherTorch.*.1,Nether Torch,Basically a torch version of glowstone.
+
+THEAPATHETIC'S MODS
+Toggle Blocks
+,Tiny Toggle Block,Gives you 3 change blocks.
+,Small Toggle Block,Gives you 10 change blocks.
+,Medium Toggle Block,Gives you 25 change blocks.
+,Large Toggle Block,Gives you 50 change blocks.
+,Change Block,Special block that you can only gain from toggle blocks. It allows you to designate what changes when the toggle blocks is powered.
+,Toggle Block Assistant,"Assistant spoofs the blocks - so you simple take it from the toggleblock, and right click another block it the world.
+As long as its not opaque it will take that form"
+,Toggle Block  Scanner,The scanner allows you to figure out what flags you need to set for special blocks( like doors or pistons) by selecting them and checking the last 4 numbers.
+Secret Switches
+,Wooden Pressure Plate Secret Switch,"Works like a wooden pressure plate, but its seeeeecret."
+,Stone Pressure Plate Secret Switch,"Works like a stone pressure plate, but its seeeeecret."
+,Obsidian Secret Switch,"Works as as a player only pressure plate, but its seeeeecret."
+,Button Secret Switch,"Works like a button, but its seeeeecret."
+,Lever Secret Switch,"Works like a lever, but its seeeeecret."
+,Light Sensor,"Works as a light sensor, you set the time, and it will always give a redstone signal at that time. Its also very seeeeeecreeeeet."
+
+,Credits:,"TheEnlightened(Names, some descriptions), JonReed (some descriptions)"
+
+CRAFT GUIDE
+item.CraftGuideItem.*.1,CraftGuide,"Just right click while holding it, to see every crafting, furnace, and brewing recipes in the game."
+
+,Credits:,"TheEnlightened(Names, descriptions)"
+
+ZEPPELIN
+tile.Controller.airship.1,Airship Controller,"Moves in all directions. These includes up, down, forward, backward, right and left."
+tile.Controller.ship.1,Ship Controller,"Moves in some directions. These include forward, backward, right, and left."
+tile.Controller.elevator.1,Elevator Controller,Moves in some directions. These include up and down.
+tile.Controller.turntable.1,Turntable Controller,"Moves in some directions. As the name implies, the turntable can only turn to the left or right."
+item.zeppelin.remote.1,Remote Controller,Allows you to control other stationary controllers remotely.  Right click a controller block to establish a link.
+tile.compass.*.1,Compass Block,"This block works similarly to a handheld compass, only it will always point Notch-North (towards the rising sun) instead of towards your spawn point, and can be placed on top of another block for a stationary instrument."
+
+,Credits:,"TheEnlightened(Names, descriptions)"
+,,"nukularpower (codes names, minor edit)"
+PERONIX'S MODS
+tile.speakerBlock.*.1,Speaker Block,Play your own music by designating a path. Can be activated with redstone. Make a custom game soundtrack.
+tile.fanBlock.*.1,Fan Block,Create anything from a light breeze to a roaring wind with this block.
+tile.spikeBlock.*.1,Spikes,Nothing says dungeon like a wall covered in spikes trying to kill you. Very dangerous.
+Sensor Blocks
+Wood Sensor.2.1,Wooden Sensor,Detects any entities within a 15 meter line in front of it.
+Stone Sensor.0.1,Stone Sensor,Detects only living entities within a 15 meter line in front of it.
+Iron Sensor.1.1,Iron Sensor,Detects only players within a 15 meter line in front of it.
+Nether Sensor.3.1,Nether Sensor,Detects only hostile entities within a 15 meter line in front of it.
+
+,Credits:,"JonReed(Names, Descriptions, Code-Names(tomorrow))"
+
+BABY ANIMALS
+item.squickenEgg.*.1,Squicken Egg,This adorable egg will hatch an even more adorable baby squid!
+item.miraclePotion.*.1,Miracle Potion,"Give an adult animal a Miracle Potion and after some time, it will have a new tame baby. 
+Cows take 9 full Minecraft days, sheep take 5 days, pigs take 4 days and wolves 
+take 2 days. A full Minecraft day is 20 minutes. Sleeping does not speed this up.
+"
+item.lasso.*.1,Lasso,"Right-click with the lasso to get your animal to follow you closely. Best only
+used for short periods. Right click again to release. Can be used alone or in 
+conjunction with seeds - giving an adult or baby animal seeds will also make it follow you, but not as closely as the Lasso."
+item.fertileEgg.*.1,Fertile Egg,This brown egg is guaranteed to hatch a chick if thrown.
+tile.Hay.*.1,Hay Bale,Decorative blocks of hay for your tame livestock.
+
+,credz:,Nukularpower
