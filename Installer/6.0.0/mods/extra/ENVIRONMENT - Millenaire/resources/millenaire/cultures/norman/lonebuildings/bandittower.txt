@@ -1,0 +1,13 @@
+name:Tour des bandits
+weight:10
+radius:20
+
+biome:forest
+
+biome:plains
+
+biome:taiga
+
+biome:extreme hills
+//starting buildings:
+centre:bandittower

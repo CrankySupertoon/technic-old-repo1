@@ -19,6 +19,7 @@ Firespread;;Support on;the forum
 Nikoleis;;Help with the;French version
 Trancid;;Wiki contributions
 Rasseru;;Improvements to;Japanese villages
+Baldur_ru;;Lone buildings
 leftler;;donor
 Dick Dolby;;donor
 BowerPowers;;donor
@@ -50,3 +51,4 @@ Tymm403;;donor
 Stefanbjerkell;;donor
 Sn0wCrack;;donor
 Bard_of_Hibbing;;donor
+bk3000;;donor

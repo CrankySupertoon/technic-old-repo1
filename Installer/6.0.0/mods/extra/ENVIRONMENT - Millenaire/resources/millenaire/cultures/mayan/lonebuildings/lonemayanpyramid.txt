@@ -1,0 +1,8 @@
+name:Muul
+weight:4
+radius:15
+biome:forest
+biome:swampland
+
+//starting buildings:
+centre:lonemayanpyramid

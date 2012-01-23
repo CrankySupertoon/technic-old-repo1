@@ -204,3 +204,12 @@ fence gate;107;0;true;157/129/75
 thatched;block_wood_id;2;false;200/200/120
 paperwall;block_panes_id;0;false;220/251/243
 bedrock;7;0;false;10/10/10
+
+mooshroom red;40;0;true;217/20/74
+mooshroom brown;39;0;true;248/143/55
+lily pad;111;0;true;24/96/30
+rail;66;0;true;53/61/68
+vinesTop;106;8;true;18/170/12
+vinesBottom;106;2;true;18/170/13
+vinesLeft;106;4;true;18/170/14
+vinesRight;106;1;true;18/170/15

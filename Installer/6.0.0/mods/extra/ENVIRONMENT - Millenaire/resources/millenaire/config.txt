@@ -1,27 +1,27 @@
 //Game language
 //value has to be one of the directory name in languages/
-//Main game language, used when available:
-language=english
+//Main game language, used when available. Leave empty to have Millénaire use Minecraft's language (when possible)
+language=
 
 //Secondary game language, used when the main is not available
-//It is recommended to pick either English or French as those two are the ones I maintain myself
+//It is recommended to pick either "en" (English) or "fr" (French) as those two are the ones I maintain myself
 //and are so guarrenteed to contain all the text
-fallback_language=french
+fallback_language=en
 
 //Config
 //Keys to use for the village and quest listings
-village_list_key=[
-quest_list_key=]
+village_list_key=V
+quest_list_key=M
 
-//Whether to display the Millénaire start message:
+//Whether to display the MillÃ©naire start message:
 displayStart=true
-block_building_id=183
-block_panel_id=184
-block_wood_id=185
-block_earth_id=186
-block_stone_id=187
-block_crops_id=188
-block_panes_id=189
+block_building_id=180
+block_panel_id=181
+block_wood_id=182
+block_earth_id=183
+block_stone_id=184
+block_crops_id=185
+block_panes_id=186
 item_range_start=1515
 //comma-separated list of block IDs villagers will avoid building upon
 //on top of "regular" ones like lava or ice
@@ -39,6 +39,8 @@ display_names=true
 villagers_names_distance=20
 //distance from the player up to which villages stay active:
 active_radius=300
+//Whether languages need to be "learned" (translations will only appear after the player interacts enough with a culture)
+language_learning=true
 
 //Lone buildings
 generate_lone_buildings=true

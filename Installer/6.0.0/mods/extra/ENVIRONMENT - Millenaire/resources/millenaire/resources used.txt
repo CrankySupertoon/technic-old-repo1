@@ -8,10 +8,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|76
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|511
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -25,10 +25,10 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|42
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|399
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -46,13 +46,13 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|2
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|16
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|93
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -70,7 +70,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|147
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -84,7 +84,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|30
 |}
 
@@ -99,7 +99,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|540
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -113,7 +113,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|160
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -127,7 +127,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|24
 |}
 
@@ -138,7 +138,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|216
 |}
 
@@ -149,7 +149,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|262
 |}
 
@@ -160,10 +160,10 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|48
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|24
 |}
 
@@ -178,10 +178,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|2
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|49
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -195,7 +195,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|49
 |}
 
@@ -210,7 +210,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|266
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -224,10 +224,10 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|380
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|36
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -241,10 +241,10 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|191
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|18
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -258,10 +258,10 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|222
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|24
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -275,10 +275,10 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|812
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|36
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -292,7 +292,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|233
 |}
 
@@ -303,7 +303,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|628
 |}
 
@@ -314,7 +314,7 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|709
 |}
 
@@ -325,10 +325,10 @@ Upgrade 8
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|112
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|154
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -342,7 +342,7 @@ Upgrade 9
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|156
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -360,10 +360,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|2
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|33
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -377,7 +377,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|12
 |}
 
@@ -392,7 +392,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|38
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -406,7 +406,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|16
 |}
 
@@ -421,7 +421,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|35
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -435,7 +435,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|34
 |}
 
@@ -446,7 +446,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|68
 |}
 
@@ -461,7 +461,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|130
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -475,7 +475,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|82
 |}
 
@@ -486,7 +486,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|55
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -504,7 +504,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|243
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -518,7 +518,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|143
 |}
 
@@ -529,7 +529,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|143
 |}
 
@@ -544,7 +544,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|78
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -558,7 +558,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|33
 |}
 
@@ -569,7 +569,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|32
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -583,7 +583,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|76
 |}
 
@@ -594,7 +594,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|87
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -612,7 +612,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|133
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -626,7 +626,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|77
 |}
 
@@ -637,7 +637,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|44
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -651,7 +651,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|99
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -691,7 +691,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|129
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -709,7 +709,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|39
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -723,7 +723,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|38
 |}
 
@@ -738,10 +738,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|406
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|89
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -755,7 +755,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|495
 |}
 
@@ -766,10 +766,10 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|75
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|662
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -783,13 +783,13 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|30
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|108
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|650
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -803,13 +803,13 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|368
 |-
-| style="text-align: center; "|Statue Hindoue
+| style="text-align: center; "|
 | style="text-align: center; "|2
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|882
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -823,10 +823,10 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|150
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|686
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -840,10 +840,10 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|12
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|304
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -857,13 +857,13 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|25
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|84
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|530
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -877,10 +877,10 @@ Upgrade 8
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|48
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|120
 |}
 
@@ -895,7 +895,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|238
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -909,7 +909,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|16
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -923,7 +923,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|87
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -937,7 +937,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|192
 |}
 
@@ -948,7 +948,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|64
 |}
 
@@ -964,7 +964,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|52
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -978,7 +978,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|49
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -992,7 +992,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|69
 |}
 
@@ -1003,7 +1003,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|75
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1017,7 +1017,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|47
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1032,7 +1032,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|54
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1046,7 +1046,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|33
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1060,7 +1060,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|33
 |}
 
@@ -1071,7 +1071,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|58
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1085,7 +1085,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|68
 |}
 
@@ -1096,7 +1096,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|32
 |}
 
@@ -1108,7 +1108,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|61
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1122,7 +1122,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|54
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1136,7 +1136,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|43
 |}
 
@@ -1147,7 +1147,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|15
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1161,7 +1161,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|105
 |}
 
@@ -1172,7 +1172,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|63
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1190,13 +1190,13 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|1797
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|404
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|56
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1214,7 +1214,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|136
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1232,7 +1232,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|80
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1250,10 +1250,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|406
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|89
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1267,7 +1267,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|495
 |}
 
@@ -1278,10 +1278,10 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|75
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|662
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1295,13 +1295,13 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|30
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|108
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|650
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1315,13 +1315,13 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|368
 |-
-| style="text-align: center; "|Statue Hindoue
+| style="text-align: center; "|
 | style="text-align: center; "|2
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|882
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1335,10 +1335,10 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|150
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|686
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1352,10 +1352,10 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|12
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|304
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1369,13 +1369,13 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|25
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|84
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|530
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1389,10 +1389,10 @@ Upgrade 8
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|48
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|120
 |}
 
@@ -1407,7 +1407,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|45
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1425,10 +1425,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|223
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|24
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1447,7 +1447,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|85
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1461,7 +1461,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|13
 |}
 
@@ -1472,7 +1472,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|85
 |}
 
@@ -1483,7 +1483,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|30
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1498,7 +1498,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|85
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1512,7 +1512,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|13
 |}
 
@@ -1523,7 +1523,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|85
 |}
 
@@ -1534,7 +1534,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|30
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1552,16 +1552,16 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|4
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|129
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|85
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|2
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1579,10 +1579,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|26
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|113
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1600,7 +1600,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|20
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1614,7 +1614,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|20
 |}
 
@@ -1625,7 +1625,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|40
 |}
 
@@ -1640,7 +1640,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|19
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1654,7 +1654,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|18
 |}
 
@@ -1665,7 +1665,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|36
 |}
 
@@ -1680,13 +1680,13 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Statue Hindoue
+| style="text-align: center; "|
 | style="text-align: center; "|1
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|24
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|312
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1700,7 +1700,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|386
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1714,10 +1714,10 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|292
 |-
-| style="text-align: center; "|Statue Hindoue
+| style="text-align: center; "|
 | style="text-align: center; "|2
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1735,7 +1735,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|252
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1749,7 +1749,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|84
 |}
 
@@ -1764,7 +1764,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wood
+| style="text-align: center; "|Bois
 | style="text-align: center; "|24
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1782,10 +1782,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|
 | style="text-align: center; "|295
 |-
-| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|
 | style="text-align: center; "|120
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1803,13 +1803,13 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|193
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|224
 |-
-| style="text-align: center; "|Sand
+| style="text-align: center; "|Sable
 | style="text-align: center; "|43
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1827,10 +1827,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wood
+| style="text-align: center; "|Bois
 | style="text-align: center; "|566
 |-
-| style="text-align: center; "|Leaves
+| style="text-align: center; "|Feuilles
 | style="text-align: center; "|1517
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1848,10 +1848,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|62
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|122
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1859,7 +1859,7 @@ Initial Construction
 |}
 
 
-Kurafutohausu
+Shugi ie
 japanesecrafter
 
 ==Requirements==
@@ -1870,7 +1870,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|98
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1884,10 +1884,10 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|8
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|45
 |}
 
@@ -1910,10 +1910,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|8
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|88
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1927,7 +1927,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|29
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1941,7 +1941,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|2
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1966,13 +1966,13 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|4
 |-
-| style="text-align: center; "|Pressure Plate
+| style="text-align: center; "|Plaque de pression
 | style="text-align: center; "|2
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|48
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -1986,12 +1986,12 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|
 | style="text-align: center; "|24
 |}
 
 
-Komuji Nojo
+Noujou Nojo
 japanesefarm
 
 ==Requirements==
@@ -2001,7 +2001,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|57
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2037,7 +2037,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|32
 |}
 
@@ -2048,10 +2048,10 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|
 | style="text-align: center; "|24
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|25
 |}
 
@@ -2062,12 +2062,12 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|217
 |}
 
 
-Ranchi
+Shuudannoujou
 japanesefarmbig
 
 ==Requirements==
@@ -2077,16 +2077,16 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|8
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|160
 |-
 | style="text-align: center; "|Bois (pour planches)
 | style="text-align: center; "|117
 |-
-| style="text-align: center; "|Grass
+| style="text-align: center; "|Herbe
 | style="text-align: center; "|93
 |}
 
@@ -2097,10 +2097,10 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|35
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|49
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2114,7 +2114,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|58
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2128,7 +2128,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|82
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2153,10 +2153,10 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|
 | style="text-align: center; "|30
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|36
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2170,12 +2170,12 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|69
 |}
 
 
-Ike
+Tsuribori
 japanesefishery
 
 ==Requirements==
@@ -2197,10 +2197,10 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|8
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|142
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2236,7 +2236,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|38
 |}
 
@@ -2247,7 +2247,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|450
 |}
 
@@ -2270,10 +2270,10 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|8
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|142
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2309,7 +2309,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|38
 |}
 
@@ -2320,7 +2320,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|450
 |}
 
@@ -2343,10 +2343,10 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|8
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|142
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2382,7 +2382,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|38
 |}
 
@@ -2393,12 +2393,12 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|450
 |}
 
 
-Gizo Suru
+Tansetsu
 japaneseforge
 
 ==Requirements==
@@ -2408,13 +2408,13 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|24
 |-
-| style="text-align: center; "|Gravel
+| style="text-align: center; "|Graviers
 | style="text-align: center; "|90
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|55
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2428,7 +2428,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|149
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2442,7 +2442,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|50
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2456,7 +2456,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|16
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2470,15 +2470,15 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|918
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|48
 |}
 
 
-Shi
+Bousai
 japanesefort
 
 ==Requirements==
@@ -2488,7 +2488,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|8
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2502,7 +2502,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|204
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2524,7 +2524,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|138
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2538,7 +2538,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|124
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2552,7 +2552,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|741
 |}
 
@@ -2563,7 +2563,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|296
 |}
 
@@ -2574,7 +2574,7 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|320
 |}
 
@@ -2585,15 +2585,15 @@ Upgrade 8
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|304
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|410
 |}
 
 
-Tsuri no kodachi
+Kodachi
 japanesegrove
 
 ==Requirements==
@@ -2666,7 +2666,7 @@ Upgrade 1
 |}
 
 
-Shanai
+Ke
 japanesehouse
 
 ==Requirements==
@@ -2676,10 +2676,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|
 | style="text-align: center; "|67
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|251
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2693,13 +2693,13 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|3
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|16
 |-
-| style="text-align: center; "|Gravel
+| style="text-align: center; "|Graviers
 | style="text-align: center; "|1
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2718,7 +2718,7 @@ Upgrade 2
 |}
 
 
-Kyabin
+Koya
 japanesehut
 
 ==Requirements==
@@ -2728,10 +2728,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|3
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|70
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2760,10 +2760,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|32
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|68
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2777,7 +2777,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|34
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2802,7 +2802,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|36
 |}
 
@@ -2813,7 +2813,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|4
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2827,7 +2827,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|
 | style="text-align: center; "|20
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2835,7 +2835,7 @@ Upgrade 5
 |}
 
 
-Kikori Shanai
+Kikori Koya
 japaneselmh
 
 ==Requirements==
@@ -2845,7 +2845,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|80
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2859,7 +2859,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|22
 |}
 
@@ -2892,10 +2892,10 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|44
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|4
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -2909,10 +2909,10 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|
 | style="text-align: center; "|10
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|24
 |}
 
@@ -2923,12 +2923,12 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|480
 |}
 
 
-Kanshi-to
+Bourou
 japaneselookout
 
 ==Requirements==
@@ -2997,7 +2997,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|83
 |}
 
@@ -3008,7 +3008,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|55
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3022,7 +3022,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|98
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3041,7 +3041,7 @@ Upgrade 4
 |}
 
 
-Tawa
+Buttou
 japanesepagoda
 
 ==Requirements==
@@ -3084,7 +3084,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|760
 |}
 
@@ -3095,7 +3095,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|592
 |}
 
@@ -3106,7 +3106,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|916
 |}
 
@@ -3117,7 +3117,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|188
 |}
 
@@ -3128,7 +3128,7 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|
 | style="text-align: center; "|73
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3136,7 +3136,7 @@ Upgrade 7
 |}
 
 
-Kyuden
+Kumonjo
 japanesepalace
 
 ==Requirements==
@@ -3146,7 +3146,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|16
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3160,7 +3160,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|408
 |}
 
@@ -3182,13 +3182,13 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|7
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|1
 |-
-| style="text-align: center; "|Sapling
+| style="text-align: center; "|Arbuste
 | style="text-align: center; "|1
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3202,13 +3202,13 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|400
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|180
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|24
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3222,10 +3222,10 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|
 | style="text-align: center; "|85
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|93
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3239,7 +3239,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|
 | style="text-align: center; "|256
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3253,10 +3253,10 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|
 | style="text-align: center; "|54
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|70
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3264,7 +3264,7 @@ Upgrade 7
 |}
 
 
-Fama Shanai
+Noufu Ie
 japanesepeasanth
 
 ==Requirements==
@@ -3274,7 +3274,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|85
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3288,7 +3288,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|21
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3302,7 +3302,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|58
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3316,10 +3316,10 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|
 | style="text-align: center; "|12
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|20
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3333,7 +3333,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|384
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3341,7 +3341,7 @@ Upgrade 4
 |}
 
 
-Kyuden
+Densha
 japaneseplayerpalace
 
 ==Requirements==
@@ -3351,7 +3351,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|16
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3365,7 +3365,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|408
 |}
 
@@ -3387,13 +3387,13 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|7
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|1
 |-
-| style="text-align: center; "|Sapling
+| style="text-align: center; "|Arbuste
 | style="text-align: center; "|1
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3407,13 +3407,13 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|400
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|180
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|24
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3427,10 +3427,10 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|
 | style="text-align: center; "|85
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|93
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3444,7 +3444,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|
 | style="text-align: center; "|256
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3458,10 +3458,10 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|
 | style="text-align: center; "|54
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|70
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3469,7 +3469,7 @@ Upgrade 7
 |}
 
 
-Ko Sukeru Purotto
+Shakuchi
 japaneseplot1
 
 ==Requirements==
@@ -3484,7 +3484,7 @@ Initial Construction
 |}
 
 
-E no Toreningu Purotto
+Chuugata Chisho
 japaneseplot2
 
 ==Requirements==
@@ -3499,7 +3499,7 @@ Initial Construction
 |}
 
 
-Okibo NA Purotto
+Eki Tochi
 japaneseplot3
 
 ==Requirements==
@@ -3514,7 +3514,7 @@ Initial Construction
 |}
 
 
-Saiseki-jo
+Saisekijou
 japanesequarry
 
 ==Requirements==
@@ -3524,7 +3524,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|83
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3538,10 +3538,10 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|16
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|24
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3577,16 +3577,16 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|
 | style="text-align: center; "|7
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|24
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|22
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|13
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3600,7 +3600,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|528
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3608,7 +3608,7 @@ Upgrade 5
 |}
 
 
-Bushi Shanai
+Heisha
 japanesesamuraih
 
 ==Requirements==
@@ -3618,7 +3618,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Chaume
+| style="text-align: center; "|
 | style="text-align: center; "|216
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3654,10 +3654,10 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|32
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|16
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3671,7 +3671,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|900
 |}
 
@@ -3682,10 +3682,10 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|42
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|224
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3699,10 +3699,10 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|
 | style="text-align: center; "|20
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|24
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3710,7 +3710,7 @@ Upgrade 6
 |}
 
 
-Jinja
+Torii
 japaneseshintoshrine
 
 ==Requirements==
@@ -3735,7 +3735,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Sand
+| style="text-align: center; "|Sable
 | style="text-align: center; "|153
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3753,10 +3753,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wood
+| style="text-align: center; "|Bois
 | style="text-align: center; "|184
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|1624
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3770,7 +3770,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|162
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3784,7 +3784,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|440
 |}
 
@@ -3795,7 +3795,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|58
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3809,7 +3809,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|296
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3823,10 +3823,10 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|378
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|220
 |}
 
@@ -3837,7 +3837,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|160
 |}
 
@@ -3848,7 +3848,7 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|58
 |}
 
@@ -3859,7 +3859,7 @@ Upgrade 8
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|120
 |}
 
@@ -3870,16 +3870,16 @@ Upgrade 9
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|
 | style="text-align: center; "|16
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|48
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|48
 |-
-| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|
 | style="text-align: center; "|4
 |}
 
@@ -3890,10 +3890,10 @@ Upgrade 10
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|
 | style="text-align: center; "|30
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|116
 |}
 
@@ -3904,10 +3904,10 @@ Upgrade 11
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|
 | style="text-align: center; "|48
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|712
 |}
 
@@ -3922,10 +3922,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|6
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|482
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3939,7 +3939,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|107
 |}
 
@@ -3950,7 +3950,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|107
 |}
 
@@ -3976,7 +3976,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|67
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -3990,7 +3990,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|140
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -4004,7 +4004,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|116
 |}
 
@@ -4030,7 +4030,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|217
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -4044,7 +4044,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|65
 |}
 
@@ -4055,7 +4055,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|178
 |}
 
@@ -4066,7 +4066,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|131
 |}
 
@@ -4077,7 +4077,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|28
 |}
 
@@ -4088,7 +4088,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|80
 |}
 
@@ -4103,10 +4103,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|930
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|944
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -4124,13 +4124,13 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|32
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|24
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|123
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -4148,13 +4148,13 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|4
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|504
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|2
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -4183,7 +4183,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|124
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -4197,7 +4197,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|48
 |}
 
@@ -4213,7 +4213,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|32
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -4227,7 +4227,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|66
 |}
 
@@ -4238,7 +4238,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|168
 |}
 
@@ -4249,10 +4249,10 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|46
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|180
 |}
 
@@ -4263,7 +4263,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|183
 |}
 
@@ -4274,7 +4274,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|180
 |}
 
@@ -4286,10 +4286,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|6
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|8
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -4303,7 +4303,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|232
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -4317,7 +4317,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|128
 |}
 
@@ -4328,7 +4328,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|284
 |}
 
@@ -4339,7 +4339,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|206
 |}
 
@@ -4362,7 +4362,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|34
 |}
 
@@ -4373,7 +4373,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|34
 |}
 
@@ -4384,7 +4384,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|180
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -4402,7 +4402,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|24
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -4416,7 +4416,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|25
 |}
 
@@ -4427,7 +4427,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|165
 |}
 
@@ -4438,7 +4438,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|134
 |}
 
@@ -4464,7 +4464,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|34
 |}
 
@@ -4475,7 +4475,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|34
 |}
 
@@ -4486,7 +4486,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|68
 |}
 
@@ -4512,7 +4512,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|24
 |}
 
@@ -4523,7 +4523,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|48
 |}
 
@@ -4534,10 +4534,10 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|26
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|82
 |}
 
@@ -4564,7 +4564,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|27
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -4578,7 +4578,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|158
 |}
 
@@ -4589,10 +4589,10 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|118
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|15
 |}
 
@@ -4603,7 +4603,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|30
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -4629,7 +4629,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|34
 |}
 
@@ -4640,7 +4640,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|142
 |}
 
@@ -4651,10 +4651,10 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|19
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|65
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -4668,10 +4668,10 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|89
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|16
 |}
 
@@ -4682,10 +4682,10 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|74
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|15
 |}
 
@@ -4696,10 +4696,10 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|23
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|64
 |}
 
@@ -4710,7 +4710,7 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|64
 |}
 
@@ -4733,7 +4733,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|59
 |}
 
@@ -4744,7 +4744,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|120
 |}
 
@@ -4755,7 +4755,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|132
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -4769,7 +4769,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|56
 |}
 
@@ -4780,7 +4780,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|178
 |}
 
@@ -4791,7 +4791,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|200
 |}
 
@@ -4803,7 +4803,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|48
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -4817,7 +4817,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|212
 |}
 
@@ -4828,7 +4828,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|116
 |}
 
@@ -4839,7 +4839,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|204
 |}
 
@@ -4854,7 +4854,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|473
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -4868,7 +4868,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|143
 |}
 
@@ -4879,7 +4879,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|96
 |}
 
@@ -4905,7 +4905,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|81
 |}
 
@@ -4916,7 +4916,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|46
 |}
 
@@ -4927,7 +4927,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|193
 |}
 
@@ -4953,7 +4953,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|203
 |}
 
@@ -4964,10 +4964,10 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|34
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|108
 |}
 
@@ -4978,7 +4978,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|200
 |}
 
@@ -4993,7 +4993,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|885
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5007,7 +5007,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|341
 |}
 
@@ -5018,7 +5018,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|682
 |}
 
@@ -5029,7 +5029,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|215
 |}
 
@@ -5044,7 +5044,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|368
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5058,7 +5058,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|245
 |}
 
@@ -5069,7 +5069,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|490
 |}
 
@@ -5080,7 +5080,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|123
 |}
 
@@ -5095,10 +5095,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|179
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|233
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5116,7 +5116,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wood
+| style="text-align: center; "|Bois
 | style="text-align: center; "|40
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5130,7 +5130,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|40
 |}
 
@@ -5141,7 +5141,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|84
 |}
 
@@ -5152,10 +5152,10 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|20
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|74
 |}
 
@@ -5166,7 +5166,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|32
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5180,7 +5180,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|106
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5198,7 +5198,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|104
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5212,7 +5212,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|178
 |}
 
@@ -5223,7 +5223,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|141
 |}
 
@@ -5234,7 +5234,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|144
 |}
 
@@ -5245,7 +5245,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|51
 |}
 
@@ -5260,10 +5260,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wood
+| style="text-align: center; "|Bois
 | style="text-align: center; "|84
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|1874
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5277,7 +5277,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|124
 |}
 
@@ -5288,7 +5288,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|346
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5302,7 +5302,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|156
 |}
 
@@ -5313,7 +5313,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|51
 |}
 
@@ -5324,7 +5324,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|168
 |}
 
@@ -5335,7 +5335,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|294
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5349,7 +5349,7 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|116
 |}
 
@@ -5360,7 +5360,7 @@ Upgrade 8
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|302
 |}
 
@@ -5371,7 +5371,7 @@ Upgrade 9
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|110
 |}
 
@@ -5382,7 +5382,7 @@ Upgrade 10
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|170
 |}
 
@@ -5393,10 +5393,10 @@ Upgrade 11
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|96
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|48
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5410,10 +5410,10 @@ Upgrade 12
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|542
 |-
-| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|
 | style="text-align: center; "|2
 |}
 
@@ -5424,10 +5424,10 @@ Upgrade 13
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|
 | style="text-align: center; "|36
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|204
 |}
 
@@ -5438,10 +5438,10 @@ Upgrade 14
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|
 | style="text-align: center; "|24
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|144
 |}
 
@@ -5452,10 +5452,10 @@ Upgrade 15
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|
 | style="text-align: center; "|44
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|125
 |}
 
@@ -5470,19 +5470,19 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|
 | style="text-align: center; "|3
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|6
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|696
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|2231
 |-
-| style="text-align: center; "|Bookshelf
+| style="text-align: center; "|Bibliothèque
 | style="text-align: center; "|18
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5500,7 +5500,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|248
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5518,7 +5518,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|128
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5536,16 +5536,16 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|6
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|1906
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|188
 |-
-| style="text-align: center; "|Bookshelf
+| style="text-align: center; "|Bibliothèque
 | style="text-align: center; "|22
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5563,10 +5563,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wood
+| style="text-align: center; "|Bois
 | style="text-align: center; "|42
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|152
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5580,7 +5580,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|358
 |}
 
@@ -5591,7 +5591,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|152
 |}
 
@@ -5602,7 +5602,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|201
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5616,7 +5616,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|896
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5630,7 +5630,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|448
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5644,7 +5644,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|496
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5658,10 +5658,10 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|280
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|630
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5675,7 +5675,7 @@ Upgrade 8
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|508
 |}
 
@@ -5686,10 +5686,10 @@ Upgrade 9
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|100
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|180
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5703,16 +5703,16 @@ Upgrade 10
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|
 | style="text-align: center; "|4
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|70
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|113
 |-
-| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|
 | style="text-align: center; "|6
 |}
 
@@ -5723,10 +5723,10 @@ Upgrade 11
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|
 | style="text-align: center; "|16
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|120
 |}
 
@@ -5737,10 +5737,10 @@ Upgrade 12
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|
 | style="text-align: center; "|16
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|220
 |}
 
@@ -5751,7 +5751,7 @@ Upgrade 13
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|
 | style="text-align: center; "|55
 |}
 
@@ -5766,7 +5766,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|64
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5784,16 +5784,16 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|3
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|143
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|173
 |-
-| style="text-align: center; "|Bookshelf
+| style="text-align: center; "|Bibliothèque
 | style="text-align: center; "|8
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5811,10 +5811,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wood
+| style="text-align: center; "|Bois
 | style="text-align: center; "|42
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|152
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5828,7 +5828,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|358
 |}
 
@@ -5839,7 +5839,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|152
 |}
 
@@ -5850,7 +5850,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|201
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5864,7 +5864,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|896
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5878,7 +5878,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|448
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5892,7 +5892,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|496
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5906,10 +5906,10 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|280
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|630
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5923,7 +5923,7 @@ Upgrade 8
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|508
 |}
 
@@ -5934,10 +5934,10 @@ Upgrade 9
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|100
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|180
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -5951,16 +5951,16 @@ Upgrade 10
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|
 | style="text-align: center; "|4
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|70
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|113
 |-
-| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|
 | style="text-align: center; "|6
 |}
 
@@ -5971,10 +5971,10 @@ Upgrade 11
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|
 | style="text-align: center; "|16
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|120
 |}
 
@@ -5985,10 +5985,10 @@ Upgrade 12
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|
 | style="text-align: center; "|16
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|220
 |}
 
@@ -5999,7 +5999,7 @@ Upgrade 13
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|
 | style="text-align: center; "|55
 |}
 
@@ -6014,13 +6014,13 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|5
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|8
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|3
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6034,7 +6034,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|112
 |}
 
@@ -6045,7 +6045,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|204
 |}
 
@@ -6056,7 +6056,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|112
 |}
 
@@ -6067,7 +6067,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|280
 |}
 
@@ -6082,7 +6082,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|46
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6096,7 +6096,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|22
 |}
 
@@ -6123,7 +6123,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|359
 |}
 
@@ -6134,7 +6134,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|114
 |}
 
@@ -6145,7 +6145,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|84
 |}
 
@@ -6168,7 +6168,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|496
 |}
 
@@ -6179,10 +6179,10 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|77
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|137
 |}
 
@@ -6193,7 +6193,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|159
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6207,7 +6207,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|24
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6225,10 +6225,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|58
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|1032
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6242,13 +6242,13 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|78
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|62
 |-
-| style="text-align: center; "|Sandstone
+| style="text-align: center; "|Grès
 | style="text-align: center; "|8
 |}
 
@@ -6259,13 +6259,13 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|608
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|162
 |-
-| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|
 | style="text-align: center; "|4
 |}
 
@@ -6280,7 +6280,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|369
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6294,7 +6294,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|176
 |}
 
@@ -6309,10 +6309,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|541
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|24
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6330,16 +6330,16 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|392
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|16
 |-
 | style="text-align: center; "|Bois (pour planches)
 | style="text-align: center; "|14
 |-
-| style="text-align: center; "|Grass
+| style="text-align: center; "|Herbe
 | style="text-align: center; "|59
 |}
 
@@ -6354,10 +6354,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|640
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|93
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6375,20 +6375,41 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|323
 |-
-| style="text-align: center; "|Coal Ore
+| style="text-align: center; "|Minerai de charbon
 | style="text-align: center; "|26
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|58
 |-
 | style="text-align: center; "|Bois (pour planches)
 | style="text-align: center; "|10
 |-
-| style="text-align: center; "|Iron Ore
+| style="text-align: center; "|Minerai de fer
 | style="text-align: center; "|8
+|}
+
+
+Muul
+lonemayanpyramid
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|
+| style="text-align: center; "|44
+|-
+| style="text-align: center; "|Pierre
+| style="text-align: center; "|7239
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|55
 |}
 
 
@@ -6402,22 +6423,22 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wood
+| style="text-align: center; "|Bois
 | style="text-align: center; "|203
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|409
 |-
-| style="text-align: center; "|Leaves
+| style="text-align: center; "|Feuilles
 | style="text-align: center; "|488
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|8
 |-
 | style="text-align: center; "|Bois (pour planches)
 | style="text-align: center; "|8
 |-
-| style="text-align: center; "|Grass
+| style="text-align: center; "|Herbe
 | style="text-align: center; "|99
 |}
 
@@ -6432,25 +6453,25 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|
 | style="text-align: center; "|102
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|414
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|71
 |-
 | style="text-align: center; "|Rose
 | style="text-align: center; "|7
 |-
-| style="text-align: center; "|Sapling
+| style="text-align: center; "|Arbuste
 | style="text-align: center; "|4
 |-
-| style="text-align: center; "|Flower
+| style="text-align: center; "|Fleur
 | style="text-align: center; "|9
 |-
-| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|
 | style="text-align: center; "|4
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6468,10 +6489,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|993
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|142
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6489,13 +6510,13 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|1
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|131
 |-
-| style="text-align: center; "|Jack 'o' Lantern
+| style="text-align: center; "|Jack O' Lantern
 | style="text-align: center; "|3
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6513,13 +6534,13 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|953
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|200
 |-
-| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|
 | style="text-align: center; "|4
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6559,10 +6580,10 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|192
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|5
 |}
 
@@ -6584,10 +6605,10 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|834
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|15
 |}
 
@@ -6598,7 +6619,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|296
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6612,7 +6633,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|246
 |}
 
@@ -6623,7 +6644,7 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|448
 |}
 
@@ -6634,7 +6655,7 @@ Upgrade 8
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|172
 |}
 
@@ -6645,7 +6666,7 @@ Upgrade 9
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|799
 |}
 
@@ -6656,7 +6677,7 @@ Upgrade 10
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|3
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6670,7 +6691,7 @@ Upgrade 11
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|148
 |}
 
@@ -6685,13 +6706,13 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|806
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|12
 |-
-| style="text-align: center; "|Bookshelf
+| style="text-align: center; "|Bibliothèque
 | style="text-align: center; "|4
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6705,13 +6726,13 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|676
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|8
 |-
-| style="text-align: center; "|Bookshelf
+| style="text-align: center; "|Bibliothèque
 | style="text-align: center; "|2
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6729,13 +6750,13 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|436
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|9
 |-
-| style="text-align: center; "|Iron Ingot
+| style="text-align: center; "|Lingot de fer
 | style="text-align: center; "|18
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6749,10 +6770,10 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|6
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|30
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6766,10 +6787,10 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|35
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|4
 |}
 
@@ -6784,10 +6805,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|8
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|2
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6801,7 +6822,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|110
 |}
 
@@ -6812,7 +6833,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|5
 |}
 
@@ -6823,10 +6844,10 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|40
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|24
 |}
 
@@ -6852,10 +6873,10 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|60
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|3
 |}
 
@@ -6866,10 +6887,10 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|68
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|27
 |}
 
@@ -6880,7 +6901,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|6
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6931,7 +6952,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|137
 |}
 
@@ -6942,10 +6963,10 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|54
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|6
 |}
 
@@ -6956,7 +6977,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|193
 |}
 
@@ -6967,7 +6988,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|6
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -6981,10 +7002,10 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|187
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|69
 |}
 
@@ -6999,7 +7020,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|14
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7013,7 +7034,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|136
 |}
 
@@ -7024,10 +7045,10 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|564
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|39
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7068,7 +7089,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|3
 |}
 
@@ -7079,7 +7100,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|54
 |}
 
@@ -7090,7 +7111,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|6
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7104,10 +7125,10 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|45
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|12
 |}
 
@@ -7141,7 +7162,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|3
 |}
 
@@ -7152,7 +7173,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|54
 |}
 
@@ -7163,7 +7184,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|6
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7177,10 +7198,10 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|36
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|21
 |}
 
@@ -7195,13 +7216,13 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|620
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|5
 |-
-| style="text-align: center; "|Iron Ingot
+| style="text-align: center; "|Lingot de fer
 | style="text-align: center; "|18
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7215,7 +7236,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|6
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7255,10 +7276,10 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|6
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|500
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7272,7 +7293,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|434
 |}
 
@@ -7283,7 +7304,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|143
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7297,7 +7318,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|1278
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7311,7 +7332,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|436
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7325,7 +7346,7 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|162
 |}
 
@@ -7336,10 +7357,10 @@ Upgrade 8
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|162
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|202
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7353,7 +7374,7 @@ Upgrade 9
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Tapisserie normande
+| style="text-align: center; "|
 | style="text-align: center; "|5
 |}
 
@@ -7368,10 +7389,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|3
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|23
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7389,10 +7410,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|3
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|23
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7450,10 +7471,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|422
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|10
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7467,7 +7488,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|6
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7496,7 +7517,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|61
 |}
 
@@ -7507,7 +7528,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|5
 |}
 
@@ -7518,10 +7539,10 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|31
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|20
 |}
 
@@ -7547,7 +7568,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|81
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7561,13 +7582,13 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|64
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|236
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|20
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7592,13 +7613,13 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|12
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|198
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|9
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7612,10 +7633,10 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|256
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|6
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7629,7 +7650,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|274
 |}
 
@@ -7640,7 +7661,7 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|377
 |}
 
@@ -7651,7 +7672,7 @@ Upgrade 8
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|566
 |}
 
@@ -7662,7 +7683,7 @@ Upgrade 9
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|3
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7691,7 +7712,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|66
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7705,7 +7726,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|3
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7719,7 +7740,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|8
 |}
 
@@ -7730,7 +7751,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|9
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7744,7 +7765,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|3
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7758,13 +7779,13 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|462
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|74
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|54
 |}
 
@@ -7802,7 +7823,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|7
 |}
 
@@ -7813,7 +7834,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|54
 |}
 
@@ -7824,7 +7845,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|6
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7838,10 +7859,10 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|31
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|16
 |}
 
@@ -7875,7 +7896,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|6
 |}
 
@@ -7886,7 +7907,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|42
 |}
 
@@ -7897,7 +7918,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|6
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7911,10 +7932,10 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|45
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|22
 |}
 
@@ -7951,10 +7972,10 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|72
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|8
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7968,10 +7989,10 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|84
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|9
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -7985,10 +8006,10 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|104
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|396
 |}
 
@@ -7999,7 +8020,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|480
 |}
 
@@ -8010,7 +8031,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|528
 |}
 
@@ -8021,7 +8042,7 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|3
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8039,7 +8060,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|14
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8053,16 +8074,16 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|3
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|62
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|5
 |-
-| style="text-align: center; "|Red Wool
+| style="text-align: center; "|Laine rouge
 | style="text-align: center; "|11
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8076,13 +8097,13 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|3
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|62
 |-
-| style="text-align: center; "|Blue Wool
+| style="text-align: center; "|Laine bleue
 | style="text-align: center; "|7
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8096,10 +8117,10 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|158
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|26
 |}
 
@@ -8136,7 +8157,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|12
 |}
 
@@ -8147,7 +8168,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|122
 |}
 
@@ -8158,7 +8179,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|6
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8172,10 +8193,10 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|104
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|32
 |}
 
@@ -8190,16 +8211,16 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|9
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|3001
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|56
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|30
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8239,10 +8260,10 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|6
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|500
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8256,7 +8277,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|434
 |}
 
@@ -8267,7 +8288,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|143
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8281,7 +8302,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|1278
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8295,7 +8316,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|436
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8309,7 +8330,7 @@ Upgrade 7
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|162
 |}
 
@@ -8320,10 +8341,10 @@ Upgrade 8
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|162
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|202
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8371,16 +8392,16 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|3
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|50
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|923
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|12
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8413,19 +8434,19 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|3
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|66
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|8
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|23
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|28
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8443,10 +8464,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|422
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|10
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8460,10 +8481,10 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|177
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|6
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8477,7 +8498,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|3
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8506,7 +8527,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|16
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8520,7 +8541,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|46
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8534,10 +8555,10 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|161
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|7
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8551,7 +8572,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|135
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8565,7 +8586,7 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|6
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8579,7 +8600,7 @@ Upgrade 6
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|231
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8619,7 +8640,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|7
 |}
 
@@ -8630,7 +8651,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|54
 |}
 
@@ -8641,7 +8662,7 @@ Upgrade 4
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|6
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8655,10 +8676,10 @@ Upgrade 5
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|48
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|40
 |}
 
@@ -8673,7 +8694,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|6
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8687,7 +8708,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|42
 |}
 
@@ -8698,10 +8719,10 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|2
 |-
-| style="text-align: center; "|Iron Ingot
+| style="text-align: center; "|Lingot de fer
 | style="text-align: center; "|18
 |}
 
@@ -8712,10 +8733,10 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|46
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|37
 |}
 
@@ -8741,7 +8762,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|256
 |}
 
@@ -8752,10 +8773,10 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|256
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|13
 |}
 
@@ -8766,7 +8787,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|3
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8795,7 +8816,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|43
 |}
 
@@ -8821,7 +8842,7 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|79
 |}
 
@@ -8832,7 +8853,7 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|79
 |}
 
@@ -8847,7 +8868,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|156
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8891,28 +8912,28 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|3
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|824
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|32
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|24
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|21
 |-
-| style="text-align: center; "|Colombages
+| style="text-align: center; "|
 | style="text-align: center; "|60
 |-
-| style="text-align: center; "|Bookshelf
+| style="text-align: center; "|Bibliothèque
 | style="text-align: center; "|26
 |-
-| style="text-align: center; "|Colombages à croix
+| style="text-align: center; "|
 | style="text-align: center; "|16
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8930,13 +8951,13 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Iron Bars
+| style="text-align: center; "|Barreaux en fer
 | style="text-align: center; "|29
 |-
 | style="text-align: center; "|Bedrock
 | style="text-align: center; "|765
 |-
-| style="text-align: center; "|Glowstone
+| style="text-align: center; "|Pierre luisante
 | style="text-align: center; "|61
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -8954,49 +8975,49 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|315
 |-
-| style="text-align: center; "|Iron Bars
+| style="text-align: center; "|Barreaux en fer
 | style="text-align: center; "|68
 |-
 | style="text-align: center; "|Bedrock
 | style="text-align: center; "|4863
 |-
-| style="text-align: center; "|Button
+| style="text-align: center; "|Bouton
 | style="text-align: center; "|1
 |-
-| style="text-align: center; "|Lava
+| style="text-align: center; "|Lave
 | style="text-align: center; "|34
 |-
-| style="text-align: center; "|Gravel
+| style="text-align: center; "|Graviers
 | style="text-align: center; "|1
 |-
-| style="text-align: center; "|Redstone Ore
+| style="text-align: center; "|Minerai de Rougepierre
 | style="text-align: center; "|1
 |-
-| style="text-align: center; "|Gold Ore
+| style="text-align: center; "|Minerai d'or
 | style="text-align: center; "|1
 |-
-| style="text-align: center; "|Iron Ore
+| style="text-align: center; "|Minerai de fer
 | style="text-align: center; "|1
 |-
-| style="text-align: center; "|Coal Ore
+| style="text-align: center; "|Minerai de charbon
 | style="text-align: center; "|1
 |-
-| style="text-align: center; "|Lapis Lazuli Ore
+| style="text-align: center; "|Minerai de Lapis-Lazuli
 | style="text-align: center; "|1
 |-
-| style="text-align: center; "|Redstone Dust
+| style="text-align: center; "|Poudre de Rougepierre
 | style="text-align: center; "|5
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|13
 |-
-| style="text-align: center; "|Diamond Ore
+| style="text-align: center; "|Minerai de diamant
 | style="text-align: center; "|1
 |-
-| style="text-align: center; "|Glowstone
+| style="text-align: center; "|Pierre luisante
 | style="text-align: center; "|146
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -9014,14 +9035,38 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wood
+| style="text-align: center; "|Bois
 | style="text-align: center; "|12
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|36
 |-
 | style="text-align: center; "|Bois (pour planches)
 | style="text-align: center; "|103
+|}
+
+
+Tour des bandits
+bandittower
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pastèque
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Laine
+| style="text-align: center; "|12
+|-
+| style="text-align: center; "|Pierre
+| style="text-align: center; "|334
+|-
+| style="text-align: center; "|Bois (pour planches)
+| style="text-align: center; "|52
 |}
 
 
@@ -9035,7 +9080,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Laine
 | style="text-align: center; "|9
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -9049,10 +9094,10 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|174
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|5
 |}
 
@@ -9063,10 +9108,10 @@ Upgrade 2
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|365
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|10
 |}
 
@@ -9077,7 +9122,7 @@ Upgrade 3
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|132
 |}
 
@@ -9092,10 +9137,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wood
+| style="text-align: center; "|Bois
 | style="text-align: center; "|59
 |-
-| style="text-align: center; "|Wood
+| style="text-align: center; "|Bois
 | style="text-align: center; "|16
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -9113,7 +9158,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Wood
+| style="text-align: center; "|Bois
 | style="text-align: center; "|96
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -9131,7 +9176,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|31
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -9149,22 +9194,22 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|12519
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|56
 |-
-| style="text-align: center; "|Lapis Lazuli Block
+| style="text-align: center; "|Bloc de Lapis-Lazuli
 | style="text-align: center; "|54
 |-
-| style="text-align: center; "|Glass
+| style="text-align: center; "|Verre
 | style="text-align: center; "|30
 |-
-| style="text-align: center; "|Block of Gold
+| style="text-align: center; "|Bloc d'or
 | style="text-align: center; "|142
 |-
-| style="text-align: center; "|Iron Ingot
+| style="text-align: center; "|Lingot de fer
 | style="text-align: center; "|9180
 |-
 | style="text-align: center; "|Bois (pour planches)
@@ -9182,10 +9227,10 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Stone
+| style="text-align: center; "|Pierre
 | style="text-align: center; "|352
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Galets
 | style="text-align: center; "|16
 |-
 | style="text-align: center; "|Bois (pour planches)

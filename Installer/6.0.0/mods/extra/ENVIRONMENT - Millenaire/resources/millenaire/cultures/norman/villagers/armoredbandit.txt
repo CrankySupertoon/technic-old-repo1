@@ -1,0 +1,23 @@
+native_name=Bandit en armure
+gender=male
+familyNameList=family_names
+firstNameList=men_names
+tag=heavydrinker
+tag=hostile
+
+texture=/mob/norman/ML_Armoredbandit0.png
+texture=/mob/norman/ML_Armoredbandit1.png
+
+goal=gorest
+goal=goDrink
+goal=getTool
+goal=patrol
+goal=huntmonster
+
+toolNeeded=normanBroadsword
+
+baseAttackStrength=15
+health=30
+tag=helpInAttacks
+defaultweapon=steelSword
+experiencegiven=30

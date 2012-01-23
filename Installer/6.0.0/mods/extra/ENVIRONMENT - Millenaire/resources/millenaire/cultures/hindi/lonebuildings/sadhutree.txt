@@ -1,10 +1,9 @@
 name:Sadhu ke Peer
-weight:1000
+weight:5
 radius:10
 biome:forest
-requiredtag:sadhu_intro
 max:1
-keyLoneBuilding:true
+keyLoneBuildingTag:sadhu_intro
 
 //starting buildings:
 centre:sadhutree
